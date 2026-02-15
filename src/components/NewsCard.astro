@@ -1,0 +1,43 @@
+---
+interface Props {
+  title: string;
+  link: string;
+  source: string;
+  category: string;
+  date: string;
+  summary: string;
+}
+
+const { title, link, source, category, date, summary } = Astro.props;
+
+const categoryColors: Record<string, string> = {
+  regulatory: 'bg-amber-100 text-amber-800',
+  research: 'bg-purple-100 text-purple-800',
+  industry: 'bg-blue-100 text-blue-800',
+};
+
+const colorClass = categoryColors[category] ?? 'bg-gray-100 text-gray-800';
+
+const relativeDate = new Intl.DateTimeFormat('en-US', {
+  month: 'short',
+  day: 'numeric',
+}).format(new Date(date));
+---
+
+<article class="flex flex-col rounded-lg border border-gray-200 bg-white p-5 transition-shadow hover:shadow-md" data-category={category}>
+  <div class="flex flex-wrap items-center gap-2 text-xs">
+    <span class={`inline-block rounded-full px-2.5 py-0.5 font-medium ${colorClass}`}>
+      {category}
+    </span>
+    <span class="text-gray-400">&middot;</span>
+    <span class="font-medium text-gray-500">{source}</span>
+    <span class="text-gray-400">&middot;</span>
+    <time datetime={date} class="text-gray-400">{relativeDate}</time>
+  </div>
+  <h3 class="mt-2 text-base font-semibold leading-snug text-gray-900">
+    <a href={link} target="_blank" rel="noopener noreferrer" class="hover:text-primary">
+      {title}
+    </a>
+  </h3>
+  {summary && <p class="mt-2 line-clamp-3 text-sm text-gray-600">{summary}</p>}
+</article>

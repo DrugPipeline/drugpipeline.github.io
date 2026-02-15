@@ -1,0 +1,84 @@
+---
+const navLinks = [
+  { href: '/news', label: 'News' },
+  { href: '/insights', label: 'Insights' },
+  { href: '/career', label: 'Career' },
+  { href: '/podcast', label: 'Podcast' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="border-b border-gray-200 bg-white">
+  <div class="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
+    <a href="/" class="text-xl font-bold text-primary">
+      DrugPipeline
+    </a>
+
+    {/* Desktop nav */}
+    <nav class="hidden gap-6 md:flex" aria-label="Main navigation">
+      {navLinks.map(({ href, label }) => (
+        <a
+          href={href}
+          class:list={[
+            'text-sm font-medium transition-colors hover:text-primary',
+            currentPath.startsWith(href) ? 'text-primary' : 'text-gray-600',
+          ]}
+        >
+          {label}
+        </a>
+      ))}
+    </nav>
+
+    {/* Mobile menu button */}
+    <button
+      type="button"
+      id="mobile-menu-btn"
+      class="inline-flex items-center justify-center rounded-md p-2 text-gray-600 hover:bg-gray-100 hover:text-primary md:hidden"
+      aria-expanded="false"
+      aria-controls="mobile-menu"
+      aria-label="Toggle navigation menu"
+    >
+      <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor">
+        <path id="menu-icon" stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+        <path id="close-icon" class="hidden" stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
+
+  {/* Mobile nav */}
+  <nav
+    id="mobile-menu"
+    class="hidden border-t border-gray-200 md:hidden"
+    aria-label="Mobile navigation"
+  >
+    <div class="space-y-1 px-4 py-3">
+      {navLinks.map(({ href, label }) => (
+        <a
+          href={href}
+          class:list={[
+            'block rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-100 hover:text-primary',
+            currentPath.startsWith(href) ? 'bg-gray-100 text-primary' : 'text-gray-600',
+          ]}
+        >
+          {label}
+        </a>
+      ))}
+    </div>
+  </nav>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn')!;
+  const menu = document.getElementById('mobile-menu')!;
+  const menuIcon = document.getElementById('menu-icon')!;
+  const closeIcon = document.getElementById('close-icon')!;
+
+  btn.addEventListener('click', () => {
+    const expanded = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', String(!expanded));
+    menu.classList.toggle('hidden');
+    menuIcon.classList.toggle('hidden');
+    closeIcon.classList.toggle('hidden');
+  });
+</script>
