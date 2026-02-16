@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Medicare Advantage growth dwindles for a second straight year",
+    "link": "https://www.statnews.com/2026/02/16/medicare-advantage-membership-growth-2026-unitedhealth-humana-aetna/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-16T17:18:36.000Z",
+    "summary": "Amid major changes to Medicare Advantage, some big insurers have been working to shrink their rolls."
+  },
+  {
     "title": "STAT+: Breakup between Brigham and Dana-Farber is getting messier fast",
     "link": "https://www.statnews.com/2026/02/16/breakup-between-brigham-and-dana-farber-is-getting-messier-fast/?utm_campaign=rss",
     "source": "STAT News",
@@ -22,6 +30,22 @@
     "category": "industry",
     "date": "2026-02-16T00:36:28.000Z",
     "summary": "Kennedy and his MAHA allies are increasingly focused on food issues as the midterms approach."
+  },
+  {
+    "title": "Therapeutic targeting of neuroimmune mechanisms in neurodegeneration",
+    "link": "https://www.nature.com/articles/s41573-025-01370-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-16T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "TIGIT’s immuno-oncology teachings",
+    "link": "https://www.nature.com/articles/d41573-026-00031-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-16T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Exit of CDC’s acting director highlights agency’s lack of leader",
@@ -112,6 +136,14 @@
     "summary": "Pharmacy kiosks can expand access and convenience, but only when paired with pharmacist-led safeguards that ensure safe and coordinated medication use."
   },
   {
+    "title": "Approvals by the China NMPA in 2025",
+    "link": "https://www.nature.com/articles/d41573-026-00028-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-13T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Moderna’s president weighs in on FDA’s decision not to review its flu vaccine",
     "link": "https://www.statnews.com/2026/02/12/moderna-stephen-hoge-interview-flu-vaccine/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,14 +192,6 @@
     "summary": "The U.S. Food and Drug Administration has approved drug labeling changes to six menopausal hormone therapy products, also known as hormone replacement therapy (HRT), to clarify risk considerations…"
   },
   {
-    "title": "STAT+: NIH redefines ‘clinical trials,’ dividing researchers",
-    "link": "https://www.statnews.com/pharmalot/2026/02/12/nih-clinical-trial-definition-research-transparency/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-12T15:59:47.000Z",
-    "summary": "In a long-debated move, the NIH will no longer characterize basic experimental studies involving humans as clinical trials."
-  },
-  {
     "title": "FDA Approves First-of-Its-Kind Device to Treat Pancreatic Cancer",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-device-treat-pancreatic-cancer",
     "source": "FDA Press Releases",
@@ -176,11 +200,43 @@
     "summary": "The U.S. Food and Drug Administration has approved a first-of-its-kind device for the treatment of adult patients with locally advanced pancreatic cancer."
   },
   {
+    "title": "PD1 blockers work best when used in the morning, suggests cancer chronotherapy trial",
+    "link": "https://www.nature.com/articles/d41573-026-00025-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-11T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "2025’s FDA approvals by regulatory designations",
+    "link": "https://www.nature.com/articles/d41573-026-00026-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-11T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "GSK pays US$2 billion for prophylactic food allergen antibody",
+    "link": "https://www.nature.com/articles/d41573-026-00024-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-11T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "FDA Launches Assessment of BHA, a Common Food Chemical Preservative",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-assessment-bha-common-food-chemical-preservative",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-02-10T14:13:25.000Z",
     "summary": "The U.S. Food and Drug Administration today launched a comprehensive re-assessment of butylated hydroxyanisole (BHA), a chemical preservative used in food."
+  },
+  {
+    "title": "Unlocking the potential of disease prevention through regulatory science",
+    "link": "https://www.nature.com/articles/d41573-026-00016-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-10T00:00:00.000Z",
+    "summary": ""
   }
 ]
