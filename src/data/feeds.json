@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: Breakup between Brigham and Dana-Farber is getting messier fast",
+    "link": "https://www.statnews.com/2026/02/16/breakup-between-brigham-and-dana-farber-is-getting-messier-fast/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-16T12:00:00.000Z",
+    "summary": "What does it feel like to live in a house where your parents are getting divorced? Just ask some of the staff at Dana-Farber Cancer Institute."
+  },
+  {
+    "title": "Opinion: How public health saved the CDC Injury Center",
+    "link": "https://www.statnews.com/2026/02/16/cdc-injury-center-saved-campaign-safe-states/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-16T12:00:00.000Z",
+    "summary": "In a time of uncertainty, the public health campaign to save the CDC Injury Center offers important lessons — and hope."
+  },
+  {
     "title": "STAT+: Kennedy says he’ll act on legal challenge to ultra-processed foods",
     "link": "https://www.statnews.com/2026/02/15/kennedy-maha-challanges-ultraprocesssed-food-not-safe-fda-gras/?utm_campaign=rss",
     "source": "STAT News",
@@ -96,14 +112,6 @@
     "summary": "Pharmacy kiosks can expand access and convenience, but only when paired with pharmacist-led safeguards that ensure safe and coordinated medication use."
   },
   {
-    "title": "Approvals by the China NMPA in 2025",
-    "link": "https://www.nature.com/articles/d41573-026-00028-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-13T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "STAT+: Moderna’s president weighs in on FDA’s decision not to review its flu vaccine",
     "link": "https://www.statnews.com/2026/02/12/moderna-stephen-hoge-interview-flu-vaccine/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,22 +168,6 @@
     "summary": "In a long-debated move, the NIH will no longer characterize basic experimental studies involving humans as clinical trials."
   },
   {
-    "title": "STAT+: A change at the top of Sanofi",
-    "link": "https://www.statnews.com/2026/02/12/biotech-news-sanofi-ceo-paul-hudson-out/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-12T14:31:59.000Z",
-    "summary": "And other biotech news brought to you by The Readout newsletter"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Sanofi replacing its CEO, MFN drug pricing opposed by conservatives, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/02/12/trump-sanofi-abbvie-novo-lilly-gsk-teva-merck-bristol/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-12T14:25:06.000Z",
-    "summary": "And other pharma news from the Pharmalot campus via the Pharmalittle newsletter"
-  },
-  {
     "title": "FDA Approves First-of-Its-Kind Device to Treat Pancreatic Cancer",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-device-treat-pancreatic-cancer",
     "source": "FDA Press Releases",
@@ -184,43 +176,11 @@
     "summary": "The U.S. Food and Drug Administration has approved a first-of-its-kind device for the treatment of adult patients with locally advanced pancreatic cancer."
   },
   {
-    "title": "PD1 blockers work best when used in the morning, suggests cancer chronotherapy trial",
-    "link": "https://www.nature.com/articles/d41573-026-00025-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "2025’s FDA approvals by regulatory designations",
-    "link": "https://www.nature.com/articles/d41573-026-00026-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "GSK pays US$2 billion for prophylactic food allergen antibody",
-    "link": "https://www.nature.com/articles/d41573-026-00024-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Launches Assessment of BHA, a Common Food Chemical Preservative",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-assessment-bha-common-food-chemical-preservative",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-02-10T14:13:25.000Z",
     "summary": "The U.S. Food and Drug Administration today launched a comprehensive re-assessment of butylated hydroxyanisole (BHA), a chemical preservative used in food."
-  },
-  {
-    "title": "Unlocking the potential of disease prevention through regulatory science",
-    "link": "https://www.nature.com/articles/d41573-026-00016-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-10T00:00:00.000Z",
-    "summary": ""
   }
 ]
