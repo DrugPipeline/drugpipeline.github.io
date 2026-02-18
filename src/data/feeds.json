@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: At drugmakers’ forum, Oz gets a friendly embrace, while Makary faces tough questions",
+    "link": "https://www.statnews.com/2026/02/17/pharma-forum-highlights-industry-divide-oz-makary/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-17T23:28:45.000Z",
+    "summary": "Two of health secretary Robert F. Kennedy Jr.’s top lieutenants struck decidedly different tones at a forum held Tuesday by the pharmaceutical industry group PhRMA."
+  },
+  {
+    "title": "Bayer agrees to $7.25 billion proposed settlement over thousands of Roundup cancer lawsuits",
+    "link": "https://www.statnews.com/2026/02/17/bayer-settlement-lawsuits-roundup-weedkiller-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-17T21:17:53.000Z",
+    "summary": "Bayer has agreed to $7.25 billion proposed settlement over thousands of lawsuits alleging the company failed to warn people that its popular weedkiller Roundup could cause cancer."
+  },
+  {
     "title": "STAT+: A shakeup at HHS, a toast to bipartisanship, and a cheese poof war",
     "link": "https://www.statnews.com/2026/02/17/health-policy-news-who-is-leading-the-cdc/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,22 +176,6 @@
     "summary": "After a day of oral arguments in a packed courtroom, a Boston federal judge did not rule from the bench on a lawsuit from AAP against HHS focused on vaccines."
   },
   {
-    "title": "STAT+: FDA rejects rare disease therapy from Disc Medicine, early recipient of commissioner’s voucher",
-    "link": "https://www.statnews.com/2026/02/13/disc-medicine-fda-decision/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-13T20:29:19.000Z",
-    "summary": "The FDA has rejected a rare disease therapy from Disc Medicine, an early recipient of a commissioner's voucher from the agency."
-  },
-  {
-    "title": "Major shakeup underway at HHS as White House braces for midterms",
-    "link": "https://www.statnews.com/2026/02/13/hhs-leadership-changes-rfk-jr-hhs-midterm-elections/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-13T20:13:55.000Z",
-    "summary": "Several senior officials are exiting RFK Jr.'s department amid an effort to focus on drug pricing and food issues."
-  },
-  {
     "title": "Approvals by the China NMPA in 2025",
     "link": "https://www.nature.com/articles/d41573-026-00028-2",
     "source": "Nature Reviews Drug Discovery",
@@ -198,29 +198,5 @@
     "category": "regulatory",
     "date": "2026-02-12T13:33:59.000Z",
     "summary": "The U.S. Food and Drug Administration has approved a first-of-its-kind device for the treatment of adult patients with locally advanced pancreatic cancer."
-  },
-  {
-    "title": "PD1 blockers work best when used in the morning, suggests cancer chronotherapy trial",
-    "link": "https://www.nature.com/articles/d41573-026-00025-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "2025’s FDA approvals by regulatory designations",
-    "link": "https://www.nature.com/articles/d41573-026-00026-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "GSK pays US$2 billion for prophylactic food allergen antibody",
-    "link": "https://www.nature.com/articles/d41573-026-00024-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-11T00:00:00.000Z",
-    "summary": ""
   }
 ]
