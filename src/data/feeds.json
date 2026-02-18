@@ -1,5 +1,61 @@
 [
   {
+    "title": "Proposed $7.25B settlement to resolve weedkiller cancer lawsuits",
+    "link": "https://www.statnews.com/2026/02/18/health-news-roundup-weedkiller-cancer-lawsuit/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-18T12:58:06.000Z",
+    "summary": "And other health news from the Morning Rounds newsletter"
+  },
+  {
+    "title": "STAT+: FDA reverses course, agrees to review Moderna’s flu vaccine",
+    "link": "https://www.statnews.com/2026/02/18/fda-moderna-reverse-course-flu-vaccine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-18T12:29:42.000Z",
+    "summary": "The FDA reversed course and told Moderna it would review its application for a new flu vaccine, the company announced Wednesday."
+  },
+  {
+    "title": "STAT+: Biotech startup raises $175 million to advance Alzheimer’s antibody therapy",
+    "link": "https://www.statnews.com/2026/02/18/korsana-biosciences-alzheimers-brain-shuttles/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-18T11:00:00.000Z",
+    "summary": "Is there room for more Alzheimer’s antibody therapies on the market? Korsana Biosciences' investors think so."
+  },
+  {
+    "title": "Opinion: I was a Moderna exec when the Covid vaccine rolled out. That spirit of possibility is no more",
+    "link": "https://www.statnews.com/2026/02/18/moderna-mrna-flu-vaccine-trust-regulatory-uncertainty/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-18T09:30:00.000Z",
+    "summary": "“The pharmaceutical industry is not the enemy,” writes Richard Hughes IV, who was Moderna’s VP for public policy when the Covid vaccine rolled out."
+  },
+  {
+    "title": "STAT+: As oncologists ponder how to integrate AI-powered cancer tools, products are hitting the market",
+    "link": "https://www.statnews.com/2026/02/18/ai-powered-cancer-tools-new-digital-pathology-valar-labs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-18T09:30:00.000Z",
+    "summary": "Oncologists say there is promise in new AI tools that can guide them when choosing between two plausible treatments."
+  },
+  {
+    "title": "Opinion: Same blood test, different results:  Why isn’t this common thyroid screening reliable?",
+    "link": "https://www.statnews.com/2026/02/18/tsh-thyroid-stimulating-hormone-blood-test-pituitary-labs-standardized-assay/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-18T09:30:00.000Z",
+    "summary": "Researchers have known for decades that different brands of lab machines produce different results. The fix is easy — but not enforced."
+  },
+  {
+    "title": "PIP4K2C: an emerging fulcrum for multiple diseases",
+    "link": "https://www.nature.com/articles/d41573-026-00030-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-18T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: At drugmakers’ forum, Oz gets a friendly embrace, while Makary faces tough questions",
     "link": "https://www.statnews.com/2026/02/17/pharma-forum-highlights-industry-divide-oz-makary/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,6 +86,22 @@
     "category": "industry",
     "date": "2026-02-17T18:29:05.000Z",
     "summary": "This is the online version of the essential and fabulous Health Care Inc. newsletter"
+  },
+  {
+    "title": "Compass, with Phase 3 hits, ready to take psilocybin to the FDA",
+    "link": "https://www.biopharmadive.com/news/compass-trial-data-fda-application-psilocybin-psychedelics/812332/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-17T16:53:15.000Z",
+    "summary": "The company plans to meet with the FDA to discuss a rolling approval application for “COMP360,” a synthetic form of psilocybin that could become the first “classic” psychedelic cleared for the U.S.…"
+  },
+  {
+    "title": "Ocular claims a win with eye drug data even as shares sink",
+    "link": "https://www.biopharmadive.com/news/ocular-therapeutix-succeeded-phase-3-eye-drug-data-axpaxli-eylea/812329/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-17T16:07:37.000Z",
+    "summary": "Investors were looking for a greater difference between Ocular’s experimental medicine and a low-dose version of Eylea, analysts said."
   },
   {
     "title": "STAT+: Does Medicare’s ACCESS model pay enough?",
@@ -80,6 +152,22 @@
     "summary": "COMP360 could be the first psilocybin-based medicine to win approval."
   },
   {
+    "title": "Selecting the optimal cell therapy manufacturing platform",
+    "link": "https://www.biopharmadive.com/spons/selecting-the-optimal-cell-therapy-manufacturing-platform/812042/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-17T10:00:00.000Z",
+    "summary": "Navigating modular vs. integrated platforms—find the best path for your cell therapy program."
+  },
+  {
+    "title": "How to evaluate prospective diagnostic laboratory partners for your patient support program",
+    "link": "https://www.biopharmadive.com/spons/how-to-evaluate-prospective-diagnostic-laboratory-partners-for-your-patient/810447/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-17T10:00:00.000Z",
+    "summary": "As specialty medicines account for an increasing share of the drug pipeline, it makes sense for sponsors to support patients financially, emotionally and logistically."
+  },
+  {
     "title": "STAT+: As China’s drug industry races ahead, its GLP-1 race is accelerating too",
     "link": "https://www.statnews.com/2026/02/17/china-drug-industry-biotech-glp1/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,38 +200,6 @@
     "summary": "If IV opioids are in short supply, who gets pain relief — a teenager in agony with a crushed leg or an 80-year-old dying from cancer?"
   },
   {
-    "title": "STAT+: Medicare Advantage growth dwindles for a second straight year",
-    "link": "https://www.statnews.com/2026/02/16/medicare-advantage-membership-growth-2026-unitedhealth-humana-aetna/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-16T17:18:36.000Z",
-    "summary": "Amid major changes to Medicare Advantage, some big insurers have been working to shrink their rolls."
-  },
-  {
-    "title": "STAT+: Breakup between Brigham and Dana-Farber is getting messier fast",
-    "link": "https://www.statnews.com/2026/02/16/breakup-between-brigham-and-dana-farber-is-getting-messier-fast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-16T12:00:00.000Z",
-    "summary": "What does it feel like to live in a house where your parents are getting divorced? Just ask some of the staff at Dana-Farber Cancer Institute."
-  },
-  {
-    "title": "Opinion: How public health saved the CDC Injury Center",
-    "link": "https://www.statnews.com/2026/02/16/cdc-injury-center-saved-campaign-safe-states/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-16T12:00:00.000Z",
-    "summary": "In a time of uncertainty, the public health campaign to save the CDC Injury Center offers important lessons — and hope."
-  },
-  {
-    "title": "STAT+: Kennedy says he’ll act on legal challenge to ultra-processed foods",
-    "link": "https://www.statnews.com/2026/02/15/kennedy-maha-challanges-ultraprocesssed-food-not-safe-fda-gras/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-16T00:36:28.000Z",
-    "summary": "Kennedy and his MAHA allies are increasingly focused on food issues as the midterms approach."
-  },
-  {
     "title": "Therapeutic targeting of neuroimmune mechanisms in neurodegeneration",
     "link": "https://www.nature.com/articles/s41573-025-01370-7",
     "source": "Nature Reviews Drug Discovery",
@@ -160,20 +216,52 @@
     "summary": ""
   },
   {
-    "title": "STAT+: Exit of CDC’s acting director highlights agency’s lack of leader",
-    "link": "https://www.statnews.com/2026/02/15/cdc-lacks-director-jim-oneill-susan-monarez/?utm_campaign=rss",
-    "source": "STAT News",
+    "title": "Vertex’s CRISPR therapy rebounds in latest earnings",
+    "link": "https://www.biopharmadive.com/news/vertex-earnings-casgevy-q4-2025/812243/",
+    "source": "BioPharma Dive",
     "category": "industry",
-    "date": "2026-02-15T16:53:28.000Z",
-    "summary": "The lack of a Senate-confirmed leader is deepening the turmoil at the CDC."
+    "date": "2026-02-13T18:00:21.000Z",
+    "summary": "Sales of Casgevy, a gene-edited treatment developed with CRISPR Therapeutics, more than tripled compared to the third quarter, a performance analysts saw as a bright spot in Vertex's report."
   },
   {
-    "title": "STAT+: In court, AAP argues Kennedy’s HHS made unlawful changes to vaccine policies",
-    "link": "https://www.statnews.com/2026/02/13/rfk-jr-vaccine-lawsuit-pediatricians-challenge-acip-policy-changes/?utm_campaign=rss",
-    "source": "STAT News",
+    "title": "Lyell starts first-of-its-kind CAR-T trial; New coalition aims to boost European biotechs",
+    "link": "https://www.biopharmadive.com/news/lyell-trial-biotech-europe-biogen-novocure-optum/812059/",
+    "source": "BioPharma Dive",
     "category": "industry",
-    "date": "2026-02-13T22:47:48.000Z",
-    "summary": "After a day of oral arguments in a packed courtroom, a Boston federal judge did not rule from the bench on a lawsuit from AAP against HHS focused on vaccines."
+    "date": "2026-02-13T16:00:00.000Z",
+    "summary": "Lyell’s trial will test its experimental cancer cell therapy directly against marketed counterparts. Elsewhere, Biogen swapped board chairs and venture firms are joining up at a “pivotal time” for…"
+  },
+  {
+    "title": "FDA removes box warnings for 6 menopausal therapies",
+    "link": "https://www.biopharmadive.com/news/fda-removes-box-warning-six-menopausal-therapies-hrt/812146/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-13T15:16:12.000Z",
+    "summary": "The FDA has lifted longstanding and the most severe warnings off of hormone replacement therapies for menopausal women."
+  },
+  {
+    "title": "Ultragenyx cuts jobs as it seeks path to profit in 2027",
+    "link": "https://www.biopharmadive.com/news/ultragenyx-cuts-jobs-profitability-earnings-2025-gene-therapy/812204/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-13T15:08:12.000Z",
+    "summary": "Another FDA knockback for a gene therapy has investors and analysts redrawing expectations for the rare disease drug developer."
+  },
+  {
+    "title": "Moderna shares jump as company affirms growth outlook",
+    "link": "https://www.biopharmadive.com/news/moderna-fourth-quarter-2025-financial-earnings/812211/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-13T14:22:39.000Z",
+    "summary": "The mRNA specialist reiterated its financial estimates for 2026 amid a challenging U.S. regulatory environment where its influenza vaccine just hit a major setback."
+  },
+  {
+    "title": "HHS elevates officials into Kennedy’s inner circle in advance of midterms",
+    "link": "https://www.biopharmadive.com/news/rfk-kennedy-elevates-counselors-hhs-midterms/812301/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-13T13:38:06.000Z",
+    "summary": "The HHS secretary has four new senior advisors to help him “move faster and go further” on his Make America Healthy Again agenda."
   },
   {
     "title": "Approvals by the China NMPA in 2025",
