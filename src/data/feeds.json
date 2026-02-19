@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: 5 powerful people to know at HHS",
+    "link": "https://www.statnews.com/2026/02/19/powerful-people-at-hhs-oz-talks-with-pharma-dc-diagnosis-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-19T17:13:14.000Z",
+    "summary": "Find out who's on the rise inside RFK Jr.'s federal health department."
+  },
+  {
+    "title": "Altesa, run by former Trump official, raises $75M for well-traveled lung drug",
+    "link": "https://www.biopharmadive.com/news/Altesa-biotech-startup-financing-giroir-vapendavir-copd-lung/812566/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-19T17:06:00.000Z",
+    "summary": "Led by Brett Giroir and GSK’s ex-chief medical officer, Altesa is advancing a medicine that’s changed hands multiple times and once failed a study in asthma."
+  },
+  {
+    "title": "FDA leaders say one pivotal trial, not two, should be ‘default’ for drug approvals",
+    "link": "https://www.biopharmadive.com/news/fda-makary-prasad0one-pivotal-trial-nejm/812557/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-19T16:20:00.000Z",
+    "summary": "In a NEJM article, Commissioner Martin Makary and top deputy Vinay Prasad argued that the new policy should lower development costs and speed development without compromising agency standards."
+  },
+  {
+    "title": "STAT+: AI-guided cancer treatments, telehealth usage, and other health tech news",
+    "link": "https://www.statnews.com/2026/02/19/ai-guided-cancer-treatment-telehealth-usage-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-19T14:25:49.000Z",
+    "summary": "In this edition of STAT Health Tech: A new wave of AI-guided cancer treatments, a Hims acquisition, and other health tech news."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about the FDA pushing OTC meds, its new trial standards, and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/02/19/fda-otc-trials-jnj-novo-obesity-antibiotics-hims-hiv/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-19T14:08:32.000Z",
+    "summary": "FDA Commissioner Marty Makary said he believes “everything should be over the counter” unless a drug is unsafe, addictive or requires monitoring"
+  },
+  {
     "title": "Does the world need ‘guy-necologists’?",
     "link": "https://www.statnews.com/2026/02/19/health-news-pap-smear-men-fertility-semen-analysis/?utm_campaign=rss",
     "source": "STAT News",
@@ -149,7 +189,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-02-18T14:24:47.000Z",
-    "summary": "Moderna said after a \"Type A\" meeting, the agency agreed to move forward and review its application for the mRNA-based shot."
+    "summary": "In response to a query from BioPharma Dive, an HHS spokesperson said the FDA will “maintain its high standards during drug review and potential licensure stages.”"
   },
   {
     "title": "STAT+: The FDA’s Moderna pirouette is one more sign of chaos at the agency",
@@ -174,30 +214,6 @@
     "category": "industry",
     "date": "2026-02-18T12:29:42.000Z",
     "summary": "The FDA reversed course and told Moderna it would review its application for a new flu vaccine, the company announced Wednesday."
-  },
-  {
-    "title": "STAT+: Biotech startup raises $175 million to advance Alzheimer’s antibody therapy",
-    "link": "https://www.statnews.com/2026/02/18/korsana-biosciences-alzheimers-brain-shuttles/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-18T11:00:00.000Z",
-    "summary": "Is there room for more Alzheimer’s antibody therapies on the market? Korsana Biosciences' investors think so."
-  },
-  {
-    "title": "Opinion: I was a Moderna exec when the Covid vaccine rolled out. That spirit of possibility is no more",
-    "link": "https://www.statnews.com/2026/02/18/moderna-mrna-flu-vaccine-trust-regulatory-uncertainty/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-18T09:30:00.000Z",
-    "summary": "“The pharmaceutical industry is not the enemy,” writes Richard Hughes IV, who was Moderna’s VP for public policy when the Covid vaccine rolled out."
-  },
-  {
-    "title": "STAT+: As oncologists ponder how to integrate AI-powered cancer tools, products are hitting the market",
-    "link": "https://www.statnews.com/2026/02/18/ai-powered-cancer-tools-new-digital-pathology-valar-labs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-18T09:30:00.000Z",
-    "summary": "Oncologists say there is promise in new AI tools that can guide them when choosing between two plausible treatments."
   },
   {
     "title": "PIP4K2C: an emerging fulcrum for multiple diseases",
@@ -232,14 +248,6 @@
     "summary": "Navigating modular vs. integrated platforms—find the best path for your cell therapy program."
   },
   {
-    "title": "How to evaluate prospective diagnostic laboratory partners for your patient support program",
-    "link": "https://www.biopharmadive.com/spons/how-to-evaluate-prospective-diagnostic-laboratory-partners-for-your-patient/810447/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-17T10:00:00.000Z",
-    "summary": "As specialty medicines account for an increasing share of the drug pipeline, it makes sense for sponsors to support patients financially, emotionally and logistically."
-  },
-  {
     "title": "Therapeutic targeting of neuroimmune mechanisms in neurodegeneration",
     "link": "https://www.nature.com/articles/s41573-025-01370-7",
     "source": "Nature Reviews Drug Discovery",
@@ -256,35 +264,11 @@
     "summary": ""
   },
   {
-    "title": "Vertex’s CRISPR therapy rebounds in latest earnings",
-    "link": "https://www.biopharmadive.com/news/vertex-earnings-casgevy-q4-2025/812243/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-13T18:00:21.000Z",
-    "summary": "Sales of Casgevy, a gene-edited treatment developed with CRISPR Therapeutics, more than tripled compared to the third quarter, a performance analysts saw as a bright spot in Vertex's report."
-  },
-  {
     "title": "Approvals by the China NMPA in 2025",
     "link": "https://www.nature.com/articles/d41573-026-00028-2",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-02-13T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves Labeling Changes to Menopausal Hormone Therapy Products",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-labeling-changes-menopausal-hormone-therapy-products",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-02-12T16:17:42.000Z",
-    "summary": "The U.S. Food and Drug Administration has approved drug labeling changes to six menopausal hormone therapy products, also known as hormone replacement therapy (HRT), to clarify risk considerations…"
-  },
-  {
-    "title": "FDA Approves First-of-Its-Kind Device to Treat Pancreatic Cancer",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-device-treat-pancreatic-cancer",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-02-12T13:33:59.000Z",
-    "summary": "The U.S. Food and Drug Administration has approved a first-of-its-kind device for the treatment of adult patients with locally advanced pancreatic cancer."
   }
 ]
