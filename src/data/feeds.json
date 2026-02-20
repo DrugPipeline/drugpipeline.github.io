@@ -1,5 +1,45 @@
 [
   {
+    "title": "Roche gets FDA decision date on closely watched breast cancer drug",
+    "link": "https://www.biopharmadive.com/news/roche-giredestrant-serd-fda-approval-decision-breast-cancer/812695/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-20T17:16:22.000Z",
+    "summary": "The agency could by late December approve a therapy that Roche sees as potentially becoming a new treatment standard for certain breast tumors."
+  },
+  {
+    "title": "Madrigal sees a stock sell-off; ex-Novartis exec heads to Daiichi",
+    "link": "https://www.biopharmadive.com/news/madrigal-earnings-daiichi-tsai-acimmune-alzheimers-novartis-unnatural/812565/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-20T15:23:00.000Z",
+    "summary": "Madrigal shares fell 11% despite again topping consensus sales numbers. Elsewhere, Daiichi Sankyo named a new research chief and J&J halted recruitment in an Alzheimer’s trial."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/02/20/pharma-biotech-jobs-roche-sanofi-daiichi/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-20T14:52:46.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "STAT+: Element Biosciences launches table-top sequencer capable of $100 genome",
+    "link": "https://www.statnews.com/2026/02/20/biotech-news-element-biosciences-100-dollar-genome/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-20T14:32:31.000Z",
+    "summary": "And other biotech news brought to you by The Readout newsletter"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA official’s speech, a Grail cancer blood test, and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/02/20/fda-cancer-antibiotics-kickbacks-otc-patents-covid/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-20T14:26:16.000Z",
+    "summary": "The FDA's top drug regulator indicated in her first address to staff that she will scrutinize antidepressants and shots used to protect babies from RSV"
+  },
+  {
     "title": "ACIP meeting postponed, for reasons that are unclear",
     "link": "https://www.statnews.com/2026/02/20/health-news-acip-meeting-postponed-covid-19/?utm_campaign=rss",
     "source": "STAT News",
@@ -62,6 +102,22 @@
     "category": "industry",
     "date": "2026-02-20T02:04:27.000Z",
     "summary": "The Texas AG has filed a lawsuit accusing Sanofi of providing kickbacks to doctors, in the form of a free network of nurses and insurance support services."
+  },
+  {
+    "title": "Clearing cholesterol combats secondary lymphoedema",
+    "link": "https://www.nature.com/articles/d41573-026-00032-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-20T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The pancreatic cancer drug market",
+    "link": "https://www.nature.com/articles/d41573-026-00027-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-02-20T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Key study of Grail’s cancer detection test fails in setback for company",
@@ -160,30 +216,6 @@
     "summary": "Hims & Hers is buying the Australian telehealth firm Eucalyptus as it looks to make inroads in more countries globally."
   },
   {
-    "title": "STAT+: What to expect from Gossamer Bio’s late-stage lung disease study",
-    "link": "https://www.statnews.com/2026/02/19/gossamer-bio-promis-neurosciences/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-19T11:30:00.000Z",
-    "summary": "Gossamer Bio will be reporting the outcome of a late-stage study in pulmonary arterial hypertension. Here's what to know."
-  },
-  {
-    "title": "STAT+: 5 key people to watch at HHS after Trump’s shake-up",
-    "link": "https://www.statnews.com/2026/02/19/hhs-leadership-shuffle-five-top-officials-to-watch/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-19T09:30:00.000Z",
-    "summary": "HHS has elevated a new team of health policy experts, including a former health IT exec and a Trump administration veteran."
-  },
-  {
-    "title": "Opinion: My biggest GLP-1 ethical problem: patients who don’t want to stop",
-    "link": "https://www.statnews.com/2026/02/19/glp-1-weight-loss-drugs-eating-disorders-doctor/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-19T09:30:00.000Z",
-    "summary": "Some GLP-1 patients are begging to stay on the drugs just a little bit longer, presenting an ethical dilemma for doctors."
-  },
-  {
     "title": "Lilly to pay CSL $100M to license monoclonal antibody targeting IL-6",
     "link": "https://www.biopharmadive.com/news/lilly-deal-csl-100m-license-monoclonal-antibody-targeting-il-6/812455/",
     "source": "BioPharma Dive",
@@ -230,22 +262,6 @@
     "category": "research",
     "date": "2026-02-18T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Compass, with Phase 3 hits, ready to take psilocybin to the FDA",
-    "link": "https://www.biopharmadive.com/news/compass-trial-data-fda-application-psilocybin-psychedelics/812332/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-17T16:53:15.000Z",
-    "summary": "The company plans to meet with the FDA to discuss a rolling approval application for “COMP360,” a synthetic form of psilocybin that could become the first “classic” psychedelic cleared for the U.S.…"
-  },
-  {
-    "title": "Ocular claims a win with eye drug data even as shares sink",
-    "link": "https://www.biopharmadive.com/news/ocular-therapeutix-succeeded-phase-3-eye-drug-data-axpaxli-eylea/812329/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-17T16:07:37.000Z",
-    "summary": "Investors were looking for a greater difference between Ocular’s experimental medicine and a low-dose version of Eylea, analysts said."
   },
   {
     "title": "Therapeutic targeting of neuroimmune mechanisms in neurodegeneration",
