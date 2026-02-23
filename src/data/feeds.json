@@ -1,11 +1,91 @@
 [
   {
+    "title": "Novo’s next-gen obesity shot fails to match Lilly drug in head-to-head study",
+    "link": "https://www.biopharmadive.com/news/novo-nordisk-cagrisema-zepbound-head-to-head-results/812810/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-23T17:22:33.000Z",
+    "summary": "Shares fell by more than 15% on results showing study participants receiving Novo’s CagriSema lost less weight than those who took Lilly’s Zepbound."
+  },
+  {
+    "title": "STAT+: FDA unveils rules for bespoke gene therapies, predicting flood of rare disease applications",
+    "link": "https://www.statnews.com/2026/02/23/fda-rare-disease-new-guidelines-plausible-mechanism-pathway/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-23T16:35:07.000Z",
+    "summary": "The FDA expects a flood of applications for a new \"plausible mechanism pathway\" for approval of bespoke gene-editing treatments."
+  },
+  {
+    "title": "FDA Launches Framework for Accelerating Development of Individualized Therapies for Ultra-Rare Diseases",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-framework-accelerating-development-individualized-therapies-ultra-rare-diseases",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-02-23T16:32:48.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued draft guidance for sponsors seeking approval for targeted individualized therapies by generating substantial evidence of effectiveness and safety…"
+  },
+  {
+    "title": "STAT+: Medicare’s AI ‘modernization’ project, and the Ohio hospital antitrust battle",
+    "link": "https://www.statnews.com/2026/02/23/medicare-ai-modernization-project-ohiohealth-antitrust-battle-health-care-inc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-23T16:18:05.000Z",
+    "summary": "Would you trust AI to help you pick your Medicare plan?"
+  },
+  {
+    "title": "Ralph Abraham, No. 2 official at CDC, abruptly steps down",
+    "link": "https://www.statnews.com/2026/02/23/ralph-abraham-cdc-resigns/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-23T14:58:09.000Z",
+    "summary": "The No. 2 official at the CDC has resigned, adding to the drama and chaos surrounding the agency's leadership."
+  },
+  {
+    "title": "STAT+: Novo’s next-gen obesity drug stumbles in Lilly comparison study",
+    "link": "https://www.statnews.com/2026/02/23/biotech-news-novo-obesity-drug-stumbles-in-lilly-showdown/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-23T14:37:34.000Z",
+    "summary": "And other biotech news brought to you by The Readout"
+  },
+  {
+    "title": "STAT+: People with intellectual and development disabilities have higher rates of anxiety, depression",
+    "link": "https://www.statnews.com/2026/02/23/health-news-anxiety-depression-and-intellectual-disabilities/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-23T14:19:41.000Z",
+    "summary": "And other health news from the Morning Rounds newsletter"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about pharma lobbying, a disappointing Novo clinical trial, and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/02/23/pharma-lobbying-novo-obesity-merck-gilead-tariffs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-23T13:57:18.000Z",
+    "summary": "Pharmaceutical companies are boosting their spending on lobbying firms with connections to the White House"
+  },
+  {
+    "title": "Merck to split cancer, specialty drug businesses in leadership shakeup",
+    "link": "https://www.biopharmadive.com/news/merck-cancer-specialty-split-business-pharmaceuticals/812805/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-23T13:38:28.000Z",
+    "summary": "Ahead of the looming loss of Keytruda’s exclusivity, the company is creating a standalone, cancer-focused unit and a second business housing its other drugs and vaccines."
+  },
+  {
     "title": "STAT+: Gossamer lung disease drug fails late-stage study, but company will still seek FDA approval",
     "link": "https://www.statnews.com/2026/02/23/gossamer-drug-fails-lung-disease-study-will-still-seek-fda-approval/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-02-23T13:00:00.000Z",
     "summary": "Gossamer Bio's drug for pulmonary arterial hypertension failed to achieve the primary endpoint of a Phase 3 clinical trial."
+  },
+  {
+    "title": "Gilead to buy Arcellx in $7.8B wager on multiple myeloma cell therapy",
+    "link": "https://www.biopharmadive.com/news/gilead-arcellx-acquire-multiple-myeloma-cell-therapy-anito-cel/812798/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-23T12:49:00.000Z",
+    "summary": "The acquisition bolsters Gilead’s sputtering cell therapy business with a medication the company expects to become a “foundational treatment” for the blood cancer, its CEO said."
   },
   {
     "title": "STAT+: Gilead to buy Arcellx in nearly $8B deal",
@@ -30,14 +110,6 @@
     "category": "industry",
     "date": "2026-02-23T10:00:00.000Z",
     "summary": "The smaller arteries of women means a little plaque can be more dangerous than it is for men."
-  },
-  {
-    "title": "All about cell therapy process characterization",
-    "link": "https://www.biopharmadive.com/spons/all-about-cell-therapy-process-characterization/812719/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-23T10:00:00.000Z",
-    "summary": "Why process characterization is the key to consistent, safe, and scalable cell therapies."
   },
   {
     "title": "Small and mighty: single-domain antibodies pack a biological punch",
@@ -120,6 +192,14 @@
     "summary": "In a 6-3 decision, the court rejected President Trump's claim that a 1977 law gave him the authority to impose broad tariffs globally."
   },
   {
+    "title": "Trump sets fresh 10% global tariff — and plans to increase further",
+    "link": "https://www.biopharmadive.com/news/trump-vows-new-10-tariff-supreme-court-ruling/812801/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-20T18:05:00.000Z",
+    "summary": "The new duties will go into effect Feb. 24, although the president has since signaled he will raise the rate to 15%."
+  },
+  {
     "title": "Roche gets FDA decision date on closely watched breast cancer drug",
     "link": "https://www.biopharmadive.com/news/roche-giredestrant-serd-fda-approval-decision-breast-cancer/812695/",
     "source": "BioPharma Dive",
@@ -160,60 +240,12 @@
     "summary": "The FDA's top drug regulator indicated in her first address to staff that she will scrutinize antidepressants and shots used to protect babies from RSV"
   },
   {
-    "title": "ACIP meeting postponed, for reasons that are unclear",
-    "link": "https://www.statnews.com/2026/02/20/health-news-acip-meeting-postponed-covid-19/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T12:55:15.000Z",
-    "summary": "And other health news from today's Morning Rounds newsletter"
-  },
-  {
     "title": "AI is slashing jobs across industries. Will pharma be next?",
     "link": "https://www.biopharmadive.com/news/ai-biotech-pharma-jobs-layoffs-amazon-nvidia-pharma/812635/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-02-20T11:28:00.000Z",
     "summary": "Despite a wave of AI-fueled layoffs, the pharma and biotech industries could be spared from massive cutbacks for now."
-  },
-  {
-    "title": "With federal research funding uncertain, states debate new science initiatives",
-    "link": "https://www.statnews.com/2026/02/20/states-fill-nih-funding-gap-trump-cuts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T09:30:00.000Z",
-    "summary": "A handful of states are considering initiatives to increase funding for scientific research as uncertainty around federal dollars has grown."
-  },
-  {
-    "title": "Biohackers and wellness influencers are pushing nicotine as part of their ‘stacks’",
-    "link": "https://www.statnews.com/2026/02/20/nicotine-wellness-startups-productivity-boost-legal-gray-area/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T09:30:00.000Z",
-    "summary": "As smoking rates fall in the U.S., startups and influencers are pushing the purported cognitive and health benefits of indulging in nicotine."
-  },
-  {
-    "title": "Would you trust AI to renew your drug prescriptions?",
-    "link": "https://www.statnews.com/2026/02/20/doctronic-ai-physician-chatbot-explored-alex-hogan-status-report/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T09:30:00.000Z",
-    "summary": "Would you trust AI to renew your drug prescriptions? Alex Hogan explores the question on this week's episode of STATus Report."
-  },
-  {
-    "title": "Opinion: On ‘The Pitt,’ art catches up with the medical debt crisis",
-    "link": "https://www.statnews.com/2026/02/20/tv-show-the-pitt-highlights-medical-debt-crisis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T09:30:00.000Z",
-    "summary": "Joe Sachs, a physician and executive producer on “The Pitt,” and the CEO of Undue Medical Debt weigh in on the show’s foray into a health care crisis."
-  },
-  {
-    "title": "Opinion: STAT+: Sometimes, it would be unethical not to use AI in medicine",
-    "link": "https://www.statnews.com/2026/02/20/ai-medical-ethics-doctors-unethical-not-use-ai/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T09:30:00.000Z",
-    "summary": "“We do not let pilots fly without instrument support simply because they technically could. Why should medicine be different?”"
   },
   {
     "title": "Clearing cholesterol combats secondary lymphoedema",
@@ -230,30 +262,6 @@
     "category": "research",
     "date": "2026-02-20T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Altesa, run by former Trump official, raises $75M for well-traveled lung drug",
-    "link": "https://www.biopharmadive.com/news/Altesa-biotech-startup-financing-giroir-vapendavir-copd-lung/812566/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-19T17:06:00.000Z",
-    "summary": "Led by Brett Giroir and GSK’s ex-chief medical officer, Altesa is advancing a medicine that’s changed hands multiple times and once failed a study in asthma."
-  },
-  {
-    "title": "FDA leaders say one pivotal trial, not two, should be ‘default’ for drug approvals",
-    "link": "https://www.biopharmadive.com/news/fda-makary-prasad0one-pivotal-trial-nejm/812557/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-19T16:20:00.000Z",
-    "summary": "In a NEJM article, Commissioner Martin Makary and top deputy Vinay Prasad argued that the new policy should lower development costs and speed development without compromising agency standards."
-  },
-  {
-    "title": "Lilly to pay CSL $100M to license monoclonal antibody targeting IL-6",
-    "link": "https://www.biopharmadive.com/news/lilly-deal-csl-100m-license-monoclonal-antibody-targeting-il-6/812455/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-18T16:15:18.000Z",
-    "summary": "The Australian company will retain rights for an end-stage kidney disease indication currently being tested in a Phase 3 trial while Lilly explores other uses."
   },
   {
     "title": "PIP4K2C: an emerging fulcrum for multiple diseases",
