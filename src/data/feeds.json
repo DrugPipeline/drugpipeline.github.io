@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: Drugmakers lay out their legal arguments against Trump’s drug pricing experiments",
+    "link": "https://www.statnews.com/2026/02/24/pharma-opposition-medicare-drug-price-pilot-programs-strategy-emerges/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T17:57:19.000Z",
+    "summary": "Comments opposing Medicare's efforts to lower U.S. drug prices provide a roadmap to potential legal challenges ahead."
+  },
+  {
+    "title": "Vir climbs on Astellas deal, study results for ‘masked’ T cell engager",
+    "link": "https://www.biopharmadive.com/news/vir-astellas-masked-t-cell-engager-prostate-cancer-results/812950/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-24T17:18:43.000Z",
+    "summary": "According to one analyst, the alliance and early data “validate” the oncology work of Vir, which was once purely an infectious disease specialist before changing course."
+  },
+  {
+    "title": "Novo to cut GLP-1 drug prices; Palvella soars on study data",
+    "link": "https://www.biopharmadive.com/news/novo-price-cuts-palvella-gossamer-vanda-pfizer-china/812906/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-24T16:00:00.000Z",
+    "summary": "Wegovy and Ozempic’s list prices will be reduced by as much as 50% effective next year. Elsewhere, Palvella’s market value surged past $1 billion while Pfizer nabbed rights to another obesity drug."
+  },
+  {
+    "title": "STAT+: Novo reports ‘triple G’ obesity drug study results",
+    "link": "https://www.statnews.com/2026/02/24/biotech-news-novo-nordisk-triple-g-obesity-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T14:30:06.000Z",
+    "summary": "Fresh off a failed trial that sent its shares plummeting, Novo Nordisk said that one of its experimental obesity drugs helped patients lose nearly 20% of their weight after 24 weeks…"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA plan for ultra-rare drugs, Novo cutting GLP-1 drug prices, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/02/24/fda-novo-obesity-wegovy-ozempic-novartis-jnj-bayer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T14:23:12.000Z",
+    "summary": "The Trump administration released detailed guidance for approving the first bespoke medicines crafted to treat individual patient mutations"
+  },
+  {
+    "title": "Hepatitis B vaccine rates are dropping",
+    "link": "https://www.statnews.com/2026/02/24/health-news-hep-b-vaccine-rates-drop/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T14:06:28.000Z",
+    "summary": "After a period of growth, the percentage of newborns being vaccinated against hepatitis B has seen significant declines in the last couple years, research finds"
+  },
+  {
+    "title": "STAT+: An AI startup floats FDA deregulation, using an obscure backdoor",
+    "link": "https://www.statnews.com/2026/02/24/ai-startup-floats-fda-deregulation-via-backdoor-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T14:03:21.000Z",
+    "summary": "In this edition of STAT's Health Tech: An AI startup pushes for some AI-powered medical devices to be exempt from pre-market review, and other health tech news."
+  },
+  {
+    "title": "Novo, searching for a spark, spotlights new data for three-pronged obesity drug",
+    "link": "https://www.biopharmadive.com/news/novo-nordisk-ubt251-triple-g-obesity-drug-results/812926/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-24T13:05:00.000Z",
+    "summary": "Novo’s answer to a closely watched Lilly drug spurred roughly 20% weight loss after 24 weeks in a Phase 2 trial, results one of its executives claimed to be “differentiating.”"
+  },
+  {
     "title": "Slate starts up with $130M and a headache drug from China",
     "link": "https://www.biopharmadive.com/news/slate-medicines-migraine-biotech-pacap-china-dartsbio/812859/",
     "source": "BioPharma Dive",
@@ -168,22 +232,6 @@
     "summary": "Gilead Sciences is buying Arcellx in a deal worth $7.8 billion, picking up its partner on a CAR-T therapy for multiple myeloma."
   },
   {
-    "title": "STAT+: Novo Nordisk’s next-gen obesity drug stumbles in comparison study",
-    "link": "https://www.statnews.com/2026/02/23/novo-nordisk-cagrisema-fail-comparison-trial-zepbound-eli-lilly-obesity/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-23T10:24:06.000Z",
-    "summary": "Novo Nordisk's next-generation obesity drug CagriSema underperformed versus Eli Lilly's Zepbound in a head-to-head study."
-  },
-  {
-    "title": "Women’s heart attack risk rises even if arteries aren’t as clogged as men’s",
-    "link": "https://www.statnews.com/2026/02/23/heart-disease-in-women-plaque-scan-risk/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-23T10:00:00.000Z",
-    "summary": "The smaller arteries of women means a little plaque can be more dangerous than it is for men."
-  },
-  {
     "title": "Small and mighty: single-domain antibodies pack a biological punch",
     "link": "https://www.biopharmadive.com/spons/small-and-mighty-single-domain-antibodies-pack-a-biological-punch/811314/",
     "source": "BioPharma Dive",
@@ -192,60 +240,12 @@
     "summary": "VHH antibodies: they’re not just small, they're modular engineering platforms, capable of powerful biological activity. But with great power comes great challenges!"
   },
   {
-    "title": "STAT+: A provocative proposal asks the FDA to let some AI devices on the market without review",
-    "link": "https://www.statnews.com/2026/02/23/harrisonai-fda-petition-exempt-ai-devices-premarket-review/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-23T09:30:00.000Z",
-    "summary": "A provocative new proposal has offered the FDA a way to let a broad swath of potentially risky AI devices flood the market."
-  },
-  {
-    "title": "STAT+: Health care reform might be a focus in midterms. For Congress, pursuing it will be an uphill climb",
-    "link": "https://www.statnews.com/2026/02/23/health-care-reform-midterms-trump/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-23T09:30:00.000Z",
-    "summary": "Lawmakers will likely have a lot to say about health care this year. Paradoxically, they probably won't accomplish much on the subject."
-  },
-  {
-    "title": "Opinion: No one in health care should be called a ‘provider’",
-    "link": "https://www.statnews.com/2026/02/23/provider-ethical-objections-physician-acp/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-23T09:30:00.000Z",
-    "summary": "The word “provider” in health care turns the relationship between patient and physician into a commercial transaction, argues the American College of Physicians."
-  },
-  {
     "title": "Grail’s multi-cancer early detection test misses study goal",
     "link": "https://www.biopharmadive.com/news/grails-multi-cancer-early-detection-test-misses-study-goal/812744/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-02-20T19:16:43.000Z",
     "summary": "Shares in the company lost about half their value in Friday trading after use of the test wasn’t associated with a statistically significant reduction in late-stage cancer diagnoses."
-  },
-  {
-    "title": "Supreme Court invalidates Trump tariffs based on emergency powers",
-    "link": "https://www.biopharmadive.com/news/supreme-court-invalidates-trump-tariffs-based-on-emergency-powers/812723/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-20T18:57:00.000Z",
-    "summary": "In a 6-3 decision, the court rejected President Trump's claim that a 1977 law gave him the authority to impose broad tariffs globally."
-  },
-  {
-    "title": "Trump sets fresh 10% global tariff — and plans to increase further",
-    "link": "https://www.biopharmadive.com/news/trump-vows-new-10-tariff-supreme-court-ruling/812801/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-20T18:05:00.000Z",
-    "summary": "The new duties will go into effect Feb. 24, although the president has since signaled he will raise the rate to 15%."
-  },
-  {
-    "title": "Roche gets FDA decision date on closely watched breast cancer drug",
-    "link": "https://www.biopharmadive.com/news/roche-giredestrant-serd-fda-approval-decision-breast-cancer/812695/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-20T17:16:22.000Z",
-    "summary": "The agency could by late December approve a therapy that Roche sees as potentially becoming a new treatment standard for certain breast tumors."
   },
   {
     "title": "Clearing cholesterol combats secondary lymphoedema",
