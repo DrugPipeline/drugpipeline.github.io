@@ -1,5 +1,53 @@
 [
   {
+    "title": "Slate starts up with $130M and a headache drug from China",
+    "link": "https://www.biopharmadive.com/news/slate-medicines-migraine-biotech-pacap-china-dartsbio/812859/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-24T12:30:00.000Z",
+    "summary": "The biotech is developing a drug aimed at a protein called PACAP, which has emerged as a potentially new way to prevent the onset of migraines."
+  },
+  {
+    "title": "STAT+: Jeffrey Epstein’s tissue samples ignited a furor in the Harvard lab of George Church",
+    "link": "https://www.statnews.com/2026/02/24/epstein-cell-line-george-church-harvard-personal-genome-project/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T09:30:00.000Z",
+    "summary": "Exclusive: Harvard geneticist George Church knew more about Jeffrey Epstein's activities than he has previously said, before accepting new donations from the sex offender."
+  },
+  {
+    "title": "STAT+: Digital twins, the holy grail of preventative health, are still only a ‘Frankensteinian proof of principle’",
+    "link": "https://www.statnews.com/2026/02/24/digital-twins-health-care-hype-reality/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T09:30:00.000Z",
+    "summary": "AI advances and new data on genomics, patient outcomes, and drug performance have pushed the idea of “digital twins” closer to reality than ever before."
+  },
+  {
+    "title": "STAT+: New treatment approach could give IBD patients hope, and be a bonanza for drugmakers",
+    "link": "https://www.statnews.com/2026/02/24/ibd-combination-therapy-race-abbvie-lilly-pfizer-merck-jnj/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T09:30:00.000Z",
+    "summary": "New treatment approaches could give inflammatory bowel disease patients hope, and make drugmakers a bonanza."
+  },
+  {
+    "title": "Opinion: It’s time for a new era of advocacy for physicians",
+    "link": "https://www.statnews.com/2026/02/24/doctors-advocacy-aafp-lobbying-congress/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T09:30:00.000Z",
+    "summary": "“Physicians are, by nature and necessity, advocates,” writes Sarah C. Nosal, president of the American Academy of Family Physicians."
+  },
+  {
+    "title": "Opinion: STAT+: Optum CMO: Doctors must take responsibility for patient outcomes",
+    "link": "https://www.statnews.com/2026/02/24/medicare-advantage-plans-doctors-risk-outcomes-optum-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-24T09:30:00.000Z",
+    "summary": "“To critics of Medicare Advantage, these results scramble the debate,” writes Optum CMO Ken Cohen."
+  },
+  {
     "title": "STAT+: In earnings call, Hims CEO addresses scrutiny of GLP-1 compounding",
     "link": "https://www.statnews.com/2026/02/23/him-hers-earnings-2026-outlook-compounded-semaglutide/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,38 +216,6 @@
     "summary": "The word “provider” in health care turns the relationship between patient and physician into a commercial transaction, argues the American College of Physicians."
   },
   {
-    "title": "STAT+: Lobbying firms with close ties to Trump draw pharma industry clients",
-    "link": "https://www.statnews.com/2026/02/23/fda-lobbying-trump-connected-firms-cash-in/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-23T09:30:00.000Z",
-    "summary": "Business is booming for Trump-connected lobbying firms as pharma giants see new opportunity to influence the FDA."
-  },
-  {
-    "title": "STAT+: Pharma lobbyists focus on a surprising new target: the FDA",
-    "link": "https://www.statnews.com/2026/02/23/fda-lobbying-efforts-grow-under-trump-administration/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-23T09:30:00.000Z",
-    "summary": "Lobbyists told STAT they believe the odds of approval go up if a decision can be spun as a win for the Trump administration."
-  },
-  {
-    "title": "STAT+: Nature Medicine to investigate  study that found cancer treatment is better in morning",
-    "link": "https://www.statnews.com/2026/02/20/cancer-immunotherapy-morning-infusions-doubts-about-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-21T01:13:11.000Z",
-    "summary": "Nature Medicine starts an investigation into inconsistencies in a study that found it was better to have immunotherapy in the morning."
-  },
-  {
-    "title": "STAT+: DOJ, Ohio attorney general accuse OhioHealth of driving up prices, crowding out competition",
-    "link": "https://www.statnews.com/2026/02/20/doj-ohio-antitrust-lawsuit-ohiohealth-acontracts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T21:17:59.000Z",
-    "summary": "Regulators say Ohio hospital system made it difficult for health insurers to offer cheaper plans."
-  },
-  {
     "title": "Grail’s multi-cancer early detection test misses study goal",
     "link": "https://www.biopharmadive.com/news/grails-multi-cancer-early-detection-test-misses-study-goal/812744/",
     "source": "BioPharma Dive",
@@ -230,22 +246,6 @@
     "category": "industry",
     "date": "2026-02-20T17:16:22.000Z",
     "summary": "The agency could by late December approve a therapy that Roche sees as potentially becoming a new treatment standard for certain breast tumors."
-  },
-  {
-    "title": "Madrigal sees a stock sell-off; ex-Novartis exec heads to Daiichi",
-    "link": "https://www.biopharmadive.com/news/madrigal-earnings-daiichi-tsai-acimmune-alzheimers-novartis-unnatural/812565/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-20T15:23:00.000Z",
-    "summary": "Madrigal shares fell 11% despite again topping consensus sales numbers. Elsewhere, Daiichi Sankyo named a new research chief and J&J halted recruitment in an Alzheimer’s trial."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/02/20/pharma-biotech-jobs-roche-sanofi-daiichi/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-20T14:52:46.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
   },
   {
     "title": "Clearing cholesterol combats secondary lymphoedema",
