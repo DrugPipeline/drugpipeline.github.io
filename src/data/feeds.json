@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Xenon’s seizure drug study reads out soon. Here’s what to expect",
+    "link": "https://www.statnews.com/2026/02/26/xenon-seizures-azetukalner-richard-pops-alkermes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T11:30:00.000Z",
+    "summary": "Xenon Pharmaceuticals is developing a drug for the most common type of seizure experienced by people with epilepsy. Here's what to know."
+  },
+  {
+    "title": "STAT+: Rare disease advocates fume over FDA’s mixed signals",
+    "link": "https://www.statnews.com/2026/02/26/rare-disease-treatment-approval-fda-mixed-messages/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T09:30:00.000Z",
+    "summary": "Families facing rare diseases feel whiplash over shifting and contradictory decisions by the FDA."
+  },
+  {
+    "title": "Opinion: I had a brother with schizophrenia. I can’t stop thinking about Nick Reiner’s siblings",
+    "link": "https://www.statnews.com/2026/02/26/nick-reiner-mental-illness-siblings-schizophrenia/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T09:30:00.000Z",
+    "summary": "When mental illness strikes a family, siblings are often overlooked."
+  },
+  {
+    "title": "Brain implants: What’s standing in the way of pivotal trials, FDA approval",
+    "link": "https://www.statnews.com/2026/02/26/brain-computer-interface-fda-regulatory-hurdles/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T09:30:00.000Z",
+    "summary": "Thirty years after scientists demonstrated how brain implants can help rhesus monkeys move robotic limbs using only their mind, the clinical pathway for the technology is still a little out…"
+  },
+  {
+    "title": "Opinion: I tried to design a clinical trial for a supplement. 5 things got in the way",
+    "link": "https://www.statnews.com/2026/02/26/nutraceutical-clinical-trials-5-barriers-nutritional-supplement-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T09:30:00.000Z",
+    "summary": "When Elise Felicione tried to design a clinical trial for a supplement, 5 things got in the way. It’s a lesson for the industry."
+  },
+  {
     "title": "Trump administration pauses some Medicaid funding to Minnesota, citing fraud concerns",
     "link": "https://www.statnews.com/2026/02/25/trump-administration-pauses-medicaid-funds-minnesota/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,36 +208,12 @@
     "summary": "GSK is buying the Canadian biotech 35Pharma, building up its base of medicines for lung diseases."
   },
   {
-    "title": "Trump touts lower drug costs and anti-fraud measures in lengthy State of the Union",
-    "link": "https://www.statnews.com/2026/02/24/trump-state-union-health-plan-drug-prices-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T04:48:16.000Z",
-    "summary": "At SOTU, Trump touted health care wins even as more than half of Americans say health care has become more unaffordable for them and their families."
-  },
-  {
     "title": "Gilead pays US$7.8 billion for Arcellx’s next-generation CAR T candidate",
     "link": "https://www.nature.com/articles/d41573-026-00034-4",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-02-25T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: Will Novo Nordisk’s slashing of obesity drug prices save patients’ money? It depends",
-    "link": "https://www.statnews.com/2026/02/24/novo-nordisk-weight-loss-drug-price-cut-examined/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-24T19:41:15.000Z",
-    "summary": "Will Novo Nordisk’s slashing of obesity drug prices save patients’ money or expand access? It depends."
-  },
-  {
-    "title": "STAT+: Drugmakers lay out their legal arguments against Trump’s drug pricing experiments",
-    "link": "https://www.statnews.com/2026/02/24/pharma-opposition-medicare-drug-price-pilot-programs-strategy-emerges/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-24T17:57:19.000Z",
-    "summary": "Comments opposing Medicare's efforts to lower U.S. drug prices provide a roadmap to potential legal challenges ahead."
   },
   {
     "title": "Vir climbs on Astellas deal, study results for ‘masked’ T cell engager",
@@ -214,22 +230,6 @@
     "category": "industry",
     "date": "2026-02-24T16:00:00.000Z",
     "summary": "Wegovy and Ozempic’s list prices will be reduced by as much as 50% effective next year. Elsewhere, Palvella’s market value surged past $1 billion while Pfizer nabbed rights to another obesity drug."
-  },
-  {
-    "title": "STAT+: Novo reports ‘triple G’ obesity drug study results",
-    "link": "https://www.statnews.com/2026/02/24/biotech-news-novo-nordisk-triple-g-obesity-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-24T14:30:06.000Z",
-    "summary": "Fresh off a failed trial that sent its shares plummeting, Novo Nordisk said that one of its experimental obesity drugs helped patients lose nearly 20% of their weight after 24 weeks…"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA plan for ultra-rare drugs, Novo cutting GLP-1 drug prices, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/02/24/fda-novo-obesity-wegovy-ozempic-novartis-jnj-bayer/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-24T14:23:12.000Z",
-    "summary": "The Trump administration released detailed guidance for approving the first bespoke medicines crafted to treat individual patient mutations"
   },
   {
     "title": "Novo, searching for a spark, spotlights new data for three-pronged obesity drug",
