@@ -1,5 +1,101 @@
 [
   {
+    "title": "CMS announces pause on new durable medical equipment suppliers",
+    "link": "https://www.statnews.com/2026/02/26/cms-national-moratorium-durable-medical-equipment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T18:09:50.000Z",
+    "summary": "The Trump administration issued a nationwide moratorium on new suppliers for certain medical equipment, citing fraud."
+  },
+  {
+    "title": "Everything you need to know about RFK Jr., MAHA, and ‘glypho-gate’",
+    "link": "https://www.statnews.com/2026/02/26/glyphosate-herbicide-maha-backlash-alex-hogan-status-report/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T17:59:03.000Z",
+    "summary": "This week on STATus Report, everything you need to know about RFK Jr., MAHA, and \"glypho-gate.\""
+  },
+  {
+    "title": "FDA Grants Second Approval under the National Priority Voucher Pilot Program",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-second-approval-under-national-priority-voucher-pilot-program",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-02-26T17:38:38.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued an approval for the lung cancer drug Hernexeos (zongertinib) as a part of the new Commissioner's National Priority Voucher (CNPV) pilot program."
+  },
+  {
+    "title": "Lilly’s GLP-1 pill tops Novo’s Rybelsus in head-to-head trial",
+    "link": "https://www.biopharmadive.com/news/lilly-orforglipron-rybelsus-diabetes-study-results-glp-1/813209/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-26T17:10:00.000Z",
+    "summary": "Orforglipron, which could be approved for obesity next quarter, proved superior at cutting blood sugar and body weight — but at the expense of higher side effect rates."
+  },
+  {
+    "title": "Bristol Myers says ADC licensed from China hits mark in aggressive breast cancer",
+    "link": "https://www.biopharmadive.com/news/bristol-myers-systimmune-adc-breast-cancer-results-china/813206/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-26T16:29:55.000Z",
+    "summary": "The study result is the latest step forward for a drug Bristol could eventually pay more than $8 billion for and has spotlighted as important to its future growth."
+  },
+  {
+    "title": "STAT+: The nation’s MAHA mom lands in Congress, with some uncomfortable questions",
+    "link": "https://www.statnews.com/2026/02/26/dc-diagnosis-the-nations-maha-mom-casey-means/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T16:23:45.000Z",
+    "summary": "Casey Means' confirmation hearing, prior auth reforms are a priority, and other updates from D.C. Diagnosis"
+  },
+  {
+    "title": "STAT+: What stands between brain implants and FDA approval?",
+    "link": "https://www.statnews.com/2026/02/26/brain-computer-interface-fda-approval-challenges-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T16:11:47.000Z",
+    "summary": "In this edition of STAT Health Tech: The regulatory challenges faced by startups developing implanted brain-computer interfaces, and more."
+  },
+  {
+    "title": "STAT+: FDA Commissioner Marty Makary defends rare disease drug rejections, Vinay Prasad",
+    "link": "https://www.statnews.com/2026/02/26/makary-fda-rare-disease-vinay-prasad-cnbc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T15:20:07.000Z",
+    "summary": "FDA Commissioner Marty Makary defended the agency’s recent rejections of rare disease drugs and one of his deputies, Vinay Prasad, in an interview with CNBC."
+  },
+  {
+    "title": "STAT+: FDA rejection is a reality check on agency rhetoric",
+    "link": "https://www.statnews.com/2026/02/26/biotech-news-fda-rejection-for-rare-blood-cancer-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T14:37:38.000Z",
+    "summary": "Sarepta CEO steps down, an experimental cell therapy rejection, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a puzzling FDA rejection, a Lilly weight loss pill, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/02/26/fda-lilly-obesity-gilead-hiv-sarepta/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T14:07:15.000Z",
+    "summary": "An experimental therapy for a rare blood cancer was rejected by the FDA though internal reviewers had recommended it be cleared"
+  },
+  {
+    "title": "Questions on the agenda for ACIP’s next meeting",
+    "link": "https://www.statnews.com/2026/02/26/health-news-the-next-acip-vaccine-meeting-agenda/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-26T13:08:31.000Z",
+    "summary": "Casey Means faces off against Cassidy, a postponed vaccine advisory meeting, and more health news"
+  },
+  {
+    "title": "Sarepta CEO Doug Ingram to retire, with company at a crossroads",
+    "link": "https://www.biopharmadive.com/news/sarepta-doug-ingram-ceo-retire-duchenne/813169/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-26T13:00:00.000Z",
+    "summary": "Ingram, who steered the company through multiple drug approvals and controversies, will step aside as Sarepta faces dwindling Elevidys sales and emerging competitors to its core business."
+  },
+  {
     "title": "STAT+: Xenon’s seizure drug study reads out soon. Here’s what to expect",
     "link": "https://www.statnews.com/2026/02/26/xenon-seizures-azetukalner-richard-pops-alkermes/?utm_campaign=rss",
     "source": "STAT News",
@@ -24,7 +120,7 @@
     "summary": "When mental illness strikes a family, siblings are often overlooked."
   },
   {
-    "title": "Brain implants: What’s standing in the way of pivotal trials, FDA approval",
+    "title": "STAT+: Brain implants: What’s standing in the way of pivotal trials, FDA approval",
     "link": "https://www.statnews.com/2026/02/26/brain-computer-interface-fda-regulatory-hurdles/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -112,36 +208,12 @@
     "summary": "Novo slashes list prices, GSK acquires a pulmonary hypertension drug, and other biotech news"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about Trump’s drug-price claims, a Novo deal for obesity drugs, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/02/25/trump-pharma-novo-obesity-novartis-medicare-clindamycin/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T14:47:01.000Z",
-    "summary": "In his State of the Union address, President Trump claimed he had brought U.S. prescription drug costs from the highest in the world to the lowest"
-  },
-  {
     "title": "GSK to acquire 35Pharma in $950M deal for cardiovascular drug",
     "link": "https://www.biopharmadive.com/news/gsk-35pharma-acquire-pulmonary-hypertension-drug-activin-winrevair/813067/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-02-25T14:43:04.000Z",
     "summary": "The deal hands GSK a drug it views as a potentially “best-in-class” therapy for blood pressure diseases like pulmonary arterial hypertension — the target of Merck’s fast-selling Winrevair."
-  },
-  {
-    "title": "STAT+: Novo Nordisk strikes deal with U.S. startup to develop oral obesity, diabetes drugs",
-    "link": "https://www.statnews.com/2026/02/25/novo-nordisk-vivtex-langer-obesity-diabetes/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T13:35:02.000Z",
-    "summary": "Novo Nordisk announced it had signed a deal with Vivtex, a biotech co-founded by MIT professor Robert Langer, to develop oral obesity and diabetes drugs."
-  },
-  {
-    "title": "STAT+: How Mayo Clinic’s patients are helping Merck train its AI",
-    "link": "https://www.statnews.com/2026/02/25/mayo-clinic-patients-helping-train-merck-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T13:26:28.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: Mayo Clinic's health data partnership with Mayo, an FDA deregulation push, and more."
   },
   {
     "title": "15 states sue HHS over changes to childhood vaccine schedule",
@@ -160,52 +232,12 @@
     "summary": "The potentially $2.1 billion collaboration gives Novo access to technologies that are meant to help optimize the delivery of oral biologic medicines."
   },
   {
-    "title": "Breaking down the health care talk in Trump’s State of the Union",
-    "link": "https://www.statnews.com/2026/02/25/health-news-drug-pricing-trump-plan-hhs-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T12:51:18.000Z",
-    "summary": "Trump touts lower drug costs, states sue HHS, and other can't miss health news of the day"
-  },
-  {
     "title": "BreezeBio banks $60M to make more precise genetic medicines",
     "link": "https://www.biopharmadive.com/news/breezebio-genedit-series-b-diabetes-autoimmune/812976/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-02-25T12:00:00.000Z",
     "summary": "The company has shed its former “GenEdit” name and strategy in favor of a plan to develop its own medicines, starting with a potential tolerance-inducing treatment for Type 1 diabetes."
-  },
-  {
-    "title": "6 in 10 women will develop heart disease or stroke by 2050, heart association projects",
-    "link": "https://www.statnews.com/2026/02/25/heart-disease-risk-forecasts-women-2050-projections/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T10:00:00.000Z",
-    "summary": "“We're just setting up a generation of people to move through life, having their cardiovascular events earlier and more severe.\""
-  },
-  {
-    "title": "Opinion: How dentists like me can help patients with substance use disorder",
-    "link": "https://www.statnews.com/2026/02/25/dentists-substance-use-disorder-screening-opioids/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T09:30:00.000Z",
-    "summary": "Dentistry has long been built on preventive care. It’s time to extend that preventive mindset to substance use."
-  },
-  {
-    "title": "Opinion: The Rural Health Transformation Program could fail patients like mine",
-    "link": "https://www.statnews.com/2026/02/25/rural-health-transformation-program-hospitals-innovation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T09:30:00.000Z",
-    "summary": "Maintaining the capacity to provide care close to home for rural patients is critical, but it’s under threat."
-  },
-  {
-    "title": "STAT+: GSK picks up pulmonary hypertension drug with 35Pharma acquisition",
-    "link": "https://www.statnews.com/2026/02/25/gsk-acquires-35pharma-pulmonary-hypertension/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-25T08:01:14.000Z",
-    "summary": "GSK is buying the Canadian biotech 35Pharma, building up its base of medicines for lung diseases."
   },
   {
     "title": "Gilead pays US$7.8 billion for Arcellx’s next-generation CAR T candidate",
@@ -222,30 +254,6 @@
     "category": "industry",
     "date": "2026-02-24T17:18:43.000Z",
     "summary": "According to one analyst, the alliance and early data “validate” the oncology work of Vir, which was once purely an infectious disease specialist before changing course."
-  },
-  {
-    "title": "Novo to cut GLP-1 drug prices; Palvella soars on study data",
-    "link": "https://www.biopharmadive.com/news/novo-price-cuts-palvella-gossamer-vanda-pfizer-china/812906/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-24T16:00:00.000Z",
-    "summary": "Wegovy and Ozempic’s list prices will be reduced by as much as 50% effective next year. Elsewhere, Palvella’s market value surged past $1 billion while Pfizer nabbed rights to another obesity drug."
-  },
-  {
-    "title": "Novo, searching for a spark, spotlights new data for three-pronged obesity drug",
-    "link": "https://www.biopharmadive.com/news/novo-nordisk-ubt251-triple-g-obesity-drug-results/812926/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-24T13:05:00.000Z",
-    "summary": "Novo’s answer to a closely watched Lilly drug spurred roughly 20% weight loss after 24 weeks in a Phase 2 trial, results one of its executives claimed to be “differentiating.”"
-  },
-  {
-    "title": "Slate starts up with $130M and a headache drug from China",
-    "link": "https://www.biopharmadive.com/news/slate-medicines-migraine-biotech-pacap-china-dartsbio/812859/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-24T12:30:00.000Z",
-    "summary": "The biotech is developing a drug aimed at a protein called PACAP, which has emerged as a potentially new way to prevent the onset of migraines."
   },
   {
     "title": "FDA Launches Framework for Accelerating Development of Individualized Therapies for Ultra-Rare Diseases",
