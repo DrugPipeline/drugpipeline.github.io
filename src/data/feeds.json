@@ -1,5 +1,53 @@
 [
   {
+    "title": "Atrium spins out of Avidity, aiming to target rare heart diseases with RNA",
+    "link": "https://www.biopharmadive.com/news/atrium-avidity-spinout-novartis-rna-cardiomyopathy-heart/813365/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-27T17:58:42.000Z",
+    "summary": "Four months after Avidity’s $12 billion buyout, Atrium debuted with $270 million in cash and plans to pick up its predecessor’s work in cardiovascular disease."
+  },
+  {
+    "title": "UniQure falls further on Makary comments",
+    "link": "https://www.biopharmadive.com/news/uniqure-makary-cnbc-gene-therapy-rare-disease-stock/813371/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-27T17:08:00.000Z",
+    "summary": "Remarks the FDA commissioner made during a CNBC appearance seemed to stoke investor fears that UniQure's gene therapy for Huntington's won't get approved."
+  },
+  {
+    "title": "Moderna’s combination flu, COVID shot wins over European drug regulators",
+    "link": "https://www.biopharmadive.com/news/moderna-europe-covid-flu-vaccine-recommendation-mcombriax/813354/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-27T16:45:00.000Z",
+    "summary": "In issuing a positive recommendation, the EMA has diverged from the FDA, which has set higher approval standards for Moderna’s vaccine in the U.S."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/02/27/pharma-biotech-jobs-merck-roche-kymera/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-27T16:22:01.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "Opinion: Former surgeon general: The Senate must not approve someone who can’t practice medicine as the nation’s top doctor",
+    "link": "https://www.statnews.com/2026/02/27/casey-means-surgeon-general-jerome-adams/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-27T15:17:39.000Z",
+    "summary": "“The surgeon general is not a wellness influencer,” writes former Surgeon General Jerome Adams of Casey Means."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about FDA and a ‘smear campaign,’ Cigna buying a large pharmacy, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/02/27/fda-bonus-cigna-pharmacy-abbvie-novartis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-02-27T14:30:55.000Z",
+    "summary": "FDA Commissioner Marty Makary defended the agency’s recent rejections of rare disease drugs and top agency official Vinay Prasad"
+  },
+  {
     "title": "From ALS to dental floss: Here are the teams competing in STAT Madness 2026",
     "link": "https://www.statnews.com/2026/02/27/stat-madness-2026-contestants-64-teams-from-50-labs/?utm_campaign=rss",
     "source": "STAT News",
@@ -128,6 +176,14 @@
     "summary": "FDA Commissioner Marty Makary defended the agency’s recent rejections of rare disease drugs and one of his deputies, Vinay Prasad, in an interview with CNBC."
   },
   {
+    "title": "Boehringer drug approved in 44 days; BioMarin shelves Roctavian",
+    "link": "https://www.biopharmadive.com/news/hernexeos-fda-voucher-roctavian-withdrawal-pfizer-asahi-aicuris/813207/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-02-26T14:39:00.000Z",
+    "summary": "Boehringer’s lung cancer medicine Hernexeos is the second “national priority” voucher winner to gain a speedy approval. Elsewhere, a landmark gene therapy was withdrawn and a Pfizer deal paid…"
+  },
+  {
     "title": "STAT+: FDA rejection is a reality check on agency rhetoric",
     "link": "https://www.statnews.com/2026/02/26/biotech-news-fda-rejection-for-rare-blood-cancer-therapy/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,30 +232,6 @@
     "summary": "Families facing rare diseases feel whiplash over shifting and contradictory decisions by the FDA."
   },
   {
-    "title": "Opinion: I had a brother with schizophrenia. I can’t stop thinking about Nick Reiner’s siblings",
-    "link": "https://www.statnews.com/2026/02/26/nick-reiner-mental-illness-siblings-schizophrenia/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-26T09:30:00.000Z",
-    "summary": "When mental illness strikes a family, siblings are often overlooked."
-  },
-  {
-    "title": "STAT+: Brain implants: What’s standing in the way of pivotal trials, FDA approval",
-    "link": "https://www.statnews.com/2026/02/26/brain-computer-interface-fda-regulatory-hurdles/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-26T09:30:00.000Z",
-    "summary": "Thirty years after scientists demonstrated how brain implants can help rhesus monkeys move robotic limbs using only their mind, the clinical pathway for the technology is still a little out…"
-  },
-  {
-    "title": "Opinion: I tried to design a clinical trial for a supplement. 5 things got in the way",
-    "link": "https://www.statnews.com/2026/02/26/nutraceutical-clinical-trials-5-barriers-nutritional-supplement-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-26T09:30:00.000Z",
-    "summary": "When Elise Felicione tried to design a clinical trial for a supplement, 5 things got in the way. It’s a lesson for the industry."
-  },
-  {
     "title": "The therapeutic potential of orphan adhesion G-protein-coupled receptors",
     "link": "https://www.nature.com/articles/s41573-025-01371-6",
     "source": "Nature Reviews Drug Discovery",
@@ -230,38 +262,6 @@
     "category": "industry",
     "date": "2026-02-25T16:54:00.000Z",
     "summary": "One of biotech’s longest-tenured leaders, Pops steered Alkermes through several reinventions, the latest of which has made it a frontrunner in developing a new narcolepsy drug."
-  },
-  {
-    "title": "GSK to acquire 35Pharma in $950M deal for cardiovascular drug",
-    "link": "https://www.biopharmadive.com/news/gsk-35pharma-acquire-pulmonary-hypertension-drug-activin-winrevair/813067/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-25T14:43:04.000Z",
-    "summary": "The deal hands GSK a drug it views as a potentially “best-in-class” therapy for blood pressure diseases like pulmonary arterial hypertension — the target of Merck’s fast-selling Winrevair."
-  },
-  {
-    "title": "15 states sue HHS over changes to childhood vaccine schedule",
-    "link": "https://www.biopharmadive.com/news/15-states-sue-hhs-vaccine-schedule-changes-acip/813026/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-25T13:18:00.000Z",
-    "summary": "The lawsuit seeks to reverse the abrupt overhaul of the U.S. immunization schedule as well as the federal government’s allegedly “unlawful” reformation of a key vaccine panel."
-  },
-  {
-    "title": "With Vivtex deal, Novo gains a chance at better oral obesity drugs",
-    "link": "https://www.biopharmadive.com/news/vivtex-novo-nordisk-oral-obesity-drugs-biologics/812754/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-25T13:00:00.000Z",
-    "summary": "The potentially $2.1 billion collaboration gives Novo access to technologies that are meant to help optimize the delivery of oral biologic medicines."
-  },
-  {
-    "title": "BreezeBio banks $60M to make more precise genetic medicines",
-    "link": "https://www.biopharmadive.com/news/breezebio-genedit-series-b-diabetes-autoimmune/812976/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-25T12:00:00.000Z",
-    "summary": "The company has shed its former “GenEdit” name and strategy in favor of a plan to develop its own medicines, starting with a potential tolerance-inducing treatment for Type 1 diabetes."
   },
   {
     "title": "Gilead pays US$7.8 billion for Arcellx’s next-generation CAR T candidate",
