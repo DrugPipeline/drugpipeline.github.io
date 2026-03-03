@@ -1,5 +1,93 @@
 [
   {
+    "title": "Autism researchers rebuke Kennedy, form independent advisory group",
+    "link": "https://www.statnews.com/2026/03/03/autism-researchers-rebuke-kennedy-form-independent-advisory-group/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T18:40:22.000Z",
+    "summary": "A group of autism researchers and advocates are forming an independent advisory body to develop a scientific agenda for the autism community."
+  },
+  {
+    "title": "FDA Warns 30 Telehealth Companies Against Illegal Marketing of Compounded GLP-1s",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-03-03T18:29:38.000Z",
+    "summary": "The U.S. Food and Drug Administration today announced the issuance of 30 warning letters to telehealth companies for making false and misleading claims regarding compounded GLP-1 products offered on…"
+  },
+  {
+    "title": "STAT+: Trump can’t break free from vaccine politics",
+    "link": "https://www.statnews.com/2026/03/03/trump-vaccine-politics-rfk-jr-cdc-dc-diagnosis-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T18:20:58.000Z",
+    "summary": "Trump is trying to shift the focus toward healthy eating and cheaper drugs. But vaccines keeping coming back up."
+  },
+  {
+    "title": "STAT+: Prime Medicine to seek approval for gene-editing treatment after two-patient trial",
+    "link": "https://www.statnews.com/2026/03/03/prime-medicine-seeks-fda-approval-cgd-disease-gene-editing-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T17:39:53.000Z",
+    "summary": "Prime Medicine's application will test an FDA that has promised to speed new gene-editing treatments but has recently spurned some."
+  },
+  {
+    "title": "Kyowa Kirin abandons touted eczema drug following safety review",
+    "link": "https://www.biopharmadive.com/news/kyowa-kirin-discontinue-rocatinlimab-ox40-kaposi-sarcoma/813643/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-03T17:22:00.000Z",
+    "summary": "A month after Amgen gave up on rocatinlimab — which was once seen as a threat to Dupixent — new findings have linked the drug’s mechanism to the onset of a type of skin cancer."
+  },
+  {
+    "title": "Pierre Fabre seeks to revive US approval chances for spurned cell therapy",
+    "link": "https://www.biopharmadive.com/news/pierre-fabre-atara-ebvallo-fda-reject-type-a-meeting/813625/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-03T16:52:51.000Z",
+    "summary": "Ebvallo is one of a series of rare disease treatments recently turned back by the FDA amid shifting guidance that has surprised some companies and frustrated investors."
+  },
+  {
+    "title": "Opinion: CMS shouldn’t be paying for higher-than-necessary doses of cancer drugs",
+    "link": "https://www.statnews.com/2026/03/03/medicare-drug-price-negotiation-program-cancer-doses/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T14:51:55.000Z",
+    "summary": "In cancer treatment, higher doses with worse side effects often don’t lead to better outcomes."
+  },
+  {
+    "title": "STAT+: CMS wants more drugmakers to join Medicaid ‘most-favored nations’ pilot",
+    "link": "https://www.statnews.com/2026/03/03/biotech-news-medicaid-cms-most-favored-nations-pilot/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T14:37:16.000Z",
+    "summary": "More UniQure drama at the FDA, a new Medicaid pilot program, and other biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA-UniQure feud, Pfizer’s ‘problem’ with the agency, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/03/fda-pharma-uniqure-pfizer-intellia-china/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T14:28:37.000Z",
+    "summary": "The FDA concluded that UniQure's experimental Huntington’s treatment was not providing benefit for patients based on existing clinical data"
+  },
+  {
+    "title": "STAT+: HHS starts phasing out Anthropic’s Claude",
+    "link": "https://www.statnews.com/2026/03/03/hhs-starts-phasing-out-anthropic-claude-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T14:13:16.000Z",
+    "summary": "In this edition of STAT Health Tech: An AI chatbot for surgical patients got 'breakthrough' status from FDA, HHS phases out Claude, and more."
+  },
+  {
+    "title": "Inside the rise of the ‘Make Europe Healthy Again’ movement",
+    "link": "https://www.statnews.com/2026/03/03/health-news-make-europe-healthy-again-gains-traction/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T14:07:14.000Z",
+    "summary": "MAHA to MEHA, generative AI for surgery patients, and other health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: FDA is ‘not convinced’ UniQure’s Huntington’s therapy has benefit, senior official says",
     "link": "https://www.statnews.com/2026/03/03/uniqure-huntingtons-treatment-fda-official-comments/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,6 +118,14 @@
     "category": "industry",
     "date": "2026-03-03T09:30:00.000Z",
     "summary": "6 core challenges that researchers must consider as the race to create models that are ever closer to real human embryos heats up."
+  },
+  {
+    "title": "Author Correction: Novel drug treatments for schizophrenia",
+    "link": "https://www.nature.com/articles/s41573-026-01409-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-03T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Promoting remyelination",
@@ -176,70 +272,6 @@
     "summary": "What leading health tech firms and AI startups want HHS to do to speed up clinical AI adoption."
   },
   {
-    "title": "A titan of vaccine development sees his field’s achievements slip away",
-    "link": "https://www.statnews.com/2026/03/02/stanley-plotkin-profile-godfather-of-vaccines-worried/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T09:30:00.000Z",
-    "summary": "Stanley Plotkin, the 93-year-old \"godfather of vaccines,\" is watching his field’s achievements slip away."
-  },
-  {
-    "title": "Opinion: Cannabis has become more legal. It’s time to update laws around use by pregnant people",
-    "link": "https://www.statnews.com/2026/03/02/cannabis-laws-pregnancy-cps/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T09:30:00.000Z",
-    "summary": "It’s time to rethink punitive policies around cannabis use by people who are pregnant."
-  },
-  {
-    "title": "STAT+: Trump’s drive to get Europe to pay more for drugs creates uncertainty for countries, patients",
-    "link": "https://www.statnews.com/2026/03/02/trump-drug-prices-mfn-deal-europe-confidential-price-problem/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T09:30:00.000Z",
-    "summary": "President Trump's demand that wealthy countries in Europe spend more on drugs so the U.S. can pay less has introduced uncertainty across the continent."
-  },
-  {
-    "title": "Opinion: I analyzed 6 months of Reddit discussion about at-home ketamine therapy. The findings alarmed me",
-    "link": "https://www.statnews.com/2026/03/02/telehealth-ketamine-reddit-safety/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T09:30:00.000Z",
-    "summary": "“Telehealth ketamine has crossed the line from innovation to abdication of care,” writes Michael Alvear."
-  },
-  {
-    "title": "Henrietta Lacks’ estate settles with Novartis over the ‘stolen cells’ that advanced science",
-    "link": "https://www.statnews.com/2026/02/28/henrietta-lacks-novartis-settlement-over-hela-cell-line/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-28T13:49:04.000Z",
-    "summary": "Novartis becomes the second company to settle after being accused of reaping rewards from a racist medical system."
-  },
-  {
-    "title": "Kennedy announces new vaccine advisory committee members after meeting rescheduled",
-    "link": "https://www.statnews.com/2026/02/27/two-new-members-added-cdc-vaccine-advisory-committee-acip/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-28T01:53:28.000Z",
-    "summary": "Kennedy adds two new members to the CDC's vaccine advisory committee"
-  },
-  {
-    "title": "STAT+: Minnesota report shows large hospitals continue to dominate the 340B drug discount program",
-    "link": "https://www.statnews.com/pharmalot/2026/02/27/pharma-medicines-hospitals-340b-minnesota-report/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-27T21:53:28.000Z",
-    "summary": "Minnesota hospitals and clinics participating in a controversial U.S. drug discount program reaped at least $1.34 billion in revenue in 2024."
-  },
-  {
-    "title": "STAT+: Trump most-favored nation drug pricing deals end after three years for some companies",
-    "link": "https://www.statnews.com/2026/02/27/trump-drug-prices-pharma-mfn-deals-3-year-terms/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-27T20:58:14.000Z",
-    "summary": "SEC filings show that, at least for some drugmakers, \"most-favored nation\" drug pricing deals with President Trump last three years."
-  },
-  {
     "title": "Atrium spins out of Avidity, aiming to target rare heart diseases with RNA",
     "link": "https://www.biopharmadive.com/news/atrium-avidity-spinout-novartis-rna-cardiomyopathy-heart/813365/",
     "source": "BioPharma Dive",
@@ -254,22 +286,6 @@
     "category": "industry",
     "date": "2026-02-27T17:08:00.000Z",
     "summary": "Remarks the FDA commissioner made during a CNBC appearance seemed to stoke investor fears that UniQure's gene therapy for Huntington's won't get approved."
-  },
-  {
-    "title": "Moderna’s combination flu, COVID shot wins over European drug regulators",
-    "link": "https://www.biopharmadive.com/news/moderna-europe-covid-flu-vaccine-recommendation-mcombriax/813354/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-27T16:45:00.000Z",
-    "summary": "In issuing a positive recommendation, the EMA has diverged from the FDA, which has set higher approval standards for Moderna’s vaccine in the U.S."
-  },
-  {
-    "title": "Generate caps a strong month for biotech IPOs with $400M offering",
-    "link": "https://www.biopharmadive.com/news/generate-biomedicines-ipo-price-biotech-ai-flagship-startup/813130/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-27T01:42:00.000Z",
-    "summary": "The AI drug discovery specialist is the fifth biotechnology company to go public in February and priced the sector’s largest new stock offering in nearly three years."
   },
   {
     "title": "FDA Grants Second Approval under the National Priority Voucher Pilot Program",
