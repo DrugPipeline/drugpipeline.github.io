@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: FDA is ‘not convinced’ UniQure’s Huntington’s therapy has benefit, senior official says",
+    "link": "https://www.statnews.com/2026/03/03/uniqure-huntingtons-treatment-fda-official-comments/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T12:11:22.000Z",
+    "summary": "The FDA believes that an experimental therapy for Huntington’s disease from UniQure wasn't providing benefit for patients, a senior official told STAT."
+  },
+  {
+    "title": "STAT+: FDA grants ‘breakthrough’ status to generative AI chatbot for surgical patients",
+    "link": "https://www.statnews.com/2026/03/03/fda-breakthrough-designation-generative-ai-chatbot-recovryai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T09:30:00.000Z",
+    "summary": "The FDA's decision on a chatbot for patients recovering from surgery could offer clues on how the agency plans to regulate generative AI tools."
+  },
+  {
+    "title": "STAT+: MAHA goes global: Inside the rise of the Make Europe Healthy Again movement",
+    "link": "https://www.statnews.com/2026/03/03/maha-movement-spreads-meha-make-europe-healthy-again/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T09:30:00.000Z",
+    "summary": "A new \"Make Europe Healthy Again\" movement ties U.S. MAHA figures to European anti-vaccine and far-right networks, raising public health concerns."
+  },
+  {
+    "title": "Opinion: STAT+: 6 key dilemmas as human embryo models get ever closer to the real thing",
+    "link": "https://www.statnews.com/2026/03/03/human-embryo-models-ethical-concerns/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T09:30:00.000Z",
+    "summary": "6 core challenges that researchers must consider as the race to create models that are ever closer to real human embryos heats up."
+  },
+  {
+    "title": "Promoting remyelination",
+    "link": "https://www.nature.com/articles/d41573-026-00038-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting vascular smooth muscle cells",
+    "link": "https://www.nature.com/articles/d41573-026-00036-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "An allosteric site on cereblon",
+    "link": "https://www.nature.com/articles/d41573-026-00039-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Inhibiting advillin in glioblastoma",
+    "link": "https://www.nature.com/articles/d41573-026-00037-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: CMS halts enrollment in Elevance’s Medicare Advantage plans, citing years of misconduct",
     "link": "https://www.statnews.com/2026/03/02/elevance-stock-cms-medicare-advantage-enrollment/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,14 +240,6 @@
     "summary": "SEC filings show that, at least for some drugmakers, \"most-favored nation\" drug pricing deals with President Trump last three years."
   },
   {
-    "title": "Kansas’ new ID law could have health consequences for trans people",
-    "link": "https://www.statnews.com/2026/02/27/kansas-id-law-impact-health-trans-people-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-27T18:54:32.000Z",
-    "summary": "Get your daily dose of health and medicine every weekday with STAT’s free newsletter Morning Rounds. Sign up here. Happy Friday. If I ever have kids, I want them to be…"
-  },
-  {
     "title": "Atrium spins out of Avidity, aiming to target rare heart diseases with RNA",
     "link": "https://www.biopharmadive.com/news/atrium-avidity-spinout-novartis-rna-cardiomyopathy-heart/813365/",
     "source": "BioPharma Dive",
@@ -206,30 +262,6 @@
     "category": "industry",
     "date": "2026-02-27T16:45:00.000Z",
     "summary": "In issuing a positive recommendation, the EMA has diverged from the FDA, which has set higher approval standards for Moderna’s vaccine in the U.S."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/02/27/pharma-biotech-jobs-merck-roche-kymera/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-27T16:22:01.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "Opinion: Former surgeon general: The Senate must not approve someone who can’t practice medicine as the nation’s top doctor",
-    "link": "https://www.statnews.com/2026/02/27/casey-means-surgeon-general-jerome-adams/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-27T15:17:39.000Z",
-    "summary": "“The surgeon general is not a wellness influencer,” writes former Surgeon General Jerome Adams of Casey Means."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about FDA and a ‘smear campaign,’ Cigna buying a large pharmacy, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/02/27/fda-bonus-cigna-pharmacy-abbvie-novartis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-02-27T14:30:55.000Z",
-    "summary": "FDA Commissioner Marty Makary defended the agency’s recent rejections of rare disease drugs and top agency official Vinay Prasad"
   },
   {
     "title": "Generate caps a strong month for biotech IPOs with $400M offering",
