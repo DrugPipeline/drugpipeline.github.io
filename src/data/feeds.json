@@ -1,5 +1,77 @@
 [
   {
+    "title": "Moderna to pay up to $2.25B to end mRNA vaccine patent fight",
+    "link": "https://www.biopharmadive.com/news/moderna-roivant-arbutus-genevant-patent-settlement-mrna-vaccines/813792/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-04T17:06:00.000Z",
+    "summary": "Announced days before a trial, the deal settles a longstanding dispute and avoids what one analyst called a “worst-case scenario” financially for Moderna."
+  },
+  {
+    "title": "Blackstone puts $400M into Teva, Sanofi gut disease drug",
+    "link": "https://www.biopharmadive.com/news/blackstone-teva-400-million-development-deal-duvakitug/813763/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-04T16:57:40.000Z",
+    "summary": "The deal adds to a growing biotech presence for Blackstone and supports testing of a drug competing with rival therapies from Merck and Roche."
+  },
+  {
+    "title": "STAT+: Is RFK Jr. coming for your Dunkin’?",
+    "link": "https://www.statnews.com/2026/03/04/is-rfk-jr-coming-for-your-dunkin/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-04T16:44:09.000Z",
+    "summary": "The warning comes as Kennedy is leaning heavily into his agenda to improve American diets"
+  },
+  {
+    "title": "Prime to test FDA flexibility with 2-patient gene editing submission",
+    "link": "https://www.biopharmadive.com/news/prime-fda-gene-editing-rare-chronic-granulomatous-disease/813772/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-04T16:08:00.000Z",
+    "summary": "The planned filing comes amid heightened scrutiny of the FDA’s rare disease stance and a year after Prime deprioritized the program for economic reasons."
+  },
+  {
+    "title": "FDA again targets GLP-1 compounders; Intellia to restart heart disease trial",
+    "link": "https://www.biopharmadive.com/news/fda-compounders-intellia-acip-ralinepag-merck-walireg/813555/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-04T15:18:00.000Z",
+    "summary": "The agency zeroed in on claims that compounded GLP-1 drugs are comparable to approved medicines. Elsewhere, a blood pressure drug topped Wall Street expectations and a Merck deal paid dividends."
+  },
+  {
+    "title": "STAT+: FDA warns more telehealth firms about compounded GLP-1s",
+    "link": "https://www.statnews.com/2026/03/04/biotech-news-fda-warns-telehealth-about-glp-1-compounding/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-04T14:44:42.000Z",
+    "summary": "Moderna's Covid-19 shot settlement, Prime Medicine's gene therapy, and other biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: What does malpractice insurance have to do with AI?",
+    "link": "https://www.statnews.com/2026/03/04/health-care-malpractice-insurance-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-04T14:22:01.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: Brittany Trang dives into what medical malpractice insurance looks like in the age of artificial intelligence, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Moderna’s $2.25 billion settlement, FDA warning letters, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/04/moderna-patents-fda-affordability-charities-novo-telehealth/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-04T14:19:23.000Z",
+    "summary": "Moderna agreed to pay Roivant up to $2.25 billion to settle claims that its mRNA Covid vaccine infringed on Roivant’s patents"
+  },
+  {
+    "title": "Wildfire pollution linked to higher stroke risk",
+    "link": "https://www.statnews.com/2026/03/04/health-news-wildfire-pollution-linked-to-higher-stroke/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-04T13:05:48.000Z",
+    "summary": "Ultra-processed diet and behavior, UnitedHealth's latest SEC filing, and other health news"
+  },
+  {
     "title": "STAT+: UnitedHealth promised transparency. Instead, it’s cutting back key disclosures",
     "link": "https://www.statnews.com/2026/03/04/unitedhealth-limits-subsidiary-disclosure-sec-reporting-shift/?utm_campaign=rss",
     "source": "STAT News",
@@ -14,6 +86,14 @@
     "category": "industry",
     "date": "2026-03-04T09:30:00.000Z",
     "summary": "When we are ill, we need expertise more than ever, yet our agency feels fragile. The best clinicians recognize this, a patient writes."
+  },
+  {
+    "title": "Digital endpoints in clinical trials: building the business case for systematic adoption",
+    "link": "https://www.nature.com/articles/d41573-026-00033-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-04T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Moderna to pay Roivant up to $2.25 billion to settle patent lawsuit behind mRNA vaccines",
@@ -144,14 +224,6 @@
     "summary": "A new \"Make Europe Healthy Again\" movement ties U.S. MAHA figures to European anti-vaccine and far-right networks, raising public health concerns."
   },
   {
-    "title": "Opinion: STAT+: 6 key dilemmas as human embryo models get ever closer to the real thing",
-    "link": "https://www.statnews.com/2026/03/03/human-embryo-models-ethical-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-03T09:30:00.000Z",
-    "summary": "6 core challenges that researchers must consider as the race to create models that are ever closer to real human embryos heats up."
-  },
-  {
     "title": "Author Correction: Novel drug treatments for schizophrenia",
     "link": "https://www.nature.com/articles/s41573-026-01409-3",
     "source": "Nature Reviews Drug Discovery",
@@ -192,22 +264,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: CMS halts enrollment in Elevance’s Medicare Advantage plans, citing years of misconduct",
-    "link": "https://www.statnews.com/2026/03/02/elevance-stock-cms-medicare-advantage-enrollment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T18:06:53.000Z",
-    "summary": "CMS said Elevance had \"substantial and persistent noncompliance\" with requirements to submit information about its customers."
-  },
-  {
-    "title": "STAT+: Aetna’s ACA hospital prices, and a new Cigna deal",
-    "link": "https://www.statnews.com/2026/03/02/health-care-inc-aetna-aca-hospital-prices-cigna-carepathrx-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T17:28:43.000Z",
-    "summary": "The health insurer paid higher prices for hospital care than some rivals in the ACA insurance market."
-  },
-  {
     "title": "Ascendis wins FDA approval of dwarfism drug",
     "link": "https://www.biopharmadive.com/news/ascendis-fda-approval-yuviwel-achondroplasia-biomarin-voxzogo/813502/",
     "source": "BioPharma Dive",
@@ -238,54 +294,6 @@
     "category": "industry",
     "date": "2026-03-02T16:05:43.000Z",
     "summary": "Candid, which is making bispecifics for immune diseases, has also raised $505 million in a private financing for the newly formed company."
-  },
-  {
-    "title": "STAT+: A Merck cancer drug to watch",
-    "link": "https://www.statnews.com/2026/03/02/biotech-news-merck-renal-cell-carcinoma-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T14:41:10.000Z",
-    "summary": "UniQure seeks approval, Novartis settles Henrietta Lacks lawsuit, and more biotech stories"
-  },
-  {
-    "title": "A swine flu case to keep tabs on",
-    "link": "https://www.statnews.com/2026/03/02/health-news-swine-flu-case-in-spain-investigate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T14:20:38.000Z",
-    "summary": "The \"godfather of vaccines,\" a case of swine flu, and other health news from Morning Rounds"
-  },
-  {
-    "title": "Safety concerns spur Aardvark to halt key Prader-Willi drug trial",
-    "link": "https://www.biopharmadive.com/news/aardvark-pause-prader-willi-drug-trial-safety/813443/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-02T13:26:00.000Z",
-    "summary": "The detection of certain cardiac issues in a study of healthy volunteers led Aardvark to pause a Phase 3 trial only months before an expected data readout."
-  },
-  {
-    "title": "Why it’s critical to close open steps in cell therapy manufacturing",
-    "link": "https://www.biopharmadive.com/spons/why-its-critical-to-close-open-steps-in-cell-therapy-manufacturing/813218/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-02T10:00:00.000Z",
-    "summary": "Reduce risk, cut costs and scale smarter by closing open steps in cell therapy manufacturing."
-  },
-  {
-    "title": "Atrium spins out of Avidity, aiming to target rare heart diseases with RNA",
-    "link": "https://www.biopharmadive.com/news/atrium-avidity-spinout-novartis-rna-cardiomyopathy-heart/813365/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-27T17:58:42.000Z",
-    "summary": "Four months after Avidity’s $12 billion buyout, Atrium debuted with $270 million in cash and plans to pick up its predecessor’s work in cardiovascular disease."
-  },
-  {
-    "title": "UniQure falls further on Makary comments",
-    "link": "https://www.biopharmadive.com/news/uniqure-makary-cnbc-gene-therapy-rare-disease-stock/813371/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-02-27T17:08:00.000Z",
-    "summary": "Remarks the FDA commissioner made during a CNBC appearance seemed to stoke investor fears that UniQure's gene therapy for Huntington's won't get approved."
   },
   {
     "title": "FDA Grants Second Approval under the National Priority Voucher Pilot Program",
