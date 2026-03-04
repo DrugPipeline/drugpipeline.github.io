@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: Moderna to pay Roivant up to $2.25 billion to settle patent lawsuit behind mRNA vaccines",
+    "link": "https://www.statnews.com/2026/03/03/moderna-settles-covid-vaccine-suit-roivant/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T21:49:00.000Z",
+    "summary": "A settlement provides a massive windfall for Arbutus and Roivant and avoids a worst-case scenario for Moderna."
+  },
+  {
+    "title": "STAT+: Virginia lawmakers push a new approach to a prescription drug affordability board",
+    "link": "https://www.statnews.com/pharmalot/2026/03/03/virginia-new-approach-prescription-drug-affordability-board/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-03T20:36:31.000Z",
+    "summary": "As states try to contain the cost of prescription drugs, Virginia lawmakers are pushing an affordability board they believe will go further than efforts in other states."
+  },
+  {
     "title": "Autism researchers rebuke Kennedy, form independent advisory group",
     "link": "https://www.statnews.com/2026/03/03/autism-researchers-rebuke-kennedy-form-independent-advisory-group/?utm_campaign=rss",
     "source": "STAT News",
@@ -13,7 +29,7 @@
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-03T18:29:38.000Z",
-    "summary": "The U.S. Food and Drug Administration today announced the issuance of 30 warning letters to telehealth companies for making false and misleading claims regarding compounded GLP-1 products offered on…"
+    "summary": "The U.S. Food and Drug Administration today announced the issuance of 30 warning letters to telehealth companies for making false or misleading claims regarding compounded GLP-1 products offered on…"
   },
   {
     "title": "STAT+: Trump can’t break free from vaccine politics",
@@ -256,22 +272,6 @@
     "summary": "Reduce risk, cut costs and scale smarter by closing open steps in cell therapy manufacturing."
   },
   {
-    "title": "STAT+: Federal Medicaid audit finds massive overpayment for autism therapy in Colorado",
-    "link": "https://www.statnews.com/2026/03/02/hhs-medicaid-audit-finds-autism-therapy-overpayment-colorado/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T09:30:00.000Z",
-    "summary": "HHS's OIG uncovered $285.2 million in improper and potentially improper payments to clinicians of an autism therapy called applied behavior analysis, it said."
-  },
-  {
-    "title": "STAT+: How can HHS drive clinical AI adoption? The industry wish list is starting to take shape",
-    "link": "https://www.statnews.com/2026/03/02/hhs-clinical-ai-proposal-health-tech-wish-list/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-02T09:30:00.000Z",
-    "summary": "What leading health tech firms and AI startups want HHS to do to speed up clinical AI adoption."
-  },
-  {
     "title": "Atrium spins out of Avidity, aiming to target rare heart diseases with RNA",
     "link": "https://www.biopharmadive.com/news/atrium-avidity-spinout-novartis-rna-cardiomyopathy-heart/813365/",
     "source": "BioPharma Dive",
@@ -309,14 +309,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-02-26T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Gilead pays US$7.8 billion for Arcellx’s next-generation CAR T candidate",
-    "link": "https://www.nature.com/articles/d41573-026-00034-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-25T00:00:00.000Z",
     "summary": ""
   }
 ]
