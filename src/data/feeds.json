@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: A new mystery emerges about Epstein’s involvement in Harvard genetics study",
+    "link": "https://www.statnews.com/2026/03/04/jeffrey-epstein-new-mystery-harvard-genetics-project-george-church/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-05T01:02:26.000Z",
+    "summary": "Someone seems to have altered the Personal Genome Project’s profile page believed to belong to Epstein to indicate he provided consent to join the study Jan. 31, 2026."
+  },
+  {
+    "title": "Opinion: Obesity drugs may silence the ‘drug noise’ behind all addiction",
+    "link": "https://www.statnews.com/2026/03/04/glp-1-drugs-addiction-biological-driver/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-04T23:30:00.000Z",
+    "summary": "A new study found GLP-1 drugs were associated with 50% fewer substance-related deaths, 39% fewer drug overdoses, and 26% fewer drug-related hospitalizations."
+  },
+  {
+    "title": "STAT+: RFK Jr. has wide discretion to choose evidence to support vaccine decisions, DOJ argues",
+    "link": "https://www.statnews.com/2026/03/04/kennedy-vaccine-changes-pediatrician-lawsuit-latest-hearing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-04T23:09:10.000Z",
+    "summary": "A Justice Department lawyer argued that the HHS secretary has broad discretion to issue vaccine guidance and choose what evidence to consider."
+  },
+  {
     "title": "Moderna to pay up to $2.25B to end mRNA vaccine patent fight",
     "link": "https://www.biopharmadive.com/news/moderna-roivant-arbutus-genevant-patent-settlement-mrna-vaccines/813792/",
     "source": "BioPharma Dive",
@@ -200,30 +224,6 @@
     "summary": "MAHA to MEHA, generative AI for surgery patients, and other health news from Morning Rounds"
   },
   {
-    "title": "STAT+: FDA is ‘not convinced’ UniQure’s Huntington’s therapy has benefit, senior official says",
-    "link": "https://www.statnews.com/2026/03/03/uniqure-huntingtons-treatment-fda-official-comments/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-03T12:11:22.000Z",
-    "summary": "The FDA believes that an experimental therapy for Huntington’s disease from UniQure wasn't providing benefit for patients, a senior official told STAT."
-  },
-  {
-    "title": "STAT+: FDA grants ‘breakthrough’ status to generative AI chatbot for surgical patients",
-    "link": "https://www.statnews.com/2026/03/03/fda-breakthrough-designation-generative-ai-chatbot-recovryai/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-03T09:30:00.000Z",
-    "summary": "The FDA's decision on a chatbot for patients recovering from surgery could offer clues on how the agency plans to regulate generative AI tools."
-  },
-  {
-    "title": "STAT+: MAHA goes global: Inside the rise of the Make Europe Healthy Again movement",
-    "link": "https://www.statnews.com/2026/03/03/maha-movement-spreads-meha-make-europe-healthy-again/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-03T09:30:00.000Z",
-    "summary": "A new \"Make Europe Healthy Again\" movement ties U.S. MAHA figures to European anti-vaccine and far-right networks, raising public health concerns."
-  },
-  {
     "title": "Author Correction: Novel drug treatments for schizophrenia",
     "link": "https://www.nature.com/articles/s41573-026-01409-3",
     "source": "Nature Reviews Drug Discovery",
@@ -302,21 +302,5 @@
     "category": "regulatory",
     "date": "2026-02-26T17:38:38.000Z",
     "summary": "The U.S. Food and Drug Administration today issued an approval for the lung cancer drug Hernexeos (zongertinib) as a part of the new Commissioner's National Priority Voucher (CNPV) pilot program."
-  },
-  {
-    "title": "The therapeutic potential of orphan adhesion G-protein-coupled receptors",
-    "link": "https://www.nature.com/articles/s41573-025-01371-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-26T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Dose-finding and optimization in drug development for rare diseases",
-    "link": "https://www.nature.com/articles/d41573-026-00035-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-02-26T00:00:00.000Z",
-    "summary": ""
   }
 ]
