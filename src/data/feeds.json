@@ -1,5 +1,77 @@
 [
   {
+    "title": "Servier to build cancer drug pipeline with $2.5B purchase of Day One",
+    "link": "https://www.biopharmadive.com/news/day-one-servier-acquisition-deal-cancer-drug-research-biotech/814065/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-06T17:24:00.000Z",
+    "summary": "The proposed acquisition would hand Servier a couple experimental drugs in human testing as well as Ojemda, an approved therapy for certain hard-to-treat brain tumors that affect children."
+  },
+  {
+    "title": "Roche, Zealand shares fall on ‘undifferentiated’ obesity drug results",
+    "link": "https://www.biopharmadive.com/news/roche-zealand-pretrelintide-amylin-obesity-drug-results/814043/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-06T17:22:58.000Z",
+    "summary": "An amylin-targeting medicine at the center of the companies’ multibillion-dollar alliance spurred less weight loss than investors had hoped, leading some analysts to question its ability to stand out."
+  },
+  {
+    "title": "FDA issues speedy approval to J&J’s Tecvayli-Darzalex combo",
+    "link": "https://www.biopharmadive.com/news/tecvayli-darzalex-multiple-myeloma-fda-approval-national-priority-voucher/814031/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-06T16:41:20.000Z",
+    "summary": "The regimen’s clearance in early multiple myeloma was the third approval under the agency’s controversial “national priority” voucher program and issued only 55 days after the review began."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/03/06/pharma-biotech-jobs-gsk-abbvie-takeda-astrazeneca-mckesson/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T16:37:05.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "The FDA, urged to avoid controversy, creates a new headache with attack against UniQure",
+    "link": "https://www.statnews.com/2026/03/06/fda-uniqure-rare-disease-huntingtons/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T16:24:37.000Z",
+    "summary": "Recent decisions at the FDA threaten to turn its disagreements with the drugmaker UniQure into another political headache for the Trump administration."
+  },
+  {
+    "title": "Pfizer nabs first obesity approval; Alnylam, Tenaya search for heart drugs",
+    "link": "https://www.biopharmadive.com/news/pfizer-obesity-china-alnylam-tenaya-helus-daiichi/813966/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-06T15:13:00.000Z",
+    "summary": "The clearance in China comes weeks after Pfizer acquired rights to the therapy. Elsewhere, Alnylam is looking for “novel” cardiovascular targets and investors sold off Helus shares."
+  },
+  {
+    "title": "STAT+: Moderna’s reset hinges on oncology",
+    "link": "https://www.statnews.com/2026/03/06/biotech-news-moderna-reset-hinges-on-cancer-treatmen/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T14:46:59.000Z",
+    "summary": "Moderna's long-term strategy, an FDA fast-track for Janssen, and other biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Servier to acquire Day One, maker of pediatric cancer drug, for $2.5B",
+    "link": "https://www.statnews.com/2026/03/06/servier-dayone-pediatric-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T14:31:59.000Z",
+    "summary": "Servier said it would buy Day One Biopharmaceuticals, the maker of a drug for childhood brain tumors, in a deal worth roughly $2.5 billion."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA-UniQure tussle, a Pfizer obesity drug approval in China, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/06/fda-uniqure-china-pfizer-obesity-antibiotics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T14:25:38.000Z",
+    "summary": "China has approved a new obesity treatment from Pfizer, heightening competition in a market poised to become even more crowded"
+  },
+  {
     "title": "Americans trust Fauci more than RFK Jr.",
     "link": "https://www.statnews.com/2026/03/06/health-news-fauci-public-trust-over-rfk-jr/?utm_campaign=rss",
     "source": "STAT News",
@@ -46,6 +118,22 @@
     "category": "industry",
     "date": "2026-03-06T09:30:00.000Z",
     "summary": "What, exactly, is “religious” about refusing vaccination?"
+  },
+  {
+    "title": "FDA approves dwarfism drug",
+    "link": "https://www.nature.com/articles/d41573-026-00040-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-06T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Top companies and drugs by sales in 2025",
+    "link": "https://www.nature.com/articles/d41573-026-00041-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-06T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Across ERs, Tylenol orders for pregnant people dropped after health officials linked drug to autism",
@@ -160,46 +248,6 @@
     "summary": "Atavistik Bio is using the cash to develop “allosteric” medicines it believes can precisely impact on diseases like myelofibrosis and the blood condition HHT."
   },
   {
-    "title": "STAT+: The extremism of the FDA’s Marks and Prasad has come with costs",
-    "link": "https://www.statnews.com/2026/03/05/vinay-prasad-peter-marks-fda-regulatory-frameworks/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T11:30:00.000Z",
-    "summary": "With the current leadership of the FDA, the rare-disease community is suffering whiplash. Drugmakers are frustrated. And investors are sitting on their wallets."
-  },
-  {
-    "title": "STAT+: More than 50 medical schools will expand nutrition education in agreement with RFK Jr.",
-    "link": "https://www.statnews.com/2026/03/05/medical-schools-add-nutrition-education-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T11:00:00.000Z",
-    "summary": "At a time when his vaccine policies are causing pushback from doctors, Kennedy's allies push nutrition education as an area of common ground."
-  },
-  {
-    "title": "STAT+: Eli Lilly launches program for employers to subsidize cost of obesity drug outside insurance",
-    "link": "https://www.statnews.com/2026/03/05/eli-lilly-zepbound-employers/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T11:00:00.000Z",
-    "summary": "Eli Lilly is going beyond its efforts to sell its obesity drug Zepbound directly to patients, and is now trying to target employers."
-  },
-  {
-    "title": "STAT+: Cognito raises $105 million for Alzheimer’s treatment device",
-    "link": "https://www.statnews.com/2026/03/05/cognito-fundraise-alzheimers-treatment-device/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T09:30:00.000Z",
-    "summary": "Cognito raised $105 million as it awaits trial data that it hopes will convince the FDA to authorize its Alzheimer’s treatment device."
-  },
-  {
-    "title": "A month in, TrumpRx falls short of president’s grand promises",
-    "link": "https://www.statnews.com/2026/03/05/trumprx-high-expectations-limited-impact/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T09:30:00.000Z",
-    "summary": "Trump wants to focus on his efforts to lower drug prices, but the TrumpRx website is falling short of his promises."
-  },
-  {
     "title": "Moderna to pay up to $2.25B to end mRNA vaccine patent fight",
     "link": "https://www.biopharmadive.com/news/moderna-roivant-arbutus-genevant-patent-settlement-mrna-vaccines/813792/",
     "source": "BioPharma Dive",
@@ -224,14 +272,6 @@
     "summary": "The planned filing comes amid heightened scrutiny of the FDA’s rare disease stance and a year after Prime deprioritized the program for economic reasons."
   },
   {
-    "title": "FDA again targets GLP-1 compounders; Intellia to restart heart disease trial",
-    "link": "https://www.biopharmadive.com/news/fda-compounders-intellia-acip-ralinepag-merck-walireg/813555/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-04T15:18:00.000Z",
-    "summary": "The agency zeroed in on claims that compounded GLP-1 drugs are comparable to approved medicines. Elsewhere, a blood pressure drug topped Wall Street expectations and a Merck deal paid dividends."
-  },
-  {
     "title": "Digital endpoints in clinical trials: building the business case for systematic adoption",
     "link": "https://www.nature.com/articles/d41573-026-00033-5",
     "source": "Nature Reviews Drug Discovery",
@@ -246,22 +286,6 @@
     "category": "regulatory",
     "date": "2026-03-03T18:29:38.000Z",
     "summary": "The U.S. Food and Drug Administration today announced the issuance of 30 warning letters to telehealth companies for making false or misleading claims regarding compounded GLP-1 products offered on…"
-  },
-  {
-    "title": "Kyowa Kirin abandons touted eczema drug following safety review",
-    "link": "https://www.biopharmadive.com/news/kyowa-kirin-discontinue-rocatinlimab-ox40-kaposi-sarcoma/813643/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-03T17:22:00.000Z",
-    "summary": "A month after Amgen gave up on rocatinlimab — which was once seen as a threat to Dupixent — new findings have linked the drug’s mechanism to the onset of a type of skin cancer."
-  },
-  {
-    "title": "Pierre Fabre seeks to revive US approval chances for spurned cell therapy",
-    "link": "https://www.biopharmadive.com/news/pierre-fabre-atara-ebvallo-fda-reject-type-a-meeting/813625/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-03T16:52:51.000Z",
-    "summary": "Ebvallo is one of a series of rare disease treatments recently turned back by the FDA amid shifting guidance that has surprised some companies and frustrated investors."
   },
   {
     "title": "Author Correction: Novel drug treatments for schizophrenia",
@@ -302,13 +326,5 @@
     "category": "research",
     "date": "2026-03-03T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Ascendis wins FDA approval of dwarfism drug",
-    "link": "https://www.biopharmadive.com/news/ascendis-fda-approval-yuviwel-achondroplasia-biomarin-voxzogo/813502/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-02T17:22:00.000Z",
-    "summary": "Yuviwel, a once-weekly injection, will now compete for market share with BioMarin’s lucrative daily shot Voxzogo."
   }
 ]
