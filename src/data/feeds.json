@@ -1,5 +1,53 @@
 [
   {
+    "title": "Americans trust Fauci more than RFK Jr.",
+    "link": "https://www.statnews.com/2026/03/06/health-news-fauci-public-trust-over-rfk-jr/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T12:54:38.000Z",
+    "summary": "The DOJ's fight against gender-affirming care, the impact of Trump's 'Don't take Tylenol,' and more health news"
+  },
+  {
+    "title": "How Stand Up For Science is trying to ‘pull every lever’ to win over the public",
+    "link": "https://www.statnews.com/2026/03/06/stand-up-for-science-organizer-colette-delawalla-interview/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T09:30:00.000Z",
+    "summary": "Stand Up For Science has become a formal organization and adopted a new strategy that's more confrontational with grassroots tactics"
+  },
+  {
+    "title": "How the ‘holy grail’ weight loss pill became a reality, and what comes next",
+    "link": "https://www.statnews.com/2026/03/06/glp-1-weight-loss-pill-development-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T09:30:00.000Z",
+    "summary": "In this week’s STATus Report, host Alex Hogan explains why weight loss pills were so much harder to develop than injectables."
+  },
+  {
+    "title": "In its campaign against gender-affirming care, Trump administration seeks to clear a big legal hurdle",
+    "link": "https://www.statnews.com/2026/03/06/trump-gender-affirming-care-queerdoc-subpoena-appeal-9th-circuit/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T09:30:00.000Z",
+    "summary": "A federal appeals court will hear arguments Friday in the Trump administration's effort to subpoena patient records on gender-affirming care"
+  },
+  {
+    "title": "Opinion: U.S. needs a national prevention infrastructure for mental and behavioral disorders",
+    "link": "https://www.statnews.com/2026/03/06/preventive-care-mental-behavioral-health-addiction/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T09:30:00.000Z",
+    "summary": "A clear blueprint for a national prevention infrastructure for mental and behavioral disorders."
+  },
+  {
+    "title": "Opinion: What’s so religious about opposing vaccines?",
+    "link": "https://www.statnews.com/2026/03/06/religious-exemption-vaccines-amish-vaccination-hesitancy-examined/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-06T09:30:00.000Z",
+    "summary": "What, exactly, is “religious” about refusing vaccination?"
+  },
+  {
     "title": "Across ERs, Tylenol orders for pregnant people dropped after health officials linked drug to autism",
     "link": "https://www.statnews.com/2026/03/05/tylenol-use-drop-after-trump-link-acetamenophen-autism/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,46 +200,6 @@
     "summary": "Trump wants to focus on his efforts to lower drug prices, but the TrumpRx website is falling short of his promises."
   },
   {
-    "title": "Opinion: AI could revolutionize antibiotics — but the market is standing in the way",
-    "link": "https://www.statnews.com/2026/03/05/antibiotic-resistance-why-ai-innovation-not-enough/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T09:30:00.000Z",
-    "summary": "Economic reality and the persistent absence of funding stand in the way of using AI for antibiotic breakthroughs."
-  },
-  {
-    "title": "STAT+: Gilead and South Africa are negotiating a license for local production of new HIV drug",
-    "link": "https://www.statnews.com/pharmalot/2026/03/05/gilead-hiv-aids-south-africa-ilcense-lenacapavir/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T06:30:00.000Z",
-    "summary": "South Africa has the world’s highest HIV burden, with about 8 million HIV-positive people, or 1 in 5 adults, as of last year."
-  },
-  {
-    "title": "STAT+: A new mystery emerges about Epstein’s involvement in Harvard genetics study",
-    "link": "https://www.statnews.com/2026/03/04/jeffrey-epstein-new-mystery-harvard-genetics-project-george-church/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T01:02:26.000Z",
-    "summary": "Someone seems to have altered the Personal Genome Project’s profile page believed to belong to Epstein to indicate he provided consent to join the study Jan. 31, 2026."
-  },
-  {
-    "title": "Opinion: Obesity drugs may silence the ‘drug noise’ behind all addiction",
-    "link": "https://www.statnews.com/2026/03/04/glp-1-drugs-addiction-biological-driver/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-04T23:30:00.000Z",
-    "summary": "A new study found GLP-1 drugs were associated with 50% fewer substance-related deaths, 39% fewer drug overdoses, and 26% fewer drug-related hospitalizations."
-  },
-  {
-    "title": "STAT+: RFK Jr. has wide discretion to choose evidence to support vaccine decisions, DOJ argues",
-    "link": "https://www.statnews.com/2026/03/04/kennedy-vaccine-changes-pediatrician-lawsuit-latest-hearing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-04T23:09:10.000Z",
-    "summary": "A Justice Department lawyer argued that the HHS secretary has broad discretion to issue vaccine guidance and choose what evidence to consider."
-  },
-  {
     "title": "Moderna to pay up to $2.25B to end mRNA vaccine patent fight",
     "link": "https://www.biopharmadive.com/news/moderna-roivant-arbutus-genevant-patent-settlement-mrna-vaccines/813792/",
     "source": "BioPharma Dive",
@@ -206,14 +214,6 @@
     "category": "industry",
     "date": "2026-03-04T16:57:40.000Z",
     "summary": "The deal adds to a growing biotech presence for Blackstone and supports testing of a drug competing with rival therapies from Merck and Roche."
-  },
-  {
-    "title": "STAT+: Is RFK Jr. coming for your Dunkin’?",
-    "link": "https://www.statnews.com/2026/03/04/is-rfk-jr-coming-for-your-dunkin/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-04T16:44:09.000Z",
-    "summary": "The warning comes as Kennedy is leaning heavily into his agenda to improve American diets"
   },
   {
     "title": "Prime to test FDA flexibility with 2-patient gene editing submission",
