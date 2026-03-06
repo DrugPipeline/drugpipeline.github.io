@@ -1,11 +1,27 @@
 [
   {
+    "title": "Across ERs, Tylenol orders for pregnant people dropped after health officials linked drug to autism",
+    "link": "https://www.statnews.com/2026/03/05/tylenol-use-drop-after-trump-link-acetamenophen-autism/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-05T23:30:00.000Z",
+    "summary": "Immediately after U.S. health officials linked Tylenol to autism, the drug's use in pregnant women visiting ERs dropped, new study shows."
+  },
+  {
+    "title": "STAT+: Omada reports first profitable quarter as it seizes broad GLP-1 opportunity",
+    "link": "https://www.statnews.com/2026/03/05/omada-reports-quarterly-profit-glp1-opportunity/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-05T21:20:00.000Z",
+    "summary": "Virtual chronic care company Omada, which went public less than a year ago, reported a quarterly profit for the first time."
+  },
+  {
     "title": "STAT+: Science Corp. raises $230 million to bring retinal implant to Americans",
     "link": "https://www.statnews.com/2026/03/05/science-corp-raises-230-million-retinal-implant-fda-decision/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-03-05T19:01:41.000Z",
-    "summary": "Science Corp. raised $230 million as it awaits a decision from the FDA on PRIMA, their wireless retinal implant."
+    "summary": "Science Corp. raised $230 million as it awaits a decision from the FDA on PRIMA, its wireless retinal implant."
   },
   {
     "title": "STAT+: Patient health data as a public utility: A former ARPA-H data chief explains",
@@ -214,22 +230,6 @@
     "category": "industry",
     "date": "2026-03-04T15:18:00.000Z",
     "summary": "The agency zeroed in on claims that compounded GLP-1 drugs are comparable to approved medicines. Elsewhere, a blood pressure drug topped Wall Street expectations and a Merck deal paid dividends."
-  },
-  {
-    "title": "STAT+: FDA warns more telehealth firms about compounded GLP-1s",
-    "link": "https://www.statnews.com/2026/03/04/biotech-news-fda-warns-telehealth-about-glp-1-compounding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-04T14:44:42.000Z",
-    "summary": "Moderna's Covid-19 shot settlement, Prime Medicine's gene therapy, and other biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: What does malpractice insurance have to do with AI?",
-    "link": "https://www.statnews.com/2026/03/04/health-care-malpractice-insurance-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-04T14:22:01.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: Brittany Trang dives into what medical malpractice insurance looks like in the age of artificial intelligence, and more."
   },
   {
     "title": "Digital endpoints in clinical trials: building the business case for systematic adoption",
