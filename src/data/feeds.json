@@ -1,5 +1,77 @@
 [
   {
+    "title": "STAT+: Xenon Pharmaceuticals’ seizure drug shows strong efficacy in late-stage trial",
+    "link": "https://www.statnews.com/2026/03/09/xenon-pharmaceuticals-azetukalner-epilepsy-fos/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T11:00:00.000Z",
+    "summary": "Xenon Pharmaceuticals said its treatment for a common type of seizure disorder significantly reduced the frequency of those seizures compared to a placebo."
+  },
+  {
+    "title": "Navigating the PPQ process: Proven strategies to safeguard quality for cell and gene therapies",
+    "link": "https://www.biopharmadive.com/spons/navigating-the-ppq-process-proven-strategies-to-safeguard-quality-for-cell/813584/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T09:00:00.000Z",
+    "summary": "An often overlooked but critically important step along the path from bench to bedside, PPQ often results in delays and potential non-compliance issues without proper planning."
+  },
+  {
+    "title": "Rethinking the box: Why circular cold chain packaging is becoming a cost strategy in healthcare",
+    "link": "https://www.biopharmadive.com/spons/rethinking-the-box-why-circular-cold-chain-packaging-is-becoming-a-cost-st/813119/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T09:00:00.000Z",
+    "summary": "Spend enough time inside a healthcare distribution center and you start to notice something."
+  },
+  {
+    "title": "STAT+: Health tech company says it will dive into Medicare’s new chronic care experiment",
+    "link": "https://www.statnews.com/2026/03/09/remote-patient-monitoring-cadence-health-cmmi-access/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T08:30:00.000Z",
+    "summary": "How a remote patient monitoring company is reworking its tech to enroll in a Medicare program seeking to align payment with health care outcomes."
+  },
+  {
+    "title": "STAT+: As controversial decisions mount, FDA shuns public advisory meetings",
+    "link": "https://www.statnews.com/2026/03/09/fda-cuts-back-advisory-meetings-controversial-decisions-grow/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T08:30:00.000Z",
+    "summary": "The FDA is cutting back on public advisory committee meetings, even as the public and other stakeholders seek more transparency."
+  },
+  {
+    "title": "STAT+: Blue Cross Blue Shield says data back up claim that AI is driving up medical bills",
+    "link": "https://www.statnews.com/2026/03/09/bcbs-study-hospitals-use-ai-upcoding-drive-up-prices/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T08:30:00.000Z",
+    "summary": "A new data analysis from Blue Cross Blue Shield shows how AI coding may be driving up the cost of health care."
+  },
+  {
+    "title": "STAT+: After UnitedHealth moved in, Oregon sought to rein in corporate health care. Now, it’s facing an early test",
+    "link": "https://www.statnews.com/2026/03/09/peacehealth-er-doctors-replaced-apollomd-backlash/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T08:30:00.000Z",
+    "summary": "PeaceHealth's move to replace ER doctors with ApolloMD clinicians is testing a new state law limiting corporate medicine."
+  },
+  {
+    "title": "Opinion: The financial reason why parents beg me to diagnose their kids with autism",
+    "link": "https://www.statnews.com/2026/03/09/aba-therapy-insurance-coverage-autism-diagnosis-rise/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T08:30:00.000Z",
+    "summary": "Parents often pressure Lawrence Diller, a behavioral/developmental pediatrician, to diagnose their children with autism. He thinks he knows why."
+  },
+  {
+    "title": "Opinion: America must not learn to live with 72,000 overdose deaths a year",
+    "link": "https://www.statnews.com/2026/03/09/drug-overdose-deaths-opioids-decline-plateau/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T08:30:00.000Z",
+    "summary": "With the drop in overdose deaths, “we're celebrating: a death toll that exceeds total American combat fatalities in Vietnam, every single year,” writes addiction researcher Wayne Kepner."
+  },
+  {
     "title": "STAT+: 5 lessons from Vinay Prasad’s turbulent tenure at the FDA",
     "link": "https://www.statnews.com/2026/03/08/vinay-prasad-fda-lessons-from-tenure/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,22 +224,6 @@
     "summary": "A federal appeals court will hear arguments Friday in the Trump administration's effort to subpoena patient records on gender-affirming care"
   },
   {
-    "title": "Opinion: U.S. needs a national prevention infrastructure for mental and behavioral disorders",
-    "link": "https://www.statnews.com/2026/03/06/preventive-care-mental-behavioral-health-addiction/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T09:30:00.000Z",
-    "summary": "A clear blueprint for a national prevention infrastructure for mental and behavioral disorders."
-  },
-  {
-    "title": "Opinion: What’s so religious about opposing vaccines?",
-    "link": "https://www.statnews.com/2026/03/06/religious-exemption-vaccines-amish-vaccination-hesitancy-examined/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T09:30:00.000Z",
-    "summary": "What, exactly, is “religious” about refusing vaccination?"
-  },
-  {
     "title": "FDA approves dwarfism drug",
     "link": "https://www.nature.com/articles/d41573-026-00040-6",
     "source": "Nature Reviews Drug Discovery",
@@ -184,52 +240,12 @@
     "summary": ""
   },
   {
-    "title": "Across ERs, Tylenol orders for pregnant people dropped after health officials linked drug to autism",
-    "link": "https://www.statnews.com/2026/03/05/tylenol-use-drop-after-trump-link-acetamenophen-autism/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T23:30:00.000Z",
-    "summary": "Immediately after U.S. health officials linked Tylenol to autism, the drug's use in pregnant women visiting ERs dropped, new study shows."
-  },
-  {
-    "title": "STAT+: Omada reports first profitable quarter as it seizes broad GLP-1 opportunity",
-    "link": "https://www.statnews.com/2026/03/05/omada-reports-quarterly-profit-glp1-opportunity/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T21:20:00.000Z",
-    "summary": "Virtual chronic care company Omada, which went public less than a year ago, reported a quarterly profit for the first time."
-  },
-  {
-    "title": "STAT+: Science Corp. raises $230 million to bring retinal implant to Americans",
-    "link": "https://www.statnews.com/2026/03/05/science-corp-raises-230-million-retinal-implant-fda-decision/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T19:01:41.000Z",
-    "summary": "Science Corp. raised $230 million as it awaits a decision from the FDA on PRIMA, its wireless retinal implant."
-  },
-  {
-    "title": "STAT+: Patient health data as a public utility: A former ARPA-H data chief explains",
-    "link": "https://www.statnews.com/2026/03/05/who-owns-patient-health-data-public-utility-model-proposal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T19:00:00.000Z",
-    "summary": "Patients generate vast health data, but private companies monetize it. A policy group proposes treating the data like a regulated utility."
-  },
-  {
     "title": "FDA Grants Third Approval Under the National Priority Voucher Program",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-third-approval-under-national-priority-voucher-program",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-05T18:23:32.000Z",
     "summary": "The U.S. Food and Drug Administration today approved teclistamab in combination with daratumumab hyaluronidase-fihj, Tec-Dara, to treat adult patients with relapsed or refractory multiple myeloma who…"
-  },
-  {
-    "title": "STAT+: Breaching the IBD efficacy ceiling, and sham surgeries",
-    "link": "https://www.statnews.com/2026/03/05/better-ibd-treatments-fda-flexibility-questions-readout-loud/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-05T17:49:06.000Z",
-    "summary": "Spyre Therapeutics CEO Cameron Turtle talks about the search for an IBD treatment on this week's \"The Readout LOUD.\""
   },
   {
     "title": "Lilly targets employers in new bid to broaden access to obesity drugs",
@@ -262,22 +278,6 @@
     "category": "industry",
     "date": "2026-03-05T12:00:00.000Z",
     "summary": "Atavistik Bio is using the cash to develop “allosteric” medicines it believes can precisely impact on diseases like myelofibrosis and the blood condition HHT."
-  },
-  {
-    "title": "Moderna to pay up to $2.25B to end mRNA vaccine patent fight",
-    "link": "https://www.biopharmadive.com/news/moderna-roivant-arbutus-genevant-patent-settlement-mrna-vaccines/813792/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-04T17:06:00.000Z",
-    "summary": "Announced days before a trial, the deal settles a longstanding dispute and avoids what one analyst called a “worst-case scenario” financially for Moderna."
-  },
-  {
-    "title": "Blackstone puts $400M into Teva, Sanofi gut disease drug",
-    "link": "https://www.biopharmadive.com/news/blackstone-teva-400-million-development-deal-duvakitug/813763/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-04T16:57:40.000Z",
-    "summary": "The deal adds to a growing biotech presence for Blackstone and supports testing of a drug competing with rival therapies from Merck and Roche."
   },
   {
     "title": "Digital endpoints in clinical trials: building the business case for systematic adoption",
