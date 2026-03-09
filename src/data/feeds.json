@@ -1,5 +1,93 @@
 [
   {
+    "title": "Roche’s prized breast cancer pill fails closely watched study",
+    "link": "https://www.biopharmadive.com/news/roche-giredestrant-first-breast-cancer-study-results/814162/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T16:19:00.000Z",
+    "summary": "The result “pulls the rug” out from under giredestrant, according to one analyst, sparking another share selloff following disappointing obesity data last week."
+  },
+  {
+    "title": "UniQure leads genetic medicine biotech rally after news of Prasad’s exit",
+    "link": "https://www.biopharmadive.com/news/uniqure-fda-prasad-genetic-medicine-biotech-stock-rally/814173/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T15:59:00.000Z",
+    "summary": "Prasad contributed to an uncertain regulatory climate for gene therapy makers focused on rare conditions. Shares of many developers rose on the chance of a more industry-friendly successor."
+  },
+  {
+    "title": "STAT+: The ER staffing conflict, and no facility fee for a marmot",
+    "link": "https://www.statnews.com/2026/03/09/er-staffing-conflict-peacehealth-cigna-cordani-health-care-inc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T15:44:51.000Z",
+    "summary": "A battle between doctors and a hospital system is an early test of a new law designed to separate business and medicine."
+  },
+  {
+    "title": "Ipsen to withdraw cancer drug acquired in buyout due to safety concerns",
+    "link": "https://www.biopharmadive.com/news/ipsen-withdraw-tavzerik-lymphoma-malignancy-epizyme/814161/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T15:38:00.000Z",
+    "summary": "Ipsen found cases of secondary malignancies in a confirmatory study of Tavzerik, a medicine it got in a purchase of Epizyme and that it has struggled to sell."
+  },
+  {
+    "title": "Novo, Hims reach deal to sell GLP-1 drugs together",
+    "link": "https://www.biopharmadive.com/news/hims-novo-deal-obesity-drugs-wegovy-ozempic/814160/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T15:12:00.000Z",
+    "summary": "The agreement ends a messy dispute that began when the telehealth firm attempted to sell a compounded form of Novo’s Wegovy pill at a cheaper price."
+  },
+  {
+    "title": "STAT+: A setback for Roche’s breast cancer drug",
+    "link": "https://www.statnews.com/2026/03/09/biotech-news-setback-for-roche-breast-cancer-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T14:16:13.000Z",
+    "summary": "Wall Street's verdict on Prasad, generic semaglutide's new pricing, and other biotech news"
+  },
+  {
+    "title": "FDA Takes Further Steps to Streamline Biosimilar Development and Make Medicines More Affordable",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-takes-further-steps-streamline-biosimilar-development-and-make-medicines-more-affordable",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-03-09T14:14:25.000Z",
+    "summary": "The U.S. Food and Drug Administration today announced another major step in its initiative to streamline the development of biosimilar medicines, which are like “generic” versions of biologic drugs."
+  },
+  {
+    "title": "STAT+: Novo Nordisk, Hims reach deal to end bitter dispute over Wegovy sales",
+    "link": "https://www.statnews.com/2026/03/09/novo-nordisk-wegovy-hims-hers-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T13:23:21.000Z",
+    "summary": "Novo Nordisk and Hims & Hers have reached a deal that, for now, appears to end their bitter dispute around Hims’ sale of compounded versions of Novo’s blockbuster obesity drug…"
+  },
+  {
+    "title": "Fresh turmoil at the FDA with Prasad’s exit",
+    "link": "https://www.statnews.com/2026/03/09/health-news-fresh-turmoil-at-the-fda-with-prasad-exit/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T13:16:46.000Z",
+    "summary": "Prasad out again, generic Ozempic on its way, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Pharmalot: We’re reading about a lack of FDA adcomms, FDA loosening biosimilar rules, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/09/fda-biosimilars-prasad-novo-hims-weight-wegovy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T13:11:56.000Z",
+    "summary": "There is growing concern that the FDA is shunning advisory committees that allow agency leaders, drugmakers, patients, and doctors to speak their minds in public"
+  },
+  {
+    "title": "STAT+: Talkspace to be acquired for $835 million by mental health services giant",
+    "link": "https://www.statnews.com/2026/03/09/talkspace-to-be-acquired-for-835-million-by-mental-health-services-giant/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T13:11:40.000Z",
+    "summary": "Universal Health Services, a behavioral health provider that operates over 340 inpatient facilities across 40 states, announced Monday that it will acquire virtual mental health company Talkspace for…"
+  },
+  {
     "title": "STAT+: Xenon Pharmaceuticals’ seizure drug shows strong efficacy in late-stage trial",
     "link": "https://www.statnews.com/2026/03/09/xenon-pharmaceuticals-azetukalner-epilepsy-fos/?utm_campaign=rss",
     "source": "STAT News",
@@ -70,6 +158,14 @@
     "category": "industry",
     "date": "2026-03-09T08:30:00.000Z",
     "summary": "With the drop in overdose deaths, “we're celebrating: a death toll that exceeds total American combat fatalities in Vietnam, every single year,” writes addiction researcher Wayne Kepner."
+  },
+  {
+    "title": "Synthetic lethal strategy targets p53-deficient cancers",
+    "link": "https://www.nature.com/articles/d41573-026-00042-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-09T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: 5 lessons from Vinay Prasad’s turbulent tenure at the FDA",
@@ -160,68 +256,12 @@
     "summary": "Recent decisions at the FDA threaten to turn its disagreements with the drugmaker UniQure into another political headache for the Trump administration."
   },
   {
-    "title": "Pfizer nabs first obesity approval; Alnylam, Tenaya search for heart drugs",
-    "link": "https://www.biopharmadive.com/news/pfizer-obesity-china-alnylam-tenaya-helus-daiichi/813966/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-06T15:13:00.000Z",
-    "summary": "The clearance in China comes weeks after Pfizer acquired rights to the therapy. Elsewhere, Alnylam is looking for “novel” cardiovascular targets and investors sold off Helus shares."
-  },
-  {
     "title": "STAT+: Moderna’s reset hinges on oncology",
     "link": "https://www.statnews.com/2026/03/06/biotech-news-moderna-reset-hinges-on-cancer-treatmen/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-03-06T14:46:59.000Z",
     "summary": "Moderna's long-term strategy, an FDA fast-track for Janssen, and other biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Servier to acquire Day One, maker of pediatric cancer drug, for $2.5B",
-    "link": "https://www.statnews.com/2026/03/06/servier-dayone-pediatric-cancer/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T14:31:59.000Z",
-    "summary": "Servier said it would buy Day One Biopharmaceuticals, the maker of a drug for childhood brain tumors, in a deal worth roughly $2.5 billion."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA-UniQure tussle, a Pfizer obesity drug approval in China, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/06/fda-uniqure-china-pfizer-obesity-antibiotics/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T14:25:38.000Z",
-    "summary": "China has approved a new obesity treatment from Pfizer, heightening competition in a market poised to become even more crowded"
-  },
-  {
-    "title": "Americans trust Fauci more than RFK Jr.",
-    "link": "https://www.statnews.com/2026/03/06/health-news-fauci-public-trust-over-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T12:54:38.000Z",
-    "summary": "The DOJ's fight against gender-affirming care, the impact of Trump's 'Don't take Tylenol,' and more health news"
-  },
-  {
-    "title": "How Stand Up For Science is trying to ‘pull every lever’ to win over the public",
-    "link": "https://www.statnews.com/2026/03/06/stand-up-for-science-organizer-colette-delawalla-interview/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T09:30:00.000Z",
-    "summary": "Stand Up For Science has become a formal organization and adopted a new strategy that's more confrontational with grassroots tactics"
-  },
-  {
-    "title": "How the ‘holy grail’ weight loss pill became a reality, and what comes next",
-    "link": "https://www.statnews.com/2026/03/06/glp-1-weight-loss-pill-development-status-report-alex-hogan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T09:30:00.000Z",
-    "summary": "In this week’s STATus Report, host Alex Hogan explains why weight loss pills were so much harder to develop than injectables."
-  },
-  {
-    "title": "In its campaign against gender-affirming care, Trump administration seeks to clear a big legal hurdle",
-    "link": "https://www.statnews.com/2026/03/06/trump-gender-affirming-care-queerdoc-subpoena-appeal-9th-circuit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T09:30:00.000Z",
-    "summary": "A federal appeals court will hear arguments Friday in the Trump administration's effort to subpoena patient records on gender-affirming care"
   },
   {
     "title": "FDA approves dwarfism drug",
@@ -248,36 +288,12 @@
     "summary": "The U.S. Food and Drug Administration today approved teclistamab in combination with daratumumab hyaluronidase-fihj, Tec-Dara, to treat adult patients with relapsed or refractory multiple myeloma who…"
   },
   {
-    "title": "Lilly targets employers in new bid to broaden access to obesity drugs",
-    "link": "https://www.biopharmadive.com/news/lilly-employer-direct-glp1-obesity-drugs-zepbound/813891/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-05T16:47:00.000Z",
-    "summary": "A service tailored to people with workplace-based insurance coverage represents a new way for Lilly to bypass insurers and expand use of its popular obesity shot."
-  },
-  {
-    "title": "PepGen muscular dystrophy drug gets ‘surprise’ hold from FDA",
-    "link": "https://www.biopharmadive.com/news/pepgen-fda-hold-myotonic-dystrophy-drug-trial/813883/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-05T15:59:00.000Z",
-    "summary": "The agency acted after reviewing mouse data submitted in 2024, making the timing of the new pause “confusing,” one analyst wrote."
-  },
-  {
     "title": "FDA to Address Unused Opioids in American Homes",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-address-unused-opioids-american-homes",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-05T14:01:50.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a Request for Information (RFI) seeking public comment on potential new standards for in-home opioid disposal products."
-  },
-  {
-    "title": "A startup making drugs for blood disorders banks $160M",
-    "link": "https://www.biopharmadive.com/news/atavistik-bio-hht-allosteric-jak-inhibitor-series-b/813802/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-05T12:00:00.000Z",
-    "summary": "Atavistik Bio is using the cash to develop “allosteric” medicines it believes can precisely impact on diseases like myelofibrosis and the blood condition HHT."
   },
   {
     "title": "Digital endpoints in clinical trials: building the business case for systematic adoption",
@@ -322,14 +338,6 @@
   {
     "title": "An allosteric site on cereblon",
     "link": "https://www.nature.com/articles/d41573-026-00039-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inhibiting advillin in glioblastoma",
-    "link": "https://www.nature.com/articles/d41573-026-00037-1",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-03-03T00:00:00.000Z",
