@@ -1,5 +1,77 @@
 [
   {
+    "title": "STAT+: After fight over cancer clinicians, Dana-Farber and Brigham are playing nice again",
+    "link": "https://www.statnews.com/2026/03/10/dana-farber-brigham-hospital-breakup-cancer-clinicians/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-10T16:41:56.000Z",
+    "summary": "The two hospitals have agreed to cooperate on a “mutually acceptable and coordinated plan”"
+  },
+  {
+    "title": "STAT+: What’s next for RFK Jr.’s MAHA allies on vaccine policy?",
+    "link": "https://www.statnews.com/2026/03/10/rfk-maha-institute-vaccine-injuries-fda-turnover-prasad-cber/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-10T16:40:12.000Z",
+    "summary": "A coalition of Kennedy's allies gathered to discuss vaccines, but the health secretary was rarely mentioned."
+  },
+  {
+    "title": "Leucovorin lacks evidence to use as autism treatment, FDA says",
+    "link": "https://www.statnews.com/2026/03/10/fda-says-leucovorin-evidence-lacking-for-autism/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-10T16:30:01.000Z",
+    "summary": "The FDA approves leucovorin for a rare brain disorder while retreating from top officials’ earlier insistence that it could benefit many children with autism."
+  },
+  {
+    "title": "BioNTech founders to step down and helm new mRNA startup",
+    "link": "https://www.biopharmadive.com/news/biontech-founders-ugur-sahin-ozlem-tureci-mrna-startup/814290/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-10T15:51:00.000Z",
+    "summary": "Ugur Sahin and Özlem Türeci, who directed the COVID vaccine maker’s rise to prominence, will helm an as-yet-unnamed company dedicated to mRNA discovery work."
+  },
+  {
+    "title": "Xenon hits a ‘home run’ in epilepsy; FDA restarts review of Duchenne cell therapy",
+    "link": "https://www.biopharmadive.com/news/xenon-epilepsy-capricor-pfizer-abbvie-obesity-regeneron-gsk/814182/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-10T15:00:00.000Z",
+    "summary": "Xenon shares skyrocketed nearly 50% on results that handily beat Wall Street expectations. Elsewhere, Capricor got a decision date for a spurned cell therapy and AbbVie and Regeneron showcased…"
+  },
+  {
+    "title": "STAT+: Novo Nordisk is warned by the FDA for failing to report side effects tied to GLP-1 drugs",
+    "link": "https://www.statnews.com/pharmalot/2026/03/10/novo-failed-report-side-effects-fda-wegovy-ozempic/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-10T14:51:35.000Z",
+    "summary": "It's the third time in recent weeks that the FDA has admonished Novo Nordisk for different practices."
+  },
+  {
+    "title": "Health AI startup to benefit from $1 billion funding round for Yann LeCun’s AMI",
+    "link": "https://www.statnews.com/2026/03/10/ai-ami-yann-lecun-nabla-lebrun-world-model/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-10T13:31:33.000Z",
+    "summary": "AI scribe company Nabla aims to be much more by using tech from Yann LeCun's new startup AMI, which just raised $1 billion."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a U.S. senator probing FDA, BioNTech founders leaving, and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/10/fda-biontech-antibiotics-vertex-bristol-hospitals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-10T13:21:04.000Z",
+    "summary": "The co-founders of the Covid-19 vaccine developer BioNTech plan to leave the biotech to start a new mRNA-focused company"
+  },
+  {
+    "title": "FDA Approves First Treatment for Patients with Cerebral Folate Transport Deficiency",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-patients-cerebral-folate-transport-deficiency",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-03-10T13:17:38.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved expanded use of Wellcovorin (leucovorin calcium) tablets for the treatment of cerebral folate deficiency in adult and pediatric patients who have…"
+  },
+  {
     "title": "Amid dueling autism meetings, HHS cancels",
     "link": "https://www.statnews.com/2026/03/10/health-news-amid-dueling-autism-meetings-hhs-cancels/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,46 +256,6 @@
     "summary": "How a remote patient monitoring company is reworking its tech to enroll in a Medicare program seeking to align payment with health care outcomes."
   },
   {
-    "title": "STAT+: As controversial decisions mount, FDA shuns public advisory meetings",
-    "link": "https://www.statnews.com/2026/03/09/fda-cuts-back-advisory-meetings-controversial-decisions-grow/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T08:30:00.000Z",
-    "summary": "The FDA is cutting back on public advisory committee meetings, even as the public and other stakeholders seek more transparency."
-  },
-  {
-    "title": "STAT+: Blue Cross Blue Shield says data back up claim that AI is driving up medical bills",
-    "link": "https://www.statnews.com/2026/03/09/bcbs-study-hospitals-use-ai-upcoding-drive-up-prices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T08:30:00.000Z",
-    "summary": "A new data analysis from Blue Cross Blue Shield shows how AI coding may be driving up the cost of health care."
-  },
-  {
-    "title": "STAT+: After UnitedHealth moved in, Oregon sought to rein in corporate health care. Now, it’s facing an early test",
-    "link": "https://www.statnews.com/2026/03/09/peacehealth-er-doctors-replaced-apollomd-backlash/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T08:30:00.000Z",
-    "summary": "PeaceHealth's move to replace ER doctors with ApolloMD clinicians is testing a new state law limiting corporate medicine."
-  },
-  {
-    "title": "Opinion: The financial reason why parents beg me to diagnose their kids with autism",
-    "link": "https://www.statnews.com/2026/03/09/aba-therapy-insurance-coverage-autism-diagnosis-rise/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T08:30:00.000Z",
-    "summary": "Parents often pressure Lawrence Diller, a behavioral/developmental pediatrician, to diagnose their children with autism. He thinks he knows why."
-  },
-  {
-    "title": "Opinion: America must not learn to live with 72,000 overdose deaths a year",
-    "link": "https://www.statnews.com/2026/03/09/drug-overdose-deaths-opioids-decline-plateau/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T08:30:00.000Z",
-    "summary": "With the drop in overdose deaths, “we're celebrating: a death toll that exceeds total American combat fatalities in Vietnam, every single year,” writes addiction researcher Wayne Kepner."
-  },
-  {
     "title": "Synthetic lethal strategy targets p53-deficient cancers",
     "link": "https://www.nature.com/articles/d41573-026-00042-4",
     "source": "Nature Reviews Drug Discovery",
@@ -232,36 +264,12 @@
     "summary": ""
   },
   {
-    "title": "STAT+: 5 lessons from Vinay Prasad’s turbulent tenure at the FDA",
-    "link": "https://www.statnews.com/2026/03/08/vinay-prasad-fda-lessons-from-tenure/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-08T15:10:03.000Z",
-    "summary": "Vinay Prasad's unique ability to attract criticism — even when his bosses, including the president, wanted him to keep his head low — did him in at the FDA."
-  },
-  {
-    "title": "Vinay Prasad, controversial FDA leader, to again depart agency",
-    "link": "https://www.biopharmadive.com/news/vinay-prasad-fda-depart-cber-vaccines-makary/814121/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-06T22:49:00.000Z",
-    "summary": "Prasad’s planned departure, expected at the end of April, culminates a tumultuous term in which he reworked vaccine guidelines and was criticized for his office’s stance on several rare disease drugs."
-  },
-  {
     "title": "FDA Holds Meeting with States on Importation of Lower Cost Drugs",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-holds-meeting-states-importation-lower-cost-drugs",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-06T18:35:15.000Z",
     "summary": "FDA held a meeting with several states to discuss the section 804 importation program (SIP), which allows states and Indian tribes to import certain prescription drugs from Canada to significantly…"
-  },
-  {
-    "title": "Servier to build cancer drug pipeline with $2.5B purchase of Day One",
-    "link": "https://www.biopharmadive.com/news/day-one-servier-acquisition-deal-cancer-drug-research-biotech/814065/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-06T17:24:00.000Z",
-    "summary": "The proposed acquisition would hand Servier a couple experimental drugs in human testing as well as Ojemda, an approved therapy for certain hard-to-treat brain tumors that affect children."
   },
   {
     "title": "FDA approves dwarfism drug",
@@ -302,13 +310,5 @@
     "category": "research",
     "date": "2026-03-04T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Warns 30 Telehealth Companies Against Illegal Marketing of Compounded GLP-1s",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-warns-30-telehealth-companies-against-illegal-marketing-compounded-glp-1s",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-03-03T18:29:38.000Z",
-    "summary": "The U.S. Food and Drug Administration today announced the issuance of 30 warning letters to telehealth companies for making false or misleading claims regarding compounded GLP-1 products offered on…"
   }
 ]
