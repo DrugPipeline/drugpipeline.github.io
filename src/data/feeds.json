@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Vertex says its drug successfully reduced marker of kidney disease in late-stage trial",
+    "link": "https://www.statnews.com/2026/03/09/vertex-iga-nephropathy-study-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-09T21:39:57.000Z",
+    "summary": "Vertex said a drug it secured as part of a $4.9 billion acquisition successfully reduced by half a key marker of a kidney disease known as IgA nephropathy."
+  },
+  {
+    "title": "Vertex kidney disease drug hits mark in late-stage study",
+    "link": "https://www.biopharmadive.com/news/vertex-povetacicept-iga-nephropathy-study-results/814253/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T21:29:00.000Z",
+    "summary": "Company shares surged in after-market trading on results for a drug Vertex acquired in a multibillion-dollar deal and sees as having “best-in-class potential” in a competitive field."
+  },
+  {
+    "title": "Bristol Myers claims success in study of another next-gen blood cancer drug",
+    "link": "https://www.biopharmadive.com/news/bristol-myers-mezigdomide-celmod-myeloma-study-results/814208/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-09T19:31:00.000Z",
+    "summary": "The therapy, mezigdomide, is part of group of medicines the pharma sees as successors to its lucrative multiple myeloma drugs Revlimid and Pomalyst."
+  },
+  {
     "title": "Roche’s prized breast cancer pill fails closely watched study",
     "link": "https://www.biopharmadive.com/news/roche-giredestrant-first-breast-cancer-study-results/814162/",
     "source": "BioPharma Dive",
@@ -224,22 +248,6 @@
     "summary": "The proposed acquisition would hand Servier a couple experimental drugs in human testing as well as Ojemda, an approved therapy for certain hard-to-treat brain tumors that affect children."
   },
   {
-    "title": "Roche, Zealand shares fall on ‘undifferentiated’ obesity drug results",
-    "link": "https://www.biopharmadive.com/news/roche-zealand-pretrelintide-amylin-obesity-drug-results/814043/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-06T17:22:58.000Z",
-    "summary": "An amylin-targeting medicine at the center of the companies’ multibillion-dollar alliance spurred less weight loss than investors had hoped, leading some analysts to question its ability to stand out."
-  },
-  {
-    "title": "FDA issues speedy approval to J&J’s Tecvayli-Darzalex combo",
-    "link": "https://www.biopharmadive.com/news/tecvayli-darzalex-multiple-myeloma-fda-approval-national-priority-voucher/814031/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-06T16:41:20.000Z",
-    "summary": "The regimen’s clearance in early multiple myeloma was the third approval under the agency’s controversial “national priority” voucher program and issued only 55 days after the review began."
-  },
-  {
     "title": "STAT+: Up and down the ladder: The latest comings and goings",
     "link": "https://www.statnews.com/pharmalot/2026/03/06/pharma-biotech-jobs-gsk-abbvie-takeda-astrazeneca-mckesson/?utm_campaign=rss",
     "source": "STAT News",
@@ -254,14 +262,6 @@
     "category": "industry",
     "date": "2026-03-06T16:24:37.000Z",
     "summary": "Recent decisions at the FDA threaten to turn its disagreements with the drugmaker UniQure into another political headache for the Trump administration."
-  },
-  {
-    "title": "STAT+: Moderna’s reset hinges on oncology",
-    "link": "https://www.statnews.com/2026/03/06/biotech-news-moderna-reset-hinges-on-cancer-treatmen/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-06T14:46:59.000Z",
-    "summary": "Moderna's long-term strategy, an FDA fast-track for Janssen, and other biotech news from The Readout"
   },
   {
     "title": "FDA approves dwarfism drug",
@@ -310,37 +310,5 @@
     "category": "regulatory",
     "date": "2026-03-03T18:29:38.000Z",
     "summary": "The U.S. Food and Drug Administration today announced the issuance of 30 warning letters to telehealth companies for making false or misleading claims regarding compounded GLP-1 products offered on…"
-  },
-  {
-    "title": "Author Correction: Novel drug treatments for schizophrenia",
-    "link": "https://www.nature.com/articles/s41573-026-01409-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Promoting remyelination",
-    "link": "https://www.nature.com/articles/d41573-026-00038-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Targeting vascular smooth muscle cells",
-    "link": "https://www.nature.com/articles/d41573-026-00036-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "An allosteric site on cereblon",
-    "link": "https://www.nature.com/articles/d41573-026-00039-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-03T00:00:00.000Z",
-    "summary": ""
   }
 ]
