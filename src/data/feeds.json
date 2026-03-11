@@ -1,5 +1,53 @@
 [
   {
+    "title": "Red states hit hardest by reduced NIH funding",
+    "link": "https://www.statnews.com/2026/03/11/red-states-hit-hardest-by-reduced-nih-funding/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T11:52:33.000Z",
+    "summary": "Epstein's \"great friend\" returns to biotech, sex differences in suicide, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: New nonprofit launches with at least $500 million to modernize scientific process for AI era",
+    "link": "https://www.statnews.com/2026/03/11/radial-ai-science-astera-nonprofit/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T11:00:00.000Z",
+    "summary": "A new nonprofit called Radial is launching with at least $500 million to modernize the scientific process for the AI era."
+  },
+  {
+    "title": "With $100M, Vima pursues an oral drug for movement disorders",
+    "link": "https://www.biopharmadive.com/news/vima-movement-disorder-dystonia-parkinsons-biotech-startup-financing/814337/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-11T11:00:00.000Z",
+    "summary": "Incubated by Atlas Venture, the biotech startup is advancing a daily pill it sees potentially helping people with dystonia or Parkinson's disease regain control of movement."
+  },
+  {
+    "title": "STAT+: AI agents are rapidly spreading in health care, but validation is lacking",
+    "link": "https://www.statnews.com/2026/03/11/ai-agents-himss-google-microsoft-epic-oracle/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T08:30:00.000Z",
+    "summary": "AI agents to perform health care work are everywhere at HIMSS 2026. Experts want to know more about their validation."
+  },
+  {
+    "title": "Opinion: I’m a medical student. RFK Jr. is right about medical school and preventive care",
+    "link": "https://www.statnews.com/2026/03/11/medical-school-nutrition-education-rfk-jr/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T08:30:00.000Z",
+    "summary": "In medical school, a student writes, she has learned to react first, focus on prevention later."
+  },
+  {
+    "title": "STAT+: A top biotech VC quietly helped Epstein’s ‘great friend’ make a comeback",
+    "link": "https://www.statnews.com/2026/03/11/epstein-great-friend-boris-nikolic-returns-biotech-vc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T08:30:00.000Z",
+    "summary": "Boris Nikolic’s career looked to be in tatters after his friendship with Jeffrey Epstein came to light in 2019. But he has quietly made a comeback, with some help from…"
+  },
+  {
     "title": "STAT+: GOP senator is investigating the FDA over rejections of rare disease drugs",
     "link": "https://www.statnews.com/2026/03/10/ron-johnson-investigating-fda-rare-disease-drug-denials/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,60 +248,12 @@
     "summary": "The U.S. Food and Drug Administration today announced another major step in its initiative to streamline the development of biosimilar medicines, which are like “generic” versions of biologic drugs."
   },
   {
-    "title": "STAT+: Novo Nordisk, Hims reach deal to end bitter dispute over Wegovy sales",
-    "link": "https://www.statnews.com/2026/03/09/novo-nordisk-wegovy-hims-hers-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T13:23:21.000Z",
-    "summary": "Novo Nordisk and Hims & Hers have reached a deal that, for now, appears to end their bitter dispute around Hims’ sale of compounded versions of Novo’s blockbuster obesity drug…"
-  },
-  {
-    "title": "Fresh turmoil at the FDA with Prasad’s exit",
-    "link": "https://www.statnews.com/2026/03/09/health-news-fresh-turmoil-at-the-fda-with-prasad-exit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T13:16:46.000Z",
-    "summary": "Prasad out again, generic Ozempic on its way, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Pharmalot: We’re reading about a lack of FDA adcomms, FDA loosening biosimilar rules, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/09/fda-biosimilars-prasad-novo-hims-weight-wegovy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T13:11:56.000Z",
-    "summary": "There is growing concern that the FDA is shunning advisory committees that allow agency leaders, drugmakers, patients, and doctors to speak their minds in public"
-  },
-  {
-    "title": "STAT+: Talkspace to be acquired for $835 million by mental health services giant",
-    "link": "https://www.statnews.com/2026/03/09/talkspace-to-be-acquired-for-835-million-by-mental-health-services-giant/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T13:11:40.000Z",
-    "summary": "Universal Health Services, a behavioral health provider that operates over 340 inpatient facilities across 40 states, announced Monday that it will acquire virtual mental health company Talkspace for…"
-  },
-  {
-    "title": "STAT+: Xenon Pharmaceuticals’ seizure drug shows strong efficacy in late-stage trial",
-    "link": "https://www.statnews.com/2026/03/09/xenon-pharmaceuticals-azetukalner-epilepsy-fos/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T11:00:00.000Z",
-    "summary": "Xenon Pharmaceuticals said its treatment for a common type of seizure disorder significantly reduced the frequency of those seizures compared to a placebo."
-  },
-  {
     "title": "Navigating the PPQ process: Proven strategies to safeguard quality for cell and gene therapies",
     "link": "https://www.biopharmadive.com/spons/navigating-the-ppq-process-proven-strategies-to-safeguard-quality-for-cell/813584/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-09T09:00:00.000Z",
     "summary": "An often overlooked but critically important step along the path from bench to bedside, PPQ often results in delays and potential non-compliance issues without proper planning."
-  },
-  {
-    "title": "Rethinking the box: Why circular cold chain packaging is becoming a cost strategy in healthcare",
-    "link": "https://www.biopharmadive.com/spons/rethinking-the-box-why-circular-cold-chain-packaging-is-becoming-a-cost-st/813119/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-09T09:00:00.000Z",
-    "summary": "Spend enough time inside a healthcare distribution center and you start to notice something."
   },
   {
     "title": "Synthetic lethal strategy targets p53-deficient cancers",
