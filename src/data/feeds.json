@@ -1,5 +1,61 @@
 [
   {
+    "title": "FDA Launches New Adverse Event Look-Up Tool",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-new-adverse-event-look-tool",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-03-11T16:00:22.000Z",
+    "summary": "FDA launched a new unified platform for analyzing adverse event reports. This platform — called the FDA Adverse Event Monitoring System (AEMS) — represents a major achievement in the agency’s mission…"
+  },
+  {
+    "title": "FDA clears repurposed GSK drug for ultra-rare brain disease instead of autism",
+    "link": "https://www.biopharmadive.com/news/fda-autism-leucovorin-gsk-wellcovorin-approval-cerebral-folate-deficiency/814439/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-11T15:53:00.000Z",
+    "summary": "Months after promising help for “hundreds of thousands of kids,” the FDA approved the decades-old medicine for a disease documented in less than 50 people."
+  },
+  {
+    "title": "Lilly unveils $3 billion production expansion in China",
+    "link": "https://www.biopharmadive.com/news/lilly-china-manufacturing-expand-orforglipron/814413/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-11T15:30:00.000Z",
+    "summary": "The Zepbound developer is joining other drugmakers’ rush into China as it plans to boost its oral solid dosage supply chain to support the launch of its obesity pill orforglipron."
+  },
+  {
+    "title": "STAT+: FDA approves leucovorin for rare disorder without trial data",
+    "link": "https://www.statnews.com/2026/03/11/biotech-news-fda-approves-leucovorin-for-rare-disorder/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T14:16:55.000Z",
+    "summary": "How Jeffrey Epstein's friend came back to biotech, probes into the FDA's drug rejections, and other biotech news"
+  },
+  {
+    "title": "Bimzelx tops Skyrizi in head-to-head psoriatic arthritis trial",
+    "link": "https://www.biopharmadive.com/news/ubc-bimzelx-tops-skyrizi-in-head-to-head-arthritis-trial/814407/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-11T13:33:49.000Z",
+    "summary": "UCB said it’s the first time an approved biologic demonstrated superiority over an IL-23 blocker in psoriatic arthritis. Yet analysts aren’t sure how commercially impactful the results will be."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about the FDA warning Novo Nordisk, Lilly investing in China, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/11/trump-wegovy-novo-ozempic-lilly-china-autism-fda/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T13:29:38.000Z",
+    "summary": "The Trump administration push for lower U.S. drug prices helped Astellas secure higher pricing for its new eye medicine in Japan"
+  },
+  {
+    "title": "STAT+: This billionaire wants to make science better, especially for AI",
+    "link": "https://www.statnews.com/2026/03/11/seemay-chou-radial-astera-bold-science-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-11T13:29:29.000Z",
+    "summary": "In this edition of AI Prognosis: Seemay Chou and Becky Pferdehirt's bold vision for how Radial will change science for AI"
+  },
+  {
     "title": "Red states hit hardest by reduced NIH funding",
     "link": "https://www.statnews.com/2026/03/11/red-states-hit-hardest-by-reduced-nih-funding/?utm_campaign=rss",
     "source": "STAT News",
@@ -48,6 +104,14 @@
     "summary": "Boris Nikolic’s career looked to be in tatters after his friendship with Jeffrey Epstein came to light in 2019. But he has quietly made a comeback, with some help from…"
   },
   {
+    "title": "In vivo CAR-T cells target fibrogenic cells in MASH",
+    "link": "https://www.nature.com/articles/d41573-026-00043-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-11T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: GOP senator is investigating the FDA over rejections of rare disease drugs",
     "link": "https://www.statnews.com/2026/03/10/ron-johnson-investigating-fda-rare-disease-drug-denials/?utm_campaign=rss",
     "source": "STAT News",
@@ -78,6 +142,14 @@
     "category": "industry",
     "date": "2026-03-10T16:30:01.000Z",
     "summary": "The FDA approves leucovorin for a rare brain disorder while retreating from top officials’ earlier insistence that it could benefit many children with autism."
+  },
+  {
+    "title": "CSL breaks ground on $1.5B Illinois immunoglobulin plant expansion",
+    "link": "https://www.biopharmadive.com/news/csl-behring-immunoglobin-plasma-illinois-kankakee-plant-expansion/814442/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-10T16:06:24.000Z",
+    "summary": "The Kanakee project builds on the company’s efforts to increase its U.S. footprint, where it has already spent more than $3 billion, and will focus on producing plasma-derived therapies."
   },
   {
     "title": "BioNTech founders to step down and helm new mRNA startup",
@@ -168,14 +240,6 @@
     "summary": "Welcome to the Himsification of medicine."
   },
   {
-    "title": "STAT+: Vertex says its drug successfully reduced marker of kidney disease in late-stage trial",
-    "link": "https://www.statnews.com/2026/03/09/vertex-iga-nephropathy-study-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T21:39:57.000Z",
-    "summary": "Vertex said a drug it secured as part of a $4.9 billion acquisition successfully reduced by half a key marker of a kidney disease known as IgA nephropathy."
-  },
-  {
     "title": "Vertex kidney disease drug hits mark in late-stage study",
     "link": "https://www.biopharmadive.com/news/vertex-povetacicept-iga-nephropathy-study-results/814253/",
     "source": "BioPharma Dive",
@@ -200,60 +264,12 @@
     "summary": "The result “pulls the rug” out from under giredestrant, according to one analyst, sparking another share selloff following disappointing obesity data last week."
   },
   {
-    "title": "UniQure leads genetic medicine biotech rally after news of Prasad’s exit",
-    "link": "https://www.biopharmadive.com/news/uniqure-fda-prasad-genetic-medicine-biotech-stock-rally/814173/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-09T15:59:00.000Z",
-    "summary": "Prasad contributed to an uncertain regulatory climate for gene therapy makers focused on rare conditions. Shares of many developers rose on the chance of a more industry-friendly successor."
-  },
-  {
-    "title": "STAT+: The ER staffing conflict, and no facility fee for a marmot",
-    "link": "https://www.statnews.com/2026/03/09/er-staffing-conflict-peacehealth-cigna-cordani-health-care-inc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T15:44:51.000Z",
-    "summary": "A battle between doctors and a hospital system is an early test of a new law designed to separate business and medicine."
-  },
-  {
-    "title": "Ipsen to withdraw cancer drug acquired in buyout due to safety concerns",
-    "link": "https://www.biopharmadive.com/news/ipsen-withdraw-tavzerik-lymphoma-malignancy-epizyme/814161/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-09T15:38:00.000Z",
-    "summary": "Ipsen found cases of secondary malignancies in a confirmatory study of Tavzerik, a medicine it got in a purchase of Epizyme and that it has struggled to sell."
-  },
-  {
-    "title": "Novo, Hims reach deal to sell GLP-1 drugs together",
-    "link": "https://www.biopharmadive.com/news/hims-novo-deal-obesity-drugs-wegovy-ozempic/814160/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-09T15:12:00.000Z",
-    "summary": "The agreement ends a messy dispute that began when the telehealth firm attempted to sell a compounded form of Novo’s Wegovy pill at a cheaper price."
-  },
-  {
-    "title": "STAT+: A setback for Roche’s breast cancer drug",
-    "link": "https://www.statnews.com/2026/03/09/biotech-news-setback-for-roche-breast-cancer-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T14:16:13.000Z",
-    "summary": "Wall Street's verdict on Prasad, generic semaglutide's new pricing, and other biotech news"
-  },
-  {
     "title": "FDA Takes Further Steps to Streamline Biosimilar Development and Make Medicines More Affordable",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-takes-further-steps-streamline-biosimilar-development-and-make-medicines-more-affordable",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-09T14:14:25.000Z",
     "summary": "The U.S. Food and Drug Administration today announced another major step in its initiative to streamline the development of biosimilar medicines, which are like “generic” versions of biologic drugs."
-  },
-  {
-    "title": "Navigating the PPQ process: Proven strategies to safeguard quality for cell and gene therapies",
-    "link": "https://www.biopharmadive.com/spons/navigating-the-ppq-process-proven-strategies-to-safeguard-quality-for-cell/813584/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-09T09:00:00.000Z",
-    "summary": "An often overlooked but critically important step along the path from bench to bedside, PPQ often results in delays and potential non-compliance issues without proper planning."
   },
   {
     "title": "Synthetic lethal strategy targets p53-deficient cancers",
