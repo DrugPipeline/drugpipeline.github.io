@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: GOP senator is investigating the FDA over rejections of rare disease drugs",
+    "link": "https://www.statnews.com/2026/03/10/ron-johnson-investigating-fda-rare-disease-drug-denials/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-10T21:32:17.000Z",
+    "summary": "Sen. Ron Johnson said he spoke to FDA Commissioner Marty Makary about the agency’s handling of rare disease treatments."
+  },
+  {
     "title": "STAT+: After fight over cancer clinicians, Dana-Farber and Brigham are playing nice again",
     "link": "https://www.statnews.com/2026/03/10/dana-farber-brigham-hospital-breakup-cancer-clinicians/?utm_campaign=rss",
     "source": "STAT News",
@@ -40,7 +48,7 @@
     "summary": "Xenon shares skyrocketed nearly 50% on results that handily beat Wall Street expectations. Elsewhere, Capricor got a decision date for a spurned cell therapy and AbbVie and Regeneron showcased…"
   },
   {
-    "title": "STAT+: Novo Nordisk is warned by the FDA for failing to report side effects tied to GLP-1 drugs",
+    "title": "STAT+: Novo Nordisk is warned by the FDA for failing to report potential side effects tied to GLP-1 drugs",
     "link": "https://www.statnews.com/pharmalot/2026/03/10/novo-failed-report-side-effects-fda-wegovy-ozempic/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -248,14 +256,6 @@
     "summary": "Spend enough time inside a healthcare distribution center and you start to notice something."
   },
   {
-    "title": "STAT+: Health tech company says it will dive into Medicare’s new chronic care experiment",
-    "link": "https://www.statnews.com/2026/03/09/remote-patient-monitoring-cadence-health-cmmi-access/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-09T08:30:00.000Z",
-    "summary": "How a remote patient monitoring company is reworking its tech to enroll in a Medicare program seeking to align payment with health care outcomes."
-  },
-  {
     "title": "Synthetic lethal strategy targets p53-deficient cancers",
     "link": "https://www.nature.com/articles/d41573-026-00042-4",
     "source": "Nature Reviews Drug Discovery",
@@ -302,13 +302,5 @@
     "category": "regulatory",
     "date": "2026-03-05T14:01:50.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a Request for Information (RFI) seeking public comment on potential new standards for in-home opioid disposal products."
-  },
-  {
-    "title": "Digital endpoints in clinical trials: building the business case for systematic adoption",
-    "link": "https://www.nature.com/articles/d41573-026-00033-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-04T00:00:00.000Z",
-    "summary": ""
   }
 ]
