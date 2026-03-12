@@ -1,5 +1,53 @@
 [
   {
+    "title": "An NIH whistleblower warning",
+    "link": "https://www.statnews.com/2026/03/12/health-news-warning-from-nih-whistleblower/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T12:28:28.000Z",
+    "summary": "The doctors behind the telehealth GLP-1 boom, a men's health office moment, and other health news"
+  },
+  {
+    "title": "STAT+: Is Aldeyra Therapeutics waving red flags with consequences?",
+    "link": "https://www.statnews.com/2026/03/12/aldeyra-therapeutics-vertex-sarepta-therapeutics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T10:30:00.000Z",
+    "summary": "How often do drugmakers complain about short sellers in SEC filings? And does it do any good?"
+  },
+  {
+    "title": "Momentum builds for a federal office of men’s health focused on disease prevention",
+    "link": "https://www.statnews.com/2026/03/12/mens-health-office-proposal-invites-womens-health-comparison/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T08:30:00.000Z",
+    "summary": "For advocates who have been pushing to create a federal office of men's health, this could finally be the moment."
+  },
+  {
+    "title": "STAT+: The FDA is targeting telehealth marketing of GLP-1 drugs. Who’s prescribing them?",
+    "link": "https://www.statnews.com/2026/03/12/fda-telehealth-marketing-glp1-prescribers-behind-warning-letters/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T08:30:00.000Z",
+    "summary": "The FDA is targeting telehealth marketing of GLP-1 drugs. But those companies may not be the only ones under the microscope."
+  },
+  {
+    "title": "Opinion: I’m an NIH whistleblower. The scientific community cannot afford to avoid politics",
+    "link": "https://www.statnews.com/2026/03/12/nih-whistleblower-says-scientists-must-speak-up/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T08:30:00.000Z",
+    "summary": "“Scientists are often encouraged to avoid politics. But this advice is outdated, if it was ever correct in the first place,” writes Jenna Norton, NIH whistleblower."
+  },
+  {
+    "title": "Opinion: STAT+: It’s the 50th anniversary of the U.S. biotech industry. What will the next 50 years look like?",
+    "link": "https://www.statnews.com/2026/03/12/us-biotech-industry-anniversary-china-policy-competition/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T08:30:00.000Z",
+    "summary": "Keeping America’s lead in biotech depends on fixing what's broken about the policy status quo — and not breaking what works, writes BIO’s John F. Crowley."
+  },
+  {
     "title": "Biogen builds case for Spinraza successor with fresh data",
     "link": "https://www.biopharmadive.com/news/biogen-spinal-muscular-atrophy-salanersen-phase-1-data-update/814448/",
     "source": "BioPharma Dive",
@@ -192,60 +240,12 @@
     "summary": "AI scribe company Nabla aims to be much more by using tech from Yann LeCun's new startup AMI, which just raised $1 billion."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a U.S. senator probing FDA, BioNTech founders leaving, and much more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/10/fda-biontech-antibiotics-vertex-bristol-hospitals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T13:21:04.000Z",
-    "summary": "The co-founders of the Covid-19 vaccine developer BioNTech plan to leave the biotech to start a new mRNA-focused company"
-  },
-  {
     "title": "FDA Approves First Treatment for Patients with Cerebral Folate Transport Deficiency",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-patients-cerebral-folate-transport-deficiency",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-10T13:17:38.000Z",
     "summary": "The U.S. Food and Drug Administration today approved expanded use of Wellcovorin (leucovorin calcium) tablets for the treatment of cerebral folate deficiency in adult and pediatric patients who have…"
-  },
-  {
-    "title": "Amid dueling autism meetings, HHS cancels",
-    "link": "https://www.statnews.com/2026/03/10/health-news-amid-dueling-autism-meetings-hhs-cancels/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T12:04:40.000Z",
-    "summary": "Epilepsy med response, a long-awaited fix to the kidney transplant system, and more health news"
-  },
-  {
-    "title": "STAT+: BioNTech founders to depart, form new mRNA-focused company",
-    "link": "https://www.statnews.com/2026/03/10/biontech-mrna-ugur-sahin-ozlem-tureci-depart-new-company/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T11:08:14.000Z",
-    "summary": "Ugur Sahin and Özlem Türeci, the couple who co-founded BioNTech, are leaving the Covid-19 vaccine maker to start a new, mRNA-focused firm."
-  },
-  {
-    "title": "STAT+: Large drugmakers are developing fewer antibiotics, analysis finds",
-    "link": "https://www.statnews.com/pharmalot/2026/03/10/drugmakers-develop-fewer-antibiotics-antimicrobials/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T10:00:00.000Z",
-    "summary": "The number of potential antimicrobial treatments being developed by the world’s largest drugmakers nosedived by 35% over the past five years, according to a new analysis."
-  },
-  {
-    "title": "Removing race from kidney function algorithm helped more Black patients access transplants",
-    "link": "https://www.statnews.com/2026/03/10/kidney-transplants-black-americans-race-based-test-discarded/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T08:30:00.000Z",
-    "summary": "Removing race from the eGFR had a big impact, resulting in 5.3 more kidney transplants per 1000 Black candidates."
-  },
-  {
-    "title": "Opinion: STAT+: The Himsification of medicine",
-    "link": "https://www.statnews.com/2026/03/10/hims-preventive-care-doctors-view/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T08:30:00.000Z",
-    "summary": "Welcome to the Himsification of medicine."
   },
   {
     "title": "Vertex kidney disease drug hits mark in late-stage study",
