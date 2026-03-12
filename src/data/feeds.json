@@ -1,5 +1,61 @@
 [
   {
+    "title": "STAT+: Cancer cells can ‘barf’ proteins onto their cell surface. That may create new targets for immunotherapies",
+    "link": "https://www.statnews.com/2026/03/12/cancer-researchers-new-immunology-target-oncogene-src/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T18:00:00.000Z",
+    "summary": "An unexpected discovery may bring scientists closer to a long-sought goal: finding an ideal immunotherapy target for solid tumors."
+  },
+  {
+    "title": "Epstein’s pal attempts a biotech comeback, and Prasad exits the FDA",
+    "link": "https://www.statnews.com/2026/03/12/epstein-friend-attempts-biotech-comeback-prasad-exits-fda-readout-loud/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T17:45:37.000Z",
+    "summary": "On this week's The Readout LOUD podcast: A friend of Jeffrey Epstein attempts a biotech comeback, and (another) Prasad FDA exit"
+  },
+  {
+    "title": "Lilly warns GLP-1 knockoffs may be ‘dangerous,’ escalating war with compounders",
+    "link": "https://www.biopharmadive.com/news/lilly-obesity-zepbound-compounder-fda-impurity-/814536/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-12T15:40:00.000Z",
+    "summary": "Lilly asked the FDA to step in after claiming that testing it’s done suggests copycat versions of Zepbound may carry “unknown risks.”"
+  },
+  {
+    "title": "FDA to unify agency’s ‘fragmented’ safety surveillance system",
+    "link": "https://www.biopharmadive.com/news/fda-adverse-event-monitoring-system-aems/814528/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-12T15:11:00.000Z",
+    "summary": "Combining the disparate databases used to detect potential issues with drugs, vaccines and other products into a single dashboard will enhance their utility and cut costs, the agency said."
+  },
+  {
+    "title": "STAT+: FDA launches unified system for adverse event reports",
+    "link": "https://www.statnews.com/2026/03/12/biotech-news-fda-system-adverse-event-reports/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T14:16:53.000Z",
+    "summary": "BIO's Crowley warns U.S. risks losing lead, a familiar red flag with Aldeyra, and other biotech news from The Readout"
+  },
+  {
+    "title": "Analysis of Medicare data shows who mental health providers treat over telehealth",
+    "link": "https://www.statnews.com/2026/03/12/medicare-telehealth-rural-mental-health-providers-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T13:55:14.000Z",
+    "summary": "A new analysis of Medicare data shows mental health specialists who embraced telehealth did not see substantially more rural patients"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about telehealth prescribers, a Lilly push against compounding, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/12/fda-telehealth-lilly-obesity-compounding-pbm-glp1-abortion/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T13:23:58.000Z",
+    "summary": "Medical groups affiliated with telehealth companies the FDA warned about marketing of compounded weight loss drugs may be under the microscope, too"
+  },
+  {
     "title": "An NIH whistleblower warning",
     "link": "https://www.statnews.com/2026/03/12/health-news-warning-from-nih-whistleblower/?utm_campaign=rss",
     "source": "STAT News",
@@ -46,6 +102,22 @@
     "category": "industry",
     "date": "2026-03-12T08:30:00.000Z",
     "summary": "Keeping America’s lead in biotech depends on fixing what's broken about the policy status quo — and not breaking what works, writes BIO’s John F. Crowley."
+  },
+  {
+    "title": "Single-dose sleeping sickness drug set for approval",
+    "link": "https://www.nature.com/articles/d41573-026-00044-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-12T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Reshaping Pfizer’s drug discovery priorities",
+    "link": "https://www.nature.com/articles/d41573-026-00045-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-12T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Biogen builds case for Spinraza successor with fresh data",
@@ -176,30 +248,6 @@
     "summary": "Sen. Ron Johnson said he spoke to FDA Commissioner Marty Makary about the agency’s handling of rare disease treatments."
   },
   {
-    "title": "STAT+: After fight over cancer clinicians, Dana-Farber and Brigham are playing nice again",
-    "link": "https://www.statnews.com/2026/03/10/dana-farber-brigham-hospital-breakup-cancer-clinicians/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T16:41:56.000Z",
-    "summary": "The two hospitals have agreed to cooperate on a “mutually acceptable and coordinated plan”"
-  },
-  {
-    "title": "STAT+: What’s next for RFK Jr.’s MAHA allies on vaccine policy?",
-    "link": "https://www.statnews.com/2026/03/10/rfk-maha-institute-vaccine-injuries-fda-turnover-prasad-cber/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T16:40:12.000Z",
-    "summary": "A coalition of Kennedy's allies gathered to discuss vaccines, but the health secretary was rarely mentioned."
-  },
-  {
-    "title": "Leucovorin lacks evidence to use as autism treatment, FDA says",
-    "link": "https://www.statnews.com/2026/03/10/fda-says-leucovorin-evidence-lacking-for-autism/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T16:30:01.000Z",
-    "summary": "The FDA approves leucovorin for a rare brain disorder while retreating from top officials’ earlier insistence that it could benefit many children with autism."
-  },
-  {
     "title": "CSL breaks ground on $1.5B Illinois immunoglobulin plant expansion",
     "link": "https://www.biopharmadive.com/news/csl-behring-immunoglobin-plasma-illinois-kankakee-plant-expansion/814442/",
     "source": "BioPharma Dive",
@@ -224,44 +272,12 @@
     "summary": "Xenon shares skyrocketed nearly 50% on results that handily beat Wall Street expectations. Elsewhere, Capricor got a decision date for a spurned cell therapy and AbbVie and Regeneron showcased…"
   },
   {
-    "title": "STAT+: Novo Nordisk is warned by the FDA for failing to report potential side effects tied to GLP-1 drugs",
-    "link": "https://www.statnews.com/pharmalot/2026/03/10/novo-failed-report-side-effects-fda-wegovy-ozempic/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T14:51:35.000Z",
-    "summary": "It's the third time in recent weeks that the FDA has admonished Novo Nordisk for different practices."
-  },
-  {
-    "title": "Health AI startup to benefit from $1 billion funding round for Yann LeCun’s AMI",
-    "link": "https://www.statnews.com/2026/03/10/ai-ami-yann-lecun-nabla-lebrun-world-model/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T13:31:33.000Z",
-    "summary": "AI scribe company Nabla aims to be much more by using tech from Yann LeCun's new startup AMI, which just raised $1 billion."
-  },
-  {
     "title": "FDA Approves First Treatment for Patients with Cerebral Folate Transport Deficiency",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-patients-cerebral-folate-transport-deficiency",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-10T13:17:38.000Z",
     "summary": "The U.S. Food and Drug Administration today approved expanded use of Wellcovorin (leucovorin calcium) tablets for the treatment of cerebral folate deficiency in adult and pediatric patients who have…"
-  },
-  {
-    "title": "Vertex kidney disease drug hits mark in late-stage study",
-    "link": "https://www.biopharmadive.com/news/vertex-povetacicept-iga-nephropathy-study-results/814253/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-09T21:29:00.000Z",
-    "summary": "Company shares surged in after-market trading on results for a drug Vertex acquired in a multibillion-dollar deal and sees as having “best-in-class potential” in a competitive field."
-  },
-  {
-    "title": "Bristol Myers claims success in study of another next-gen blood cancer drug",
-    "link": "https://www.biopharmadive.com/news/bristol-myers-mezigdomide-celmod-myeloma-study-results/814208/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-09T19:31:00.000Z",
-    "summary": "The therapy, mezigdomide, is part of group of medicines the pharma sees as successors to its lucrative multiple myeloma drugs Revlimid and Pomalyst."
   },
   {
     "title": "FDA Takes Further Steps to Streamline Biosimilar Development and Make Medicines More Affordable",
@@ -302,21 +318,5 @@
     "category": "research",
     "date": "2026-03-06T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Grants Third Approval Under the National Priority Voucher Program",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-third-approval-under-national-priority-voucher-program",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-03-05T18:23:32.000Z",
-    "summary": "The U.S. Food and Drug Administration today approved teclistamab in combination with daratumumab hyaluronidase-fihj, Tec-Dara, to treat adult patients with relapsed or refractory multiple myeloma who…"
-  },
-  {
-    "title": "FDA to Address Unused Opioids in American Homes",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-address-unused-opioids-american-homes",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-03-05T14:01:50.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued a Request for Information (RFI) seeking public comment on potential new standards for in-home opioid disposal products."
   }
 ]
