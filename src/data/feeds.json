@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Congressional advisers call to rein in Medicare Advantage spending amid industry pressure",
+    "link": "https://www.statnews.com/2026/03/12/medicare-advantage-overpayments-76-billion-dollars-medpac-says/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-12T20:44:46.000Z",
+    "summary": "Lobbying groups supported by insurance companies have criticized the research and promoted their own."
+  },
+  {
     "title": "STAT+: Cancer cells can ‘barf’ proteins onto their cell surface. That may create new targets for immunotherapies",
     "link": "https://www.statnews.com/2026/03/12/cancer-researchers-new-immunology-target-oncogene-src/?utm_campaign=rss",
     "source": "STAT News",
@@ -240,14 +248,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: GOP senator is investigating the FDA over rejections of rare disease drugs",
-    "link": "https://www.statnews.com/2026/03/10/ron-johnson-investigating-fda-rare-disease-drug-denials/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-10T21:32:17.000Z",
-    "summary": "Sen. Ron Johnson said he spoke to FDA Commissioner Marty Makary about the agency’s handling of rare disease treatments."
-  },
-  {
     "title": "CSL breaks ground on $1.5B Illinois immunoglobulin plant expansion",
     "link": "https://www.biopharmadive.com/news/csl-behring-immunoglobin-plasma-illinois-kankakee-plant-expansion/814442/",
     "source": "BioPharma Dive",
@@ -302,21 +302,5 @@
     "category": "regulatory",
     "date": "2026-03-06T18:35:15.000Z",
     "summary": "FDA held a meeting with several states to discuss the section 804 importation program (SIP), which allows states and Indian tribes to import certain prescription drugs from Canada to significantly…"
-  },
-  {
-    "title": "FDA approves dwarfism drug",
-    "link": "https://www.nature.com/articles/d41573-026-00040-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Top companies and drugs by sales in 2025",
-    "link": "https://www.nature.com/articles/d41573-026-00041-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-06T00:00:00.000Z",
-    "summary": ""
   }
 ]
