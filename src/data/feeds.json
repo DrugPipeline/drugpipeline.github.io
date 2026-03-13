@@ -1,5 +1,61 @@
 [
   {
+    "title": "Major changes to cardiovascular guidelines suggest taking statins as young as 30",
+    "link": "https://www.statnews.com/2026/03/13/heart-disease-prevention-new-statin-guideline-age-30/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-13T18:00:00.000Z",
+    "summary": "Cardiology groups say adults as young as 30 should assess cholesterol risk and consider treatment to prevent heart attacks and strokes."
+  },
+  {
+    "title": "With FDA go ahead, a China biotech notches a first in cell therapy testing",
+    "link": "https://www.biopharmadive.com/news/unixell-fda-china-biotech-epilepsy-cell-therapy-human-testing/814662/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-13T16:13:00.000Z",
+    "summary": "The trial clearance for Shanghai-based Unixell is another step forward for the rapidly advancing Chinese biotech ecosystem, which has invested heavily in cell and gene therapy technology."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/03/13/pharma-biotech-jobs-sandoz-merck-abbvie-lundbeck/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-13T15:58:50.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "GSK’s RSV vaccine wins broader FDA clearance",
+    "link": "https://www.biopharmadive.com/news/gsk-arexvy-fda-approve-rsv-younger-adults/814652/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-13T15:54:00.000Z",
+    "summary": "The approval represents a win in what’s been a difficult regulatory environment of late for vaccine makers, and could boost uptake of a shot that’s posted flattening sales after an initially strong…"
+  },
+  {
+    "title": "Evotec, Vistagen lay off staff; Immutep shares collapse on study failure",
+    "link": "https://www.biopharmadive.com/news/evotec-vistagen-layoffs-immutep-ebvallo-ultragenyx/814519/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-13T14:17:00.000Z",
+    "summary": "Evotec will cut 800 employees in its second layoff round since 2024. Elsewhere, Ultragenyx got a needed win and a twice-rejected cell therapy is getting an audience at the FDA."
+  },
+  {
+    "title": "STAT+: Grail CEO steps down after trial setback",
+    "link": "https://www.statnews.com/2026/03/13/biotech-news-grail-ceo-steps-down-after-trial-setback/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-13T13:54:23.000Z",
+    "summary": "Epstein's pal returns to biotech, Prasad's FDA exit part deux, and more news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Trump and drug prices, biotechs pushing back, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/13/trump-pharma-prices-biotechs-patents-lacks-viatris/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-13T13:30:56.000Z",
+    "summary": "Reining in drug prices has been a priority for both the Trump and Biden administrations, but Trump is getting more credit for his efforts, polls show"
+  },
+  {
     "title": "Make next year’s flu shots, says FDA committee",
     "link": "https://www.statnews.com/2026/03/13/health-news-flu-shots-for-next-year-fda-committee/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,30 +208,6 @@
     "summary": "For advocates who have been pushing to create a federal office of men's health, this could finally be the moment."
   },
   {
-    "title": "STAT+: The FDA is targeting telehealth marketing of GLP-1 drugs. Who’s prescribing them?",
-    "link": "https://www.statnews.com/2026/03/12/fda-telehealth-marketing-glp1-prescribers-behind-warning-letters/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-12T08:30:00.000Z",
-    "summary": "The FDA is targeting telehealth marketing of GLP-1 drugs. But those companies may not be the only ones under the microscope."
-  },
-  {
-    "title": "Opinion: I’m an NIH whistleblower. The scientific community cannot afford to avoid politics",
-    "link": "https://www.statnews.com/2026/03/12/nih-whistleblower-says-scientists-must-speak-up/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-12T08:30:00.000Z",
-    "summary": "“Scientists are often encouraged to avoid politics. But this advice is outdated, if it was ever correct in the first place,” writes Jenna Norton, NIH whistleblower."
-  },
-  {
-    "title": "Opinion: STAT+: It’s the 50th anniversary of the U.S. biotech industry. What will the next 50 years look like?",
-    "link": "https://www.statnews.com/2026/03/12/us-biotech-industry-anniversary-china-policy-competition/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-12T08:30:00.000Z",
-    "summary": "Keeping America’s lead in biotech depends on fixing what's broken about the policy status quo — and not breaking what works, writes BIO’s John F. Crowley."
-  },
-  {
     "title": "Single-dose sleeping sickness drug set for approval",
     "link": "https://www.nature.com/articles/d41573-026-00044-2",
     "source": "Nature Reviews Drug Discovery",
@@ -224,14 +256,6 @@
     "summary": "The Zepbound developer is joining other drugmakers’ rush into China as it plans to boost its oral solid dosage supply chain to support the launch of its obesity pill orforglipron."
   },
   {
-    "title": "STAT+: FDA approves leucovorin for rare disorder without trial data",
-    "link": "https://www.statnews.com/2026/03/11/biotech-news-fda-approves-leucovorin-for-rare-disorder/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-11T14:16:55.000Z",
-    "summary": "How Jeffrey Epstein's friend came back to biotech, probes into the FDA's drug rejections, and other biotech news"
-  },
-  {
     "title": "Bimzelx tops Skyrizi in head-to-head psoriatic arthritis trial",
     "link": "https://www.biopharmadive.com/news/ubc-bimzelx-tops-skyrizi-in-head-to-head-arthritis-trial/814407/",
     "source": "BioPharma Dive",
@@ -240,36 +264,12 @@
     "summary": "UCB said it’s the first time an approved biologic demonstrated superiority over an IL-23 blocker in psoriatic arthritis. Yet analysts aren’t sure how commercially impactful the results will be."
   },
   {
-    "title": "With $100M, Vima pursues an oral drug for movement disorders",
-    "link": "https://www.biopharmadive.com/news/vima-movement-disorder-dystonia-parkinsons-biotech-startup-financing/814337/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-11T11:00:00.000Z",
-    "summary": "Incubated by Atlas Venture, the biotech startup is advancing a daily pill it sees potentially helping people with dystonia or Parkinson's disease regain control of movement."
-  },
-  {
     "title": "In vivo CAR-T cells target fibrogenic cells in MASH",
     "link": "https://www.nature.com/articles/d41573-026-00043-3",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-03-11T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "CSL breaks ground on $1.5B Illinois immunoglobulin plant expansion",
-    "link": "https://www.biopharmadive.com/news/csl-behring-immunoglobin-plasma-illinois-kankakee-plant-expansion/814442/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-10T16:06:24.000Z",
-    "summary": "The Kanakee project builds on the company’s efforts to increase its U.S. footprint, where it has already spent more than $3 billion, and will focus on producing plasma-derived therapies."
-  },
-  {
-    "title": "BioNTech founders to step down and helm new mRNA startup",
-    "link": "https://www.biopharmadive.com/news/biontech-founders-ugur-sahin-ozlem-tureci-mrna-startup/814290/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-10T15:51:00.000Z",
-    "summary": "Ugur Sahin and Özlem Türeci, who directed the COVID vaccine maker’s rise to prominence, will helm an as-yet-unnamed company dedicated to mRNA discovery work."
   },
   {
     "title": "FDA Approves First Treatment for Patients with Cerebral Folate Transport Deficiency",
@@ -294,13 +294,5 @@
     "category": "research",
     "date": "2026-03-09T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Holds Meeting with States on Importation of Lower Cost Drugs",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-holds-meeting-states-importation-lower-cost-drugs",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-03-06T18:35:15.000Z",
-    "summary": "FDA held a meeting with several states to discuss the section 804 importation program (SIP), which allows states and Indian tribes to import certain prescription drugs from Canada to significantly…"
   }
 ]
