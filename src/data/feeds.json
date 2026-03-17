@@ -1,5 +1,77 @@
 [
   {
+    "title": "NIH grant awards are lagging (again)",
+    "link": "https://www.statnews.com/2026/03/17/health-news-nih-grant-awards-lagging-again/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-17T13:08:07.000Z",
+    "summary": "How to type with your mind, who might not need to take blood pressure meds, and other health news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Trump’s drug pricing moves, a GSK asthma drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/17/trump-pharma-gsk-asthma-hiv-sanofi/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-17T13:04:32.000Z",
+    "summary": "The White House is looking to intensify its pressure campaign on Congress to pass legislation to codify a “most-favored nation” drug pricing policy"
+  },
+  {
+    "title": "R1 starts up with $78M, aiming for a better kidney drug",
+    "link": "https://www.biopharmadive.com/news/r1-therapeutics-chronic-kidney-hyperphosphatemia/814593/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-17T11:00:00.000Z",
+    "summary": "The startup believes a pill it licensed from a Chinese biotech company could be more potent, and convenient to take, than existing treatments for a common complication of chronic kidney disease."
+  },
+  {
+    "title": "STAT+: NIH grant awards are again lagging far behind historical averages, analysis shows",
+    "link": "https://www.statnews.com/2026/03/17/nih-grant-funding-slowdown-new-awards-training-grants/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-17T08:30:00.000Z",
+    "summary": "Nearly halfway into the 2026 fiscal year, the NIH is far behind on grant spending, new data show"
+  },
+  {
+    "title": "STAT+: For decades, they’ve set the record straight in biology. Next up: science’s reproducibility crisis",
+    "link": "https://www.statnews.com/2026/03/17/beacon-casp-coalition-tackle-science-reproducibility-crisis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-17T08:30:00.000Z",
+    "summary": "A group of researchers are launching an effort to validate big scientific claims, with help from artificial intelligence."
+  },
+  {
+    "title": "STAT+: White House digs in on ‘most-favored nation’ drug pricing despite Congress’ cool reception",
+    "link": "https://www.statnews.com/2026/03/17/mfn-drug-pricing-divide-trump-congress-talks/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-17T08:30:00.000Z",
+    "summary": "Despite a cool reception from Congress, the White House is looking to intensify its pressure campaign on lawmakers to pass a “most-favored nation\" drug pricing bill."
+  },
+  {
+    "title": "Opinion: Semaglutide is going off-patent in India. But will people who need it be able to get it?",
+    "link": "https://www.statnews.com/2026/03/17/generic-semaglutide-india-bmi-obesity-definition/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-17T08:30:00.000Z",
+    "summary": "Rules determining who gets access to semaglutide in India were written for different bodies with different cardiovascular risks."
+  },
+  {
+    "title": "Opinion: The greatest threat to federally qualified health centers may not be federal funding cuts",
+    "link": "https://www.statnews.com/2026/03/17/federally-qualified-health-centers-fqhcs-crisis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-17T08:30:00.000Z",
+    "summary": "After 50 years of operation, FQHCs are discovering that their financial structure has not kept pace with the realities of delivering on their mission."
+  },
+  {
+    "title": "Upcoming FDA approval decisions in Q2 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00046-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-17T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Federal judge stalls health secretary RFK Jr.’s overhaul of vaccine policy",
     "link": "https://www.statnews.com/2026/03/16/kennedy-childhood-vaccine-changes-blocked-judge/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,14 +208,6 @@
     "summary": "The trial clearance for Shanghai-based Unixell is another step forward for the rapidly advancing Chinese biotech ecosystem, which has invested heavily in cell and gene therapy technology."
   },
   {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/03/13/pharma-biotech-jobs-sandoz-merck-abbvie-lundbeck/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-13T15:58:50.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
     "title": "GSK’s RSV vaccine wins broader FDA clearance",
     "link": "https://www.biopharmadive.com/news/gsk-arexvy-fda-approve-rsv-younger-adults/814652/",
     "source": "BioPharma Dive",
@@ -160,60 +224,12 @@
     "summary": "Evotec will cut 800 employees in its second layoff round since 2024. Elsewhere, Ultragenyx got a needed win and a twice-rejected cell therapy is getting an audience at the FDA."
   },
   {
-    "title": "STAT+: Grail CEO steps down after trial setback",
-    "link": "https://www.statnews.com/2026/03/13/biotech-news-grail-ceo-steps-down-after-trial-setback/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-13T13:54:23.000Z",
-    "summary": "Epstein's pal returns to biotech, Prasad's FDA exit part deux, and more news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Trump and drug prices, biotechs pushing back, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/13/trump-pharma-prices-biotechs-patents-lacks-viatris/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-13T13:30:56.000Z",
-    "summary": "Reining in drug prices has been a priority for both the Trump and Biden administrations, but Trump is getting more credit for his efforts, polls show"
-  },
-  {
-    "title": "Make next year’s flu shots, says FDA committee",
-    "link": "https://www.statnews.com/2026/03/13/health-news-flu-shots-for-next-year-fda-committee/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-13T11:55:25.000Z",
-    "summary": "Vaccine skepticism, FDA-authorized vape flavors, and more health news from Morning Rounds"
-  },
-  {
     "title": "New FDA guidance could elevate pharma’s biosimilar market",
     "link": "https://www.biopharmadive.com/news/biosimilars-fda-guidance-elevate-pharma-market/814591/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-13T10:44:00.000Z",
     "summary": "Biologic copycats have had a limited impact on U.S. drug prices so far, but loosening regulatory restrictions could help accelerate their progress."
-  },
-  {
-    "title": "STAT+: Trump is getting more credit than Biden for efforts to lower drug prices",
-    "link": "https://www.statnews.com/2026/03/13/kff-survey-trump-gets-more-credit-than-biden-lower-drug-prices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-13T09:00:00.000Z",
-    "summary": "Trump is drawing more attention to his efforts to lower drug prices, like TrumpRx."
-  },
-  {
-    "title": "STAT+: White House says it’s ‘done’ with vaccines. MAHA begs to differ",
-    "link": "https://www.statnews.com/2026/03/13/trump-rfk-jr-vaccines-growing-divide-maga-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-13T08:30:00.000Z",
-    "summary": "As Trump political advisers try to move on from vaccine policy debates, MAHA movement insiders push back, calling RFK Jr. supporters vital to GOP's success."
-  },
-  {
-    "title": "STAT+: Leapfrog Group’s legal defeat underscores challenges of rating hospital quality",
-    "link": "https://www.statnews.com/2026/03/13/leapfrog-group-hospital-quality-ratings-lawsuit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-13T08:30:00.000Z",
-    "summary": "The legal battle underscores the complicated questions surrounding how best to evaluate hospital safety."
   },
   {
     "title": "Lilly warns GLP-1 knockoffs may be ‘dangerous,’ escalating war with compounders",
@@ -246,14 +262,6 @@
     "category": "research",
     "date": "2026-03-12T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Biogen builds case for Spinraza successor with fresh data",
-    "link": "https://www.biopharmadive.com/news/biogen-spinal-muscular-atrophy-salanersen-phase-1-data-update/814448/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-11T19:23:00.000Z",
-    "summary": "More early-stage data show the drug, called salanersen, appeared to have positive effects on neurodegeneration and motor function in patients previously treated with Novartis' Zolgensma."
   },
   {
     "title": "FDA Launches New Adverse Event Look-Up Tool",
