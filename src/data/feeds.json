@@ -1,5 +1,93 @@
 [
   {
+    "title": "STAT+: Democrats prepare for health care overhaul",
+    "link": "https://www.statnews.com/2026/03/19/democrats-prepare-for-health-care-overhaul-dc-diagnosis-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T17:02:12.000Z",
+    "summary": "Democrats are outlining a new vision for the health care system ahead of the midterms."
+  },
+  {
+    "title": "FDA Approves Fourth Product Under National Priority Voucher Program, Higher Dose Semaglutide",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-fourth-product-under-national-priority-voucher-program-higher-dose-semaglutide",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-03-19T16:54:56.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved a new higher dose (7.2 mg) of Wegovy (semaglutide) injection for weight loss and long-term maintenance of weight loss for certain adult patients."
+  },
+  {
+    "title": "STAT+: Novo Nordisk’s high-dose Wegovy approved in the U.S.",
+    "link": "https://www.statnews.com/2026/03/19/wegovy-novo-norisk-high-dose-approved/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T16:21:12.000Z",
+    "summary": "A high-dose version of Novo Nordisk’s injectable obesity drug Wegovy received U.S. approval."
+  },
+  {
+    "title": "Lilly’s three-pronged obesity drug hits goal in large diabetes trial",
+    "link": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-19T16:15:00.000Z",
+    "summary": "Retatrutide, a possible advance on GLP-1 drugs like Zepbound, significantly cut blood sugar and body weight in the study, a sign it might be similarly impactful against obesity."
+  },
+  {
+    "title": "Pfizer aims for wider use of PARP drug in prostate cancer with new data",
+    "link": "https://www.biopharmadive.com/news/pfizer-talzenna-prostate-parp-early-talapro-study-results/815180/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-19T15:37:00.000Z",
+    "summary": "While sales of Talzenna, which Pfizer acquired in a $14 billion deal, have been “negligible” so far, the new results should justify use in earlier lines of care, one analyst said."
+  },
+  {
+    "title": "STAT+: Eli Lilly’s ‘triple-G’ shows potency, raises concerns",
+    "link": "https://www.statnews.com/2026/03/19/eli-lilly-retatrutide-in-vivo-cart-readout-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T14:10:40.000Z",
+    "summary": "Eli Lilly's 'triple-G' drug shows potency, In-vivo CAR-T inches toward clinical reality, and more in today's Readout newsletter."
+  },
+  {
+    "title": "STAT+: A biotech turns to Apple Watch to study its Parkinson’s drug",
+    "link": "https://www.statnews.com/2026/03/19/biotech-uses-apple-watch-parkinsons-drug-study-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T13:48:39.000Z",
+    "summary": "In this edition of STAT Health Tech: How Apple Watch is being used in a clinical trial for a Parkinson's drug, and more"
+  },
+  {
+    "title": "A biotech VC sees early signs of a turnaround for startups",
+    "link": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-19T13:40:00.000Z",
+    "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said Santé Ventures’ Omar Khalil."
+  },
+  {
+    "title": "Did we undercount Covid deaths by 155,000?",
+    "link": "https://www.statnews.com/2026/03/19/covid-deaths-undercount-scientists-trump-cuts-morning-rounds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T13:28:11.000Z",
+    "summary": "In today's Morning Rounds newsletter: the precarious state of U.S. science, what we take for granted about vaccines, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Lilly weight loss trial, TrumpRx shortcomings, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/19/lilly-weight-loss-trial-results-trumprx-shortcomings/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T13:22:13.000Z",
+    "summary": "Diabetes patients taking an investigational drug from Eli Lilly saw significant reductions in their blood sugar and weight in a late-stage study"
+  },
+  {
+    "title": "AstraZeneca to boost cell therapy capabilities with new China investment",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-cell-therapy-china-shanghai-biotech/815159/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-19T11:22:00.000Z",
+    "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer."
+  },
+  {
     "title": "STAT+: Eli Lilly’s ‘triple-G’ drug leads to significant blood sugar, weight reductions in diabetes trial",
     "link": "https://www.statnews.com/2026/03/19/eli-lilly-triple-g-retatrutide-results/?utm_campaign=rss",
     "source": "STAT News",
@@ -24,7 +112,7 @@
     "summary": "Democrats are sharpening their health care message as the midterms loom."
   },
   {
-    "title": "Researchers surveyed by STAT detail the scientific and personal toll of grant cuts: ‘This can’t be how it ends’",
+    "title": "Researchers surveyed by STAT detail the toll of grant cuts: labs shutting down, data unanalyzed",
     "link": "https://www.statnews.com/2026/03/19/nih-funding-turmoil-young-researchers-detail-impact/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -136,52 +224,12 @@
     "summary": "A Huntington's researcher treads lightly into the UniQure-FDA fray, J&J wins approval for a first-of-its kind psoriasis pill, and more in today's Readout newsletter."
   },
   {
-    "title": "Premature menopause is linked to 40% increase in heart disease risk",
-    "link": "https://www.statnews.com/2026/03/18/premature-menopause-heart-disease-risk-jama-cardiology-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T15:00:00.000Z",
-    "summary": "JAMA Cardiology study says premature menopause, three times more common in Black women, is a risk factor for heart disease — but scientists aren't sure why."
-  },
-  {
-    "title": "As Trump administration cracks down on health care fraud, people with disabilities feel singled out",
-    "link": "https://www.statnews.com/2026/03/18/trump-health-fraud-crackdown-disability-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T14:42:56.000Z",
-    "summary": "As the Trump administration goes after fraud in health care, advocates say the disability community feels singled out."
-  },
-  {
-    "title": "Two doctors on the challenges of medicine today",
-    "link": "https://www.statnews.com/2026/03/18/doctors-challenges-medicine-nih-bhattacharya-testifies-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T14:37:21.000Z",
-    "summary": "In today's Morning Rounds newsletter, a Texas couple getting rich off out-of-network medical bills, two doctors on the challenges of medicine today, and more."
-  },
-  {
     "title": "Crossbow raises $77M for new cancer immunotherapies",
     "link": "https://www.biopharmadive.com/news/crossbow-cancer-immunotherapies-tce-series-b/815049/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-18T14:11:52.000Z",
     "summary": "Backed by more than a dozen investors, the biotech startup will use the funding to further a Phase 1 trial of its lead program CBX-250."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about TrumpRx prices, a J&J psoriasis pill, and much more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/18/trumprx-jnj-psoriasis-pill-icotyde-lilly-stock-downgraded/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T13:23:21.000Z",
-    "summary": "U.S. health officials claim TrumpRx offers Americans the world’s lowest prices on prescription drugs, but a new analysis found that is not true"
-  },
-  {
-    "title": "STAT+: FDA and NIH announce more initiatives to reduce animal testing in drug development",
-    "link": "https://www.statnews.com/2026/03/18/fda-nih-reduce-animal-testing-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T13:00:00.000Z",
-    "summary": "The HHS has made reducing animal testing a priority over the past year."
   },
   {
     "title": "FDA Releases Draft Guidance on Alternatives to Animal Testing in Drug Development",
@@ -200,14 +248,6 @@
     "summary": "The funding, which ranks as one of the largest of its kind for a China-based drug startup, will support a portfolio of multifaceted antibodies the company believes to be advances over existing…"
   },
   {
-    "title": "STAT+: J&J wins approval for first-of-its-kind psoriasis pill",
-    "link": "https://www.statnews.com/2026/03/18/jj-wins-approval-for-first-of-its-kind-psoriasis-pill/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T11:56:14.000Z",
-    "summary": "Johnson & Johnson won U.S. approval for a daily psoriasis pill that rivals the benefits of injectable medicines and could roil a multibillion-dollar market."
-  },
-  {
     "title": "Non-incretin approach for weight loss",
     "link": "https://www.nature.com/articles/d41573-026-00048-y",
     "source": "Nature Reviews Drug Discovery",
@@ -224,43 +264,11 @@
     "summary": "The company now expects a longer path to approval than anticipated, leading it to deprioritize a therapy billed as a threat to Pfizer’s fast-selling bladder cancer drug."
   },
   {
-    "title": "Pfizer’s Ibrance successor moves forward with new study data",
-    "link": "https://www.biopharmadive.com/news/pfizer-breast-cancer-atirmociclib-cdk-results/814919/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-17T15:15:00.000Z",
-    "summary": "The drug, which one analyst described as a “critical” part of Pfizer’s oncology strategy, represents a possible improvement upon Ibrance and other, similar breast cancer medicines from Eli Lilly and…"
-  },
-  {
-    "title": "Federal court blocks RFK Jr.’s moves to upend US vaccine policy",
-    "link": "https://www.biopharmadive.com/news/rfk-acip-childhood-vaccine-policy-court-blocked/814880/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-17T13:12:00.000Z",
-    "summary": "The ruling, related to a lawsuit from several major medical organizations, stated that HHS ignored established protocols in altering the childhood immunization schedule and overhauling a key CDC…"
-  },
-  {
-    "title": "R1 starts up with $78M, aiming for a better kidney drug",
-    "link": "https://www.biopharmadive.com/news/r1-therapeutics-chronic-kidney-hyperphosphatemia/814593/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-17T11:00:00.000Z",
-    "summary": "The startup believes a pill it licensed from a Chinese biotech company could be more potent, and convenient to take, than existing treatments for a common complication of chronic kidney disease."
-  },
-  {
     "title": "Upcoming FDA approval decisions in Q2 2026",
     "link": "https://www.nature.com/articles/d41573-026-00046-0",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-03-17T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "CytomX surges on positive data for ‘masked’ ADC in colorectal cancer",
-    "link": "https://www.biopharmadive.com/news/cytomx-verseta-colorectal-cancer-study-results-masked-adc/814782/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-16T16:27:00.000Z",
-    "summary": "Company shares spiked more than 60% after the therapy surpassed Wall Street benchmarks in Phase 1 testing against late-line colorectal tumors."
   }
 ]
