@@ -1,5 +1,61 @@
 [
   {
+    "title": "STAT+: Eli Lilly’s ‘triple-G’ drug leads to significant blood sugar, weight reductions in diabetes trial",
+    "link": "https://www.statnews.com/2026/03/19/eli-lilly-triple-g-retatrutide-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T10:45:00.000Z",
+    "summary": "Diabetes patients taking an investigational drug from Eli Lilly saw significant reductions in their blood sugar and weight in a late-stage study."
+  },
+  {
+    "title": "STAT+: Six drugmakers, six months: Charting the FDA’s course in the post-Prasad era",
+    "link": "https://www.statnews.com/2026/03/19/biotech-scorecard-rare-disease-drugs-fda-decisions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T10:30:00.000Z",
+    "summary": "Will the FDA’s regulatory policies, particularly for rare-disease drugs, shift in the wake of Vinay Prasad’s imminent departure?"
+  },
+  {
+    "title": "STAT+: Senate Democrats lay out plans to overhaul health insurance after setbacks under Trump",
+    "link": "https://www.statnews.com/2026/03/19/democratic-senators-outline-health-insurance-reform-plan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T08:45:00.000Z",
+    "summary": "Democrats are sharpening their health care message as the midterms loom."
+  },
+  {
+    "title": "Researchers surveyed by STAT detail the scientific and personal toll of grant cuts: ‘This can’t be how it ends’",
+    "link": "https://www.statnews.com/2026/03/19/nih-funding-turmoil-young-researchers-detail-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T08:30:00.000Z",
+    "summary": "STAT interviews with 30 respondents brought the unmistakably human impacts of federal science policy into sharp focus. Here are three of those stories."
+  },
+  {
+    "title": "The indirect — and sometimes surprising — benefits of vaccines",
+    "link": "https://www.statnews.com/2026/03/19/vaccine-success-widespread-hidden-benefits-make-skepticism-possible/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T08:30:00.000Z",
+    "summary": "Many vaccines confer surprising knock-on, or indirect, health benefits when they have been put into widespread use."
+  },
+  {
+    "title": "National survey of NIH-funded researchers shows precarious state of U.S. science — ‘This is like the Titanic’",
+    "link": "https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T08:30:00.000Z",
+    "summary": "A nationwide STAT survey of NIH-funded researchers reveals that, a year after Donald Trump's return to the White House, many scientists are reeling"
+  },
+  {
+    "title": "Opinion: There is a successor to 340B lurking on the horizon",
+    "link": "https://www.statnews.com/2026/03/19/340b-reform-medicare-drug-price-negotitation-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-19T08:30:00.000Z",
+    "summary": "The closer we get to 2028, the more likely it is that the U.S. may settle for short-term solutions that do not meaningfully reform the health care system."
+  },
+  {
     "title": "STAT+: HHS watchdog slams nursing homes’ antipsychotic drug use and schizophrenia diagnoses",
     "link": "https://www.statnews.com/2026/03/19/antipsychotic-drug-misuse-nursing-homes-hhs-oig-reports/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,68 +208,12 @@
     "summary": "Johnson & Johnson won U.S. approval for a daily psoriasis pill that rivals the benefits of injectable medicines and could roil a multibillion-dollar market."
   },
   {
-    "title": "Drug smoking can lead to severe burns, complicating harm reduction efforts",
-    "link": "https://www.statnews.com/2026/03/18/opioid-smoking-vs-injection-severe-burns-complicate-harm-reduction/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T08:30:00.000Z",
-    "summary": "Smoking instead of injecting drugs can reduce harm, but a new study shows opioid smokers are four times as likely to suffer severe burns."
-  },
-  {
-    "title": "Opinion: Exposed and invisible in an ER hallway bed",
-    "link": "https://www.statnews.com/2026/03/18/er-hallway-beds-boarding-harm/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T08:30:00.000Z",
-    "summary": "“Hallway beds cut into the bones that sustain emergency medicine, shaving away layers of the moral tenets and high standards, staff’s meaning and purpose, and the comfort and dignity of…"
-  },
-  {
-    "title": "Opinion: I was a surgeon. The hardest part of leaving medicine was believing that I could",
-    "link": "https://www.statnews.com/2026/03/18/leaving-medicine-physician-alternative-careers/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T08:30:00.000Z",
-    "summary": "Leaving her career as a surgeon, Frances Mei Hardin writes, “was the beginning of a life I actually wanted.”"
-  },
-  {
-    "title": "STAT+: How a Texas couple is getting rich off out-of-network medical bills",
-    "link": "https://www.statnews.com/2026/03/18/no-surprises-act-loophole-profits-scott-laroque-mpowerhealth-alla-laroque-halomd/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T08:30:00.000Z",
-    "summary": "STAT investigates how a Texas couple cashed in on a new law that's supposed to protect patients from surprise medical bills."
-  },
-  {
     "title": "Non-incretin approach for weight loss",
     "link": "https://www.nature.com/articles/d41573-026-00048-y",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-03-18T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: NIH will spend its full budget this year, agency director promises House appropriators",
-    "link": "https://www.statnews.com/2026/03/17/nih-director-jay-bhattacharya-reassures-congress-on-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-17T18:50:28.000Z",
-    "summary": "NIH Director Jay Bhattacharya promised a House subcommittee on Tuesday that the agency will spend its full budget by the end of the 2026 fiscal year"
-  },
-  {
-    "title": "STAT+: VC firm Dimension scouting out $700 million for new fund",
-    "link": "https://www.statnews.com/2026/03/17/dimension-vc-biotech-artificial-intelligence/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-17T16:34:05.000Z",
-    "summary": "A buzzy venture capital firm has started raising its third fund, hoping to amass around $700 million to invest in companies that meld AI and science."
-  },
-  {
-    "title": "STAT+: Judge deals blow to RFK Jr.’s vaccine reforms",
-    "link": "https://www.statnews.com/2026/03/17/rfk-jr-maha-vaccine-policy-rejected-judge-acip-postponed-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-17T16:26:39.000Z",
-    "summary": "The meeting of the Advisory Committee on Immunization Practices that was scheduled for this week has been postponed."
   },
   {
     "title": "Bicycle to lay off 30% of staff, pivot away from Padcev challenger",
