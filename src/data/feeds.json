@@ -1,5 +1,109 @@
 [
   {
+    "title": "STAT+: Sepsis hospitalizations have tripled in Massachusetts. Is it real or a billing game?",
+    "link": "https://www.statnews.com/2026/03/20/ai-coding-sharp-rise-sepsis-hospitalizations-massachusetts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T18:34:48.000Z",
+    "summary": "In Massachusetts, sepsis cases has more than tripled since 2010. Some blame hospitals' use of AI tools for medical coding and billing."
+  },
+  {
+    "title": "STAT+: Inside the delicate, high-stakes search for a new CDC director",
+    "link": "https://www.statnews.com/2026/03/20/new-cdc-director-chris-klomp-leads-search-inside-look/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T17:51:58.000Z",
+    "summary": "At #STATBreakthrough, top HHS official Chris Klomp talked to STAT about the delicate, high-stakes search for a new CDC director."
+  },
+  {
+    "title": "STAT+: ACIP conflict is test of Trump’s support for RFK Jr.’s vaccine policy overhaul",
+    "link": "https://www.statnews.com/2026/03/20/kennedy-vaccine-agenda-acip-disbanded-or-aap-lawsuit-appeal-trump-role/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T17:37:13.000Z",
+    "summary": "The Trump administration is weighing how to respond to a court ruling on vaccine policymaking, a decision that could come with political risks."
+  },
+  {
+    "title": "Earendil Labs, an AI-powered drugmaker, hauls in $787M",
+    "link": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-20T17:13:00.000Z",
+    "summary": "The hefty funding will support a U.S. and China-based startup that’s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi."
+  },
+  {
+    "title": "Roche stops work on experimental SMA drug",
+    "link": "https://www.biopharmadive.com/news/roche-sma-emugrobart-development-genentech-chugai-rare-muscle/815274/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-20T15:52:55.000Z",
+    "summary": "In a letter to European patients, Roche said its decision to end development of “emugrobart” was based on the drug “not consistently” improving muscle growth and motor function in a key study."
+  },
+  {
+    "title": "STAT+: Medicare chief says TrumpRx is meant to be narrow in scope",
+    "link": "https://www.statnews.com/2026/03/20/chris-klomp-trumprx-high-dose-wegovy-readout-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T15:32:01.000Z",
+    "summary": "Today's biotech news includes the Medicare director offering a tempered view of TrumpRx and high-dose Wegovy getting an FDA nod."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/03/20/up-down-ladder-job-changes-comings-goings/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T14:53:44.000Z",
+    "summary": "From new hires to departures and promotions, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
+    "link": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-20T14:34:00.000Z",
+    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations."
+  },
+  {
+    "title": "A conversation with the ‘godfather’ of biotech",
+    "link": "https://www.statnews.com/2026/03/20/readout-loud-podcast-stelios-papadopoulos-obesity-lilly-structure/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T14:25:21.000Z",
+    "summary": "This week on \"The Readout LOUD,\" a conversation with biotech \"godfather\" Stelios Papadapolous live from #STATBreakthrough."
+  },
+  {
+    "title": "All the highlights from STAT’s Breakthrough Summit East",
+    "link": "https://www.statnews.com/2026/03/20/stat-summit-highlights-kennedy-gender-affirming-care-morning-rounds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T13:54:47.000Z",
+    "summary": "In today's Morning Rounds newsletter, the highlights from #STATBreakthrough, a ruling against Kennedy’s gender-affirming care declaration, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about TrumpRx expectations, a high-dose version of Wegovy, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/20/trumprx-expectations-high-dose-wegovy-fda-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T13:26:01.000Z",
+    "summary": "And so, another working week will soon come to a close. Not a moment too soon, yes? This is, you may recall, our treasured signal to daydream about weekend plans.…"
+  },
+  {
+    "title": "FDA Schedules Public Meeting on the Commissioner’s National Priority Voucher Pilot Program",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-schedules-public-meeting-commissioners-national-priority-voucher-pilot-program",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-03-20T13:09:38.000Z",
+    "summary": "As part of the U.S. Food and Drug Administration’s continuous quality improvement efforts, the agency today published a Federal Register Notice seeking public comment on the Commissioner’s National…"
+  },
+  {
+    "title": "Rhythm obesity drug wins broader use from FDA",
+    "link": "https://www.biopharmadive.com/news/rhythm-imcivree-fda-approve-acquired-hypothalamic-obesity/815276/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-20T11:30:00.000Z",
+    "summary": "Imcivree’s approval in a type of obesity driven by brain injury could unlock an opportunity Wall Street analysts believe to be worth more than $1 billion."
+  },
+  {
     "title": "STAT+: U.K. to take another look at cost-effectiveness of Alzheimer’s drugs",
     "link": "https://www.statnews.com/2026/03/20/uk-nice-leqembi-kisunla-alzheimers-price-cost-effective/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,14 +216,6 @@
     "summary": "The U.S. Food and Drug Administration today approved a new higher dose (7.2 mg) of Wegovy (semaglutide) injection for weight loss and long-term maintenance of weight loss for certain adult patients."
   },
   {
-    "title": "STAT+: Novo Nordisk’s high-dose Wegovy approved in the U.S.",
-    "link": "https://www.statnews.com/2026/03/19/wegovy-novo-norisk-high-dose-approved/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T16:21:12.000Z",
-    "summary": "A high-dose version of Novo Nordisk’s injectable obesity drug Wegovy received U.S. approval."
-  },
-  {
     "title": "Lilly’s three-pronged obesity drug hits goal in large diabetes trial",
     "link": "https://www.biopharmadive.com/news/lilly-retatrutide-obesity-drug-diabetes-results/815178/",
     "source": "BioPharma Dive",
@@ -136,44 +232,12 @@
     "summary": "While sales of Talzenna, which Pfizer acquired in a $14 billion deal, have been “negligible” so far, the new results should justify use in earlier lines of care, one analyst said."
   },
   {
-    "title": "STAT+: Eli Lilly’s ‘triple-G’ shows potency, raises concerns",
-    "link": "https://www.statnews.com/2026/03/19/eli-lilly-retatrutide-in-vivo-cart-readout-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T14:10:40.000Z",
-    "summary": "Eli Lilly's 'triple-G' drug shows potency, In-vivo CAR-T inches toward clinical reality, and more in today's Readout newsletter."
-  },
-  {
-    "title": "STAT+: A biotech turns to Apple Watch to study its Parkinson’s drug",
-    "link": "https://www.statnews.com/2026/03/19/biotech-uses-apple-watch-parkinsons-drug-study-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T13:48:39.000Z",
-    "summary": "In this edition of STAT Health Tech: How Apple Watch is being used in a clinical trial for a Parkinson's drug, and more"
-  },
-  {
     "title": "A biotech VC sees early signs of a turnaround for startups",
     "link": "https://www.biopharmadive.com/news/biotech-venture-capital-startups-ipo-sante-ventures/815136/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-19T13:40:00.000Z",
     "summary": "After a lengthy downturn, renewed optimism is building among young drugmakers and their backers as a new funding wave takes shape, said Santé Ventures’ Omar Khalil."
-  },
-  {
-    "title": "Did we undercount Covid deaths by 155,000?",
-    "link": "https://www.statnews.com/2026/03/19/covid-deaths-undercount-scientists-trump-cuts-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T13:28:11.000Z",
-    "summary": "In today's Morning Rounds newsletter: the precarious state of U.S. science, what we take for granted about vaccines, and more."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Lilly weight loss trial, TrumpRx shortcomings, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/19/lilly-weight-loss-trial-results-trumprx-shortcomings/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T13:22:13.000Z",
-    "summary": "Diabetes patients taking an investigational drug from Eli Lilly saw significant reductions in their blood sugar and weight in a late-stage study"
   },
   {
     "title": "AstraZeneca to boost cell therapy capabilities with new China investment",
@@ -184,30 +248,6 @@
     "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer."
   },
   {
-    "title": "STAT+: Eli Lilly’s ‘triple-G’ drug leads to significant blood sugar, weight reductions in diabetes trial",
-    "link": "https://www.statnews.com/2026/03/19/eli-lilly-triple-g-retatrutide-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T10:45:00.000Z",
-    "summary": "Diabetes patients taking an investigational drug from Eli Lilly saw significant reductions in their blood sugar and weight in a late-stage study."
-  },
-  {
-    "title": "STAT+: Six drugmakers, six months: Charting the FDA’s course in the post-Prasad era",
-    "link": "https://www.statnews.com/2026/03/19/biotech-scorecard-rare-disease-drugs-fda-decisions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T10:30:00.000Z",
-    "summary": "Will the FDA’s regulatory policies, particularly for rare-disease drugs, shift in the wake of Vinay Prasad’s imminent departure?"
-  },
-  {
-    "title": "STAT+: Senate Democrats lay out plans to overhaul health insurance after setbacks under Trump",
-    "link": "https://www.statnews.com/2026/03/19/democratic-senators-outline-health-insurance-reform-plan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T08:45:00.000Z",
-    "summary": "Democrats are sharpening their health care message as the midterms loom."
-  },
-  {
     "title": "RBC: Revolution, Xenon, Arrowhead among top takeover targets",
     "link": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
     "source": "BioPharma Dive",
@@ -216,44 +256,12 @@
     "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers."
   },
   {
-    "title": "J&J wins FDA nod for psoriasis pill that aims to compete with top-selling injections",
-    "link": "https://www.biopharmadive.com/news/jnj-psoriasis-pill-il-23-icotyde-fda-approval/815076/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-18T16:05:00.000Z",
-    "summary": "The clearance is the first for an oral peptide that blocks IL-23, the target of popular medicines like Skyrizi and Tremfya. J&J has said the new drug, Icotyde, has the potential to top $5 billion in…"
-  },
-  {
-    "title": "Aspen’s fresh Parkinson’s data; Aldeyra tanks following FDA rejection",
-    "link": "https://www.biopharmadive.com/news/aspen-aldeyra-fda-rhythm-mestag/814969/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-18T15:45:00.000Z",
-    "summary": "Aspen Neuroscience presented positive Phase 1/2 data for its stem cell-derived therapy. Elsewhere, Aldeyra lost over half its market value following a rejection from the FDA."
-  },
-  {
-    "title": "Crossbow raises $77M for new cancer immunotherapies",
-    "link": "https://www.biopharmadive.com/news/crossbow-cancer-immunotherapies-tce-series-b/815049/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-18T14:11:52.000Z",
-    "summary": "Backed by more than a dozen investors, the biotech startup will use the funding to further a Phase 1 trial of its lead program CBX-250."
-  },
-  {
     "title": "FDA Releases Draft Guidance on Alternatives to Animal Testing in Drug Development",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-releases-draft-guidance-alternatives-animal-testing-drug-development",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-18T12:51:21.000Z",
     "summary": "The U.S. Food and Drug Administration today issued draft guidance intended to help drug developers validate new approach methodologies (NAMs) to be used instead of animal testing in drug development,…"
-  },
-  {
-    "title": "Chinese biotech startup Excalipoint banks $69M for next-gen T cell engagers",
-    "link": "https://www.biopharmadive.com/news/excalipoint-biotech-startup-china-t-cell-engagers/814829/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-18T12:00:00.000Z",
-    "summary": "The funding, which ranks as one of the largest of its kind for a China-based drug startup, will support a portfolio of multifaceted antibodies the company believes to be advances over existing…"
   },
   {
     "title": "Non-incretin approach for weight loss",
