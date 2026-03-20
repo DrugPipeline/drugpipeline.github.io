@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: U.K. to take another look at cost-effectiveness of Alzheimer’s drugs",
+    "link": "https://www.statnews.com/2026/03/20/uk-nice-leqembi-kisunla-alzheimers-price-cost-effective/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T11:05:24.000Z",
+    "summary": "Following successful appeals from drugmakers, the U.K. is taking another look at whether two new Alzheimer's drugs can be considered cost-effective."
+  },
+  {
+    "title": "STAT+: A family’s giving to the Broad Institute’s research tops $1 billion",
+    "link": "https://www.statnews.com/2026/03/20/broad-institute-mit-harvard-stanley-family-foundation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T08:30:00.000Z",
+    "summary": "The Broad Institute of MIT and Harvard is poised to receive a massive injection of cash to fund research in the understanding and treatment of bipolar disorder and schizophrenia research."
+  },
+  {
+    "title": "Tobacco could get a boost from the farm bill. How does that square with MAHA?",
+    "link": "https://www.statnews.com/2026/03/20/maha-movement-dismay-farm-bill-boosts-tobacco-pesticides/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T08:30:00.000Z",
+    "summary": "The farm bill shows politicians catering to the agriculture industry risk losing the support of MAHA while running afoul of public health goals."
+  },
+  {
+    "title": "Opinion: Congress must fix the No Surprises Act before it bankrupts patients and employers",
+    "link": "https://www.statnews.com/2026/03/20/no-surprises-act-independent-dispute-resolution-process/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T08:30:00.000Z",
+    "summary": "Congress must fix the No Surprises Act before it bankrupts patients and employers, James Gelfand and Patricia Kelmar write."
+  },
+  {
+    "title": "Opinion: How OB-GYNs like me are increasingly able to treat pain from IUDs and other gynecologic procedures",
+    "link": "https://www.statnews.com/2026/03/20/iud-insertion-pain-treatment-options-empowerment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T08:30:00.000Z",
+    "summary": "OB-GYNs increasingly can, and want to, address pain from procedures like IUD insertion."
+  },
+  {
+    "title": "STAT+: Novartis picks up experimental breast cancer therapy for $2B",
+    "link": "https://www.statnews.com/2026/03/20/novartis-acquires-synnovation-breast-cancer-drug-snv4818/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-20T08:22:25.000Z",
+    "summary": "Looking to bolster its pipeline, Novartis is buying a breast cancer drug candidate for $2 billion from Delaware-based Synnovation Therapeutics."
+  },
+  {
     "title": "STAT+: Political influence ‘a serious problem’ for FDA under Trump, former commissioner says",
     "link": "https://www.statnews.com/2026/03/19/political-influence-serious-problem-fda-former-commissioner-robert-califf/?utm_campaign=rss",
     "source": "STAT News",
@@ -158,54 +206,6 @@
     "category": "industry",
     "date": "2026-03-19T08:45:00.000Z",
     "summary": "Democrats are sharpening their health care message as the midterms loom."
-  },
-  {
-    "title": "Researchers surveyed by STAT detail the toll of grant cuts: labs shutting down, data unanalyzed",
-    "link": "https://www.statnews.com/2026/03/19/nih-funding-turmoil-young-researchers-detail-impact/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T08:30:00.000Z",
-    "summary": "STAT interviews with 30 respondents brought the unmistakably human impacts of federal science policy into sharp focus. Here are three of those stories."
-  },
-  {
-    "title": "The indirect — and sometimes surprising — benefits of vaccines",
-    "link": "https://www.statnews.com/2026/03/19/vaccine-success-widespread-hidden-benefits-make-skepticism-possible/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T08:30:00.000Z",
-    "summary": "Many vaccines confer surprising knock-on, or indirect, health benefits when they have been put into widespread use."
-  },
-  {
-    "title": "National survey of NIH-funded researchers shows precarious state of U.S. science — ‘This is like the Titanic’",
-    "link": "https://www.statnews.com/2026/03/19/nih-funding-national-researcher-survey-finds-cutbacks-disruptions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T08:30:00.000Z",
-    "summary": "A nationwide STAT survey of NIH-funded researchers reveals that, a year after Donald Trump's return to the White House, many scientists are reeling"
-  },
-  {
-    "title": "Opinion: There is a successor to 340B lurking on the horizon",
-    "link": "https://www.statnews.com/2026/03/19/340b-reform-medicare-drug-price-negotitation-program/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T08:30:00.000Z",
-    "summary": "The closer we get to 2028, the more likely it is that the U.S. may settle for short-term solutions that do not meaningfully reform the health care system."
-  },
-  {
-    "title": "STAT+: HHS watchdog slams nursing homes’ antipsychotic drug use and schizophrenia diagnoses",
-    "link": "https://www.statnews.com/2026/03/19/antipsychotic-drug-misuse-nursing-homes-hhs-oig-reports/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T04:01:00.000Z",
-    "summary": "Nursing homes misuse antipsychotic drugs for dementia patients, disguise practice as schizophrenia treatment, watchdog finds."
-  },
-  {
-    "title": "STAT+: FDA’s top infectious disease regulator to depart agency",
-    "link": "https://www.statnews.com/2026/03/18/fda-top-infectious-disease-regulator-depart-agency-adam-sherwat/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-18T23:20:00.000Z",
-    "summary": "Adam Sherwat, the director of the Office of Infectious Diseases in the FDA’s Center for Drug Evaluation and Research, is leaving the agency."
   },
   {
     "title": "RBC: Revolution, Xenon, Arrowhead among top takeover targets",
