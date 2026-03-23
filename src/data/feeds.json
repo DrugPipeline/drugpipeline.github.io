@@ -1,5 +1,117 @@
 [
   {
+    "title": "Match Day results show impact of federal immigration policy",
+    "link": "https://www.statnews.com/2026/03/23/cdc-director-search-match-day-immigration-morning-rounds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-23T13:02:01.000Z",
+    "summary": "In today's Morning Rounds newsletter: the high-stakes search for a new CDC director, the impact of immigration policy on budding doctors, and more."
+  },
+  {
+    "title": "STAT+: Doctronic raises $40 million as race to apply AI in clinical care heats up",
+    "link": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-23T12:00:00.000Z",
+    "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million."
+  },
+  {
+    "title": "STAT+: Insmed drug benefits patients with rare, bacterial lung disease, study shows",
+    "link": "https://www.statnews.com/2026/03/23/insmed-mac-lung-infection-arikayce-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-23T11:00:00.000Z",
+    "summary": "Insmed hopes to convert Arikayce's accelerated approval to a full approval."
+  },
+  {
+    "title": "STAT+: Pfizer’s Lyme vaccine shows efficacy, but misses key statistical hurdle",
+    "link": "https://www.statnews.com/2026/03/23/lyme-disease-vaccine-study-results-efficacy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-23T10:45:00.000Z",
+    "summary": "Lyme is found in almost a half-million Americans each year. A new vaccine shows some promise."
+  },
+  {
+    "title": "STAT+: Apogee Therapeutics data show long-acting eczema drug induced relief with less frequent injections",
+    "link": "https://www.statnews.com/2026/03/23/zumilokibart-apogee-eczema-clinical-trials-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-23T10:30:00.000Z",
+    "summary": "An experimental treatment for eczema from Apogee Therapeutics induced skin and itch relief comparable to current, widely used medicines but with less frequent injections."
+  },
+  {
+    "title": "Risk, readiness and resilience",
+    "link": "https://www.biopharmadive.com/spons/risk-readiness-and-resilience/814772/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-23T09:00:00.000Z",
+    "summary": "The location secret behind pharma's most reliable East Coast expansion corridor."
+  },
+  {
+    "title": "Her son needed a fecal transplant for a fearsome C. diff infection. Getting one required a tortuous journey",
+    "link": "https://www.statnews.com/2026/03/23/c-diff-fda-drug-approval-access-paradox-fecal-transplants/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-23T08:30:00.000Z",
+    "summary": "Her son needed a fecal transplant for a fearsome C. diff infection. Getting one required a tortuous journey."
+  },
+  {
+    "title": "Opinion: The AI push in health care is deepening medicine’s trust crisis",
+    "link": "https://www.statnews.com/2026/03/23/ai-use-distrust-american-medicine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-23T08:30:00.000Z",
+    "summary": "Health care’s adoption of AI should move at the speed of trust, not investment, writes Oni Blackstock."
+  },
+  {
+    "title": "Enhancing CAR-NK cell efficacy in solid tumours",
+    "link": "https://www.nature.com/articles/d41573-026-00049-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeted degradation of amyloid-β",
+    "link": "https://www.nature.com/articles/d41573-026-00051-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Trikines rewire STAT signalling",
+    "link": "https://www.nature.com/articles/d41573-026-00052-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Exon skipping to treat Rett syndrome",
+    "link": "https://www.nature.com/articles/d41573-026-00050-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Wearable technologies in clinical trials for drug development: trends and emerging opportunities",
+    "link": "https://www.nature.com/articles/s41573-026-01403-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Can a first disease-modifying osteoarthritis drug make it past the FDA?",
+    "link": "https://www.nature.com/articles/d41573-026-00047-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Automatic enrollment in Medicare Advantage plans under consideration, top Trump health official says",
     "link": "https://www.statnews.com/2026/03/20/medicare-advantage-default-enrollment-chris-klomp-project-2025/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,62 +256,6 @@
     "summary": "The farm bill shows politicians catering to the agriculture industry risk losing the support of MAHA while running afoul of public health goals."
   },
   {
-    "title": "Opinion: Congress must fix the No Surprises Act before it bankrupts patients and employers",
-    "link": "https://www.statnews.com/2026/03/20/no-surprises-act-independent-dispute-resolution-process/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-20T08:30:00.000Z",
-    "summary": "Congress must fix the No Surprises Act before it bankrupts patients and employers, James Gelfand and Patricia Kelmar write."
-  },
-  {
-    "title": "Opinion: How OB-GYNs like me are increasingly able to treat pain from IUDs and other gynecologic procedures",
-    "link": "https://www.statnews.com/2026/03/20/iud-insertion-pain-treatment-options-empowerment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-20T08:30:00.000Z",
-    "summary": "OB-GYNs increasingly can, and want to, address pain from procedures like IUD insertion."
-  },
-  {
-    "title": "STAT+: Novartis picks up experimental breast cancer therapy for $2B",
-    "link": "https://www.statnews.com/2026/03/20/novartis-acquires-synnovation-breast-cancer-drug-snv4818/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-20T08:22:25.000Z",
-    "summary": "Looking to bolster its pipeline, Novartis is buying a breast cancer drug candidate for $2 billion from Delaware-based Synnovation Therapeutics."
-  },
-  {
-    "title": "STAT+: Political influence ‘a serious problem’ for FDA under Trump, former commissioner says",
-    "link": "https://www.statnews.com/2026/03/19/political-influence-serious-problem-fda-former-commissioner-robert-califf/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-20T00:54:44.000Z",
-    "summary": "“What's changed now is that there's a view in this administration that everything is political,” said Robert Califf, former FDA commissioner."
-  },
-  {
-    "title": "Judge will rule against Kennedy’s declaration on gender-affirming care",
-    "link": "https://www.statnews.com/2026/03/19/judge-vacates-kennedy-gender-affirming-care-declaration/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-20T00:28:45.000Z",
-    "summary": "A U.S. district judge said he will vacate a declaration by Kennedy that asserted gender-affirming care for young trans people does not meet medical standards of care."
-  },
-  {
-    "title": "Drug development is booming in China. Should the U.S. view it as a threat or an opportunity?",
-    "link": "https://www.statnews.com/2026/03/19/american-gene-therapy-leadership-challenged-speedy-china-trials/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T23:19:25.000Z",
-    "summary": "If the U.S. wants to hold on to its title as the world's top biotech innovator, it might want to take a page out of China's book, a pioneer in…"
-  },
-  {
-    "title": "Independent autism committee kicks off efforts to counter RFK Jr., influence Congress",
-    "link": "https://www.statnews.com/2026/03/19/autism-scientists-organize-alternative-to-rfk-jr-advisors/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-19T22:57:43.000Z",
-    "summary": "A group of autism scientists kicked off efforts Thursday to influence Congress, and the research agendas of private organizations."
-  },
-  {
     "title": "Novo uses FDA voucher to win speedy approval of higher-dose Wegovy",
     "link": "https://www.biopharmadive.com/news/novo-high-dose-wegovy-fda-approval-voucher-obesity/815235/",
     "source": "BioPharma Dive",
@@ -246,14 +302,6 @@
     "category": "industry",
     "date": "2026-03-19T11:22:00.000Z",
     "summary": "The planned Shanghai facility extends a yearslong push into the field and will support CAR-T therapies AstraZeneca is making for autoimmune disease and cancer."
-  },
-  {
-    "title": "RBC: Revolution, Xenon, Arrowhead among top takeover targets",
-    "link": "https://www.biopharmadive.com/news/biotech-takeover-targets-rbc-mergers-acquisitions-deals/815061/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-18T16:14:00.000Z",
-    "summary": "As part of a larger review, analyst Leonid Timashev identified 13 companies that could see deal interest as well as more than half a dozen poised to be potential buyers."
   },
   {
     "title": "FDA Releases Draft Guidance on Alternatives to Animal Testing in Drug Development",
