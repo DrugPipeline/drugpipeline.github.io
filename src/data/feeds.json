@@ -1,5 +1,37 @@
 [
   {
+    "title": "Federal vaccine adviser departs ACIP",
+    "link": "https://www.statnews.com/2026/03/24/federal-vaccine-adviser-departs-acip/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-24T23:52:51.000Z",
+    "summary": "Robert Malone, an outspoken doctor and ally of RFK Jr., is stepping away from a panel of federal vaccine advisers after a federal judge blocked the panel’s work."
+  },
+  {
+    "title": "Opinion: We’re launching a new CMS pilot program to help children with complex conditions",
+    "link": "https://www.statnews.com/2026/03/24/cms-aspire-innovation-model-announcement/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-24T20:00:00.000Z",
+    "summary": "CMS wants “to turn this shoddy patchwork of care into a seamless tapestry,” write CMS Administrator Mehmet Oz and Center for Medicare and Medicaid Innovation Director Abe Sutton."
+  },
+  {
+    "title": "STAT+: FTC strikes proposed deal with CVS over charges its PBM manipulated insulin prices, impeded access",
+    "link": "https://www.statnews.com/pharmalot/2026/03/24/ftc-proposed-deal-cvs-pbm-manipulated-insulin-prices/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-24T19:50:13.000Z",
+    "summary": "The FTC said the settlement will save Americans up to $7 billion in out-of-pocket costs over 10 years."
+  },
+  {
+    "title": "RA Capital targets China with latest SPAC deal",
+    "link": "https://www.biopharmadive.com/news/ra-capital-spac-private-merger-china/815572/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-24T19:00:00.000Z",
+    "summary": "The prominent investor aims to merge its latest special purpose acquisition company with a Chinese biotech, according to a securities filing."
+  },
+  {
     "title": "STAT+: Drug company penalties for paying kickbacks to doctors failed to dent  bottom lines, analysis finds",
     "link": "https://www.statnews.com/pharmalot/2026/03/24/pharma-doctor-kickback-penalties-dwarfed-by-sales-revenue/?utm_campaign=rss",
     "source": "STAT News",
@@ -38,6 +70,14 @@
     "category": "industry",
     "date": "2026-03-24T14:00:00.000Z",
     "summary": "Deepfake images can mislead viewers, upend elections, and instigate violence. They can also, researchers say, disrupt medical care."
+  },
+  {
+    "title": "Immutrin raises $87M to advance drug for progressive heart disease",
+    "link": "https://www.biopharmadive.com/news/immutrin-raises-87-million-advance-drug-progressive-heart-disease/815553/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-24T13:57:06.000Z",
+    "summary": "The fresh funding will help the biotech startup advance a candidate to treat a genetic disorder, “ATTR-CM,” that has become a battleground for companies like Pfizer, Alnylam and BridgeBio."
   },
   {
     "title": "Karyopharm myeloma drug yields mixed data in myelofibrosis trial",
@@ -184,30 +224,6 @@
     "summary": "New results on Pfizer's Lyme disease vaccine, how the Middle East conflict could strain drug supply chains, and more biotech news in today's Readout newsletter."
   },
   {
-    "title": "Match Day results show impact of federal immigration policy",
-    "link": "https://www.statnews.com/2026/03/23/cdc-director-search-match-day-immigration-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-23T13:02:01.000Z",
-    "summary": "In today's Morning Rounds newsletter: the high-stakes search for a new CDC director, the impact of immigration policy on budding doctors, and more."
-  },
-  {
-    "title": "STAT+: Doctronic raises $40 million as race to apply AI in clinical care heats up",
-    "link": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-23T12:00:00.000Z",
-    "summary": "Doctronic, the startup behind a provocative experiment in Utah to renew drug prescriptions with a chatbot, has raised $40 million."
-  },
-  {
-    "title": "STAT+: Insmed drug benefits patients with rare, bacterial lung disease, study shows",
-    "link": "https://www.statnews.com/2026/03/23/insmed-mac-lung-infection-arikayce-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-23T11:00:00.000Z",
-    "summary": "Insmed hopes to convert Arikayce's accelerated approval to a full approval."
-  },
-  {
     "title": "Risk, readiness and resilience",
     "link": "https://www.biopharmadive.com/spons/risk-readiness-and-resilience/814772/",
     "source": "BioPharma Dive",
@@ -272,22 +288,6 @@
     "summary": "The hefty funding will support a U.S.- and China-based startup that’s amassed a pipeline of nearly 20 drugs and formed two lucrative partnerships with Sanofi."
   },
   {
-    "title": "Roche stops work on experimental SMA drug",
-    "link": "https://www.biopharmadive.com/news/roche-sma-emugrobart-development-genentech-chugai-rare-muscle/815274/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-20T15:52:55.000Z",
-    "summary": "In a letter to European patients, Roche said its decision to end development of “emugrobart” was based on the drug “not consistently” improving muscle growth and motor function in a key study."
-  },
-  {
-    "title": "Novartis pays $2B to land a startup’s breast cancer drug",
-    "link": "https://www.biopharmadive.com/news/novartis-synnovation-pikavation-PI3Ka-inhibitor-deal/815283/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-20T14:34:00.000Z",
-    "summary": "Acquiring a unit of privately held Synnovation Therapeutics hands Novartis a prospect that might improve on medicines that, like its own Piqray, target tumors driven to growth by PIK3CA mutations."
-  },
-  {
     "title": "FDA Schedules Public Meeting on the Commissioner’s National Priority Voucher Pilot Program",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-schedules-public-meeting-commissioners-national-priority-voucher-pilot-program",
     "source": "FDA Press Releases",
@@ -310,13 +310,5 @@
     "category": "regulatory",
     "date": "2026-03-18T12:51:21.000Z",
     "summary": "The U.S. Food and Drug Administration today issued draft guidance intended to help drug developers validate new approach methodologies (NAMs) to be used instead of animal testing in drug development,…"
-  },
-  {
-    "title": "Non-incretin approach for weight loss",
-    "link": "https://www.nature.com/articles/d41573-026-00048-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-18T00:00:00.000Z",
-    "summary": ""
   }
 ]
