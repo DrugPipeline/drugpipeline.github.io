@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: CDC leadership in limbo as Trump administration set to miss deadline to nominate director",
+    "link": "https://www.statnews.com/2026/03/25/cdc-director-nomination-delayed-rfk-jr-continues-search/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-25T21:25:26.000Z",
+    "summary": "RFK Jr. and a top adviser are continuing the search for a new CDC director past a statutory deadline."
+  },
+  {
+    "title": "Maze tumbles despite positive data for kidney disease drug",
+    "link": "https://www.biopharmadive.com/news/maze-positive-data-APOL1-kidney-disease-drug-vertex/815671/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-25T19:25:00.000Z",
+    "summary": "Investors had reservations about data for a drug that could compete with a candidate from Vertex in APOL1-mediated kidney disease."
+  },
+  {
+    "title": "California considers seal of approval for foods that are not ultra-processed",
+    "link": "https://www.statnews.com/2026/03/25/california-ultraprocessed-food-labeling-bill/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-25T19:01:28.000Z",
+    "summary": "A California bill would allow \"not ultraprocessed\" labels on foods, even as scientists debate definitions and courts question the legality of similar laws."
+  },
+  {
     "title": "STAT+: Bhattacharya addresses CDC director role, works to bolster staff morale in first all-hands meeting",
     "link": "https://www.statnews.com/2026/03/25/cdc-new-director-nomination-imminent-jay-bhattacharya-tells-staff/?utm_campaign=rss",
     "source": "STAT News",
@@ -14,6 +38,14 @@
     "category": "industry",
     "date": "2026-03-25T18:00:00.000Z",
     "summary": "A new MRI method measures cardiac oxygen use in three minutes without catheters or radiation, offering a simpler way to study heart failure and metabolism."
+  },
+  {
+    "title": "Beam posts positive data on base editing treatment for AATD",
+    "link": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-25T17:50:20.000Z",
+    "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study."
   },
   {
     "title": "STAT+: FDA approves Denali Therapeutics drug for Hunter syndrome",
@@ -176,28 +208,12 @@
     "summary": "Patrick Soon-Shiong, a controversial figure in the biotech industry, was accused by the FDA of making 'false and misleading' claims about a cancer treatment."
   },
   {
-    "title": "STAT+: How will Trump handle the CDC and ACIP?",
-    "link": "https://www.statnews.com/2026/03/24/who-will-run-cdc-acip-appeal-decision-trump-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-24T15:43:05.000Z",
-    "summary": "Trump's decisions serve as a test of how much sway RFK Jr.'s MAHA movement still has in the White House."
-  },
-  {
     "title": "Gilead, with Ouro deal, wagers $1.7B on bispecifics for autoimmune diseases",
     "link": "https://www.biopharmadive.com/news/gilead-ouro-medicines-acquisition/815538/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-24T14:07:58.000Z",
     "summary": "Acquiring Ouro Medicines, which launched last year, hands Gilead an antibody designed to bind to BCMA and CD3, a pair of immune cell proteins that are popular targets for drugmakers."
-  },
-  {
-    "title": "STAT+: Can you spot a deepfake X-ray? Neither can your radiologist",
-    "link": "https://www.statnews.com/2026/03/24/radiologists-cant-detect-deepfake-xrays/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-24T14:00:00.000Z",
-    "summary": "Deepfake images can mislead viewers, upend elections, and instigate violence. They can also, researchers say, disrupt medical care."
   },
   {
     "title": "Immutrin raises $87M to advance drug for progressive heart disease",
@@ -230,22 +246,6 @@
     "category": "industry",
     "date": "2026-03-23T16:15:00.000Z",
     "summary": "Company shares climbed by more than 20% on Phase 2 study results suggesting the therapy could provide sustained relief when administered once every three or six months."
-  },
-  {
-    "title": "Pfizer, Valneva to seek approval of Lyme disease vaccine despite mixed study results",
-    "link": "https://www.biopharmadive.com/news/pfizer-valneva-lyme-disease-vaccine-study-results/815395/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-23T16:06:00.000Z",
-    "summary": "The partners said the shot produced “clinically meaningful” efficacy despite missing its main study objective, a finding they blamed on a lower-than-expected rate of infections during the trial."
-  },
-  {
-    "title": "FDA seeks feedback on voucher program; Study data lift ‘overhang’ on Insmed shares",
-    "link": "https://www.biopharmadive.com/news/fda-voucher-insmed-sanofi-kali-sarepta-duchenne-gsk/815243/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-23T14:16:00.000Z",
-    "summary": "Industry executives can share their views on the “national priority” program at a June meeting. Elsewhere, Sanofi licensed a T cell engager and Acorda’s former CEO resurfaced at a cell therapy…"
   },
   {
     "title": "Enhancing CAR-NK cell efficacy in solid tumours",
