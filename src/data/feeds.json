@@ -1,5 +1,93 @@
 [
   {
+    "title": "STAT+: HHS convenes health care execs, motivational speaker on panel to modernize health care",
+    "link": "https://www.statnews.com/2026/03/26/rfk-jr-hhs-dr-oz-cms-announce-members-healthcare-advisory-committee/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T19:04:32.000Z",
+    "summary": "The members will advise Kennedy and Oz on how to lower costs and improve care."
+  },
+  {
+    "title": "Eli Lilly’s deal man, Allogene’s off-the-shelf CAR-T, and Merck’s Terns buy",
+    "link": "https://www.statnews.com/2026/03/26/eli-lilly-allogene-merck-terns-readout-loud-podcast/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T17:55:56.000Z",
+    "summary": "This week on \"The Readout LOUD\" podcast: Eli Lilly's deal man, Allogene's off-the-shelf CAR-T, and Merck's Terns buy."
+  },
+  {
+    "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
+    "link": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-26T16:10:00.000Z",
+    "summary": "Some investors and analysts believe the pharma’s $6.7 billion offer is justified given Terns’ recent stock run. Others are convinced a better proposal is coming."
+  },
+  {
+    "title": "STAT+: Denali Therapeutics, Corcept Therapeutics win FDA approvals",
+    "link": "https://www.statnews.com/2026/03/26/denali-corcept-fda-allogene-car-t-readout-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T16:04:26.000Z",
+    "summary": "In today's Readout Newsletter, Denali and Corcept win FDA approvals, Sarepta eyes a rebound, and Allogene progresses with an off-the-shelf CAR-T."
+  },
+  {
+    "title": "Health influencers talk social media and mental health",
+    "link": "https://www.statnews.com/2026/03/26/health-influencers-talk-social-media-addiction-mental-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T15:53:11.000Z",
+    "summary": "In this week's STATus Report, influential health communicators Jessica Knurick, Morgan “Dr. Noc” McSweeney, and Jessica Malaty Rivera chat about the mental health impacts of social media."
+  },
+  {
+    "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
+    "link": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-26T15:16:00.000Z",
+    "summary": "The approval of Denali’s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA’s stance on rare disease therapies."
+  },
+  {
+    "title": "STAT+: A surprise opening for health care reforms",
+    "link": "https://www.statnews.com/2026/03/26/health-care-reform-congress-ice-funding-cdc-director-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T14:50:43.000Z",
+    "summary": "GOP moves to resolve the fight over ICE's funding could prompt more changes to health care"
+  },
+  {
+    "title": "Wave crashes on obesity drug update; Kodiak’s reboot pays dividends",
+    "link": "https://www.biopharmadive.com/news/wave-obesity-kodiak-results-pinnacle-pulmatrix/815762/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-26T14:46:00.000Z",
+    "summary": "Wave’s drug, which is meant to improve body composition, disappointed investors but was defended by analysts. Elsewhere, Kodiak’s revived vision loss treatment succeeded in a second Phase 3 trial."
+  },
+  {
+    "title": "White House misses deadline to nominate new CDC director",
+    "link": "https://www.statnews.com/2026/03/26/cdc-director-deadline-california-ultraprocessed-foods-morning-rounds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T14:15:26.000Z",
+    "summary": "In today's Morning Rounds newsletter: White House misses the deadline to nominate a new CDC director, California furthers its crackdown on ultra-processed foods, and more."
+  },
+  {
+    "title": "STAT+: Data show people racing to chatbots for health advice",
+    "link": "https://www.statnews.com/2026/03/26/data-show-people-racing-to-chatbots-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T13:44:53.000Z",
+    "summary": "In this edition of STAT Health Tech: More people use chatbots for health advice, a health AI startup raises $125 million, and all about deepfaked medical images."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA OK for a rare disease drug, a grilling of the PTO chief, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/26/fda-rare-disease-pto-novo-nordisk-340b-abortion-hiv/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-26T13:20:58.000Z",
+    "summary": "The FDA approved a Denali medicine for Hunter syndrome, a notable decision as the agency has recently taken tougher stances on rare disease drugs"
+  },
+  {
     "title": "STAT+: Allogene’s off-the-shelf CAR-T is nearing an early but pivotal study readout",
     "link": "https://www.statnews.com/2026/03/26/allogene-car-t-lymphoma-treatment-study/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,76 +224,12 @@
     "summary": "Merck intends to buy Terns Pharmaceuticals, the developer of a promising leukemia treatment, for $6.7 billion"
   },
   {
-    "title": "How to make emergency rooms safer for people with dementia",
-    "link": "https://www.statnews.com/2026/03/25/emergency-rooms-dementia-ai-chatbots-health-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T13:10:50.000Z",
-    "summary": "In today's Morning Rounds newsletter: A federal vaccine adviser departs ACIP, adults turn to AI chatbots for health info, and radiologists sift through deepfake X-rays."
-  },
-  {
     "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
     "link": "https://www.biopharmadive.com/news/merck-terns-acquire-deal-leukemia-drug/815637/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-25T12:50:02.000Z",
     "summary": "If consummated, the deal would hand Merck a treatment that could challenge Novartis’ fast-selling Scemblix. But the low purchase premium — which one analyst described as a \"steal\" — may leave room…"
-  },
-  {
-    "title": "STAT+: Merck to buy Terns Pharmaceuticals in $6.7B deal",
-    "link": "https://www.statnews.com/2026/03/25/merck-terns-pharmaceuticals-leukemia-tern701/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T11:46:25.000Z",
-    "summary": "On the lookout for its next blockbusters, Merck said it would buy Terns Pharmaceuticals, picking up a promising leukemia treatment."
-  },
-  {
-    "title": "STAT+: How an outsider crept into Eli Lilly’s top ranks — and plans to drive its business forward",
-    "link": "https://www.statnews.com/2026/03/25/eli-lilly-cancer-drug-pipeline-fueled-loxo-oncology-jacob-van-naarden/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T08:30:00.000Z",
-    "summary": "How an outsider crept into Eli Lilly’s top ranks — and plans to drive its business forward."
-  },
-  {
-    "title": "Opinion: The U.S. needs to be worried about Iranian biological materials",
-    "link": "https://www.statnews.com/2026/03/25/iran-biological-materials-bioweapon-surveillance/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T08:30:00.000Z",
-    "summary": "“A vial doesn’t need a missile to become a weapon,” writes Ashish Jha."
-  },
-  {
-    "title": "STAT+: Qualified Health raises $125 million, as it helps more health systems build and manage AI tools",
-    "link": "https://www.statnews.com/2026/03/25/qualified-health-raises-125-million-help-hospitals-manage-ai/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T08:30:00.000Z",
-    "summary": "Qualified Health, which helps health systems build and manage artificial intelligence tools, has raised $125 million."
-  },
-  {
-    "title": "Opinion: Emergency departments are not equipped to help patients with dementia",
-    "link": "https://www.statnews.com/2026/03/25/emergency-department-patients-dementia/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T08:30:00.000Z",
-    "summary": "Emergency departments are not equipped to help patients with dementia."
-  },
-  {
-    "title": "Federal vaccine adviser departs ACIP",
-    "link": "https://www.statnews.com/2026/03/24/federal-vaccine-adviser-departs-acip/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-24T23:52:51.000Z",
-    "summary": "Robert Malone, an outspoken doctor and ally of RFK Jr., is stepping away from a panel of federal vaccine advisers after a federal judge blocked the panel’s work."
-  },
-  {
-    "title": "Opinion: We’re launching a new CMS pilot program to help children with complex conditions",
-    "link": "https://www.statnews.com/2026/03/24/cms-aspire-innovation-model-announcement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-24T20:00:00.000Z",
-    "summary": "CMS wants “to turn this shoddy patchwork of care into a seamless tapestry,” write CMS Administrator Mehmet Oz and Center for Medicare and Medicaid Innovation Director Abe Sutton."
   },
   {
     "title": "RA Capital targets China with latest SPAC deal",
@@ -230,30 +254,6 @@
     "category": "industry",
     "date": "2026-03-24T13:57:06.000Z",
     "summary": "The fresh funding will help the biotech startup advance a candidate to treat a genetic disorder, “ATTR-CM,” that has become a battleground for companies like Pfizer, Alnylam and BridgeBio."
-  },
-  {
-    "title": "Karyopharm myeloma drug yields mixed data in myelofibrosis trial",
-    "link": "https://www.biopharmadive.com/news/karyopharm-xpovio-myelofibrosis--phase-3-data/815539/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-24T13:47:52.000Z",
-    "summary": "Xpovio combined with Incyte’s Jakafi helped on one key measure but missed on other goal in a disorder that, by one analyst’s estimates, could triple the company’s revenue."
-  },
-  {
-    "title": "How former Acorda CEO Ron Cohen landed at a Parkinson’s cell therapy startup",
-    "link": "https://www.biopharmadive.com/news/ron-cohen-oryon-acorda-parkinsons-cell-therapy-biotech/815460/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-24T11:00:00.000Z",
-    "summary": "Cohen says he looked at around two dozen companies since Acorda wound down. Oryon Cell Therapies, with its funding, data and “autologous” approach, stood out amongst the crowd."
-  },
-  {
-    "title": "Apogee strengthens case for longer-lasting eczema drug",
-    "link": "https://www.biopharmadive.com/news/apogee-eczema-drug-data-zumilokibart-atopic-dermatitis/815396/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-23T16:15:00.000Z",
-    "summary": "Company shares climbed by more than 20% on Phase 2 study results suggesting the therapy could provide sustained relief when administered once every three or six months."
   },
   {
     "title": "Enhancing CAR-NK cell efficacy in solid tumours",
@@ -310,13 +310,5 @@
     "category": "regulatory",
     "date": "2026-03-20T13:09:38.000Z",
     "summary": "As part of the U.S. Food and Drug Administration’s continuous quality improvement efforts, the agency today published a Federal Register Notice seeking public comment on the Commissioner’s National…"
-  },
-  {
-    "title": "FDA Approves Fourth Product Under National Priority Voucher Program, Higher Dose Semaglutide",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-fourth-product-under-national-priority-voucher-program-higher-dose-semaglutide",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-03-19T16:54:56.000Z",
-    "summary": "The U.S. Food and Drug Administration today approved a new higher dose (7.2 mg) of Wegovy (semaglutide) injection for weight loss and long-term maintenance of weight loss for certain adult patients."
   }
 ]
