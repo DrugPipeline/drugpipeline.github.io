@@ -1,11 +1,75 @@
 [
   {
+    "title": "As political pressure mounts, medical school accreditor drops requirement to teach about health equity",
+    "link": "https://www.statnews.com/2026/03/27/medical-schools-dei-lcme-drops-structural-competency/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-27T08:30:00.000Z",
+    "summary": "The leading medical school accreditation body in the U.S. has removed language from its standards requiring schools to teach about health inequities"
+  },
+  {
+    "title": "Decades after Vietnam War, research links Agent Orange exposure to MDS blood cancer",
+    "link": "https://www.statnews.com/2026/03/27/agent-orange-link-mds-blood-cancer-researcher-mikkael-sekeres-qa/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-27T08:30:00.000Z",
+    "summary": "Agent Orange, the herbicide used in the Vietnam War, had not been linked to MDS blood cancers. A new study does that, and could help veterans get help."
+  },
+  {
+    "title": "STAT+: Trump administration says home care fraud is ‘rampant.’ What do the data show?",
+    "link": "https://www.statnews.com/2026/03/27/medicaid-hcbs-home-care-fraud-claims-lack-evidence/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-27T08:30:00.000Z",
+    "summary": "The Trump administration claims there's widespread fraud in home-based care, but officials haven't offered any evidence."
+  },
+  {
+    "title": "Opinion: Future physicians need more nutrition education — but not of the MAHA variety",
+    "link": "https://www.statnews.com/2026/03/27/medical-schools-nutrition-education-science-based/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-27T08:30:00.000Z",
+    "summary": "Credible nutrition educators and scientists need to be closely involved as medical schools add more instruction on nutrition."
+  },
+  {
+    "title": "Opinion: Spreading out elective admissions could save lives, strengthen hospitals, and reduce health spending",
+    "link": "https://www.statnews.com/2026/03/27/elective-admissions-hospitals-smoothing-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-27T08:30:00.000Z",
+    "summary": "This intervention improves patient safety, clinician well-being, and hospital finances simultaneously — a rare alignment of incentives in health care."
+  },
+  {
+    "title": "NIH restrictions on research partnerships with foreign institutions significantly impacted 1 in 4 U.S. scientists",
+    "link": "https://www.statnews.com/2026/03/27/nih-funding-national-researcher-survey-foreign-subaward-ban-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-27T08:30:00.000Z",
+    "summary": "In a survey of NIH-funded scientists, 25% said their research had been impacted a great deal or a fair amount by a move away from foreign subawards."
+  },
+  {
+    "title": "STAT+: ‘We’re on the inside now’: Meet the man building a political empire behind RFK Jr.",
+    "link": "https://www.statnews.com/2026/03/27/tony-lyons-profile-rfk-jr-maha/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-27T08:30:00.000Z",
+    "summary": "Over the past several years, at every step, health secretary Robert F. Kennedy Jr. has been bolstered behind the scenes by a lesser-known name: Tony Lyons."
+  },
+  {
     "title": "STAT+: FDA approves Rocket gene therapy for rare immune disorder",
     "link": "https://www.statnews.com/2026/03/26/rocket-pharma-kresladi-lad-1-fda-approval/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-03-27T00:42:07.000Z",
     "summary": "Kresladi has been tested in just nine patients but has had positive results."
+  },
+  {
+    "title": "First-in-class blood–brain barrier shuttle wins FDA nod for Hunter syndrome",
+    "link": "https://www.nature.com/articles/d41573-026-00055-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-27T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
@@ -152,52 +216,12 @@
     "summary": "Investors had reservations about data for a drug that could compete with a candidate from Vertex in APOL1-mediated kidney disease."
   },
   {
-    "title": "California considers seal of approval for foods that are not ultra-processed",
-    "link": "https://www.statnews.com/2026/03/25/california-ultraprocessed-food-labeling-bill/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T19:01:28.000Z",
-    "summary": "A California bill would allow \"not ultraprocessed\" labels on foods, even as scientists debate definitions and courts question the legality of similar laws."
-  },
-  {
-    "title": "STAT+: Bhattacharya addresses CDC director role, works to bolster staff morale in first all-hands meeting",
-    "link": "https://www.statnews.com/2026/03/25/cdc-new-director-nomination-imminent-jay-bhattacharya-tells-staff/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T18:13:08.000Z",
-    "summary": "Bhattacharya faced tough staff questions on job cuts and fallout from the shooting attack on the agency."
-  },
-  {
-    "title": "Heart failure is common. A quick MRI could improve diagnosis and guide treatment",
-    "link": "https://www.statnews.com/2026/03/25/heart-failure-diagnosis-new-3-minute-mri-measures-oxygen/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T18:00:00.000Z",
-    "summary": "A new MRI method measures cardiac oxygen use in three minutes without catheters or radiation, offering a simpler way to study heart failure and metabolism."
-  },
-  {
     "title": "Beam posts positive data on base editing treatment for AATD",
     "link": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-25T17:50:20.000Z",
     "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study."
-  },
-  {
-    "title": "STAT+: FDA approves Denali Therapeutics drug for Hunter syndrome",
-    "link": "https://www.statnews.com/2026/03/25/denali-therapeutics-hunter-syndrome-rare-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T16:19:58.000Z",
-    "summary": "The FDA approved a new medicine from Denali Therapeutics for Hunter syndrome, a notable decision by the agency after a string of rejections of rare disease drugs."
-  },
-  {
-    "title": "STAT+: A 2023 health AI bet that seems to be paying off",
-    "link": "https://www.statnews.com/2026/03/25/2023-health-ai-bet-that-seems-paying-off-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T16:01:24.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: A chat with Qualified Health co-founder and CEO, Justin Norden, as the company raises $125 million."
   },
   {
     "title": "FDA Approves Drug to Treat Neurologic Manifestations of Hunter Syndrome",
@@ -214,22 +238,6 @@
     "category": "industry",
     "date": "2026-03-25T15:03:53.000Z",
     "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta’s stock and, according to the company, suggest potential for two medicines to treat muscle-weakening conditions."
-  },
-  {
-    "title": "STAT+: Sarepta Therapeutics shares rise on early promise for rare disease drugs",
-    "link": "https://www.statnews.com/2026/03/25/sarepta-therapeutics-fshd-dm1-study-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T14:28:25.000Z",
-    "summary": "Sarepta Therapeutics’ next crop of medicines for muscular dystrophy appear to be safe and effective in early clinical trials, the company said."
-  },
-  {
-    "title": "STAT+: Eli Lilly and the ‘societal obligation’ of GLP-1s",
-    "link": "https://www.statnews.com/2026/03/25/eli-lilly-glp1-merck-terns-pharma-readout-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-25T13:25:35.000Z",
-    "summary": "Eli Lilly and the \"societal obligation\" of GLP-1s, Merck's Terns Pharma purchase, and more biotech news in today's Readout newsletter."
   },
   {
     "title": "Merck to buy Terns in $6.7B bet on a ‘differentiated’ leukemia drug",
