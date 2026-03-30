@@ -1,5 +1,61 @@
 [
   {
+    "title": "Raw dairy co. refutes connection to E. coli outbreak",
+    "link": "https://www.statnews.com/2026/03/30/health-news-raw-dairy-company-denies-e-coli-connection/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T13:07:23.000Z",
+    "summary": "The next CDC director role, health care giants trimming jobs, and more news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Trump pushing drug pricing policy, Chinese biotech licensing, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/03/30/trump-pushes-drug-pricing-policy-chinese-biotech-licensing-lilly/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T13:06:19.000Z",
+    "summary": "The White House has drafted legislative text for its drug pricing policy and is sharing it with more than a dozen major pharmaceutical companies"
+  },
+  {
+    "title": "Trustworthy AI in clinical oversight",
+    "link": "https://www.biopharmadive.com/spons/trustworthy-ai-in-clinical-oversight/815506/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-30T09:00:00.000Z",
+    "summary": "AI can accelerate clinical work and preserve traceability, but only if users can trust it."
+  },
+  {
+    "title": "7 big challenges for the next CDC director",
+    "link": "https://www.statnews.com/2026/03/30/cdc-director-nominee-faces-problems-beyond-senate-confirmation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T08:30:00.000Z",
+    "summary": "Whoever takes over the CDC next will face immediate and enormous challenges. Here are a few."
+  },
+  {
+    "title": "Opinion: Remembering public health pioneer Barry Bloom: a scientist, a mentor, a mensch",
+    "link": "https://www.statnews.com/2026/03/30/barry-bloom-obituary-public-health-immunology-tribute/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T08:30:00.000Z",
+    "summary": "Marc Lipsitch and Yonatan Grad pay tribute to their former colleague and mentor Barry R. Bloom."
+  },
+  {
+    "title": "STAT+: Health care jobs growth is stagnating at the biggest for-profit firms",
+    "link": "https://www.statnews.com/2026/03/30/health-care-employment-stalls-big-for-profit-firms/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T08:30:00.000Z",
+    "summary": "Major health insurers are trimming jobs, and Medicaid cuts could soon force hospitals to lay off workers."
+  },
+  {
+    "title": "Opinion: STAT+: Washington is on the verge of true PBM reform",
+    "link": "https://www.statnews.com/2026/03/30/fair-act-pbm-reform-fiduciary-duty-to-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T08:30:00.000Z",
+    "summary": "Like it or not, PBMs are fiduciaries."
+  },
+  {
     "title": "STAT+: AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion",
     "link": "https://www.statnews.com/2026/03/29/insilico-medicine-lilly-sign-ai-drug-commercialization-deal/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,44 +200,12 @@
     "summary": "Over the past several years, at every step, health secretary Robert F. Kennedy Jr. has been bolstered behind the scenes by a lesser-known name: Tony Lyons."
   },
   {
-    "title": "STAT+: FDA approves Rocket gene therapy for rare immune disorder",
-    "link": "https://www.statnews.com/2026/03/26/rocket-pharma-kresladi-lad-1-fda-approval/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T00:42:07.000Z",
-    "summary": "Kresladi has been tested in just nine patients but has had positive results."
-  },
-  {
-    "title": "First-in-class blood–brain barrier shuttle wins FDA nod for Hunter syndrome",
-    "link": "https://www.nature.com/articles/d41573-026-00055-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-27T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-severe-leukocyte-adhesion-deficiency-type-i",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-03-26T22:47:15.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I)."
-  },
-  {
-    "title": "STAT+: HHS convenes health care execs, motivational speaker on panel to modernize health care",
-    "link": "https://www.statnews.com/2026/03/26/rfk-jr-hhs-dr-oz-cms-announce-members-healthcare-advisory-committee/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-26T19:04:32.000Z",
-    "summary": "The members will advise Kennedy and Oz on how to lower costs and improve care."
-  },
-  {
-    "title": "Eli Lilly’s deal man, Allogene’s off-the-shelf CAR-T, and Merck’s Terns buy",
-    "link": "https://www.statnews.com/2026/03/26/eli-lilly-allogene-merck-terns-readout-loud-podcast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-26T17:55:56.000Z",
-    "summary": "This week on \"The Readout LOUD\" podcast: Eli Lilly's deal man, Allogene's off-the-shelf CAR-T, and Merck's Terns buy."
   },
   {
     "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
@@ -192,22 +216,6 @@
     "summary": "Some investors and analysts believe the pharma’s $6.7 billion offer is justified given Terns’ recent stock run. Others are convinced a better proposal is coming."
   },
   {
-    "title": "STAT+: Denali Therapeutics, Corcept Therapeutics win FDA approvals",
-    "link": "https://www.statnews.com/2026/03/26/denali-corcept-fda-allogene-car-t-readout-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-26T16:04:26.000Z",
-    "summary": "In today's Readout Newsletter, Denali and Corcept win FDA approvals, Sarepta eyes a rebound, and Allogene progresses with an off-the-shelf CAR-T."
-  },
-  {
-    "title": "Health influencers talk social media and mental health",
-    "link": "https://www.statnews.com/2026/03/26/health-influencers-talk-social-media-addiction-mental-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-26T15:53:11.000Z",
-    "summary": "In this week's STATus Report, influential health communicators Jessica Knurick, Morgan “Dr. Noc” McSweeney, and Jessica Malaty Rivera chat about the mental health impacts of social media."
-  },
-  {
     "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
     "link": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
     "source": "BioPharma Dive",
@@ -216,28 +224,12 @@
     "summary": "The approval of Denali’s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA’s stance on rare disease therapies."
   },
   {
-    "title": "STAT+: A surprise opening for health care reforms",
-    "link": "https://www.statnews.com/2026/03/26/health-care-reform-congress-ice-funding-cdc-director-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-26T14:50:43.000Z",
-    "summary": "GOP moves to resolve the fight over ICE's funding could prompt more changes to health care"
-  },
-  {
     "title": "Wave crashes on obesity drug update; Kodiak’s reboot pays dividends",
     "link": "https://www.biopharmadive.com/news/wave-obesity-kodiak-results-pinnacle-pulmatrix/815762/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-26T14:46:00.000Z",
     "summary": "Wave’s drug, which is meant to improve body composition, disappointed investors but was defended by analysts. Elsewhere, Kodiak’s revived vision loss treatment succeeded in a second Phase 3 trial."
-  },
-  {
-    "title": "Oral macrocyclic IL-23 inhibitor nabs FDA approval for psoriasis",
-    "link": "https://www.nature.com/articles/d41573-026-00054-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-26T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "Maze tumbles despite positive data for kidney disease drug",
@@ -262,13 +254,5 @@
     "category": "regulatory",
     "date": "2026-03-25T15:24:47.000Z",
     "summary": "The U.S. Food and Drug Administration approved Avlayah (tividenofusp alfa-eknm) to treat certain individuals with Hunter syndrome (Mucopolysaccharidosis type II or MPS II)."
-  },
-  {
-    "title": "Sarepta sees early success with RNAi drugs from Arrowhead",
-    "link": "https://www.biopharmadive.com/news/sarepta-arrowhead-trial-data-muscular-dystrophy/815681/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-25T15:03:53.000Z",
-    "summary": "Long-awaited results from Phase 1/2 studies lifted Sarepta’s stock and, according to the company, suggest potential for two medicines to treat muscle-weakening conditions."
   }
 ]
