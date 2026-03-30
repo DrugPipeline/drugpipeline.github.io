@@ -1,5 +1,61 @@
 [
   {
+    "title": "Lilly’s AI commitment expands through deal with Insilico",
+    "link": "https://www.biopharmadive.com/news/eli-lilly-insilico-ai-medicine-drug-discovery/816088/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-30T15:52:00.000Z",
+    "summary": "A collaboration “across multiple therapeutic areas” could net the Hong Kong-based biotech more than $2 billion as Lilly seeks to sustain its industry lead."
+  },
+  {
+    "title": "STAT+: Early signs of Alzheimer’s often go undetected. These researchers want to change that",
+    "link": "https://www.statnews.com/2026/03/30/scientists-use-artificial-intelligence-catch-alzheimers-early-signs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T15:10:31.000Z",
+    "summary": "Using AI to analyze changes in brain scans can predict Alzheimer’s with nearly 93 percent accuracy, scientists say."
+  },
+  {
+    "title": "Lead still raises risk of heart disease, years after exposure, study warns",
+    "link": "https://www.statnews.com/2026/03/30/lead-exposure-cardiovascular-risk-factor-jama-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T15:00:00.000Z",
+    "summary": "A JAMA study details how lead lingers in the body and how it can elevate blood pressure, harm blood vessel lining, and raise risk of heart attack."
+  },
+  {
+    "title": "STAT+: The omnipresent power of health care jobs",
+    "link": "https://www.statnews.com/2026/03/30/healthcare-jobs-hospitals-driving-us-job-growth-health-care-inc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T14:57:19.000Z",
+    "summary": "The American workforce has grown in large part thanks to the health care industry, but one key sector is cutting back."
+  },
+  {
+    "title": "Obesity drugmaker Kailera plans an IPO",
+    "link": "https://www.biopharmadive.com/news/kailera-ipo-obesity-drugs-ron-renaud/816081/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-30T14:12:57.000Z",
+    "summary": "The company, led by Ron Renaud, raised $1 billion in venture funding to develop a competitor to Wegovy and Zepbound that’s now in late-stage testing."
+  },
+  {
+    "title": "STAT+: Biogen lupus drug improves skin clearance in mid-stage study",
+    "link": "https://www.statnews.com/2026/03/30/biotech-news-biogen-lupus-drug-improves-skin-clearance-in-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T13:34:29.000Z",
+    "summary": "Insilico's large deal with Eli Lilly, Takeda's Phase 3 psoriasis data, and more biotech news from The Readout"
+  },
+  {
+    "title": "Sanofi eczema drug weighed down by mixed results, safety concerns",
+    "link": "https://www.biopharmadive.com/news/sanofi-touts-mixed-results-for-eczema-drug-amlitelimab/816092/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-30T13:31:48.000Z",
+    "summary": "Despite hitting key goals across three late-stage studies, the drug, which targets the “OX40” ligand, raises safety and efficacy questions that had at least one analyst lower his sales forecast."
+  },
+  {
     "title": "Raw dairy co. refutes connection to E. coli outbreak",
     "link": "https://www.statnews.com/2026/03/30/health-news-raw-dairy-company-denies-e-coli-connection/?utm_campaign=rss",
     "source": "STAT News",
@@ -54,6 +110,22 @@
     "category": "industry",
     "date": "2026-03-30T08:30:00.000Z",
     "summary": "Like it or not, PBMs are fiduciaries."
+  },
+  {
+    "title": "ROCK2 is a druggable angiocrine target in liver fibrosis",
+    "link": "https://www.nature.com/articles/d41573-026-00053-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-30T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "A renaissance in targeting the PI3K/AKT/mTOR pathway",
+    "link": "https://www.nature.com/articles/s41573-026-01388-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-30T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion",
@@ -168,36 +240,12 @@
     "summary": "The Trump administration claims there's widespread fraud in home-based care, but officials haven't offered any evidence."
   },
   {
-    "title": "Opinion: Future physicians need more nutrition education — but not of the MAHA variety",
-    "link": "https://www.statnews.com/2026/03/27/medical-schools-nutrition-education-science-based/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T08:30:00.000Z",
-    "summary": "Credible nutrition educators and scientists need to be closely involved as medical schools add more instruction on nutrition."
-  },
-  {
-    "title": "Opinion: Spreading out elective admissions could save lives, strengthen hospitals, and reduce health spending",
-    "link": "https://www.statnews.com/2026/03/27/elective-admissions-hospitals-smoothing-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T08:30:00.000Z",
-    "summary": "This intervention improves patient safety, clinician well-being, and hospital finances simultaneously — a rare alignment of incentives in health care."
-  },
-  {
-    "title": "NIH restrictions on foreign research partnerships significantly impacted 1 in 4 U.S. scientists",
-    "link": "https://www.statnews.com/2026/03/27/nih-funding-national-researcher-survey-foreign-subaward-ban-impact/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T08:30:00.000Z",
-    "summary": "In a survey of NIH-funded scientists, 25% said their research had been impacted a great deal or a fair amount by a move away from foreign subawards."
-  },
-  {
-    "title": "STAT+: ‘We’re on the inside now’: Meet the man building a political empire behind RFK Jr.",
-    "link": "https://www.statnews.com/2026/03/27/tony-lyons-profile-rfk-jr-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T08:30:00.000Z",
-    "summary": "Over the past several years, at every step, health secretary Robert F. Kennedy Jr. has been bolstered behind the scenes by a lesser-known name: Tony Lyons."
+    "title": "First-in-class blood–brain barrier shuttle wins FDA nod for Hunter syndrome",
+    "link": "https://www.nature.com/articles/d41573-026-00055-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-27T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
@@ -224,28 +272,12 @@
     "summary": "The approval of Denali’s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA’s stance on rare disease therapies."
   },
   {
-    "title": "Wave crashes on obesity drug update; Kodiak’s reboot pays dividends",
-    "link": "https://www.biopharmadive.com/news/wave-obesity-kodiak-results-pinnacle-pulmatrix/815762/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-26T14:46:00.000Z",
-    "summary": "Wave’s drug, which is meant to improve body composition, disappointed investors but was defended by analysts. Elsewhere, Kodiak’s revived vision loss treatment succeeded in a second Phase 3 trial."
-  },
-  {
-    "title": "Maze tumbles despite positive data for kidney disease drug",
-    "link": "https://www.biopharmadive.com/news/maze-positive-data-APOL1-kidney-disease-drug-vertex/815671/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-25T19:25:00.000Z",
-    "summary": "Investors had reservations about data for a drug that could compete with a candidate from Vertex in APOL1-mediated kidney disease."
-  },
-  {
-    "title": "Beam posts positive data on base editing treatment for AATD",
-    "link": "https://www.biopharmadive.com/news/beam-base-gene-editing-clinical-data-aatd/815714/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-25T17:50:20.000Z",
-    "summary": "Updated data showed the biotech's approach to the rare lung and liver condition helped restore functional protective proteins in a small study."
+    "title": "Oral macrocyclic IL-23 inhibitor nabs FDA approval for psoriasis",
+    "link": "https://www.nature.com/articles/d41573-026-00054-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-03-26T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves Drug to Treat Neurologic Manifestations of Hunter Syndrome",
