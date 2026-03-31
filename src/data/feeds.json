@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Pharma giant Takeda to lay off nearly 250 workers in latest job cutting",
+    "link": "https://www.statnews.com/2026/03/30/takeda-to-lay-off-250-workers-cambridge-massachusetts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T22:55:45.000Z",
+    "summary": "Takeda Pharmaceuticals, the largest biopharma employer in Mass., will lay off 250 workers in Cambridge beginning in July."
+  },
+  {
+    "title": "Blackstone closes $6.3B fund for life sciences investing",
+    "link": "https://www.biopharmadive.com/news/blackstone-life-sciences-investing-private-equity-largest-fund/816128/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-30T20:11:00.000Z",
+    "summary": "It's the biggest life sciences private fund ever raised, coming in nearly 40% larger than its Blackstone predecessor vehicle."
+  },
+  {
+    "title": "STAT+: Doctors Without Borders calls Gilead ‘unconscionable’ for refusing to sell HIV prevention drug to organization",
+    "link": "https://www.statnews.com/pharmalot/2026/03/30/doctors-without-borders-calls-gilead-unconsionable-refuse-sell-hiv-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T19:53:10.000Z",
+    "summary": "The move came after months of talks in which Doctors Without Borders asked Gilead Sciences for a “limited” supply of lenacapavir."
+  },
+  {
+    "title": "STAT+: Why this Stanford psychiatrist thinks diet can influence serious mental health disorders",
+    "link": "https://www.statnews.com/2026/03/30/metabolic-psychiatry-studies-diet-role-schizophrenia-bipolar-disorder/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-30T19:39:50.000Z",
+    "summary": "Shebani Sethi is at the vanguard of metabolic psychiatry, a field that investigates the link between diet and serious mental health disorders."
+  },
+  {
+    "title": "United rises on IPF data; Biogen scores positive lupus data and an approval",
+    "link": "https://www.biopharmadive.com/news/united-biogen-lilly-novo-aurinia-biotech-news-roundup-aad/815876/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-30T19:00:00.000Z",
+    "summary": "Tyvaso, a marketed PAH therapy from United Therapeutics, continued to show potential in another lung condition. Elsewhere, Aurinia inked an acquisition and Lilly built its case for Ebglyss."
+  },
+  {
     "title": "Lilly’s AI commitment expands through deal with Insilico",
     "link": "https://www.biopharmadive.com/news/eli-lilly-insilico-ai-medicine-drug-discovery/816088/",
     "source": "BioPharma Dive",
@@ -216,30 +256,6 @@
     "summary": "Though the therapy, Kresladi, isn’t seen as a big seller, its clearance is a step forward for a company that’s lost most of its value since 2021 amid several setbacks."
   },
   {
-    "title": "As political pressure mounts, medical school accreditor drops requirement to teach about health equity",
-    "link": "https://www.statnews.com/2026/03/27/medical-schools-dei-lcme-drops-structural-competency/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T08:30:00.000Z",
-    "summary": "The leading medical school accreditation body in the U.S. has removed language from its standards requiring schools to teach about health inequities"
-  },
-  {
-    "title": "Decades after Vietnam War, research links Agent Orange exposure to MDS blood cancer",
-    "link": "https://www.statnews.com/2026/03/27/agent-orange-link-mds-blood-cancer-researcher-mikkael-sekeres-qa/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T08:30:00.000Z",
-    "summary": "Agent Orange, the herbicide used in the Vietnam War, had not been linked to MDS blood cancers. A new study does that, and could help veterans get help."
-  },
-  {
-    "title": "STAT+: Trump administration says home care fraud is ‘rampant.’ What do the data show?",
-    "link": "https://www.statnews.com/2026/03/27/medicaid-hcbs-home-care-fraud-claims-lack-evidence/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T08:30:00.000Z",
-    "summary": "The Trump administration claims there's widespread fraud in home-based care, but officials haven't offered any evidence."
-  },
-  {
     "title": "First-in-class blood–brain barrier shuttle wins FDA nod for Hunter syndrome",
     "link": "https://www.nature.com/articles/d41573-026-00055-z",
     "source": "Nature Reviews Drug Discovery",
@@ -254,22 +270,6 @@
     "category": "regulatory",
     "date": "2026-03-26T22:47:15.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I)."
-  },
-  {
-    "title": "Merck’s deal for Terns sparks debate over a possible biotech bidding war",
-    "link": "https://www.biopharmadive.com/news/merck-terns-buyout-valuation-debate/815812/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-26T16:10:00.000Z",
-    "summary": "Some investors and analysts believe the pharma’s $6.7 billion offer is justified given Terns’ recent stock run. Others are convinced a better proposal is coming."
-  },
-  {
-    "title": "FDA clears Denali drug in ‘clear step’ for rare disease biotechs",
-    "link": "https://www.biopharmadive.com/news/denali-fda-hunter-syndrome-avlayah-approve-rare-disease/815766/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-26T15:16:00.000Z",
-    "summary": "The approval of Denali’s Hunter syndrome treatment, Avlayah, comes after a series of drug rejections and delays that had led to criticism of the FDA’s stance on rare disease therapies."
   },
   {
     "title": "Oral macrocyclic IL-23 inhibitor nabs FDA approval for psoriasis",
