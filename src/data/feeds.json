@@ -1,5 +1,109 @@
 [
   {
+    "title": "A new survey examines mental health outcomes of gender euphoria",
+    "link": "https://www.statnews.com/2026/03/31/health-news-mental-health-outcomes-of-gender-euphoria/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T12:46:31.000Z",
+    "summary": "Lead exposure and heart disease, promoting psychedelics on YouTube, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Psychedelic biotechs face scrutiny over YouTube promos",
+    "link": "https://www.statnews.com/2026/03/31/biotech-news-psychedelic-startups-face-scrutiny-over-youtube-promo/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T12:40:48.000Z",
+    "summary": "Biogen and Eli Lilly make takeover moves, Doctors Without Borders slams Gilead, and more biotech news"
+  },
+  {
+    "title": "STAT+: Whoop, maker of health and fitness tracking wristbands, valued at $10 billion after latest fundraising",
+    "link": "https://www.statnews.com/2026/03/31/whoop-health-fitness-wristband-investors/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T12:23:30.000Z",
+    "summary": "Whoop, the maker of health and fitness tracking wristbands, raised $575 million from investors including the Mayo Clinic and the sovereign wealth fund of Qatar."
+  },
+  {
+    "title": "Merck strikes deal with antibody discovery startup",
+    "link": "https://www.biopharmadive.com/news/merck-infinimmune-antibody-research-deal/816119/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-31T12:00:00.000Z",
+    "summary": "In an R&D collaboration worth as much as $838 million, Merck will lean on Infinimmune to discover immune cell-directed antibodies for multiple targets."
+  },
+  {
+    "title": "STAT+: Biogen to acquire immunology biotech Apellis for $5.6 billion",
+    "link": "https://www.statnews.com/2026/03/31/biogen-acquisition-apellis-immunology/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T11:47:11.000Z",
+    "summary": "Biogen is buying Apellis Pharmaceuticals for $5.6 billion upfront as it looks to expand its immunology business."
+  },
+  {
+    "title": "STAT+: Eli Lilly to buy Centessa Pharmaceuticals, maker of a narcolepsy drug, in $6.3B deal",
+    "link": "https://www.statnews.com/2026/03/31/eli-lilly-centessa-acquire-narcolepsy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T11:29:11.000Z",
+    "summary": "Eli Lilly is buying Centessa Pharmaceuticals in a deal worth at least $6.3 billion, picking up a promising narcolepsy treatment."
+  },
+  {
+    "title": "Biotech IPOs stayed at slow pace, but grew larger in the first quarter of 2026",
+    "link": "https://www.biopharmadive.com/news/biotech-ipo-performance-q1-2026/815879/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-03-31T11:00:00.000Z",
+    "summary": "The six companies that have priced initial public offerings so far banked a median of $287.5 million, a figure far surpassing what’s been observed over a similar timeframe in prior years, according…"
+  },
+  {
+    "title": "STAT+: Jimini Health raises funding for AI chatbot targeting complex mental health care",
+    "link": "https://www.statnews.com/2026/03/31/jimini-health-raises-funding-ai-chatbot-sage-mental-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T08:30:00.000Z",
+    "summary": "Jimini Health has raised $17 million in seed funding as it seeks to launch its mental health AI platform Sage with large behavioral health organizations."
+  },
+  {
+    "title": "STAT+: Biotech VCs move upstream in China’s scientific pipelines as competition grows fiercer",
+    "link": "https://www.statnews.com/2026/03/31/venture-capital-moves-upstream-chase-china-biotech-deals-pre-publication/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T08:30:00.000Z",
+    "summary": "U.S. venture capital firms are no longer waiting for Chinese biotech assets to surface before investing in them — they’re moving upstream."
+  },
+  {
+    "title": "STAT+: Over-the-top psychedelic promos could undermine the field’s drug development efforts",
+    "link": "https://www.statnews.com/2026/03/31/psychedelic-biotech-promotion-scrutinized-helus-atai-influencer-marketing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T08:30:00.000Z",
+    "summary": "How over-the-top social media videos about psychedelics could undermine the field’s efforts to get its drugs approved."
+  },
+  {
+    "title": "STAT+: HSA companies struck it big in Trump’s tax bill. They’re lobbying for more",
+    "link": "https://www.statnews.com/2026/03/31/hsa-industry-lobbying-push-health-savings-accounts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T08:30:00.000Z",
+    "summary": "The HSA industry is echoing MAHA as it pushes to expand the market for tax-free savings accounts."
+  },
+  {
+    "title": "Opinion: How the next CDC director can win back America’s trust",
+    "link": "https://www.statnews.com/2026/03/31/new-cdc-director-trust-tasks/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T08:30:00.000Z",
+    "summary": "“The CDC stands at an inflection point,” write Charles J. Lockwood, Robert C. Gallo, and Sten H. Vermund."
+  },
+  {
+    "title": "Opinion: America needs more clinics of last resort for patients who can’t get answers",
+    "link": "https://www.statnews.com/2026/03/31/undiagnosed-diseases-program-the-elusive-body-excerpt/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-03-31T08:30:00.000Z",
+    "summary": "“They never gave us false hope, but they promised to try everything”: an excerpt from “The Elusive Body” by Alexandra Sifferlin."
+  },
+  {
     "title": "STAT+: Pharma giant Takeda to lay off nearly 250 workers in latest job cutting",
     "link": "https://www.statnews.com/2026/03/30/takeda-to-lay-off-250-workers-cambridge-massachusetts/?utm_campaign=rss",
     "source": "STAT News",
@@ -16,7 +120,7 @@
     "summary": "It's the biggest life sciences private fund ever raised, coming in nearly 40% larger than its Blackstone predecessor vehicle."
   },
   {
-    "title": "STAT+: Doctors Without Borders calls Gilead ‘unconscionable’ for refusing to sell HIV prevention drug to organization",
+    "title": "STAT+: Doctors Without Borders calls Gilead ‘unconscionable’ for refusing to sell HIV prevention drug to the organization",
     "link": "https://www.statnews.com/pharmalot/2026/03/30/doctors-without-borders-calls-gilead-unconsionable-refuse-sell-hiv-drug/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -120,38 +224,6 @@
     "summary": "AI can accelerate clinical work and preserve traceability, but only if users can trust it."
   },
   {
-    "title": "7 big challenges for the next CDC director",
-    "link": "https://www.statnews.com/2026/03/30/cdc-director-nominee-faces-problems-beyond-senate-confirmation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-30T08:30:00.000Z",
-    "summary": "Whoever takes over the CDC next will face immediate and enormous challenges. Here are a few."
-  },
-  {
-    "title": "Opinion: Remembering public health pioneer Barry Bloom: a scientist, a mentor, a mensch",
-    "link": "https://www.statnews.com/2026/03/30/barry-bloom-obituary-public-health-immunology-tribute/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-30T08:30:00.000Z",
-    "summary": "Marc Lipsitch and Yonatan Grad pay tribute to their former colleague and mentor Barry R. Bloom."
-  },
-  {
-    "title": "STAT+: Health care jobs growth is stagnating at the biggest for-profit firms",
-    "link": "https://www.statnews.com/2026/03/30/health-care-employment-stalls-big-for-profit-firms/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-30T08:30:00.000Z",
-    "summary": "Major health insurers are trimming jobs, and Medicaid cuts could soon force hospitals to lay off workers."
-  },
-  {
-    "title": "Opinion: STAT+: Washington is on the verge of true PBM reform",
-    "link": "https://www.statnews.com/2026/03/30/fair-act-pbm-reform-fiduciary-duty-to-patients/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-30T08:30:00.000Z",
-    "summary": "Like it or not, PBMs are fiduciaries."
-  },
-  {
     "title": "ROCK2 is a druggable angiocrine target in liver fibrosis",
     "link": "https://www.nature.com/articles/d41573-026-00053-1",
     "source": "Nature Reviews Drug Discovery",
@@ -168,30 +240,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: AI drug developer Insilico Medicine and Lilly ink commercialization deal worth up to $2.75 billion",
-    "link": "https://www.statnews.com/2026/03/29/insilico-medicine-lilly-sign-ai-drug-commercialization-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-29T18:06:50.000Z",
-    "summary": "Lilly has signed a deal with AI drug developer Insilico that’s worth $115 million up front and approximately $2.75 billion in biobucks"
-  },
-  {
-    "title": "STAT+: Amid focus on food, FDA leader briefs lawmakers on priorities",
-    "link": "https://www.statnews.com/2026/03/27/fda-briefs-senators-food-safety-infant-formula-ultraprocessed-foods/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T18:34:21.000Z",
-    "summary": "Infant formula safety, updating labels, defining ultraprocessed foods, and expanding inspections of processing plants are among the priorities."
-  },
-  {
-    "title": "STAT+: In private meetings, White House works to win pharma companies’ support for drug pricing bill",
-    "link": "https://www.statnews.com/2026/03/27/most-favored-nation-drug-prices-white-house-negotiations-pharma/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T17:21:48.000Z",
-    "summary": "The White House is working to build support for drug pricing legislation, part of an election year focus on affordability."
-  },
-  {
     "title": "Otsuka picks up PTSD drug with $700M Transcend buy",
     "link": "https://www.biopharmadive.com/news/otsuka-transcend-deal-acquisition-neurology-psychiatry-neuroscience/815985/",
     "source": "BioPharma Dive",
@@ -206,54 +254,6 @@
     "category": "industry",
     "date": "2026-03-27T15:56:00.000Z",
     "summary": "The treatment, tozorakimab, succeeded where other similar therapies failed and could help a broader group of COPD patients than Dupixent."
-  },
-  {
-    "title": "Novartis targets Xolair successor in buyout of startup Excellergy",
-    "link": "https://www.biopharmadive.com/news/novartis-excellergy-allergy-drugs-deal-xolair/815956/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-27T15:22:00.000Z",
-    "summary": "Worth up to $2 billion, the deal is centered around a drug that could lead to faster and more complete control of allergic conditions than Novartis and Roche’s popular medicine."
-  },
-  {
-    "title": "STAT+: China’s biotech boom is rewriting everything",
-    "link": "https://www.statnews.com/2026/03/27/china-biotech-boom-nih-crackdown-foreign-grants-readout-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T14:07:49.000Z",
-    "summary": "In today's Readout newsletter, how China's biotech boom is rewriting everything and how an NIH crackdown is disrupting global science collaboration."
-  },
-  {
-    "title": "The impact of NIH restrictions on foreign institutions",
-    "link": "https://www.statnews.com/2026/03/27/nih-restrictions-grants-ama-gender-affirming-surgery-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T13:54:34.000Z",
-    "summary": "The impact of NIH restrictions on foreign institutions, AMA clarifies gender-affirming surgery comment, and more in today's Morning Rounds newsletter."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/03/27/pharma-biotech-jobs-biontech-ligand-perkinelmer/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T13:46:11.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Novo Nordisk boosting consumer focus, FDA approving a gene therapy, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/27/novo-nordisk-boost-consumer-focus-fda-approves-gene-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-27T13:25:17.000Z",
-    "summary": "Novo Nordisk appointed Poul Weihrauch, CEO of the Mars candy company, as board observer as it tries to boost its consumer focus"
-  },
-  {
-    "title": "Rocket gene therapy cleared by FDA for rare immune disorder",
-    "link": "https://www.biopharmadive.com/news/rocket-fda-kresladi-approve-leukocyte-adhesion-deficiency/815935/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-27T12:07:00.000Z",
-    "summary": "Though the therapy, Kresladi, isn’t seen as a big seller, its clearance is a step forward for a company that’s lost most of its value since 2021 amid several setbacks."
   },
   {
     "title": "First-in-class blood–brain barrier shuttle wins FDA nod for Hunter syndrome",
