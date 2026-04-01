@@ -1,5 +1,53 @@
 [
   {
+    "title": "FDA approves Lilly obesity pill, triggering battle with Novo Nordisk",
+    "link": "https://www.biopharmadive.com/news/fda-approves-lilly-obesity-pill-orforglipron-foundayo-novo/816359/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-01T17:18:00.000Z",
+    "summary": "Foundayo could erase the Wegovy pill’s four-month head start as the two drugmakers clash on a debate of efficacy and convenience."
+  },
+  {
+    "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
+    "link": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-01T15:46:11.000Z",
+    "summary": "Eli Lilly’s obesity pill was approved by the FDA, setting it up for fierce competition against Novo Nordisk’s new Wegovy pill."
+  },
+  {
+    "title": "FDA Approves First New Molecular Entity Under National Priority Voucher Program",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-04-01T15:23:52.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved Foundayo (orforglipron) marking the fifth approval under the Commissioner's National Priority Voucher (CNPV) pilot program."
+  },
+  {
+    "title": "STAT+: Insilico Medicine CEO on how best to use AI in drug development",
+    "link": "https://www.statnews.com/2026/04/01/insilico-medicine-ceo-biotech-drug-development-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-01T14:08:28.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: How to be a 'productive' biotech AI company, with Insilico Medicine CEO Alex Zhavoronkov, and more."
+  },
+  {
+    "title": "Ambrosia adds a megaround for obesity drugs",
+    "link": "https://www.biopharmadive.com/news/ambrosia-obesity-GLP-1-pill-series-b/816317/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-01T14:05:22.000Z",
+    "summary": "The $100 million Series B round will be used to bring the biotech’s oral GLP-1 into early human testing."
+  },
+  {
+    "title": "STAT+: Novo’s subscription model raises questions about pharma-telehealth tie-ups",
+    "link": "https://www.statnews.com/2026/04/01/biotech-news-novo-nordisk-subscription-model-raises-quesstions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-01T13:40:42.000Z",
+    "summary": "A delayed FDA decision for Orca Bio, new questions about pharma-telehealth tie-ups, and more"
+  },
+  {
     "title": "STAT+: Pharmalittle: We’re reading about FDA view on peptide compounding, Iran war hurting trial recruitment, and more",
     "link": "https://www.statnews.com/pharmalot/2026/04/01/fda-compounding-peptides-iran-war-trial-recruitment/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,20 +232,12 @@
     "summary": "In an R&D collaboration worth as much as $838 million, Merck will lean on Infinimmune to discover immune cell-directed antibodies for multiple targets."
   },
   {
-    "title": "STAT+: Biogen to acquire immunology biotech Apellis for $5.6 billion",
-    "link": "https://www.statnews.com/2026/03/31/biogen-acquisition-apellis-immunology/?utm_campaign=rss",
-    "source": "STAT News",
+    "title": "mRNA is poised to rise beyond infectious diseases, if it’s not derailed by R&D cuts",
+    "link": "https://www.biopharmadive.com/news/mrna-beyond-infectious-cancer-moderna-nih-funding/816230/",
+    "source": "BioPharma Dive",
     "category": "industry",
-    "date": "2026-03-31T11:47:11.000Z",
-    "summary": "Biogen is buying Apellis Pharmaceuticals for $5.6 billion upfront as it looks to expand its immunology business."
-  },
-  {
-    "title": "STAT+: Eli Lilly to buy Centessa Pharmaceuticals, maker of a narcolepsy drug, in $6.3B deal",
-    "link": "https://www.statnews.com/2026/03/31/eli-lilly-centessa-acquire-narcolepsy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T11:29:11.000Z",
-    "summary": "Eli Lilly is buying Centessa Pharmaceuticals in a deal worth at least $6.3 billion, picking up a promising narcolepsy treatment."
+    "date": "2026-03-31T11:51:35.000Z",
+    "summary": "Research into areas like cancer could become collateral damage of a broader anti-mRNA push, according to a new study."
   },
   {
     "title": "Biotech IPOs stayed at slow pace, but grew larger in the first quarter of 2026",
@@ -206,38 +246,6 @@
     "category": "industry",
     "date": "2026-03-31T11:00:00.000Z",
     "summary": "The six companies that have priced initial public offerings so far banked a median of $287.5 million, a figure far surpassing what’s been observed over a similar timeframe in prior years, according…"
-  },
-  {
-    "title": "STAT+: Jimini Health raises funding for AI chatbot targeting complex mental health care",
-    "link": "https://www.statnews.com/2026/03/31/jimini-health-raises-funding-ai-chatbot-sage-mental-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T08:30:00.000Z",
-    "summary": "Jimini Health has raised $17 million in seed funding as it seeks to launch its mental health AI platform Sage with large behavioral health organizations."
-  },
-  {
-    "title": "Blackstone closes $6.3B fund for life sciences investing",
-    "link": "https://www.biopharmadive.com/news/blackstone-life-sciences-investing-private-equity-largest-fund/816128/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-30T20:11:00.000Z",
-    "summary": "It's the biggest life sciences private fund ever raised, coming in nearly 40% larger than its Blackstone predecessor vehicle."
-  },
-  {
-    "title": "United rises on IPF results; Biogen scores positive lupus data and an approval",
-    "link": "https://www.biopharmadive.com/news/united-biogen-lilly-novo-aurinia-biotech-news-roundup-aad/815876/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-30T19:00:00.000Z",
-    "summary": "Tyvaso, a marketed PAH therapy from United Therapeutics, continued to show potential in another lung condition. Elsewhere, Aurinia inked an acquisition and Lilly built its case for Ebglyss."
-  },
-  {
-    "title": "Lilly’s AI commitment expands through deal with Insilico",
-    "link": "https://www.biopharmadive.com/news/eli-lilly-insilico-ai-medicine-drug-discovery/816088/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-30T15:52:00.000Z",
-    "summary": "A collaboration “across multiple therapeutic areas” could net the Hong Kong-based biotech more than $2 billion as Lilly seeks to sustain its industry lead."
   },
   {
     "title": "ROCK2 is a druggable angiocrine target in liver fibrosis",
@@ -278,13 +286,5 @@
     "category": "research",
     "date": "2026-03-26T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves Drug to Treat Neurologic Manifestations of Hunter Syndrome",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-drug-treat-neurologic-manifestations-hunter-syndrome",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-03-25T15:24:47.000Z",
-    "summary": "The U.S. Food and Drug Administration approved Avlayah (tividenofusp alfa-eknm) to treat certain individuals with Hunter syndrome (Mucopolysaccharidosis type II or MPS II)."
   }
 ]
