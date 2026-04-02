@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Trump administration prepares 100% tariffs on some imported drugs",
+    "link": "https://www.statnews.com/2026/04/01/trump-section-232-tariffs-imported-brand-drugs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T02:23:21.000Z",
+    "summary": "The White House is readying a 100% tax on some imported medicines, a draft order shows."
+  },
+  {
+    "title": "STAT+: Makary marks one year at FDA with focus on achievements in speech to staff",
+    "link": "https://www.statnews.com/2026/04/01/fda-commissioner-makary-one-year-anniversary-speech-to-staff/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-01T21:53:42.000Z",
+    "summary": "The FDA commissioner praised staff and listed his accomplishments in a speech to workers."
+  },
+  {
+    "title": "Biogen, on the heels of a $5.6B buyout, turns its sights to early-stage assets",
+    "link": "https://www.biopharmadive.com/news/Biogen-kramer-cfo-deal-acquisition-apellis-early-assets-immunology-rare-neuroscience/816378/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-01T21:15:00.000Z",
+    "summary": "In an interview, Chief Financial Officer Robin Kramer said the combined cash flow from Biogen and Apellis will not only help debt leverage ratios but also free up capacity to do other strategic deals."
+  },
+  {
+    "title": "STAT+: Large AI scribe study finds modest time savings, inconsistent use",
+    "link": "https://www.statnews.com/2026/04/01/ai-ambient-scribes-modest-time-savings-clinical-documentation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-01T20:03:33.000Z",
+    "summary": "AI scribes saved doctors, across five academic medical centers, about 16 minutes per eight hours of patient care, a new study found."
+  },
+  {
+    "title": "STAT+: Government watchdog urges FDA to finalize guidance for advisory committee conflicts of interest",
+    "link": "https://www.statnews.com/pharmalot/2026/04/01/government-watchdog-urges-fda-finalize-guidance-committee-conflicts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-01T19:43:44.000Z",
+    "summary": "The FDA has often failed to share information on how it determines whether advisory committee members have financial conflicts of interest, according to a new review."
+  },
+  {
     "title": "FDA approves Lilly obesity pill, triggering battle with Novo Nordisk",
     "link": "https://www.biopharmadive.com/news/fda-approves-lilly-obesity-pill-orforglipron-foundayo-novo/816359/",
     "source": "BioPharma Dive",
@@ -192,38 +232,6 @@
     "summary": "Chief Financial Officer Robin Kramer explained how the deal not only provides two marketed products, but a team with nephrology expertise that will be valuable as Biogen prepares to launch…"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about pharma delaying launches in Europe, Lilly and Biogen deals, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/03/31/pharma-delays-european-launches-lilly-biogen-deals-gilead/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T13:27:39.000Z",
-    "summary": "Drugmakers are delaying launches of some new medicines in Europe as the industry grapples with U.S. pressure ​and pricing policy shifts from President Trump"
-  },
-  {
-    "title": "A new survey examines mental health outcomes of gender euphoria",
-    "link": "https://www.statnews.com/2026/03/31/health-news-mental-health-outcomes-of-gender-euphoria/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T12:46:31.000Z",
-    "summary": "Lead exposure and heart disease, promoting psychedelics on YouTube, and other health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Psychedelic biotechs face scrutiny over YouTube promos",
-    "link": "https://www.statnews.com/2026/03/31/biotech-news-psychedelic-startups-face-scrutiny-over-youtube-promo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T12:40:48.000Z",
-    "summary": "Biogen and Eli Lilly make takeover moves, Doctors Without Borders slams Gilead, and more biotech news"
-  },
-  {
-    "title": "STAT+: Whoop, maker of health and fitness tracking wristbands, valued at $10 billion after latest fundraising",
-    "link": "https://www.statnews.com/2026/03/31/whoop-health-fitness-wristband-investors/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T12:23:30.000Z",
-    "summary": "Whoop, the maker of health and fitness tracking wristbands, raised $575 million from investors including the Mayo Clinic and the sovereign wealth fund of Qatar."
-  },
-  {
     "title": "Merck strikes deal with antibody discovery startup",
     "link": "https://www.biopharmadive.com/news/merck-infinimmune-antibody-research-deal/816119/",
     "source": "BioPharma Dive",
@@ -238,14 +246,6 @@
     "category": "industry",
     "date": "2026-03-31T11:51:35.000Z",
     "summary": "Research into areas like cancer could become collateral damage of a broader anti-mRNA push, according to a new study."
-  },
-  {
-    "title": "Biotech IPOs stayed at slow pace, but grew larger in the first quarter of 2026",
-    "link": "https://www.biopharmadive.com/news/biotech-ipo-performance-q1-2026/815879/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-31T11:00:00.000Z",
-    "summary": "The six companies that have priced initial public offerings so far banked a median of $287.5 million, a figure far surpassing what’s been observed over a similar timeframe in prior years, according…"
   },
   {
     "title": "ROCK2 is a druggable angiocrine target in liver fibrosis",
@@ -278,13 +278,5 @@
     "category": "regulatory",
     "date": "2026-03-26T22:47:15.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I)."
-  },
-  {
-    "title": "Oral macrocyclic IL-23 inhibitor nabs FDA approval for psoriasis",
-    "link": "https://www.nature.com/articles/d41573-026-00054-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-26T00:00:00.000Z",
-    "summary": ""
   }
 ]
