@@ -1,11 +1,83 @@
 [
   {
+    "title": "STAT+: Proposed ‘preclinical obesity’ diagnosis ignites global debate among experts",
+    "link": "https://www.statnews.com/2026/04/02/bmi-new-obesity-definition-endocrine-society-debate/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T13:00:00.000Z",
+    "summary": "A new way to define obesity aims to sharpen the diagnosis. Critics warn it could delay care, exclude diabetes, and deepen inequities in accessing treatment."
+  },
+  {
+    "title": "CDC stops testing for rabies, pox viruses",
+    "link": "https://www.statnews.com/2026/04/02/health-news-cdc-stops-testing-for-pox-rabies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T11:52:31.000Z",
+    "summary": "When medical misinformation wins, testing an antidepressant for meth use, and other health news"
+  },
+  {
+    "title": "STAT+: ‘Takeover Tuesday’ saves biotech’s quarter",
+    "link": "https://www.statnews.com/2026/04/02/biotech-takeovers-cytokinetics-biogen/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T10:30:00.000Z",
+    "summary": "How \"Takeover Tuesday\" saved biotech's first quarter."
+  },
+  {
+    "title": "STAT+: Beyond detection: In the age of clinical AI, what counts as an FDA ‘breakthrough’ medical device?",
+    "link": "https://www.statnews.com/2026/04/02/how-fda-stance-breakthrough-ai-medical-device-evolving/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T08:30:00.000Z",
+    "summary": "An analysis of AI-powered devices that received FDA's \"breakthrough\" label shows a preference for big-picture, multi-problem solutions."
+  },
+  {
+    "title": "STAT reporter goes up against radiologists to spot deepfake X-rays",
+    "link": "https://www.statnews.com/2026/04/02/ai-deepfake-x-ray-detection-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T08:30:00.000Z",
+    "summary": "A STAT reporter goes up against radiologists to spot deepfake X-rays in this week's STATus Report. Watch now."
+  },
+  {
+    "title": "Opinion: STAT+: Cardiology’s finally prioritizing prevention — but what will it look like?",
+    "link": "https://www.statnews.com/2026/04/02/cardiology-conference-acc-prevention-industry-maha/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T08:30:00.000Z",
+    "summary": "Prevention is normally relegated to the periphery of national medical conferences. Not anymore."
+  },
+  {
+    "title": "Opinion: Medical misinformation wins when patients can’t see their doctors",
+    "link": "https://www.statnews.com/2026/04/02/medical-misinformation-doctor-access-shortage-electronic-charts-disinformation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T08:30:00.000Z",
+    "summary": "Desperate patients, unable to get timely doctors’ appointments, seek help wherever they can find it."
+  },
+  {
     "title": "STAT+: Trump administration prepares 100% tariffs on some imported drugs",
     "link": "https://www.statnews.com/2026/04/01/trump-section-232-tariffs-imported-brand-drugs/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-04-02T02:23:21.000Z",
     "summary": "The White House is readying a 100% tax on some imported medicines, a draft order shows."
+  },
+  {
+    "title": "Dialling up the circadian clock to target ageing",
+    "link": "https://www.nature.com/articles/d41573-026-00057-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-02T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The expanding role of formulations to enable oral delivery of poorly water-soluble drugs",
+    "link": "https://www.nature.com/articles/s41573-026-01407-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-02T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Makary marks one year at FDA with focus on achievements in speech to staff",
@@ -152,30 +224,6 @@
     "summary": "A quiet effort to change the name of PCOS is nearing completion, driven in part by growing evidence of a male version."
   },
   {
-    "title": "Opinion: Medical marijuana should not be recommended for PTSD, anxiety, or depression",
-    "link": "https://www.statnews.com/2026/04/01/state-medical-marijuana-license-ptsd-anxiety-depression-pain/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T08:30:00.000Z",
-    "summary": "“Rigorously derived evidence for the medical efficacy of marijuana is thin,” writes Kevin Sabet."
-  },
-  {
-    "title": "Opinion: Medicare is restricting care for 1 million Americans based on a faulty assumption. Congress must intervene",
-    "link": "https://www.statnews.com/2026/04/01/ostomy-supplies-competitive-bidding-program-cms/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T08:30:00.000Z",
-    "summary": "Medicare is restricting care for 1 million Americans based on a faulty assumption."
-  },
-  {
-    "title": "STAT+: The HSA industry makes its MAHA pitch",
-    "link": "https://www.statnews.com/2026/03/31/hsa-industry-lobbying-trump-congress-maha-rough-stretch-surgeon-general/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T18:03:27.000Z",
-    "summary": "A new lobbying group tied to the health savings account industry is pushing hard to make HSAs far more widely available."
-  },
-  {
     "title": "Lilly beefs up neuroscience pipeline with $6.3B Centessa buyout",
     "link": "https://www.biopharmadive.com/news/lilly-centessa-6B-dollar-buyout-sleep-narcolepsy-drug/816226/",
     "source": "BioPharma Dive",
@@ -184,44 +232,12 @@
     "summary": "The deal secures two sleep disorder drugs that would fill a hole in the company’s portfolio and intensify a competition with Takeda and Eisai."
   },
   {
-    "title": "STAT+: HHS changes the U.S. health IT office’s name, and its purview",
-    "link": "https://www.statnews.com/2026/03/31/hhs-reorganizes-health-it-regulation-office-astp-onc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T15:48:45.000Z",
-    "summary": "The Trump administration is changing the name of the federal health IT office back to the Office of the National Coordinator."
-  },
-  {
-    "title": "STAT+: Baby KJ scientists hit speed bump in quest to scale custom gene editor",
-    "link": "https://www.statnews.com/2026/03/31/baby-kj-gene-editing-fda-rules-pose-expansion-hurdle/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T15:00:00.000Z",
-    "summary": "The scientists who treated Baby KJ say the FDA's strict standards will make it much harder to create bespoke gene editing for others."
-  },
-  {
     "title": "Viridian tumbles on positive data for key eye drug prospect",
     "link": "https://www.biopharmadive.com/news/viridian-thyroid-eye-disease-elegrobart-tepezza/816124/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-03-31T14:48:00.000Z",
     "summary": "The data did not meet investor expectations, and could bring “fierce investor debate on commercial feasibility,” according to an analyst."
-  },
-  {
-    "title": "Supreme Court rules against Colorado ban on ‘conversion therapy’ for LGBTQ kids",
-    "link": "https://www.statnews.com/2026/03/31/supreme-court-ruling-colorado-ban-conversion-therapy-lgbtq-kids/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T14:30:31.000Z",
-    "summary": "The Supreme Court on Tuesday ruled against a law banning “conversion therapy” for LGBTQ+ kids in Colorado, one of about two dozen states that ban the discredited practice."
-  },
-  {
-    "title": "STAT+: OpenEvidence inks deal with major health system",
-    "link": "https://www.statnews.com/2026/03/31/openevidence-deal-legion-khealth-botwatch-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-03-31T14:19:05.000Z",
-    "summary": "In this edition of STAT Health Tech: New OpenEvidence's partnership, pressure on HHS over health record sharing, and K health has a bot."
   },
   {
     "title": "Biogen, with $5.6B Apellis buy, builds out immunology offerings",
