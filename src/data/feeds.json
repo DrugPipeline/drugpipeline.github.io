@@ -1,5 +1,85 @@
 [
   {
+    "title": "STAT+: Medicare Advantage plans win extra $18.6 billion as feds cut star ratings measures",
+    "link": "https://www.statnews.com/2026/04/02/medicare-advantage-star-ratings-changes-18-billion-windfall-health-insurers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T22:08:29.000Z",
+    "summary": "CMS is scaling back the number of measures it uses to grade health insurers."
+  },
+  {
+    "title": "EPA to put microplastics on study list of contaminants in drinking water",
+    "link": "https://www.statnews.com/2026/04/02/microplastics-in-water-epa-contaminant-list/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T20:48:04.000Z",
+    "summary": "The EPA names microplastics as a potential drinking water contaminant, a move that is seen as an appeal to Kennedy's MAHA movement."
+  },
+  {
+    "title": "STAT+: Small drugmakers, facing threat of tariffs, negotiate pricing deals with White House",
+    "link": "https://www.statnews.com/2026/04/02/drugmakers-white-house-negotiating-deals-drug-prices/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T19:31:54.000Z",
+    "summary": "The Trump administration is negotiating new drug-pricing deals, now with smaller companies, according to three people with knowledge of the meetings."
+  },
+  {
+    "title": "STAT+: Trump announces 100% tariffs on brand-name drugs, with plenty of carveouts",
+    "link": "https://www.statnews.com/2026/04/02/trump-pharma-tariffs-100-percent-on-some-imported-drugs-exemptions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T19:31:01.000Z",
+    "summary": "The taxes are part of the president's push to rein in the pharmaceutical industry and bring manufacturing to the U.S."
+  },
+  {
+    "title": "Biotech investors’ plea to Trump, and a busy M&A week",
+    "link": "https://www.statnews.com/2026/04/02/readout-loud-podcast-biotech-investors-fda-trump-eli-lilly-psychedelics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T19:27:20.000Z",
+    "summary": "How has the FDA's recent decisions on rare disease drugs affected investment trends? Why is Eli Lilly getting into sleep medicine? Find out on this week's episode of \"The Readout…"
+  },
+  {
+    "title": "STAT+: FDA’s evolving view of what makes a ‘breakthrough’ device",
+    "link": "https://www.statnews.com/2026/04/02/fda-ai-breakthrough-medical-device-stat-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T17:53:01.000Z",
+    "summary": "In this edition of STAT Health Tech: Another study of AI scribes, and an analysis of AI-powered devices that got FDA's 'breakthrough' label."
+  },
+  {
+    "title": "Immunovant eye drug flunks Phase 3 studies; Beam sickle cell data published in NEJM",
+    "link": "https://www.biopharmadive.com/news/immunovant-alto-beam-orca-oric-cyclerion-korsana-biotech-news-roundup/816454/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-02T16:20:00.000Z",
+    "summary": "Shares of Immunovant, Alto and Oric Pharmaceuticals fell this week on clinical trial updates. Elsewhere, Orca Bio’s cell therapy hit a delay and Korsana entered a reverse merger."
+  },
+  {
+    "title": "STAT+: How health care could gum up Trump’s reconciliation push",
+    "link": "https://www.statnews.com/2026/04/02/health-care-cuts-congress-reconciliation-dhs-funding-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T16:14:11.000Z",
+    "summary": "Cuts to health care spending might play a role in a complicated Congressional maneuver to fund immigration enforcement."
+  },
+  {
+    "title": "STAT+: Lilly’s obesity pill enters the oral GLP-1 game, Novo responds",
+    "link": "https://www.statnews.com/2026/04/02/biotech-news-foundayo-is-here-o-novo-responds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T13:47:33.000Z",
+    "summary": "Potential import tariffs on drugs, Foundayo is here-o, and other biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Trump tariff plans, FDA’s OK for a Lilly obesity pill, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/02/trump-tariff-plans-lilly-obesity-pill-layoffs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-02T13:29:17.000Z",
+    "summary": "The Trump administration has prepared an order to impose a 100% tariff on imports of some patented medicines and their active ingredients"
+  },
+  {
     "title": "STAT+: Proposed ‘preclinical obesity’ diagnosis ignites global debate among experts",
     "link": "https://www.statnews.com/2026/04/02/bmi-new-obesity-definition-endocrine-society-debate/?utm_campaign=rss",
     "source": "STAT News",
@@ -64,8 +144,8 @@
     "summary": "The White House is readying a 100% tax on some imported medicines, a draft order shows."
   },
   {
-    "title": "Dialling up the circadian clock to target ageing",
-    "link": "https://www.nature.com/articles/d41573-026-00057-x",
+    "title": "FDA approves GLP-1 pill for obesity",
+    "link": "https://www.nature.com/articles/d41573-026-00059-9",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-04-02T00:00:00.000Z",
@@ -74,6 +154,14 @@
   {
     "title": "The expanding role of formulations to enable oral delivery of poorly water-soluble drugs",
     "link": "https://www.nature.com/articles/s41573-026-01407-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-02T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Dialling up the circadian clock to target ageing",
+    "link": "https://www.nature.com/articles/d41573-026-00057-x",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-04-02T00:00:00.000Z",
@@ -112,20 +200,20 @@
     "summary": "The FDA has often failed to share information on how it determines whether advisory committee members have financial conflicts of interest, according to a new review."
   },
   {
+    "title": "Pfizer, BioNTech to pause COVID vaccine study due to low enrollment",
+    "link": "https://www.biopharmadive.com/news/pfizer-biontech-to-pause-covid-vaccine-low-enrollment/816395/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-01T18:49:52.000Z",
+    "summary": "The trial is tied to a post-marketing commitment that FDA Commissioner Martin Makary put in place last year for all approved COVID vaccines."
+  },
+  {
     "title": "FDA approves Lilly obesity pill, triggering battle with Novo Nordisk",
     "link": "https://www.biopharmadive.com/news/fda-approves-lilly-obesity-pill-orforglipron-foundayo-novo/816359/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-01T17:18:00.000Z",
     "summary": "Foundayo could erase the Wegovy pill’s four-month head start as the two drugmakers clash on a debate of efficacy and convenience."
-  },
-  {
-    "title": "Eli Lilly’s obesity pill approved by FDA, setting up fierce competition with Novo Nordisk",
-    "link": "https://www.statnews.com/2026/04/01/eli-lilly-obesity-pill-approved-orforglipron-foundayo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T15:46:11.000Z",
-    "summary": "Eli Lilly’s obesity pill was approved by the FDA, setting it up for fierce competition against Novo Nordisk’s new Wegovy pill."
   },
   {
     "title": "FDA Approves First New Molecular Entity Under National Priority Voucher Program",
@@ -136,36 +224,12 @@
     "summary": "The U.S. Food and Drug Administration today approved Foundayo (orforglipron) marking the fifth approval under the Commissioner's National Priority Voucher (CNPV) pilot program."
   },
   {
-    "title": "STAT+: Insilico Medicine CEO on how best to use AI in drug development",
-    "link": "https://www.statnews.com/2026/04/01/insilico-medicine-ceo-biotech-drug-development-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T14:08:28.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: How to be a 'productive' biotech AI company, with Insilico Medicine CEO Alex Zhavoronkov, and more."
-  },
-  {
     "title": "Ambrosia adds a megaround for obesity drugs",
     "link": "https://www.biopharmadive.com/news/ambrosia-obesity-GLP-1-pill-series-b/816317/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-01T14:05:22.000Z",
     "summary": "The $100 million Series B round will be used to bring the biotech’s oral GLP-1 into early human testing."
-  },
-  {
-    "title": "STAT+: Novo’s subscription model raises questions about pharma-telehealth tie-ups",
-    "link": "https://www.statnews.com/2026/04/01/biotech-news-novo-nordisk-subscription-model-raises-quesstions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T13:40:42.000Z",
-    "summary": "A delayed FDA decision for Orca Bio, new questions about pharma-telehealth tie-ups, and more"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about FDA view on peptide compounding, Iran war hurting trial recruitment, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/01/fda-compounding-peptides-iran-war-trial-recruitment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T13:19:42.000Z",
-    "summary": "The FDA is moving toward allowing compounding pharmacies to produce injectable peptides that were banned over significant safety concerns"
   },
   {
     "title": "A ‘hijacked plane’: CDC, under RFK Jr.’s influence, trades science for dogma",
@@ -182,46 +246,6 @@
     "category": "industry",
     "date": "2026-04-01T12:00:00.000Z",
     "summary": "Constant leadership changes and erratic decision-making have left the biopharmaceutical industry feeling its chief regulator is as unpredictable as it’s ever been."
-  },
-  {
-    "title": "Supreme Court rules against conversion therapy ban",
-    "link": "https://www.statnews.com/2026/04/01/health-news-scotus-rules-against-conversion-therapy-ban/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T11:54:38.000Z",
-    "summary": "Fact-checking Jay Bhattacharya, why PCOS might get a new name, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Can a psychedelic ‘coach’ make ketamine therapy even more effective?",
-    "link": "https://www.statnews.com/2026/04/01/ketamine-therapy-psychedlic-coach-increase-effectiveness-depression/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T08:30:00.000Z",
-    "summary": "Should ketamine be used strictly as a pharmacological intervention, or should psychotherapy be incorporated? A new study is trying to tackle this question."
-  },
-  {
-    "title": "STAT+: NIH director’s invocation of Vannevar Bush’s legacy to promote Trump science policies sparks pushback",
-    "link": "https://www.statnews.com/2026/04/01/jay-bhattacharya-invoked-vannevar-bush-rolling-in-his-grave/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T08:30:00.000Z",
-    "summary": "Jay Bhattacharya’s claim that the Trump administration is pursuing the vision articulated by scientific leader, Vannevar Bush, has provoked pushback — and outrage"
-  },
-  {
-    "title": "STAT+: The biotech scorecard for the second quarter: 23 stock-moving events to watch",
-    "link": "https://www.statnews.com/2026/04/01/biotech-scorecard-second-quarter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T08:30:00.000Z",
-    "summary": "Here is STAT’s biotech scorecard, our regular ledger of stock-moving biotech events, for the second quarter."
-  },
-  {
-    "title": "Why an ovary syndrome may get a new name: Men seem to have PCOS, too",
-    "link": "https://www.statnews.com/2026/04/01/pcos-new-name-for-polycystic-ovary-syndrome-male-version/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-01T08:30:00.000Z",
-    "summary": "A quiet effort to change the name of PCOS is nearing completion, driven in part by growing evidence of a male version."
   },
   {
     "title": "Lilly beefs up neuroscience pipeline with $6.3B Centessa buyout",
@@ -248,22 +272,6 @@
     "summary": "Chief Financial Officer Robin Kramer explained how the deal not only provides two marketed products, but a team with nephrology expertise that will be valuable as Biogen prepares to launch…"
   },
   {
-    "title": "Merck strikes deal with antibody discovery startup",
-    "link": "https://www.biopharmadive.com/news/merck-infinimmune-antibody-research-deal/816119/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-31T12:00:00.000Z",
-    "summary": "In an R&D collaboration worth as much as $838 million, Merck will lean on Infinimmune to discover immune cell-directed antibodies for multiple targets."
-  },
-  {
-    "title": "mRNA is poised to rise beyond infectious diseases, if it’s not derailed by R&D cuts",
-    "link": "https://www.biopharmadive.com/news/mrna-beyond-infectious-cancer-moderna-nih-funding/816230/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-31T11:51:35.000Z",
-    "summary": "Research into areas like cancer could become collateral damage of a broader anti-mRNA push, according to a new study."
-  },
-  {
     "title": "ROCK2 is a druggable angiocrine target in liver fibrosis",
     "link": "https://www.nature.com/articles/d41573-026-00053-1",
     "source": "Nature Reviews Drug Discovery",
@@ -278,21 +286,5 @@
     "category": "research",
     "date": "2026-03-30T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "First-in-class blood–brain barrier shuttle wins FDA nod for Hunter syndrome",
-    "link": "https://www.nature.com/articles/d41573-026-00055-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-03-27T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA Approves First Gene Therapy for Severe Leukocyte Adhesion Deficiency Type I",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-severe-leukocyte-adhesion-deficiency-type-i",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-03-26T22:47:15.000Z",
-    "summary": "The U.S. Food and Drug Administration today approved Kresladi (marnetegragene autotemcel), the first gene therapy for the treatment of severe Leukocyte Adhesion Deficiency Type I (LAD-I)."
   }
 ]
