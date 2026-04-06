@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: A key Medicare Advantage announcement is due today",
+    "link": "https://www.statnews.com/2026/04/06/medicare-advantage-rates-huntsville-alabama-hospital-merger/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-06T15:29:40.000Z",
+    "summary": "Today's announcement will set the tone for how the Trump administration wants to work with private Medicare insurers."
+  },
+  {
+    "title": "FDA floats new clinical trial reforms; Takeda punts Denali brain drug",
+    "link": "https://www.biopharmadive.com/news/fda-expedited-pathway-takeda-denali-stipple-syneron/816670/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-06T15:07:00.000Z",
+    "summary": "In its budget request, the agency proposed a way to speed up early drug testing and help smaller biotech firms. Elsewhere, two startups raised megarounds."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA delay forcing a biotech to close, a Neurocrine deal, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/06/fda-delay-biotech-close-neurocrine-deal-rare-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-06T13:51:28.000Z",
+    "summary": "A small biotech was forced to being winding down its operations after the FDA abruptly postponed a key meeting for four months"
+  },
+  {
+    "title": "Neurocrine to acquire Prader-Will drug in $2.9B Soleno buyout",
+    "link": "https://www.biopharmadive.com/news/neurocrine-soleno-acquire-vykat-prader-willi-drug/816686/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-06T13:45:00.000Z",
+    "summary": "The deal hands Neurocrine a “controversial” medicine, Vykat, that achieved $190 million in sales last year but faces persistent questions about its growth trajectory and safety, according to Wall…"
+  },
+  {
+    "title": "STAT+: Stealth biotech Stipple bets on secretive ADCs",
+    "link": "https://www.statnews.com/2026/04/06/biotech-news-stealth-biotech-stipple-bets-on-adcs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-06T13:13:42.000Z",
+    "summary": "How thin science fuels peptide hype, blowback to proposed NIH cuts, and more biotech news from The Readout"
+  },
+  {
     "title": "UnitedHealth makes a bet on AI. What does it mean for us?",
     "link": "https://www.statnews.com/2026/04/06/health-news-unitedhealth-big-bet-on-ai/?utm_campaign=rss",
     "source": "STAT News",
@@ -62,6 +102,14 @@
     "category": "industry",
     "date": "2026-04-06T08:30:00.000Z",
     "summary": "UnitedHealth Group is rapidly deploying artificial intelligence tools across its operations. What does it mean for patients?"
+  },
+  {
+    "title": "White House seeks 12% cut to HHS in 2027",
+    "link": "https://www.biopharmadive.com/news/white-house-hhs-2027-fiscal-year-budget-request-12-percent-cut/816671/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-03T20:23:00.000Z",
+    "summary": "The Trump administration is requesting about $111 billion in discretionary funding for the HHS, nearly $16 billion less than its budget in 2026."
   },
   {
     "title": "STAT+: NIH would get $5 billion cut under Trump’s 2027 budget, but Congress unlikely to go along",
@@ -152,30 +200,6 @@
     "summary": "CMS is scaling back the number of measures it uses to grade health insurers."
   },
   {
-    "title": "EPA to put microplastics on study list of contaminants in drinking water",
-    "link": "https://www.statnews.com/2026/04/02/microplastics-in-water-epa-contaminant-list/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-02T20:48:04.000Z",
-    "summary": "The EPA names microplastics as a potential drinking water contaminant, a move that is seen as an appeal to Kennedy's MAHA movement."
-  },
-  {
-    "title": "STAT+: Small drugmakers, facing threat of tariffs, negotiate pricing deals with White House",
-    "link": "https://www.statnews.com/2026/04/02/drugmakers-white-house-negotiating-deals-drug-prices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-02T19:31:54.000Z",
-    "summary": "The Trump administration is negotiating new drug-pricing deals, now with smaller companies, according to three people with knowledge of the meetings."
-  },
-  {
-    "title": "STAT+: Trump announces 100% tariffs on brand-name drugs, with plenty of carveouts",
-    "link": "https://www.statnews.com/2026/04/02/trump-pharma-tariffs-100-percent-on-some-imported-drugs-exemptions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-02T19:31:01.000Z",
-    "summary": "The taxes are part of the president's push to rein in the pharmaceutical industry and bring manufacturing to the U.S."
-  },
-  {
     "title": "Immunovant eye drug flunks Phase 3 studies; Beam sickle cell data published in NEJM",
     "link": "https://www.biopharmadive.com/news/immunovant-alto-beam-orca-oric-cyclerion-korsana-biotech-news-roundup/816454/",
     "source": "BioPharma Dive",
@@ -246,29 +270,5 @@
     "category": "industry",
     "date": "2026-04-01T14:05:22.000Z",
     "summary": "The $100 million Series B round will be used to bring the biotech’s oral GLP-1 into early human testing."
-  },
-  {
-    "title": "A ‘hijacked plane’: CDC, under RFK Jr.’s influence, trades science for dogma",
-    "link": "https://www.biopharmadive.com/news/ACIP-hijacked-plane-cdc-rfk-jrs-influence-vaccine-policy-one-year-later/815611/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-01T12:00:00.000Z",
-    "summary": "A series of controversial policy changes directed by the HHS secretary have left experts fearful of the future implications for public health."
-  },
-  {
-    "title": "FDA, after turbulent year, leaves drugmakers guessing on its direction",
-    "link": "https://www.biopharmadive.com/news/fda-after-turbulent-year-leaves-drugmakers-guessing-on-its-direction/815482/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-01T12:00:00.000Z",
-    "summary": "Constant leadership changes and erratic decision-making have left the biopharmaceutical industry feeling its chief regulator is as unpredictable as it’s ever been."
-  },
-  {
-    "title": "Lilly beefs up neuroscience pipeline with $6.3B Centessa buyout",
-    "link": "https://www.biopharmadive.com/news/lilly-centessa-6B-dollar-buyout-sleep-narcolepsy-drug/816226/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-03-31T15:52:00.000Z",
-    "summary": "The deal secures two sleep disorder drugs that would fill a hole in the company’s portfolio and intensify a competition with Takeda and Eisai."
   }
 ]
