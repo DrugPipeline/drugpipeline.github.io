@@ -1,5 +1,85 @@
 [
   {
+    "title": "If you cap insulin at $35 a month, people with type 2 diabetes stick to treatment, study finds",
+    "link": "https://www.statnews.com/2026/04/07/health-news-half-of-us-adults-are-aerobically-active-enough/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T12:43:21.000Z",
+    "summary": "$35 insulin, more evidence abortion meds are safe OTC, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Gilead to buy cancer biotech Tubulis for more than $3 billion",
+    "link": "https://www.statnews.com/2026/04/07/gilead-sciences-acquisition-tubulis-adcs-chemotherapy-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T12:30:15.000Z",
+    "summary": "Gilead is buying the German biotech Tubulis for more than $3 billion, a move that will expand its oncology pipeline."
+  },
+  {
+    "title": "STAT+: Merck’s experimental HIV prevention pill could be made for less than $5 a year, researchers say",
+    "link": "https://www.statnews.com/pharmalot/2026/04/07/merck-experimental-hiv-prevention-pill-made-for-five-dollars-year/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T10:00:00.000Z",
+    "summary": "Resarchers say Merck should 'urgently begin licensing generic production to its HIV prevention pill."
+  },
+  {
+    "title": "University of Michigan wins 2026 STAT Madness for new insights into abdominal aortic aneurysms",
+    "link": "https://www.statnews.com/2026/04/07/stat-madness-2026-winner-uncovered-driving-force-abdominal-aortic-aneurysms/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T08:30:00.000Z",
+    "summary": "The researchers identified a driving force behind the condition, opening up a potential target for new therapies."
+  },
+  {
+    "title": "Research revealing how the brain flushes waste named STAT Madness Editors’ Pick",
+    "link": "https://www.statnews.com/2026/04/07/research-on-how-brain-flushes-waste-named-stat-madness-editors-pick/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T08:30:00.000Z",
+    "summary": "For researcher Maiken Nedergaard, ‘diseases of aging are basically all about dirty brains’"
+  },
+  {
+    "title": "STAT+: FDA backs proposals to entice pharma companies to test, make drugs domestically",
+    "link": "https://www.statnews.com/2026/04/07/fda-trump-budget-generics-clinical-trials-us-manufacturing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T08:30:00.000Z",
+    "summary": "From tariffs to incentives, the administration wants to push companies to manufacture drugs in the U.S."
+  },
+  {
+    "title": "A star scientist showed that better genetics lessons could reduce racism. It was the death knell for his career",
+    "link": "https://www.statnews.com/2026/04/07/brian-donovan-fighting-racism-with-genetics-education/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T08:30:00.000Z",
+    "summary": "Brian Donovan had persuaded high school teachers and education researchers that prejudice might be ended by changing how genetics is taught."
+  },
+  {
+    "title": "Opinion: STAT+: Former Geisinger CEO: U.S. health systems must replace huge numbers of people with AI",
+    "link": "https://www.statnews.com/2026/04/07/health-care-jobs-autonomous-ai-replacement/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T08:30:00.000Z",
+    "summary": "“Health care will become autonomous because the survival of health systems depends upon it,” writes former Geisinger CEO Glenn Steele."
+  },
+  {
+    "title": "Opinion: How the insurance system quietly undoes recovery from addiction",
+    "link": "https://www.statnews.com/2026/04/07/addiction-insurance-premium-relapse-recovery-overdose-buprenorphine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-07T08:30:00.000Z",
+    "summary": "People who have been stable for years are suddenly re-exposed to risk — not because their disease worsened, but because their coverage did."
+  },
+  {
+    "title": "Lipid nanoparticles deliver to the pancreas",
+    "link": "https://www.nature.com/articles/d41573-026-00058-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-07T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Health insurers score major win with higher 2027 Medicare Advantage rates",
     "link": "https://www.statnews.com/2026/04/06/medicare-advantage-rates-2027-unitedhealth-humana-cvs-health-stocks-climb/?utm_campaign=rss",
     "source": "STAT News",
@@ -128,14 +208,6 @@
     "summary": "Lifelong disorders require lifelong treatments."
   },
   {
-    "title": "STAT+: UnitedHealth Group is making a $3 billion bet on AI. What does it mean for patients?",
-    "link": "https://www.statnews.com/2026/04/06/unitedhealth-group-massive-artificial-intelligence-push-patient-implications/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-06T08:30:00.000Z",
-    "summary": "UnitedHealth Group is rapidly deploying artificial intelligence tools across its operations. What does it mean for patients?"
-  },
-  {
     "title": "White House seeks 12% cut to HHS in 2027",
     "link": "https://www.biopharmadive.com/news/white-house-hhs-2027-fiscal-year-budget-request-12-percent-cut/816671/",
     "source": "BioPharma Dive",
@@ -144,76 +216,12 @@
     "summary": "The Trump administration is requesting about $111 billion in discretionary funding for the HHS, nearly $16 billion less than its budget in 2026."
   },
   {
-    "title": "STAT+: NIH would get $5 billion cut under Trump’s 2027 budget, but Congress unlikely to go along",
-    "link": "https://www.statnews.com/2026/04/03/trump-budget-nih-5-billion-cut-in-2027/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T17:50:53.000Z",
-    "summary": "The White House is asking Congress to cut $5 billion from the National Institutes of Health and downsize the number of institutes and centers from 27 to 22"
-  },
-  {
     "title": "Trump revives pharma tariffs with 100% charges, but leaves loopholes",
     "link": "https://www.biopharmadive.com/news/trump-revives-pharma-tariffs-100-percent-levies/816584/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-03T15:50:00.000Z",
     "summary": "\"Section 232\" national security levies won't apply to a wide array of drugs, meaning the \"overall threat to the sector should be low,\" according to one analyst."
-  },
-  {
-    "title": "STAT+: White House proposes 12% cut to federal health agencies in 2027 budget request",
-    "link": "https://www.statnews.com/2026/04/03/trump-budget-health-care-12-percent-cut-hhs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T15:35:42.000Z",
-    "summary": "Congress largely ignored President Trump's previous budget proposal, instead boosting federal health spending."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/04/03/pharma-biotech-jobs-gilead-astrazeneca-bayer-novavax/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T13:42:50.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "STAT+: Biotech investors’ plea to Trump, and a busy M&A week",
-    "link": "https://www.statnews.com/2026/04/03/biotech-news-smaller-investors-plea-with-trump-drug-tariffs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T13:39:09.000Z",
-    "summary": "Smaller biotechs move to negotiate with White House, medicine's trust gap, and other biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Trump’s drug tariffs, a U.S.-U.K. pharma trade deal, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/03/trump-pharma-tariffs-uk-trade-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T13:26:56.000Z",
-    "summary": "The Trump administration announced 100% tariffs on imported brand-name drugs, but with significant caveats"
-  },
-  {
-    "title": "Thursday was World Autism Awareness Day. HHS celebrated with…a workout?",
-    "link": "https://www.statnews.com/2026/04/03/health-news-hhs-works-it-for-autism-awareness-day/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T13:15:36.000Z",
-    "summary": "Implications of SCOTUS' conversion therapy ruling, Trump hikes drug tariffs, and more Morning Rounds updates"
-  },
-  {
-    "title": "Supreme Court conversion therapy decision could ripple through medicine",
-    "link": "https://www.statnews.com/2026/04/03/conversion-therapy-ruling-scotus-impact-state-medical-boards/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T08:30:00.000Z",
-    "summary": "A Supreme Court ruling this week on gender and sexuality “conversion therapy” could narrow the authority of state medical boards over care involving speech"
-  },
-  {
-    "title": "Opinion: My patient would rather take a peptide than a statin. That reveals an uncomfortable truth in medicine",
-    "link": "https://www.statnews.com/2026/04/03/peptides-statins-research-trust-bpc-157/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T08:30:00.000Z",
-    "summary": "“The volume of evidence behind a therapy has become inversely correlated with public trust in it,” writes Vikas Patel."
   },
   {
     "title": "Immunovant eye drug flunks Phase 3 studies; Beam sickle cell data published in NEJM",
