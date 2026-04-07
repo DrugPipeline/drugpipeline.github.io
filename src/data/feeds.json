@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: Health insurers score major win with higher 2027 Medicare Advantage rates",
+    "link": "https://www.statnews.com/2026/04/06/medicare-advantage-rates-2027-unitedhealth-humana-cvs-health-stocks-climb/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-06T20:48:38.000Z",
+    "summary": "The stocks of major Medicare Advantage insurers surged after the announcement."
+  },
+  {
+    "title": "STAT+: Pharma companies and patient groups seek to exempt orphan drugs from Colorado pricing limits",
+    "link": "https://www.statnews.com/pharmalot/2026/04/06/pharma-consumer-groups-exempt-orphan-drugs-colorado-board/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-06T20:11:19.000Z",
+    "summary": "A bill moving through the Colorado legislature would exempt orphan drugs from pricing caps that might be pursued by the state."
+  },
+  {
+    "title": "Hims & Hers says limited data stolen in social engineering attack",
+    "link": "https://www.biopharmadive.com/news/hims-hers-data-stolen-social-engineering/816755/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-06T19:47:00.000Z",
+    "summary": "The telehealth provider said hackers gained access to a third-party customer service platform, but medical records remained secure."
+  },
+  {
+    "title": "Under-the-skin Tepezza comparable to infused version in key study, Amgen says",
+    "link": "https://www.biopharmadive.com/news/amgen-subcutaneous-tepezza-thyroid-eye-disease-results/816708/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-06T18:54:00.000Z",
+    "summary": "The findings could help Amgen defend Tepezza’s market-leading position against emerging rivals, though some analysts expressed doubt about its competitive standing."
+  },
+  {
     "title": "STAT+: A key Medicare Advantage announcement is due today",
     "link": "https://www.statnews.com/2026/04/06/medicare-advantage-rates-huntsville-alabama-hospital-merger/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,22 +216,6 @@
     "summary": "“The volume of evidence behind a therapy has become inversely correlated with public trust in it,” writes Vikas Patel."
   },
   {
-    "title": "Opinion: Subscription pricing could expand access to HIV prevention breakthrough while controlling costs",
-    "link": "https://www.statnews.com/2026/04/03/lenacapavir-subscription-pricing-model-hiv-prevention/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-03T08:30:00.000Z",
-    "summary": "Lenacapavir could put the end of the HIV epidemic in reach — if the people who need it can access it. Here’s one way to make that happen."
-  },
-  {
-    "title": "STAT+: Medicare Advantage plans win extra $18.6 billion as feds cut star ratings measures",
-    "link": "https://www.statnews.com/2026/04/02/medicare-advantage-star-ratings-changes-18-billion-windfall-health-insurers/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-02T22:08:29.000Z",
-    "summary": "CMS is scaling back the number of measures it uses to grade health insurers."
-  },
-  {
     "title": "Immunovant eye drug flunks Phase 3 studies; Beam sickle cell data published in NEJM",
     "link": "https://www.biopharmadive.com/news/immunovant-alto-beam-orca-oric-cyclerion-korsana-biotech-news-roundup/816454/",
     "source": "BioPharma Dive",
@@ -248,27 +264,11 @@
     "summary": "The trial is tied to a post-marketing commitment that FDA Commissioner Martin Makary put in place last year for all approved COVID vaccines."
   },
   {
-    "title": "FDA approves Lilly obesity pill, triggering battle with Novo Nordisk",
-    "link": "https://www.biopharmadive.com/news/fda-approves-lilly-obesity-pill-orforglipron-foundayo-novo/816359/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-01T17:18:00.000Z",
-    "summary": "Foundayo could erase the Wegovy pill’s four-month head start as the two drugmakers clash on a debate of efficacy and convenience."
-  },
-  {
     "title": "FDA Approves First New Molecular Entity Under National Priority Voucher Program",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-04-01T15:23:52.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Foundayo (orforglipron) marking the fifth approval under the Commissioner's National Priority Voucher (CNPV) pilot program."
-  },
-  {
-    "title": "Ambrosia adds a megaround for obesity drugs",
-    "link": "https://www.biopharmadive.com/news/ambrosia-obesity-GLP-1-pill-series-b/816317/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-01T14:05:22.000Z",
-    "summary": "The $100 million Series B round will be used to bring the biotech’s oral GLP-1 into early human testing."
   }
 ]
