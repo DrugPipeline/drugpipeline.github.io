@@ -1,5 +1,45 @@
 [
   {
+    "title": "What does MAHA look like these days?",
+    "link": "https://www.statnews.com/2026/04/08/health-news-what-does-maha-movement-look-like-these-days/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T11:54:08.000Z",
+    "summary": "A Duchenne breakthrough, missed opportunities in cancer treatment, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Everyone agrees AI scribes are increasing health care costs. No one agrees what to do about it",
+    "link": "https://www.statnews.com/2026/04/08/insurers-providers-agree-ai-scribes-raise-health-care-costs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T08:30:00.000Z",
+    "summary": "Behind closed doors, health insurers and hospitals agree that AI scribes are bumping up health care costs. But, they don't agree on a solution."
+  },
+  {
+    "title": "Opinion: What American hospitals can learn from India about waste",
+    "link": "https://www.statnews.com/2026/04/08/indian-hospitals-waste-environment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T08:30:00.000Z",
+    "summary": "American hospitals see mountains of surgical waste as the cost of infection control. Indian hospitals show that’s not so."
+  },
+  {
+    "title": "STAT+: A decade ago, these drugs tore apart the FDA. Today, they might be some patients’ best hope",
+    "link": "https://www.statnews.com/2026/04/08/duchenne-exon-skipping-breakthrough-one-mother-quest/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T08:30:00.000Z",
+    "summary": "A mother's persistence helps revive an all-but-abandoned drug class and could aid her son and thousands of others with neuromuscular conditions."
+  },
+  {
+    "title": "Opinion: How sports betting is hooking some young men",
+    "link": "https://www.statnews.com/2026/04/08/sports-betting-public-health-research-expert/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T08:30:00.000Z",
+    "summary": "Not everyone who uses sports betting apps will get in trouble — but with so many people taking part, even a small percentage represents a big problem."
+  },
+  {
     "title": "Judge refuses to block sending abortion pill by mail for now, but says FDA must finish review",
     "link": "https://www.statnews.com/2026/04/07/abortion-pill-mifepristone-by-mail-judge-ruling/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,22 +192,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: Health insurers score major win with higher 2027 Medicare Advantage rates",
-    "link": "https://www.statnews.com/2026/04/06/medicare-advantage-rates-2027-unitedhealth-humana-cvs-health-stocks-climb/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-06T20:48:38.000Z",
-    "summary": "The stocks of major Medicare Advantage insurers surged after the announcement."
-  },
-  {
-    "title": "STAT+: Pharma companies and patient groups seek to exempt orphan drugs from Colorado pricing limits",
-    "link": "https://www.statnews.com/pharmalot/2026/04/06/pharma-consumer-groups-exempt-orphan-drugs-colorado-board/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-06T20:11:19.000Z",
-    "summary": "A bill moving through the Colorado legislature would exempt orphan drugs from pricing caps that might be pursued by the state."
-  },
-  {
     "title": "Hims & Hers says limited data stolen in social engineering attack",
     "link": "https://www.biopharmadive.com/news/hims-hers-data-stolen-social-engineering/816755/",
     "source": "BioPharma Dive",
@@ -184,14 +208,6 @@
     "summary": "The findings could help Amgen defend Tepezza’s market-leading position against emerging rivals, though some analysts expressed doubt about its competitive standing."
   },
   {
-    "title": "STAT+: A key Medicare Advantage announcement is due today",
-    "link": "https://www.statnews.com/2026/04/06/medicare-advantage-rates-huntsville-alabama-hospital-merger/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-06T15:29:40.000Z",
-    "summary": "Today's announcement will set the tone for how the Trump administration wants to work with private Medicare insurers."
-  },
-  {
     "title": "FDA floats new clinical trial reforms; Takeda punts Denali brain drug",
     "link": "https://www.biopharmadive.com/news/fda-expedited-pathway-takeda-denali-stipple-syneron/816670/",
     "source": "BioPharma Dive",
@@ -200,28 +216,12 @@
     "summary": "In its budget request, the agency proposed a way to speed up early drug testing and help smaller biotech firms. Elsewhere, two startups raised megarounds."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA delay forcing a biotech to close, a Neurocrine deal, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/06/fda-delay-biotech-close-neurocrine-deal-rare-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-06T13:51:28.000Z",
-    "summary": "A small biotech was forced to being winding down its operations after the FDA abruptly postponed a key meeting for four months"
-  },
-  {
     "title": "Neurocrine to acquire Prader-Will drug in $2.9B Soleno buyout",
     "link": "https://www.biopharmadive.com/news/neurocrine-soleno-acquire-vykat-prader-willi-drug/816686/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-06T13:45:00.000Z",
     "summary": "The deal hands Neurocrine a “controversial” medicine, Vykat, that achieved $190 million in sales last year but faces persistent questions about its growth trajectory and safety, according to Wall…"
-  },
-  {
-    "title": "STAT+: Stealth biotech Stipple bets on secretive ADCs",
-    "link": "https://www.statnews.com/2026/04/06/biotech-news-stealth-biotech-stipple-bets-on-adcs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-06T13:13:42.000Z",
-    "summary": "How thin science fuels peptide hype, blowback to proposed NIH cuts, and more biotech news from The Readout"
   },
   {
     "title": "Perks persuade participants",
