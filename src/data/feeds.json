@@ -1,5 +1,93 @@
 [
   {
+    "title": "Smart contact lens monitors eye pressure and delivers glaucoma drugs in early tests",
+    "link": "https://www.statnews.com/2026/04/08/glaucoma-smart-contact-lens-combines-monitoring-drug-delivery/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T18:00:00.000Z",
+    "summary": "A smart contact lens described in a research paper on Wednesday combines therapeutic and diagnostic capabilities for glaucoma patients."
+  },
+  {
+    "title": "STAT+: Steve Ubl to step down as CEO of PhRMA",
+    "link": "https://www.statnews.com/2026/04/08/phrma-ceo-steve-ubl-step-down/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T17:26:43.000Z",
+    "summary": "Ubl led PhRMA through the pandemic and a slew of efforts to rein in drug prices from Democrats and Republicans."
+  },
+  {
+    "title": "Sidewinder secures $137M to advance ‘precision’ ADCs",
+    "link": "https://www.biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-08T17:05:00.000Z",
+    "summary": "Backed by OrbiMed, Novartis’ venture arm and many other investors, the biotech is among those working on newer technology that could broaden the reach of antibody-drug conjugates."
+  },
+  {
+    "title": "With 3 quick buyouts, Gilead leans into its latest transformation",
+    "link": "https://www.biopharmadive.com/news/gilead-deal-strategy-arcellx-ouro-tubulis-cancer-autoimmune/816935/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-08T16:12:00.000Z",
+    "summary": "On a conference call with analysts, Gilead walked through how a string of recent deals focused on cancer and autoimmune conditions could help a diversification plan it’s long struggled to execute."
+  },
+  {
+    "title": "Activist investor revives campaign to overhaul Novavax board",
+    "link": "https://www.biopharmadive.com/news/novavax-shah-capital-board-letter-vote/816938/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-08T15:49:00.000Z",
+    "summary": "Shah Capital, which has agitated for change at the vaccine maker for years, is calling on fellow shareholders to end what it calls “dogmatic leadership” that’s led to the “destruction” of Novavax’s…"
+  },
+  {
+    "title": "Jeito Capital, prominent biotech investor, raises $1.2B for next fund",
+    "link": "https://www.biopharmadive.com/news/jeito-capital-biopharma-venture-fund-billion/816946/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-08T15:23:00.000Z",
+    "summary": "Jeito claimed the new bankroll, which will support 15 to 20 clinical-stage companies, is the largest ever for a “fully independent European fund dedicated to biopharma.”"
+  },
+  {
+    "title": "STAT+: Terns’ drug may not be as competitive as many initially thought",
+    "link": "https://www.statnews.com/2026/04/08/biotech-news-terns-drug-may-not-be-as-competitive-as-initially-believed/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T15:16:12.000Z",
+    "summary": "A controversial class of drugs for Duchenne, Gilead's M&A streak, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: 23andMe finds genetic changes appear to help predict response to GLP-1 drugs for weight loss",
+    "link": "https://www.statnews.com/2026/04/08/23andme-genetic-changes-weight-loss-glp1/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T15:00:00.000Z",
+    "summary": "Changes in two genes appear to help predict whether patients will lose substantial weight on GLP-1 drugs — and whether the drugs will cause nausea or vomiting."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about FDA seeking new powers over DTC ads, an EU pledge to fight AMR, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/08/fda-seeks-new-powers-dtc-ads-eu-pledges-fight-amr/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T13:39:24.000Z",
+    "summary": "The latest pharma news from the Pharmalot campus brought to you by the Pharmalittle newsletter"
+  },
+  {
+    "title": "Novo underprices Lilly with higher-dose Wegovy; Insmed absorbs ‘expected’ study failure",
+    "link": "https://www.biopharmadive.com/news/novo-wegovy-price-insmed-acip-charter-biogen-vertex/816812/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-08T13:37:00.000Z",
+    "summary": "Novo escalated a GLP-1 pricing war with the launch of its newest obesity medicine. Elsewhere, analysts came to Insmed’s defense and HHS changed the way panelists for a key vaccine committee are…"
+  },
+  {
+    "title": "STAT+: Are AI scribes actually driving higher health care costs?",
+    "link": "https://www.statnews.com/2026/04/08/are-scribes-raising-health-care-costs-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-08T13:35:52.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: A closer look at a recent analysis that implied AI scribes are driving up health care costs, and more."
+  },
+  {
     "title": "What does MAHA look like these days?",
     "link": "https://www.statnews.com/2026/04/08/health-news-what-does-maha-movement-look-like-these-days/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,54 +224,6 @@
     "summary": "Resarchers say Merck should 'urgently begin licensing generic production to its HIV prevention pill."
   },
   {
-    "title": "University of Michigan wins 2026 STAT Madness for new insights into abdominal aortic aneurysms",
-    "link": "https://www.statnews.com/2026/04/07/stat-madness-2026-winner-uncovered-driving-force-abdominal-aortic-aneurysms/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T08:30:00.000Z",
-    "summary": "The researchers identified a driving force behind the condition, opening up a potential target for new therapies."
-  },
-  {
-    "title": "Research revealing how the brain flushes waste named STAT Madness Editors’ Pick",
-    "link": "https://www.statnews.com/2026/04/07/research-on-how-brain-flushes-waste-named-stat-madness-editors-pick/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T08:30:00.000Z",
-    "summary": "For researcher Maiken Nedergaard, ‘diseases of aging are basically all about dirty brains’"
-  },
-  {
-    "title": "STAT+: FDA backs proposals to entice pharma companies to test, make drugs domestically",
-    "link": "https://www.statnews.com/2026/04/07/fda-trump-budget-generics-clinical-trials-us-manufacturing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T08:30:00.000Z",
-    "summary": "From tariffs to incentives, the administration wants to push companies to manufacture drugs in the U.S."
-  },
-  {
-    "title": "A star scientist showed that better genetics lessons could reduce racism. It was the death knell for his career",
-    "link": "https://www.statnews.com/2026/04/07/brian-donovan-fighting-racism-with-genetics-education/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T08:30:00.000Z",
-    "summary": "Brian Donovan had persuaded high school teachers and education researchers that prejudice might be ended by changing how genetics is taught."
-  },
-  {
-    "title": "Opinion: STAT+: Former Geisinger CEO: U.S. health systems must replace huge numbers of people with AI",
-    "link": "https://www.statnews.com/2026/04/07/health-care-jobs-autonomous-ai-replacement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T08:30:00.000Z",
-    "summary": "“Health care will become autonomous because the survival of health systems depends upon it,” writes former Geisinger CEO Glenn Steele."
-  },
-  {
-    "title": "Opinion: How the insurance system quietly undoes recovery from addiction",
-    "link": "https://www.statnews.com/2026/04/07/addiction-insurance-premium-relapse-recovery-overdose-buprenorphine/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T08:30:00.000Z",
-    "summary": "People who have been stable for years are suddenly re-exposed to risk — not because their disease worsened, but because their coverage did."
-  },
-  {
     "title": "Lipid nanoparticles deliver to the pancreas",
     "link": "https://www.nature.com/articles/d41573-026-00058-w",
     "source": "Nature Reviews Drug Discovery",
@@ -208,46 +248,6 @@
     "summary": "The findings could help Amgen defend Tepezza’s market-leading position against emerging rivals, though some analysts expressed doubt about its competitive standing."
   },
   {
-    "title": "FDA floats new clinical trial reforms; Takeda punts Denali brain drug",
-    "link": "https://www.biopharmadive.com/news/fda-expedited-pathway-takeda-denali-stipple-syneron/816670/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-06T15:07:00.000Z",
-    "summary": "In its budget request, the agency proposed a way to speed up early drug testing and help smaller biotech firms. Elsewhere, two startups raised megarounds."
-  },
-  {
-    "title": "Neurocrine to acquire Prader-Will drug in $2.9B Soleno buyout",
-    "link": "https://www.biopharmadive.com/news/neurocrine-soleno-acquire-vykat-prader-willi-drug/816686/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-06T13:45:00.000Z",
-    "summary": "The deal hands Neurocrine a “controversial” medicine, Vykat, that achieved $190 million in sales last year but faces persistent questions about its growth trajectory and safety, according to Wall…"
-  },
-  {
-    "title": "Perks persuade participants",
-    "link": "https://www.biopharmadive.com/spons/perks-persuade-participants/816179/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-06T09:00:00.000Z",
-    "summary": "The right incentive program can boost clinical trial enrollment and engagement."
-  },
-  {
-    "title": "White House seeks 12% cut to HHS in 2027",
-    "link": "https://www.biopharmadive.com/news/white-house-hhs-2027-fiscal-year-budget-request-12-percent-cut/816671/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-03T20:23:00.000Z",
-    "summary": "The Trump administration is requesting about $111 billion in discretionary funding for the HHS, nearly $16 billion less than its budget in 2026."
-  },
-  {
-    "title": "Trump revives pharma tariffs with 100% charges, but leaves loopholes",
-    "link": "https://www.biopharmadive.com/news/trump-revives-pharma-tariffs-100-percent-levies/816584/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-03T15:50:00.000Z",
-    "summary": "\"Section 232\" national security levies won't apply to a wide array of drugs, meaning the \"overall threat to the sector should be low,\" according to one analyst."
-  },
-  {
     "title": "FDA approves GLP-1 pill for obesity",
     "link": "https://www.nature.com/articles/d41573-026-00059-9",
     "source": "Nature Reviews Drug Discovery",
@@ -270,13 +270,5 @@
     "category": "research",
     "date": "2026-04-02T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves First New Molecular Entity Under National Priority Voucher Program",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-molecular-entity-under-national-priority-voucher-program",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-04-01T15:23:52.000Z",
-    "summary": "The U.S. Food and Drug Administration today approved Foundayo (orforglipron) marking the fifth approval under the Commissioner's National Priority Voucher (CNPV) pilot program."
   }
 ]
