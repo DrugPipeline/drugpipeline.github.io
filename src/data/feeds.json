@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about top pharma lobbyist stepping down, genes and GLP-1 drugs, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/09/pharma-top-lobbyist-step-down-genes-glp1-abbvie-340b/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T13:17:58.000Z",
+    "summary": "Steve Ubl, chief executive of PhRMA, plans to step down at the end of the ‌year, after more than a decade leading the main trade group for brand-name drug makers"
+  },
+  {
+    "title": "STAT+: Genetics may shape GLP-1 outcomes, slightly",
+    "link": "https://www.statnews.com/2026/04/09/biotech-news-genetics-may-shape-glp-1-outcomes-slightly/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T12:59:49.000Z",
+    "summary": "The traditional biotech venture model under pressure, PhRMA chief Ubl to exit, and other biotech news from The Readout"
+  },
+  {
+    "title": "C-section rate in 2025 highest in a decade",
+    "link": "https://www.statnews.com/2026/04/09/health-news-c-section-rates-highest-in-a-decade-2025/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T12:47:31.000Z",
+    "summary": "Why people overeat, how public health survives in war, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Trump promised to clamp down on health insurers. His policies are enriching them",
+    "link": "https://www.statnews.com/2026/04/09/medicare-advantage-rates-latest-trump-policy-helps-health-insurers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T08:30:00.000Z",
+    "summary": "In December, Trump said he would summon health insurance execs to the White House. It doesn't seem a meeting ever happened."
+  },
+  {
+    "title": "Opinion: As a palliative care physician, I’m nervous about the Medicare infusion of $100 million for ‘functional or lifestyle medicine’",
+    "link": "https://www.statnews.com/2026/04/09/palliative-care-complementary-alternative-medicine-maha-elevate-medicare/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T08:30:00.000Z",
+    "summary": "MAHA ELEVATE could open a federal funding pipeline to interventions that can't survive contact with a plausibility filter."
+  },
+  {
+    "title": "STAT+: Biotech VCs, used to a winning formula in drug development, face disruption",
+    "link": "https://www.statnews.com/2026/04/09/biotech-venture-capital-disruption/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T08:30:00.000Z",
+    "summary": "For decades, venture capitalists have relied on a tried-and-true recipe to make money in biotech. Now that approach is being disrupted."
+  },
+  {
+    "title": "Opinion: Tastiness is not why people overeat",
+    "link": "https://www.statnews.com/2026/04/09/tastiness-overeating-obesity-ultra-processed-food-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T08:30:00.000Z",
+    "summary": "“We can’t afford another sweeping restructuring of the food supply based on imprecise interventions and uncertain science,” writes David L. Ludwig."
+  },
+  {
+    "title": "Opinion: The Pasteur Institute of Iran illustrates important truths about global public health",
+    "link": "https://www.statnews.com/2026/04/09/pasteur-institute-iran-history-global-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-09T08:30:00.000Z",
+    "summary": "“War may command attention, but welfare is built in laboratories,” write Charentan Chatterjee and Guy Vernet."
+  },
+  {
     "title": "STAT+: Which U.S. metros have the highest health spending? The answer might surprise you",
     "link": "https://www.statnews.com/2026/04/09/us-metros-with-highest-health-spending-charleston-west-virginia-new-york/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,38 +200,6 @@
     "summary": "Behind closed doors, health insurers and hospitals agree that AI scribes are bumping up health care costs. But, they don't agree on a solution."
   },
   {
-    "title": "Opinion: What American hospitals can learn from India about waste",
-    "link": "https://www.statnews.com/2026/04/08/indian-hospitals-waste-environment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T08:30:00.000Z",
-    "summary": "American hospitals see mountains of surgical waste as the cost of infection control. Indian hospitals show that’s not so."
-  },
-  {
-    "title": "STAT+: A decade ago, these drugs tore apart the FDA. Today, they might be some patients’ best hope",
-    "link": "https://www.statnews.com/2026/04/08/duchenne-exon-skipping-breakthrough-one-mother-quest/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T08:30:00.000Z",
-    "summary": "A mother's persistence helps revive an all-but-abandoned drug class and could aid her son and thousands of others with neuromuscular conditions."
-  },
-  {
-    "title": "Opinion: How sports betting is hooking some young men",
-    "link": "https://www.statnews.com/2026/04/08/sports-betting-public-health-research-expert/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T08:30:00.000Z",
-    "summary": "Not everyone who uses sports betting apps will get in trouble — but with so many people taking part, even a small percentage represents a big problem."
-  },
-  {
-    "title": "Judge refuses to block sending abortion pill by mail for now, but says FDA must finish review",
-    "link": "https://www.statnews.com/2026/04/07/abortion-pill-mifepristone-by-mail-judge-ruling/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T22:04:15.000Z",
-    "summary": "A federal judge Tuesday refused to block filling prescriptions for the abortion pill mifepristone by mail across the U.S. — at least for now."
-  },
-  {
     "title": "Terns rebuffed a higher bid before selling to Merck",
     "link": "https://www.biopharmadive.com/news/merck-terns-bidders-acquire-deal-lower-leukemia-drug/816811/",
     "source": "BioPharma Dive",
@@ -176,44 +208,12 @@
     "summary": "Regulatory filings show that Terns ultimately accepted an offer 15% lower than a previous proposal as four companies vied for rights to the coveted leukemia drug developer."
   },
   {
-    "title": "STAT+: Novo Nordisk launches high-dose Wegovy",
-    "link": "https://www.statnews.com/2026/04/07/biotech-news-novo-launches-high-dose-wegovy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T16:19:47.000Z",
-    "summary": "Insurers score Medicare Advantage wins, the obesity drug race continues, and other biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: States looking to regulate use of chatbots",
-    "link": "https://www.statnews.com/2026/04/07/unitedhealth-group-ai-bet-states-regulating-chatbots-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T15:45:31.000Z",
-    "summary": "In this edition of STAT Health Tech: UnitedHealth Group's big bet on AI to transform its operations, venture funding trends, and more"
-  },
-  {
-    "title": "STAT+: Trump budget’s ‘America First’ drug policy proposals",
-    "link": "https://www.statnews.com/2026/04/07/trump-budget-fda-proposals-pharmaceutical-industry-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T15:43:00.000Z",
-    "summary": "Buried in Trump's 2027 budget proposal are some new ideas to bring drug manufacturing to the U.S."
-  },
-  {
     "title": "Gilead continues M&A surge with $3.1B deal for ADC specialist Tubulis",
     "link": "https://www.biopharmadive.com/news/gilead-tubulis-acquire-deal-adc-cancer/816823/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-07T15:34:00.000Z",
     "summary": "Gilead’s third acquisition since late February hands it a technology designed to make antibody-drug conjugates less toxic and multiple cancer medicines already in clinical testing."
-  },
-  {
-    "title": "STAT+: Many cancer patients don’t get genomic tests to guide treatment, study finds",
-    "link": "https://www.statnews.com/2026/04/07/genomic-tests-needed-for-targeted-cancer-treatments/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-07T15:00:00.000Z",
-    "summary": "Even as therapies improve, a startling number of cancer patients are not getting genomic tests that could improve their chance of survival."
   },
   {
     "title": "Sanofi immune drug hopeful posts mixed results in mid-stage tests",
