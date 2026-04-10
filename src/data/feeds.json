@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: GSK says goodbye to leucovorin (again)",
+    "link": "https://www.statnews.com/2026/04/10/health-news-gsk-says-goodbye-to-leucovorin-again/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T13:02:41.000Z",
+    "summary": "A revised ACIP charter, sports betting and gambling addiction, and other health news from Morning Rounds"
+  },
+  {
+    "title": "Women have awaited a revolution in menopause. It hasn’t arrived.",
+    "link": "https://www.biopharmadive.com/news/women-revolution-menopause-pharma-drug-bayer-astellas/817046/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-10T10:41:00.000Z",
+    "summary": "Persistent barriers are still hindering drug development for a host of menopause symptoms."
+  },
+  {
+    "title": "How sports betting apps hook users",
+    "link": "https://www.statnews.com/2026/04/10/sports-betting-apps-gambling-addiction-users-status-report/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T08:30:00.000Z",
+    "summary": "In this week's STATus Report, host Alex Hogan dives into how sports betting apps hook users — and how he himself fell for some too-good-to-be-true promotions."
+  },
+  {
+    "title": "Opinion: What public health can learn from the MAHA movement",
+    "link": "https://www.statnews.com/2026/04/10/public-health-maha-communication-storytelling/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T08:30:00.000Z",
+    "summary": "“What MAHA has built, in a relatively short time, is social capital,” writes Monica L. Wang."
+  },
+  {
+    "title": "Opinion: I’m a MAHA activist. I went into the public health lion’s den — and it changed how I think",
+    "link": "https://www.statnews.com/2026/04/10/maha-activist-public-health-enemy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T08:30:00.000Z",
+    "summary": "“In my most honest of moments, what I want from the medical community is the chance to trust it again,” a MAHA advocate writes."
+  },
+  {
     "title": "STAT+: Top health officials highlight efforts to make medical records more portable",
     "link": "https://www.statnews.com/2026/04/09/cms-health-tech-ecosystem-initiative-medical-records-apps-artificial-intelligence/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,38 +192,6 @@
     "summary": "A study is called “really, really important” in showing how teams can induce patients to get their blood pressure under control."
   },
   {
-    "title": "STAT+: Influential Democratic think tank pushes plan for government to lower health care costs",
-    "link": "https://www.statnews.com/2026/04/08/cap-report-lower-health-care-costs-affordability-hospitals-prior-authorization/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T20:07:02.000Z",
-    "summary": "Democrats are honing in on health care affordability as a key issue ahead of the midterm elections."
-  },
-  {
-    "title": "STAT+: Trump administration drops court fight to cap NIH payments for research overhead costs",
-    "link": "https://www.statnews.com/2026/04/08/trump-administration-drops-nih-indirect-costs-court-challenge/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T19:49:56.000Z",
-    "summary": "The Trump administration will not be asking the Supreme Court to take up its fight to slash NIH support for research indirect costs"
-  },
-  {
-    "title": "Smart contact lens monitors eye pressure and delivers glaucoma drugs in early tests",
-    "link": "https://www.statnews.com/2026/04/08/glaucoma-smart-contact-lens-combines-monitoring-drug-delivery/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T18:00:00.000Z",
-    "summary": "A smart contact lens described in a research paper on Wednesday combines therapeutic and diagnostic capabilities for glaucoma patients."
-  },
-  {
-    "title": "STAT+: Steve Ubl to step down as CEO of PhRMA",
-    "link": "https://www.statnews.com/2026/04/08/phrma-ceo-steve-ubl-step-down/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T17:26:43.000Z",
-    "summary": "Ubl led PhRMA through the pandemic and a slew of efforts to rein in drug prices from Democrats and Republicans."
-  },
-  {
     "title": "Sidewinder secures $137M to advance ‘precision’ ADCs",
     "link": "https://www.biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/",
     "source": "BioPharma Dive",
@@ -230,14 +238,6 @@
     "category": "industry",
     "date": "2026-04-07T16:28:00.000Z",
     "summary": "Regulatory filings show that Terns ultimately accepted an offer 15% lower than a previous proposal as four companies vied for rights to the coveted leukemia drug developer."
-  },
-  {
-    "title": "Gilead continues M&A surge with $3.1B deal for ADC specialist Tubulis",
-    "link": "https://www.biopharmadive.com/news/gilead-tubulis-acquire-deal-adc-cancer/816823/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-07T15:34:00.000Z",
-    "summary": "Gilead’s third acquisition since late February hands it a technology designed to make antibody-drug conjugates less toxic and multiple cancer medicines already in clinical testing."
   },
   {
     "title": "Lipid nanoparticles deliver to the pancreas",
