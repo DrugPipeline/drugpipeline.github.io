@@ -1,5 +1,77 @@
 [
   {
+    "title": "FDA again spurns Replimune melanoma drug",
+    "link": "https://www.biopharmadive.com/news/replimune-fda-reject-melanoma-rp1/816659/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-10T16:13:00.000Z",
+    "summary": "The decision, which has been a flashpoint in an ongoing debate about regulatory flexibility, was made because Replimune failed to address the agency's issues with the drug's study results, the FDA…"
+  },
+  {
+    "title": "GAO report shows gap between scale of illegal vapes and enforcement",
+    "link": "https://www.statnews.com/2026/04/10/illegal-vapes-gao-report-shows-insufficient-enforcement-fda/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T16:00:00.000Z",
+    "summary": "The Justice Department's actions on illegal vapes pales next to the scale of the problem, anti-smoking advocates say."
+  },
+  {
+    "title": "STAT+: Replimune skin cancer drug that became FDA flashpoint is rejected again",
+    "link": "https://www.statnews.com/2026/04/10/skin-cancer-replimune-fda-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T15:23:00.000Z",
+    "summary": "A cancer drug candidate that, rightly or wrongly, became a flashpoint at FDA, fails on a second try at approval."
+  },
+  {
+    "title": "Oricell closes a ‘pre-IPO’ megaround to aim CAR-T at solid tumors",
+    "link": "https://www.biopharmadive.com/news/oricell-car-t-liver-cancer-china-ipo-financing/817199/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-10T15:22:00.000Z",
+    "summary": "The Shanghai-based biotech has a cell therapy that, if successful in testing, could become the first treatment of its kind for liver cancer."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/04/10/pharma-biotech-jobs-sanofi-biocryst-zymeworks/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T15:14:39.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "RFK Jr. rewrites ACIP rules; Gilead, Roche dig into protein degraders",
+    "link": "https://www.biopharmadive.com/news/rfk-acip-vivatides-gilead-roche-c4-kymera-shionogi/817047/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-10T15:10:07.000Z",
+    "summary": "The newly published charter widens the required expertise to become an ACIP member and stresses vaccine safety. Elsewhere, Gilead licensed a Kymera drug and a new RNA-focused startup emerged."
+  },
+  {
+    "title": "Trump administration admits a glaring error in its accusations about New York health care fraud",
+    "link": "https://www.statnews.com/2026/04/10/new-york-health-care-fraud-accusations-cms-admits-mistake/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T13:45:22.000Z",
+    "summary": "The Trump administration this week acknowledged it made a significant error in figures it used to help justify a fraud probe into New York’s Medicaid program"
+  },
+  {
+    "title": "STAT+: A new trick for old science, and biotech VCs’ scrambled playbook",
+    "link": "https://www.statnews.com/2026/04/10/biotech-news-vcs-scrambled-playbook-china-us/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T13:38:21.000Z",
+    "summary": "CAR-T promise in autoimmunity, GSK's goodbye to leucovorin, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about cheap generic obesity drugs in India, high demand for estrogen patches and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/10/pharmalittle-were-reading-about-cheap-generic-obesity-drugs-in-india-high-demand-for-estrogen-patches-and-more/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-10T13:27:36.000Z",
+    "summary": "And more pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter"
+  },
+  {
     "title": "STAT+: GSK says goodbye to leucovorin (again)",
     "link": "https://www.statnews.com/2026/04/10/health-news-gsk-says-goodbye-to-leucovorin-again/?utm_campaign=rss",
     "source": "STAT News",
@@ -38,6 +110,14 @@
     "category": "industry",
     "date": "2026-04-10T08:30:00.000Z",
     "summary": "“In my most honest of moments, what I want from the medical community is the chance to trust it again,” a MAHA advocate writes."
+  },
+  {
+    "title": "Unlocking biological barriers: nonclinical safety considerations for RNA-based complex biologics",
+    "link": "https://www.nature.com/articles/d41573-026-00056-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-10T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Top health officials highlight efforts to make medical records more portable",
@@ -144,54 +224,6 @@
     "summary": "In December, Trump said he would summon health insurance execs to the White House. It doesn't seem a meeting ever happened."
   },
   {
-    "title": "Opinion: As a palliative care physician, I’m nervous about the Medicare infusion of $100 million for ‘functional or lifestyle medicine’",
-    "link": "https://www.statnews.com/2026/04/09/palliative-care-complementary-alternative-medicine-maha-elevate-medicare/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-09T08:30:00.000Z",
-    "summary": "MAHA ELEVATE could open a federal funding pipeline to interventions that can't survive contact with a plausibility filter."
-  },
-  {
-    "title": "STAT+: Biotech VCs, used to a winning formula in drug development, face disruption",
-    "link": "https://www.statnews.com/2026/04/09/biotech-venture-capital-disruption/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-09T08:30:00.000Z",
-    "summary": "For decades, venture capitalists have relied on a tried-and-true recipe to make money in biotech. Now that approach is being disrupted."
-  },
-  {
-    "title": "Opinion: Tastiness is not why people overeat",
-    "link": "https://www.statnews.com/2026/04/09/tastiness-overeating-obesity-ultra-processed-food-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-09T08:30:00.000Z",
-    "summary": "“We can’t afford another sweeping restructuring of the food supply based on imprecise interventions and uncertain science,” writes David L. Ludwig."
-  },
-  {
-    "title": "Opinion: The Pasteur Institute of Iran illustrates important truths about global public health",
-    "link": "https://www.statnews.com/2026/04/09/pasteur-institute-iran-history-global-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-09T08:30:00.000Z",
-    "summary": "“War may command attention, but welfare is built in laboratories,” write Charentan Chatterjee and Guy Vernet."
-  },
-  {
-    "title": "STAT+: Which U.S. metros have the highest health spending? The answer might surprise you",
-    "link": "https://www.statnews.com/2026/04/09/us-metros-with-highest-health-spending-charleston-west-virginia-new-york/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-09T04:01:00.000Z",
-    "summary": "There's not a consistent theme among the 10 highest and lowest spending metros, which highlights the “irrationality” of U.S. health care spending, experts say."
-  },
-  {
-    "title": "Team approach to lowering high blood pressure worked even in ‘a tough landscape’",
-    "link": "https://www.statnews.com/2026/04/08/hypertension-control-community-team-approach/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-08T21:00:00.000Z",
-    "summary": "A study is called “really, really important” in showing how teams can induce patients to get their blood pressure under control."
-  },
-  {
     "title": "Sidewinder secures $137M to advance ‘precision’ ADCs",
     "link": "https://www.biopharmadive.com/news/sidewinder-bispecific-antibody-drug-conjugates-orbimed-financing/816942/",
     "source": "BioPharma Dive",
@@ -214,30 +246,6 @@
     "category": "industry",
     "date": "2026-04-08T15:49:00.000Z",
     "summary": "Shah Capital, which has agitated for change at the vaccine maker for years, is calling on fellow shareholders to end what it calls “dogmatic leadership” that’s led to the “destruction” of Novavax’s…"
-  },
-  {
-    "title": "Jeito Capital, prominent biotech investor, raises $1.2B for next fund",
-    "link": "https://www.biopharmadive.com/news/jeito-capital-biopharma-venture-fund-billion/816946/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-08T15:23:00.000Z",
-    "summary": "Jeito claimed the new bankroll, which will support 15 to 20 clinical-stage companies, is the largest ever for a “fully independent European fund dedicated to biopharma.”"
-  },
-  {
-    "title": "Novo underprices Lilly with higher-dose Wegovy; Insmed absorbs ‘expected’ study failure",
-    "link": "https://www.biopharmadive.com/news/novo-wegovy-price-insmed-acip-charter-biogen-vertex/816812/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-08T13:37:00.000Z",
-    "summary": "Novo escalated a GLP-1 pricing war with the launch of its newest obesity medicine. Elsewhere, analysts came to Insmed’s defense and HHS changed the way panelists for a key vaccine committee are…"
-  },
-  {
-    "title": "Terns rebuffed a higher bid before selling to Merck",
-    "link": "https://www.biopharmadive.com/news/merck-terns-bidders-acquire-deal-lower-leukemia-drug/816811/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-07T16:28:00.000Z",
-    "summary": "Regulatory filings show that Terns ultimately accepted an offer 15% lower than a previous proposal as four companies vied for rights to the coveted leukemia drug developer."
   },
   {
     "title": "Lipid nanoparticles deliver to the pancreas",
