@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Maryland state affordability board sets its first price cap for a medicine",
+    "link": "https://www.statnews.com/pharmalot/2026/04/13/maryland-affordability-board-sets-first-price-cap-diabetes-medicine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-14T01:30:00.000Z",
+    "summary": "The board will now oversee a process to lower the cost of the type 2 diabetes medicine Jardiance by January 2027."
+  },
+  {
+    "title": "STAT+: FDA pushes drugmakers to report missing clinical trial results",
+    "link": "https://www.statnews.com/pharmalot/2026/04/13/fda-nudges-drugmakers-report-missing-clinical-trial-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-13T22:51:29.000Z",
+    "summary": "FDA officials said an internal analysis found results were not submitted for nearly 30% of studies “highly likely” to fall under mandatory reporting requirements."
+  },
+  {
+    "title": "STAT+: Federal judge tosses California No Surprises Act lawsuit against HaloMD",
+    "link": "https://www.statnews.com/2026/04/13/halo-md-no-surprises-act-lawsuit-blue-cross-california/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-13T21:52:07.000Z",
+    "summary": "HaloMD is a middleman that became the top filer of out-of-network billing disputes on behalf of medical providers."
+  },
+  {
     "title": "STAT+: Access granted: CMS greenlights more than 150 participants for chronic care experiment",
     "link": "https://www.statnews.com/2026/04/13/cms-access-medicare-chronic-care-pilot-program-participants/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,30 +232,6 @@
     "summary": "The Trump administration this week acknowledged it made a significant error in figures it used to help justify a fraud probe into New York’s Medicaid program"
   },
   {
-    "title": "STAT+: A new trick for old science, and biotech VCs’ scrambled playbook",
-    "link": "https://www.statnews.com/2026/04/10/biotech-news-vcs-scrambled-playbook-china-us/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-10T13:38:21.000Z",
-    "summary": "CAR-T promise in autoimmunity, GSK's goodbye to leucovorin, and more biotech news"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about cheap generic obesity drugs in India, high demand for estrogen patches and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/10/pharmalittle-were-reading-about-cheap-generic-obesity-drugs-in-india-high-demand-for-estrogen-patches-and-more/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-10T13:27:36.000Z",
-    "summary": "And more pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter"
-  },
-  {
-    "title": "STAT+: GSK says goodbye to leucovorin (again)",
-    "link": "https://www.statnews.com/2026/04/10/health-news-gsk-says-goodbye-to-leucovorin-again/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-10T13:02:41.000Z",
-    "summary": "A revised ACIP charter, sports betting and gambling addiction, and other health news from Morning Rounds"
-  },
-  {
     "title": "Women have awaited a revolution in menopause. It hasn’t arrived.",
     "link": "https://www.biopharmadive.com/news/women-revolution-menopause-pharma-drug-bayer-astellas/817046/",
     "source": "BioPharma Dive",
@@ -254,13 +254,5 @@
     "category": "industry",
     "date": "2026-04-09T18:52:00.000Z",
     "summary": "The drug, which Invivyd sees as a potential treatment and “targeted alternative” for the vaccine-hesitant, comes as measles cases in the U.S. are reaching levels not seen in decades."
-  },
-  {
-    "title": "Lipid nanoparticles deliver to the pancreas",
-    "link": "https://www.nature.com/articles/d41573-026-00058-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-07T00:00:00.000Z",
-    "summary": ""
   }
 ]
