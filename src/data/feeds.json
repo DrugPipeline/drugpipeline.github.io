@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Congress returns to a packed health care agenda",
+    "link": "https://www.statnews.com/2026/04/14/congress-health-care-agenda-drug-prices-reconciliation-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-14T17:01:57.000Z",
+    "summary": "The key health care issues we're watching as Congress returns from recess."
+  },
+  {
+    "title": "Travere wins long-awaited approval for kidney disease drug",
+    "link": "https://www.biopharmadive.com/news/travere-fda-approve-flispari-fsgs-kidney-disease/817415/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-14T16:07:00.000Z",
+    "summary": "The clearance of Filspari in a condition known as FSGS ends a winding regulatory journey and unlocks a revenue opportunity believed to be worth more than $1 billion annually."
+  },
+  {
+    "title": "J&J leans on Tremfya, cancer drugs to overcome Stelara losses",
+    "link": "https://www.biopharmadive.com/news/johnson-johnson-2026-q1-earnings-stelara-tremfya-myeloma/817422/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-14T15:34:00.000Z",
+    "summary": "A growing multiple myeloma franchise helped the pharmaceutical giant top Wall Street’s expectations and surpass $15 billion in first-quarter drug sales."
+  },
+  {
+    "title": "STAT+: FDA pressures drugmakers to report trial results",
+    "link": "https://www.statnews.com/2026/04/14/biotech-news-fda-pressures-drugmakers-to-report-trial-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-14T14:29:53.000Z",
+    "summary": "Ben Sasse on enrolling in Rev Med's drug trial, more ADC investment, and other biotech news from The Readout"
+  },
+  {
+    "title": "Lilly boosts ADC portfolio with CrossBridge Bio deal",
+    "link": "https://www.biopharmadive.com/news/lilly-crossbridge-acquire-deal-antibody-drug-conjugates/817421/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-14T14:20:00.000Z",
+    "summary": "Worth up to $300 million, the buyout is Lilly’s latest of an ADC maker and adds technology for making “dual-payload” therapies."
+  },
+  {
     "title": "STAT+: Hospitals offer chatbots to fight off ChatGPT",
     "link": "https://www.statnews.com/2026/04/14/hospitals-offer-chatbots-chatgpt-health-tech/?utm_campaign=rss",
     "source": "STAT News",
@@ -22,6 +62,14 @@
     "category": "regulatory",
     "date": "2026-04-14T13:00:05.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a draft guidance for sponsors seeking approval of human gene therapy products involving genome editing technologies."
+  },
+  {
+    "title": "Novo teams with OpenAI; Ideaya gets muted response to eye drug data",
+    "link": "https://www.biopharmadive.com/news/novo-openai-regeneron-radiopharmaceuticals-ideaya-neomorph-gsk/817278/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-14T12:55:00.000Z",
+    "summary": "Novo intends to “fully integrate” AI capabilities across its operations. Elsewhere, Regeneron made its first foray into radiopharmaceuticals and a GSK cancer drug showed early promise."
   },
   {
     "title": "A fluoride shortage for some U.S. water systems",
@@ -200,22 +248,6 @@
     "summary": "A smarter approach to dermatology trials—built for durability and real-world impact."
   },
   {
-    "title": "STAT+: Hospitals roll out chatbots, looking to reclaim their role in patients’ health conversations",
-    "link": "https://www.statnews.com/2026/04/13/hospitals-launch-chatbots-creating-new-funnel-for-patients/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-13T08:30:00.000Z",
-    "summary": "A handful of hospitals are launching their own chatbots, a risky bet aimed at better serving current patients and gaining new ones."
-  },
-  {
-    "title": "Opinion: STAT+: Landmines await Vinay Prasad’s successor at the FDA",
-    "link": "https://www.statnews.com/2026/04/13/vinay-prasad-replacement-fda-cber/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-13T08:30:00.000Z",
-    "summary": "Who would want to be the head of the FDA's Center for Biologics Evaluation and Research?"
-  },
-  {
     "title": "FDA again spurns Replimune melanoma drug",
     "link": "https://www.biopharmadive.com/news/replimune-fda-reject-melanoma-rp1/816659/",
     "source": "BioPharma Dive",
@@ -224,43 +256,11 @@
     "summary": "In a statement late Friday, CEO Sushil Patel disputed the FDA’s criticisms of the company and said Replimune had received “inconsistent communications.” It’ll be forced to cut jobs as well."
   },
   {
-    "title": "Oricell closes a ‘pre-IPO’ megaround to aim CAR-T at solid tumors",
-    "link": "https://www.biopharmadive.com/news/oricell-car-t-liver-cancer-china-ipo-financing/817199/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-10T15:22:00.000Z",
-    "summary": "The Shanghai-based biotech has a cell therapy that, if successful in testing, could become the first treatment of its kind for liver cancer."
-  },
-  {
-    "title": "RFK Jr. rewrites ACIP rules; Gilead, Roche dig into protein degraders",
-    "link": "https://www.biopharmadive.com/news/rfk-acip-vivatides-gilead-roche-c4-kymera-shionogi/817047/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-10T15:10:07.000Z",
-    "summary": "The newly published charter widens the required expertise to become an ACIP member and stresses vaccine safety. Elsewhere, Gilead licensed a Kymera drug and a new RNA-focused startup emerged."
-  },
-  {
-    "title": "Women have awaited a revolution in menopause. It hasn’t arrived.",
-    "link": "https://www.biopharmadive.com/news/women-revolution-menopause-pharma-drug-bayer-astellas/817046/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-10T10:41:00.000Z",
-    "summary": "Persistent barriers are still hindering drug development for a host of menopause symptoms."
-  },
-  {
     "title": "Unlocking biological barriers: nonclinical safety considerations for RNA-based complex biologics",
     "link": "https://www.nature.com/articles/d41573-026-00056-y",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-04-10T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Invivyd reveals plans to test an antibody drug against measles",
-    "link": "https://www.biopharmadive.com/news/invivyd-measles-antibody-drug-vaccines/817086/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-09T18:52:00.000Z",
-    "summary": "The drug, which Invivyd sees as a potential treatment and “targeted alternative” for the vaccine-hesitant, comes as measles cases in the U.S. are reaching levels not seen in decades."
   }
 ]
