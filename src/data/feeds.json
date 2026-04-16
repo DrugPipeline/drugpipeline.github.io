@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about a review of Alzheimer’s drugs, FDA interest in compounded peptides, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/16/alzheimers-drugs-review-fda-panel-for-compounded-peptides/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T13:15:21.000Z",
+    "summary": "The FDA will convene an outside panel of advisers to discuss whether to allow compounding pharmacies to manufacture certain peptides"
+  },
+  {
+    "title": "STAT+: Medicare may nix breakthrough device payment pathway",
+    "link": "https://www.statnews.com/2026/04/16/medicare-breakthrough-device-payment-pathway-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T13:11:20.000Z",
+    "summary": "In this edition of STAT Health Tech: CMS may change breakthrough device payments, Zealthy's legal troubles, and more."
+  },
+  {
+    "title": "The mental health parity gap is gaping",
+    "link": "https://www.statnews.com/2026/04/16/health-news-the-mental-health-parity-gap-is-gaping/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T11:58:09.000Z",
+    "summary": "RFK Jr.'s testimony to Congress, broader access to peptides, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Roche to launch another Elevidys trial, with eyes on European approval",
+    "link": "https://www.statnews.com/2026/04/16/roche-elevidys-pivotal-trial-europe-sarepta/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T10:32:07.000Z",
+    "summary": "Roche is launching a Phase 3 trial of the controversial Duchenne gene therapy Elevidys, hoping it could lead to approval in Europe."
+  },
+  {
+    "title": "STAT+: Travere’s drug for a kidney disease doesn’t improve kidney function. The FDA approved it anyway",
+    "link": "https://www.statnews.com/2026/04/16/travere-therapeutics-kidney-disease-fda-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T10:30:00.000Z",
+    "summary": "How a rare disease drugmaker won FDA approval after a clinical trial disappointed."
+  },
+  {
+    "title": "STAT+: 7 key issues we’re watching as RFK Jr. faces a Congressional gauntlet",
+    "link": "https://www.statnews.com/2026/04/16/kennedy-congress-testimony-balance-maha-goals-trump-priorities/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T10:00:00.000Z",
+    "summary": "RFK Jr. has a delicate task ahead of him as he faces a marathon of hearings on Capitol Hill."
+  },
+  {
+    "title": "Opinion: STAT+: The medical AI revolution requires rethinking health care’s architecture",
+    "link": "https://www.statnews.com/2026/04/16/medical-ai-revolution-consumer-devices-health-records/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T08:30:00.000Z",
+    "summary": "\"Instead of organizing health data around institutions, we might organize it around individuals,\" write Meta's Freddy Abnousi and Stanford's Celina Yong."
+  },
+  {
+    "title": "Opinion: Voice-first chatbots will exacerbate AI’s mental health threat",
+    "link": "https://www.statnews.com/2026/04/16/voice-chatbots-ai-psychosis-mental-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-16T08:30:00.000Z",
+    "summary": "The debate about AI and mental health has so far focused on content. But the way the content is delivered matters, too."
+  },
+  {
     "title": "STAT+: CMS proposes rolling back breakthrough device payment flexibilities",
     "link": "https://www.statnews.com/2026/04/15/cms-proposes-rolling-back-breakthrough-device-payment/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,36 +216,12 @@
     "summary": "A growing multiple myeloma franchise helped the pharmaceutical giant top Wall Street’s expectations and surpass $15 billion in first-quarter drug sales."
   },
   {
-    "title": "STAT+: FDA pressures drugmakers to report trial results",
-    "link": "https://www.statnews.com/2026/04/14/biotech-news-fda-pressures-drugmakers-to-report-trial-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T14:29:53.000Z",
-    "summary": "Ben Sasse on enrolling in Rev Med's drug trial, more ADC investment, and other biotech news from The Readout"
-  },
-  {
     "title": "Lilly boosts ADC portfolio with CrossBridge Bio deal",
     "link": "https://www.biopharmadive.com/news/lilly-crossbridge-acquire-deal-antibody-drug-conjugates/817421/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-14T14:20:00.000Z",
     "summary": "Worth up to $300 million, the buyout is Lilly’s latest of an ADC maker and adds technology for making “dual-payload” therapies."
-  },
-  {
-    "title": "STAT+: Hospitals offer chatbots to fight off ChatGPT",
-    "link": "https://www.statnews.com/2026/04/14/hospitals-offer-chatbots-chatgpt-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T13:26:27.000Z",
-    "summary": "In this edition of STAT Health Tech: Hospitals offer their own chatbots, Medicare's ACCESS pilot, and an update Utah's 'AI doctor' experiment."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA push for trial transparency, a Novo-OpenAI deal, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/14/fda-push-clinical-trial-transparency-novo-nordisk-openai-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T13:12:36.000Z",
-    "summary": "The FDA told more than 2,200 companies and researchers that they are required to report clinical trial results, or they may face fines"
   },
   {
     "title": "FDA Issues Draft Guidance on Genome Editing Safety Standards to Advance Gene Therapy Development",
@@ -198,46 +238,6 @@
     "category": "industry",
     "date": "2026-04-14T12:55:00.000Z",
     "summary": "Novo intends to “fully integrate” AI capabilities across its operations. Elsewhere, Regeneron made its first foray into radiopharmaceuticals and a GSK cancer drug showed early promise."
-  },
-  {
-    "title": "A fluoride shortage for some U.S. water systems",
-    "link": "https://www.statnews.com/2026/04/14/health-news-fluoride-shortage-for-some-us-water-systems/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T11:48:07.000Z",
-    "summary": "An experimental Medicare program, how family dynamics affect brain recovery, and other health news from Morning Rounds"
-  },
-  {
-    "title": "For Ben Sasse, Revolution Medicines’ pancreatic cancer trial felt like his best, only option",
-    "link": "https://www.statnews.com/2026/04/14/ben-sasse-revolution-medicines-daraxonrasib-clinical-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T08:30:00.000Z",
-    "summary": "Former Sen. Ben Sasse gives a glimpse of what it's like to be a participant in an tough but promising new drug for pancreatic cancer."
-  },
-  {
-    "title": "A top WHO official confronts Iran war fallout, and weighs bid for an even bigger role",
-    "link": "https://www.statnews.com/2026/04/14/next-who-director-general-candidate-qa-with-hanan-balkhy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T08:30:00.000Z",
-    "summary": "The director of WHO's Eastern Mediterranean region is weighing whether to run to be the next director-general at a time of tumult over Iran and beyond."
-  },
-  {
-    "title": "STAT+: Dana-Farber CEO talks untangling from Mass General Brigham and building new cancer hospital",
-    "link": "https://www.statnews.com/2026/04/14/dana-farber-cancer-hospital-benjamin-ebert-mass-general-brigham/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T08:30:00.000Z",
-    "summary": "Dana-Farber CEO Benjamin Ebert has no shortage of ideas and vision for the cancer institute as it untangles from Mass General Brigham and builds a new hospital."
-  },
-  {
-    "title": "Opinion: My brother can’t access a just-approved breakthrough drug for his rare disease",
-    "link": "https://www.statnews.com/2026/04/14/hunter-syndrome-avlayah-age-based-approvals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-14T08:30:00.000Z",
-    "summary": "Rare disease clinical trials, policy discussions, and advocacy initiatives often leave adults behind."
   },
   {
     "title": "Spyre drug for inflammatory bowel disease shows promise in early study",
