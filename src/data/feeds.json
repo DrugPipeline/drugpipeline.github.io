@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: A pancreatic cancer expert on why Revolution Medicines’ study could ‘open up a new era’ of treatment",
+    "link": "https://www.statnews.com/2026/04/17/revolution-medicines-daraxonrasib-clinical-trial-readout-loud-podcast-transcript/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-17T17:37:53.000Z",
+    "summary": "\"I do think it's a revolution,\" said Paul Oberstein of NYU Langone's Perlmutter Cancer Center."
+  },
+  {
+    "title": "Lilly’s obesity pill off to a strong start; OpenAI debuts new drug discovery tool",
+    "link": "https://www.biopharmadive.com/news/foundayo-launch-openai-rosalind-janux-gilead-arcellx/817789/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-17T14:04:00.000Z",
+    "summary": "Some 1,390 Foundayo prescriptions were written in two days, according to analysts. Elsewhere, multiple biotechs are using OpenAI’s “GPT-Rosalind” and Janux debuted a “double-masked” T cell engager."
+  },
+  {
+    "title": "STAT+: FDA eyes expanding testosterone therapy for libido",
+    "link": "https://www.statnews.com/2026/04/17/biotech-news-fda-eyes-expanding-testosterone-for-libido/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-17T13:40:42.000Z",
+    "summary": "New research questions GLP-1's purpose, a pancreatic cancer breakthrough, and more biotech news from The Readout"
+  },
+  {
+    "title": "The deadly consequences of ICE detention",
+    "link": "https://www.statnews.com/2026/04/17/health-news-people-detained-by-ice-dying-at-a-record-rate/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-17T13:23:38.000Z",
+    "summary": "New research challenges what we know about GLP-1s, vaccine skepticism, and more health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: Up and down the ladder: The latest comings and goings",
     "link": "https://www.statnews.com/pharmalot/2026/04/17/pharma-biotech-medicines-jobs-gsk-executive-changes/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,38 +232,6 @@
     "summary": "How a rare disease drugmaker won FDA approval after a clinical trial disappointed."
   },
   {
-    "title": "STAT+: 7 key issues we’re watching as RFK Jr. faces a Congressional gauntlet",
-    "link": "https://www.statnews.com/2026/04/16/kennedy-congress-testimony-balance-maha-goals-trump-priorities/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-16T10:00:00.000Z",
-    "summary": "RFK Jr. has a delicate task ahead of him as he faces a marathon of hearings on Capitol Hill."
-  },
-  {
-    "title": "Opinion: STAT+: The medical AI revolution requires rethinking health care’s architecture",
-    "link": "https://www.statnews.com/2026/04/16/medical-ai-revolution-consumer-devices-health-records/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-16T08:30:00.000Z",
-    "summary": "\"Instead of organizing health data around institutions, we might organize it around individuals,\" write Meta's Freddy Abnousi and Stanford's Celina Yong."
-  },
-  {
-    "title": "Opinion: Voice-first chatbots will exacerbate AI’s mental health threat",
-    "link": "https://www.statnews.com/2026/04/16/voice-chatbots-ai-psychosis-mental-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-16T08:30:00.000Z",
-    "summary": "The debate about AI and mental health has so far focused on content. But the way the content is delivered matters, too."
-  },
-  {
-    "title": "FDA new drug approvals in Q1 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00061-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-16T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Beeline, a Bain-backed biotech, debuts with immune drugs from Bristol Myers",
     "link": "https://www.biopharmadive.com/news/bain-beeline-immune-drugs-bristol-myers/817538/",
     "source": "BioPharma Dive",
@@ -246,22 +246,6 @@
     "category": "industry",
     "date": "2026-04-15T15:05:15.000Z",
     "summary": "The California biotech has one therapy in Phase 1 testing and expects another to advance to the clinic later this year."
-  },
-  {
-    "title": "FDA asks Lilly to evaluate obesity pill’s liver risk",
-    "link": "https://www.biopharmadive.com/news/fda-foundayo-liver-safety-eli-lilly/817556/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-15T13:39:50.000Z",
-    "summary": "The request, which is part of a just-released approval letter for Foundayo, comes amid an intensifying marketing battle between Lilly and Novo."
-  },
-  {
-    "title": "Where are the women’s health drugs?",
-    "link": "https://www.nature.com/articles/d41573-026-00060-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-15T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Issues Draft Guidance on Genome Editing Safety Standards to Advance Gene Therapy Development",
