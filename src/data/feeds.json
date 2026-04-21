@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: At AACR, a provocative use of CAR-T, Merck’s new thing and cancer’s geography problem",
+    "link": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-multiple-myeloma-merck-rural-health-ai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-20T21:59:45.000Z",
+    "summary": "At AACR, a bold use of CAR-T raises hopes and provocative questions about its use in smoldering multiple myeloma."
+  },
+  {
+    "title": "STAT+: Former banker brought on to revitalize Pfizer’s strategy departs his post",
+    "link": "https://www.statnews.com/2026/04/20/andrew-baum-pfizer-leaves-post/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-20T21:31:24.000Z",
+    "summary": "Andrew Baum, a former Citi analyst, has left his role as Pfizer's executive vice president and chief strategy and innovation officer."
+  },
+  {
+    "title": "STAT+: In early trial, CAR-T results raise hope of preventing multiple myeloma in high-risk patients",
+    "link": "https://www.statnews.com/2026/04/20/aacr-2026-car-t-trial-results-carvykti-smoldering-multiple-myeloma/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-20T20:00:00.000Z",
+    "summary": "A CAR-T trial shows promise in preventing smoldering multiple myeloma from becoming the real thing."
+  },
+  {
     "title": "RFK Jr. defends HHS tenure, 12% proposed budget cut",
     "link": "https://www.biopharmadive.com/news/robert-f-kennedy-jr-rfk-jr-defends-hhs-tenure-proposed-budget-cut/817975/",
     "source": "BioPharma Dive",
@@ -176,6 +200,14 @@
     "summary": ""
   },
   {
+    "title": "Biologic degraders push forward in the clinic",
+    "link": "https://www.nature.com/articles/d41573-026-00064-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-20T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: AACR 2026: More strong data for Revolution Medicines’ KRAS drug",
     "link": "https://www.statnews.com/2026/04/19/aacr-2026-strong-data-for-revolution-medicines-kras-drug/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,14 +240,6 @@
     "summary": "As one CDC employee, who asked not to be named, put it on Friday, among staff “the general vibe is guarded but hopeful.”"
   },
   {
-    "title": "Opinion: The podcast bringing together MAHA and public health for hard conversations",
-    "link": "https://www.statnews.com/2026/04/18/maha-public-health-why-should-i-trust-you-podcast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-18T11:00:00.000Z",
-    "summary": "“These sides aren't talking to each other. And there's a lot riding on it”: The hosts of “Why Should I Trust You?” on bringing together MAHA and public health."
-  },
-  {
     "title": "UCB, betting on seizure cell therapy, to buy Neurona for up to $1.2B",
     "link": "https://www.biopharmadive.com/news/ucb-neurona-deal-acquisition-cell-therapy-epilepsy-biotech/817863/",
     "source": "BioPharma Dive",
@@ -224,28 +248,12 @@
     "summary": "The acquisition helps diversify UCB’s small molecule-centric arsenal of seizure treatments with a potentially one-off therapy in early testing for a hard-to-treat form of a common epilepsy."
   },
   {
-    "title": "STAT+: A pancreatic cancer expert on why Revolution Medicines’ study could ‘open up a new era’ of treatment",
-    "link": "https://www.statnews.com/2026/04/17/revolution-medicines-daraxonrasib-clinical-trial-readout-loud-podcast-transcript/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-17T17:37:53.000Z",
-    "summary": "\"I do think it's a revolution,\" said Paul Oberstein of NYU Langone's Perlmutter Cancer Center."
-  },
-  {
     "title": "Lilly’s obesity pill off to a strong start; OpenAI debuts new drug discovery tool",
     "link": "https://www.biopharmadive.com/news/foundayo-launch-openai-rosalind-janux-gilead-arcellx/817789/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-17T14:04:00.000Z",
     "summary": "Some 1,390 Foundayo prescriptions were written in two days, according to analysts. Elsewhere, multiple biotechs are using OpenAI’s “GPT-Rosalind” and Janux debuted a “double-masked” T cell engager."
-  },
-  {
-    "title": "STAT+: FDA eyes expanding testosterone therapy for libido",
-    "link": "https://www.statnews.com/2026/04/17/biotech-news-fda-eyes-expanding-testosterone-for-libido/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-17T13:40:42.000Z",
-    "summary": "New research questions GLP-1's purpose, a pancreatic cancer breakthrough, and more biotech news from The Readout"
   },
   {
     "title": "5 notable pharma CEO pay hikes in 2025",
