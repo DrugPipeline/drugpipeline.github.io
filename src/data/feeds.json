@@ -1,5 +1,77 @@
 [
   {
+    "title": "Tortugas debuts with $106M and brain drugs from Hansoh, Eisai",
+    "link": "https://www.biopharmadive.com/news/tortugas-biotech-startup-jonas-robichaud-hansoh-eisai/818076/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-21T18:14:00.000Z",
+    "summary": "Led by former Sage Therapeutics executives Jeff Jonas and Al Robichaud, the company is starting out with a portfolio of neurological medicines in clinical testing."
+  },
+  {
+    "title": "Merck’s fast-ascending kidney cancer drug hits a setback",
+    "link": "https://www.biopharmadive.com/news/merck-welireg-1l-renal-cell-carcinoma-study-results/818093/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-21T17:39:00.000Z",
+    "summary": "Welireg’s failure in first-line kidney cancer removes a blockbuster opportunity and could leave an opening for a rival drug from Arcus Biosciences, analysts said."
+  },
+  {
+    "title": "Flu vaccine no longer mandated for U.S. troops, defense secretary says",
+    "link": "https://www.statnews.com/2026/04/21/flu-vaccine-military-no-longer-required-hegseth/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-21T16:42:56.000Z",
+    "summary": "Defense Secretary Pete Hegseth announced Tuesday that the U.S. military will no longer require all American troops to get the flu vaccine."
+  },
+  {
+    "title": "STAT+: UnitedHealth earnings beat expectations in the first quarter, but hurdles persist",
+    "link": "https://www.statnews.com/2026/04/21/unitedhealth-earnings-beat-expectations-in-first-quarter-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-21T16:05:19.000Z",
+    "summary": "UnitedHealth’s financial performance in the first quarter far exceeded analyst’s expectations in both its Optum and UnitedHealthcare divisions."
+  },
+  {
+    "title": "STAT+: RFK Jr. to face four GOP doctors at Senate hearings",
+    "link": "https://www.statnews.com/2026/04/21/kennedy-senate-hearings-hhs-budget-bill-cassidy-what-to-watch/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-21T15:26:40.000Z",
+    "summary": "We'll be zeroed in on Kennedy's exchanges with one doc in particular: Bill Cassidy."
+  },
+  {
+    "title": "BioAge says early data suggest ‘best-in-class’ potential for inflammation drug",
+    "link": "https://www.biopharmadive.com/news/bioage-nlrp3-drug-results-inflammation-cardiovascular-risk-obesity/818054/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-21T15:19:00.000Z",
+    "summary": "The company has rallied from an earlier setback in obesity thanks to early progress for a drug targeting “NLRP3,” an inflammasome linked to a variety of health conditions."
+  },
+  {
+    "title": "Opinion: STAT+: I’m an expert on presidential health. The 25th Amendment is not an option for removing Trump",
+    "link": "https://www.statnews.com/2026/04/21/25th-amendment-trump-physician-medical-decline/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-21T15:01:14.000Z",
+    "summary": "Those calling for Trump’s removal under the 25th Amendment are misguided. Here’s why, writes Lawrence K. Altman."
+  },
+  {
+    "title": "A criminal sentence for OxyContin maker Purdue Pharma clears the way for completing its settlement",
+    "link": "https://www.statnews.com/2026/04/21/purdue-pharma-oxycontin-justice-department-settlement-criminal-sentence/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-21T14:48:41.000Z",
+    "summary": "A judge is expected to sentence OxyContin maker Purdue Pharma to forfeit $225 million to the Justice Department on Tuesday, clearing the way for the company to finalize a settlement…"
+  },
+  {
+    "title": "STAT+: CMS to ask every state for new audits of health care providers",
+    "link": "https://www.statnews.com/2026/04/21/cms-requires-state-audits-health-care-providers-medicare-medicaid/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-21T14:24:41.000Z",
+    "summary": "The Trump administration has been heavily focused on combating purported fraud in federal health care programs."
+  },
+  {
     "title": "STAT+: Kelonia Therapeutics’ road from floundering to $3 billion",
     "link": "https://www.statnews.com/2026/04/21/biotech-news-kelonia-road-from-floundering-to-3-billion/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,14 +216,6 @@
     "summary": "Kelonia Therapeutics, a small biotech company, long struggled to stay afloat. Now it's been acquired by Eli Lilly for $3.25 billion."
   },
   {
-    "title": "STAT+: The PBMs fight back, and arbitration doesn’t lose",
-    "link": "https://www.statnews.com/2026/04/20/pbms-push-back-price-transparency-no-surprises-act-lawsuits/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-20T15:17:05.000Z",
-    "summary": "We unpack the contentious fight over drug price transparency."
-  },
-  {
     "title": "Lilly boosts ‘in vivo’ cell therapy capabilities with Kelonia buyout",
     "link": "https://www.biopharmadive.com/news/lilly-kelonia-acquire-in-vivo-cell-therapy-multiple-myeloma/817953/",
     "source": "BioPharma Dive",
@@ -176,60 +240,12 @@
     "summary": "Featured at this year’s meeting on early cancer research were results from an immunotherapy Merck acquired in 2024 and several targeted medicines for lung tumors."
   },
   {
-    "title": "STAT+: Finally cracking KRAS as a druggable target",
-    "link": "https://www.statnews.com/2026/04/20/biotech-news-finally-cracking-kras-as-a-druggable-target/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-20T13:29:36.000Z",
-    "summary": "The Breakthrough Prize winners, Trump's psychedelics executive order, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Trump boosting psychedelic treatment, the future for weight-loss drugs, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/20/pharmalittle-were-reading-about-trump-boosting-psychedelic-treatment-the-future-for-weight-loss-drugs-and-more/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-20T13:14:48.000Z",
-    "summary": "And more pharma news from the Pharmalot campus via the Pharmalittle newsletter"
-  },
-  {
     "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
     "link": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-20T12:00:00.000Z",
     "summary": "This podcast explores how clinical trial supplies move from early planning to global delivery, ensuring investigational medicines reach patients safely and on time."
-  },
-  {
-    "title": "How weed affects adolescent brains",
-    "link": "https://www.statnews.com/2026/04/20/health-news-how-weed-affects-adolescent-brains/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-20T11:40:09.000Z",
-    "summary": "The latest CDC director nominee, the ongoing measles outbreak, and other health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Extended use of Nektar Therapeutics drug shows promise in alopecia",
-    "link": "https://www.statnews.com/2026/04/20/nektar-drug-rezpeg-hair-growth-alopecia/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-20T11:30:00.000Z",
-    "summary": "Extended use of a drug from Nektar Therapeutics promoted hair growth in people with alopecia."
-  },
-  {
-    "title": "What actually drives speed in complex drug development programs",
-    "link": "https://www.biopharmadive.com/spons/what-actually-drives-speed-in-complex-drug-development-programs/817571/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-20T09:00:00.000Z",
-    "summary": "Learn how early coordination across functions, phases and partners can reduce risk and accelerate drug development."
-  },
-  {
-    "title": "STAT+: A controversy over research monkeys highlights ambiguity over health standards",
-    "link": "https://www.statnews.com/pharmalot/2026/04/20/animal-testing-peta-questions-pfizer-research-monkey-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-20T08:30:00.000Z",
-    "summary": "A leading animal rights group is accusing Pfizer of running afoul of its own standards in the handling of research monkeys."
   },
   {
     "title": "Safety considerations for cereblon-recruiting targeted protein degraders",
@@ -254,22 +270,6 @@
     "category": "research",
     "date": "2026-04-20T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "UCB, betting on seizure cell therapy, to buy Neurona for up to $1.2B",
-    "link": "https://www.biopharmadive.com/news/ucb-neurona-deal-acquisition-cell-therapy-epilepsy-biotech/817863/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-17T20:32:00.000Z",
-    "summary": "The acquisition helps diversify UCB’s small molecule-centric arsenal of seizure treatments with a potentially one-off therapy in early testing for a hard-to-treat form of a common epilepsy."
-  },
-  {
-    "title": "Lilly’s obesity pill off to a strong start; OpenAI debuts new drug discovery tool",
-    "link": "https://www.biopharmadive.com/news/foundayo-launch-openai-rosalind-janux-gilead-arcellx/817789/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-17T14:04:00.000Z",
-    "summary": "Some 1,390 Foundayo prescriptions were written in two days, according to analysts. Elsewhere, multiple biotechs are using OpenAI’s “GPT-Rosalind” and Janux debuted a “double-masked” T cell engager."
   },
   {
     "title": "Realizing the promise of CAR-T cell therapies for autoimmune diseases",
