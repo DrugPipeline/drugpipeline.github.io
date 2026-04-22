@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about Medicare’s obesity drug pilot, an experimental Roche MS drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/22/medicare-obesity-drug-pilot-program-experimental-roche-ms-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T13:38:21.000Z",
+    "summary": "The Trump administration has dropped a plan for insurers to provide cheap weight loss drugs to seniors through a Medicare pilot program"
+  },
+  {
+    "title": "Moderna continues bird flu vax study, but limits work in the U.S.",
+    "link": "https://www.statnews.com/2026/04/22/health-news-moderna-bird-flu-vaccine-study-continues-with-us-limits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T11:48:33.000Z",
+    "summary": "Flu shot no longer mandated for U.S. troops, \"healthy\" snacks, and other news from Morning Rounds"
+  },
+  {
+    "title": "Opinion: Behind every miracle drug is a story",
+    "link": "https://www.statnews.com/2026/04/22/drug-story-thomas-goetz-interview/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T08:30:00.000Z",
+    "summary": "“In every drug, there is a much larger story to tell about health and medicine and society and business and economics,” says Thomas Goetz."
+  },
+  {
+    "title": "Are MAHA snacks really better for you? Nutrition experts parse a grocery aisle gold rush",
+    "link": "https://www.statnews.com/2026/04/22/better-for-you-snacks-maha-influence-food-companies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T08:30:00.000Z",
+    "summary": "From protein Pop-Tarts to avocado-oil chips, a MAHA-fueled snack revolution promises healthier eating. Experts say it may mostly be illusion."
+  },
+  {
+    "title": "Opinion: NASA’s plans for living in space should prioritize immunology and infectious disease",
+    "link": "https://www.statnews.com/2026/04/22/artemis-space-travel-immunology-infectious-disease-bacteria/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T08:30:00.000Z",
+    "summary": "Infectious diseases could pose serious risks for interplanetary travelers."
+  },
+  {
+    "title": "Opinion: The CDC’s ‘disease detective’ program turns 75",
+    "link": "https://www.statnews.com/2026/04/22/eis-anniversary-cdc-disease-detectives-conference/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T08:30:00.000Z",
+    "summary": "The CDC’s EIS program has trained more than 4,300 people to be the next generation of public health leaders."
+  },
+  {
     "title": "STAT+: With successful trials, Roche takes its MS drug to regulators, but safety questions loom",
     "link": "https://www.statnews.com/2026/04/21/roche-multiple-scleroris-efficacy-safety/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,60 +184,12 @@
     "summary": "A U.S. judge is expected to direct Purdue Pharma to forfeit $225 million to the Justice Department, clearing the way for a massive settlement"
   },
   {
-    "title": "This CDC conference was always open to the public. Until now",
-    "link": "https://www.statnews.com/2026/04/21/health-news-cdc-conference-was-always-open-to-the-public-until-now/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T13:04:50.000Z",
-    "summary": "A federal ruling against Kennedy's gender declaration, when food insecure families don't qualify for SNAP, and other health news"
-  },
-  {
-    "title": "STAT+: Kennedy hints at coming breakthrough device announcement",
-    "link": "https://www.statnews.com/2026/04/21/kennedy-hints-breakthrough-device-announcement-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T12:18:44.000Z",
-    "summary": "In this edition of STAT Health Tech: Health secretary hints at possible announcement on how breakthrough medical devices are paid for, and more."
-  },
-  {
-    "title": "STAT+: BioAge says experimental pill aimed at reducing heart risks significantly reduced inflammation",
-    "link": "https://www.statnews.com/2026/04/21/bioage-drug-inflammation-cardiovascular-risks/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T11:00:00.000Z",
-    "summary": "BioAge Labs said its investigational pill for cardiovascular risk prevention significantly reduced inflammation in an early study."
-  },
-  {
-    "title": "STAT+: Tortugas Neuroscience launches with hopes to develop drugs for brain disorders, other conditions",
-    "link": "https://www.statnews.com/2026/04/21/tortugas-neuroscience-jiangsu-hansoh-eisai/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T11:00:00.000Z",
-    "summary": "Tortugas Neuroscience launched Tuesday with plans to develop drugs licensed from Chinese drugmaker Jiangsu Hansoh and Japanese pharmaceutical Eisai."
-  },
-  {
     "title": "Serif, Flagship’s latest biotech, aims to make a new kind of genetic medicine",
     "link": "https://www.biopharmadive.com/news/serif-flagship-biotech-startup-modified-dna-mrna/817719/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-21T10:30:00.000Z",
     "summary": "The startup is developing “modified DNA” therapies it claims can combine the strengths of multiple approaches, from messenger RNA to gene therapy."
-  },
-  {
-    "title": "Opinion: What happens when a chief executive loses executive functions?",
-    "link": "https://www.statnews.com/2026/04/21/executive-function-ceo-politician-leader-experts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T08:30:00.000Z",
-    "summary": "When a CEO develops acquired executive dysfunction yet remains in their role, the challenges are significant."
-  },
-  {
-    "title": "Opinion: The U.S. health care system is built around looking backward",
-    "link": "https://www.statnews.com/2026/04/21/us-health-care-reconstruction-insurance-prior-authorization/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T08:30:00.000Z",
-    "summary": "A reconstruction layer has fallen on medicine. It asks: Was the original decision justified?"
   },
   {
     "title": "Trump executive order lifts psychedelics biotechs",
