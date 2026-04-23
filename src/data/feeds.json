@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Publicly, Kennedy embraces a more moderate MAHA",
+    "link": "https://www.statnews.com/2026/04/22/kennedy-congressional-testimony-analysis-new-moderate-maha/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T21:58:22.000Z",
+    "summary": "Kennedy continues to make waves across health care, but he's pulled back on a number of core MAHA issues."
+  },
+  {
+    "title": "STAT+: Federal test of AI prior authorization is delaying care for seniors, report says",
+    "link": "https://www.statnews.com/2026/04/22/cms-wiser-program-delays-care-washington-state-hospitals-senator-says/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T21:13:11.000Z",
+    "summary": "A new Medicare prior authorization test is delaying care at Washington state hospitals – and should be scrapped, senator says."
+  },
+  {
+    "title": "Former tobacco executive joins CDC senior leadership, raising concerns over industry influence",
+    "link": "https://www.statnews.com/2026/04/22/newly-appointed-cdc-official-has-tobacco-industry-ties/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-22T21:12:32.000Z",
+    "summary": "Naming a former Imperial Brands executive for a CDC job is the latest example, advocates say, of tobacco industry influence in Trump administration."
+  },
+  {
     "title": "STAT+: At AACR, talk of Chinese biotech, oncology’s comms issue, and more",
     "link": "https://www.statnews.com/2026/04/22/aacr-2026-revolution-medicines-astrazeneca-oncology-research/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,12 +32,12 @@
     "summary": "At AACR, there was talk of Chinese biotech's place in cancer research, oncology’s comms issue, and more."
   },
   {
-    "title": "Live: Robert F. Kennedy Jr. testifies before Senate HELP committee",
+    "title": "Video: Robert F. Kennedy Jr. testifies before Senate HELP committee",
     "link": "https://www.statnews.com/2026/04/22/video-coverage-rfk-jr-testimony-senate-help-committee/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-04-22T17:40:00.000Z",
-    "summary": "Watch RFK Jr. testify live before the Senate's health care panel."
+    "summary": "Watch RFK Jr. testify before the Senate's health care panel."
   },
   {
     "title": "Revolution drug shows promise in early pancreatic cancer",
@@ -184,30 +208,6 @@
     "summary": "Welireg’s failure in first-line kidney cancer removes a blockbuster opportunity and could leave an opening for a rival drug from Arcus Biosciences, analysts said."
   },
   {
-    "title": "Flu vaccine no longer mandated for U.S. troops, defense secretary says",
-    "link": "https://www.statnews.com/2026/04/21/flu-vaccine-military-no-longer-required-hegseth/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T16:42:56.000Z",
-    "summary": "Defense Secretary Pete Hegseth announced Tuesday that the U.S. military will no longer require all American troops to get the flu vaccine."
-  },
-  {
-    "title": "STAT+: UnitedHealth earnings beat expectations in the first quarter, but hurdles persist",
-    "link": "https://www.statnews.com/2026/04/21/unitedhealth-earnings-beat-expectations-in-first-quarter-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T16:05:19.000Z",
-    "summary": "UnitedHealth’s financial performance in the first quarter far exceeded analyst’s expectations in both its Optum and UnitedHealthcare divisions."
-  },
-  {
-    "title": "STAT+: RFK Jr. to face four GOP doctors at Senate hearings",
-    "link": "https://www.statnews.com/2026/04/21/kennedy-senate-hearings-hhs-budget-bill-cassidy-what-to-watch/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-21T15:26:40.000Z",
-    "summary": "We'll be zeroed in on Kennedy's exchanges with one doc in particular: Bill Cassidy."
-  },
-  {
     "title": "BioAge says early data suggest ‘best-in-class’ potential for inflammation drug",
     "link": "https://www.biopharmadive.com/news/bioage-nlrp3-drug-results-inflammation-cardiovascular-risk-obesity/818054/",
     "source": "BioPharma Dive",
@@ -294,13 +294,5 @@
     "category": "regulatory",
     "date": "2026-04-16T15:24:16.000Z",
     "summary": "FDA is taking an initial step to advance treatment options for men’s health by encouraging sponsors of approved testosterone replacement therapy products to contact FDA for information if they are…"
-  },
-  {
-    "title": "FDA new drug approvals in Q1 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00061-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-16T00:00:00.000Z",
-    "summary": ""
   }
 ]
