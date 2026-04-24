@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Sanofi MS drug gets positive review in Europe following FDA",
+    "link": "https://www.statnews.com/2026/04/24/sanofi-ms-drug-europe-reveiew-regeneron-white-house/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-24T13:19:52.000Z",
+    "summary": "A multiple sclerosis drug from Sanofi that was rejected late last year by the FDA found a warmer reception in Europe."
+  },
+  {
+    "title": "Growing use of guest editors has turned some journals into a ‘playground of bad science’",
+    "link": "https://www.statnews.com/2026/04/24/science-journal-retractions-highlight-guest-editor-special-edition-problem/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-24T08:30:00.000Z",
+    "summary": "The problematic use of guest editors was spotlighted last week when a genetics journal retracted nearly an entire special issue."
+  },
+  {
+    "title": "Opinion: The local news crisis is also a public health crisis",
+    "link": "https://www.statnews.com/2026/04/24/local-news-crisis-health-science-reporters-public-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-24T08:30:00.000Z",
+    "summary": "Health and science reporting is often treated as optional coverage. It is anything but."
+  },
+  {
+    "title": "Psychedelics get a boost from the White House",
+    "link": "https://www.statnews.com/2026/04/24/white-house-boosts-psychedelic-treatments-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-24T08:30:00.000Z",
+    "summary": "In this week’s STATus Report, host Alex Hogan chats with STAT Washington correspondent Daniel Payne about Trump's psychedelics EO."
+  },
+  {
+    "title": "Opinion: I started medical school at 69 and will begin residency at 72. Here’s what I learned",
+    "link": "https://www.statnews.com/2026/04/24/medical-school-late-in-life-np-to-md/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-24T08:30:00.000Z",
+    "summary": "Starting residency at 72 isn’t for the faint of heart. But that’s what Dawn Zuidegeest-Craft is doing."
+  },
+  {
+    "title": "Inhibiting the integrated stress response restores cognition",
+    "link": "https://www.nature.com/articles/d41573-026-00066-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-24T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "A CAR-T biotech’s dramatic turnaround, and drugmakers’ tactics to drive more scripts",
     "link": "https://www.statnews.com/2026/04/23/readout-loud-podcast-kelonia-lilly-telehealth-pharma-medicare-obesity/?utm_campaign=rss",
     "source": "STAT News",
@@ -166,46 +214,6 @@
     "category": "industry",
     "date": "2026-04-23T08:30:00.000Z",
     "summary": "Kennedy’s public messaging on vaccines has shifted ahead of the midterms. It won’t last."
-  },
-  {
-    "title": "STAT+: Will bargain-basement telehealth visits help pharma drive drug scripts?",
-    "link": "https://www.statnews.com/2026/04/23/telehealth-visit-deep-discounts-questions-raised-pharma-ties/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T08:30:00.000Z",
-    "summary": "As links between pharmaceutical companies and telehealth providers grow, health policy experts and legislators have sounded alarms."
-  },
-  {
-    "title": "STAT+: Publicly, Kennedy embraces a more moderate MAHA",
-    "link": "https://www.statnews.com/2026/04/22/kennedy-congressional-testimony-analysis-new-moderate-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-22T21:58:22.000Z",
-    "summary": "Kennedy continues to make waves across health care, but he's pulled back on a number of core MAHA issues."
-  },
-  {
-    "title": "STAT+: Federal test of AI prior authorization is delaying care for seniors, report says",
-    "link": "https://www.statnews.com/2026/04/22/cms-wiser-program-delays-care-washington-state-hospitals-senator-says/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-22T21:13:11.000Z",
-    "summary": "A new Medicare prior authorization test is delaying care at Washington state hospitals – and should be scrapped, senator says."
-  },
-  {
-    "title": "Former tobacco executive joins CDC senior leadership, raising concerns over industry influence",
-    "link": "https://www.statnews.com/2026/04/22/newly-appointed-cdc-official-has-tobacco-industry-ties/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-22T21:12:32.000Z",
-    "summary": "Naming a former Imperial Brands executive for a CDC job is the latest example, advocates say, of tobacco industry influence in Trump administration."
-  },
-  {
-    "title": "STAT+: At AACR, talk of Chinese biotech, oncology’s comms issue, and more",
-    "link": "https://www.statnews.com/2026/04/22/aacr-2026-revolution-medicines-astrazeneca-oncology-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-22T18:29:47.000Z",
-    "summary": "At AACR, there was talk of Chinese biotech's place in cancer research, oncology’s comms issue, and more."
   },
   {
     "title": "Revolution drug shows promise in early pancreatic cancer",
