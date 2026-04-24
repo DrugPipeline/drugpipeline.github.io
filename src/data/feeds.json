@@ -1,5 +1,37 @@
 [
   {
+    "title": "A CAR-T biotech’s dramatic turnaround, and drugmakers’ tactics to drive more scripts",
+    "link": "https://www.statnews.com/2026/04/23/readout-loud-podcast-kelonia-lilly-telehealth-pharma-medicare-obesity/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-23T21:34:43.000Z",
+    "summary": "This week on \"The Readout LOUD\": a CAR-T biotech's dramatic turnaround, and drugmakers' tactics to drive more scripts. Listen now."
+  },
+  {
+    "title": "STAT+: Trump celebrates closing first round of drug pricing deals, promises more ahead",
+    "link": "https://www.statnews.com/2026/04/23/trump-drug-price-deal-regeneron-mfn-negotiations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-23T20:05:28.000Z",
+    "summary": "A deal with Regeneron was the last of 17 initially sought by the White House."
+  },
+  {
+    "title": "FDA approves Regeneron’s hearing loss gene therapy",
+    "link": "https://www.biopharmadive.com/news/regeneron-fda-otarmeni-hearing-loss-gene-therapy-voucher/818345/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-23T19:33:00.000Z",
+    "summary": "Otarmeni, now cleared to treat a rare, inherited kind of hearing loss, is the first gene therapy cleared under the FDA’s “national priority” voucher program and will be offered to eligible patients…"
+  },
+  {
+    "title": "FDA Approves First-Ever Gene Therapy for Treatment of Genetic Hearing Loss Under National Priority Voucher Program",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-ever-gene-therapy-treatment-genetic-hearing-loss-under-national-priority-voucher",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-04-23T19:25:59.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved Otarmeni (lunsotogene parvec-cwha), the first-ever dual adeno-associated virus (AAV) vector-based gene therapy."
+  },
+  {
     "title": "Heart’s beat may help it beat cancer, mouse research suggests",
     "link": "https://www.statnews.com/2026/04/23/why-heart-cancer-is-rare-study-offers-new-theory/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,14 +208,6 @@
     "summary": "At AACR, there was talk of Chinese biotech's place in cancer research, oncology’s comms issue, and more."
   },
   {
-    "title": "Video: Robert F. Kennedy Jr. testifies before Senate HELP committee",
-    "link": "https://www.statnews.com/2026/04/22/video-coverage-rfk-jr-testimony-senate-help-committee/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-22T17:40:00.000Z",
-    "summary": "Watch RFK Jr. testify before the Senate's health care panel."
-  },
-  {
     "title": "Revolution drug shows promise in early pancreatic cancer",
     "link": "https://www.biopharmadive.com/news/revolution-aacr-2026-daraxonrasib-pancreatic-cancer-results/818173/",
     "source": "BioPharma Dive",
@@ -198,14 +222,6 @@
     "category": "industry",
     "date": "2026-04-22T15:21:00.000Z",
     "summary": "A program that got caught up in HHS’ decision to abandon mRNA research was revived by a public-private coalition and is now beginning a large, late-stage test that could support a future approval."
-  },
-  {
-    "title": "Increased calls to 988 hotline associated with a drop in suicides among young people, study finds",
-    "link": "https://www.statnews.com/2026/04/22/988-hotline-linked-11-percent-drop-youth-suicide-jama-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-22T15:00:00.000Z",
-    "summary": "Suicide rates among young people dropped 11% after the U.S. launched the 988 national suicide and crisis hotline, a new study shows"
   },
   {
     "title": "Merck adds to pharma’s AI push; Roche details MS drug results",
@@ -248,14 +264,6 @@
     "summary": "Welireg’s failure in first-line kidney cancer removes a blockbuster opportunity and could leave an opening for a rival drug from Arcus Biosciences, analysts said."
   },
   {
-    "title": "BioAge says early data suggest ‘best-in-class’ potential for inflammation drug",
-    "link": "https://www.biopharmadive.com/news/bioage-nlrp3-drug-results-inflammation-cardiovascular-risk-obesity/818054/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-21T15:19:00.000Z",
-    "summary": "The company has rallied from an earlier setback in obesity thanks to early progress for a drug targeting “NLRP3,” an inflammasome linked to a variety of health conditions."
-  },
-  {
     "title": "FDA Achieves Year 1 Goals in Reducing Animal Testing in Drug Development",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-achieves-year-1-goals-reducing-animal-testing-drug-development",
     "source": "FDA Press Releases",
@@ -285,14 +293,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-04-20T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Realizing the promise of CAR-T cell therapies for autoimmune diseases",
-    "link": "https://www.nature.com/articles/d41573-026-00062-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-17T00:00:00.000Z",
     "summary": ""
   }
 ]
