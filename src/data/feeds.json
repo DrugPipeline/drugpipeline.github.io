@@ -1,5 +1,101 @@
 [
   {
+    "title": "STAT+: Astellas retries XLMTM gene therapy after deaths",
+    "link": "https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T13:20:40.000Z",
+    "summary": "Veradermics' hair loss pill late-stage trial success, FDA fast-tracks reviews for psychedelics, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Lilly deal, an Intellia CRISPR rare-disease treatment, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/27/lilly-deal-intellia-crispr-treatment-for-rare-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T13:18:01.000Z",
+    "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema"
+  },
+  {
+    "title": "What’s the true risk for eating disorders with GLP-1s?",
+    "link": "https://www.statnews.com/2026/04/27/health-news-true-risk-of-eating-disorders-and-wegovy-ozempic/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T12:42:36.000Z",
+    "summary": "The state of Covid-19 in 2026, a hat to treat depression, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Intellia says CRISPR-based treatment for rare disease reduced swelling attacks in pivotal trial",
+    "link": "https://www.statnews.com/2026/04/27/intellia-therapeutics-phase-3-trial-hereditary-angioedema-crispr-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T11:01:00.000Z",
+    "summary": "With good results from Intellia, the CRISPR field faces the question: How attractive will the one-and-done approach be to patients and doctors?"
+  },
+  {
+    "title": "STAT+: Oruka’s long-acting psoriasis therapy posts strong results in mid-stage study",
+    "link": "https://www.statnews.com/2026/04/27/ourka-psoriasis-inectable-treatment-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T11:00:00.000Z",
+    "summary": "A long-acting injectable treatment for plaque psoriasis helped 63% of patients achieve complete skin clearance in a clinical trial, its maker, Oruka Therapeutics, reported."
+  },
+  {
+    "title": "STAT+: Veradermics’ hair loss drug succeeds in late-stage trial",
+    "link": "https://www.statnews.com/2026/04/27/veradermics-hair-loss-drug-succeeds-late-stage-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T11:00:00.000Z",
+    "summary": "The company is one of the most advanced players in the hair loss field, which has seen a surge of investor enthusiasm."
+  },
+  {
+    "title": "STAT+: Zap in a cap: How one neurotech startup is using a hat to treat depression",
+    "link": "https://www.statnews.com/2026/04/27/motif-neurotech-gets-fda-nod-brain-implant-depression/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T09:30:00.000Z",
+    "summary": "FDA approved a request from Motif Neurotech, to start an initial feasibility trial to test a brain implant to treat depression."
+  },
+  {
+    "title": "NIH-funded research lags in reporting sex differences, new study finds",
+    "link": "https://www.statnews.com/2026/04/27/nih-research-guidelines-sabv-sex-as-biological-variable/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T09:00:00.000Z",
+    "summary": "Fewer than half of papers published by NIH-funded researchers analyze or report their data by sex, a new study found."
+  },
+  {
+    "title": "What happened to Covid?",
+    "link": "https://www.statnews.com/2026/04/27/is-covid-still-a-thing-expert-analysis-who-needs-vaccine-booster-shot/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T08:30:00.000Z",
+    "summary": "The thinking about what risk Covid poses — or doesn't pose — has shifted in recent years. What does it mean for you?"
+  },
+  {
+    "title": "Opinion: Patients seeking mental health treatment are not commodities",
+    "link": "https://www.statnews.com/2026/04/27/mental-health-employment-contracts-proprietary-non-compete-non-solicitation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T08:30:00.000Z",
+    "summary": "Legal agreements that directly shape access to care remain invisible to the very people whose lives they govern."
+  },
+  {
+    "title": "Opinion: I’m a fourth-year med student, but I only learned one historical example of medical racism",
+    "link": "https://www.statnews.com/2026/04/27/medical-school-education-health-care-inequity-cdc-trial-tuskegee/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T08:30:00.000Z",
+    "summary": "Modern randomized controlled trials often rely on marginalized populations abroad."
+  },
+  {
+    "title": "The evolving landscape of CDK inhibitor use in breast cancer therapy and beyond",
+    "link": "https://www.nature.com/articles/s41573-026-01431-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-27T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Doctor, wife of acting U.S. attorney general, appointed to NIH advisory council",
     "link": "https://www.statnews.com/2026/04/26/kristine-blanche-appointed-nih-advisory-council/?utm_campaign=rss",
     "source": "STAT News",
@@ -88,14 +184,6 @@
     "summary": "President Trump heralded a drug-pricing agreement with Regeneron, closing the last of 17 deals sought by the White House"
   },
   {
-    "title": "STAT+: Sanofi MS drug gets positive review in Europe following FDA",
-    "link": "https://www.statnews.com/2026/04/24/sanofi-ms-drug-europe-reveiew-regeneron-white-house/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T13:19:52.000Z",
-    "summary": "A multiple sclerosis drug from Sanofi that was rejected late last year by the FDA found a warmer reception in Europe."
-  },
-  {
     "title": "FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
     "source": "FDA Press Releases",
@@ -104,60 +192,12 @@
     "summary": "On April 18, President Trump issued an Executive Order directing the U.S. Department of Health and Human Services (HHS) to accelerate access to treatments for patients with serious mental illness,…"
   },
   {
-    "title": "Growing use of guest editors has turned some journals into a ‘playground of bad science’",
-    "link": "https://www.statnews.com/2026/04/24/science-journal-retractions-highlight-guest-editor-special-edition-problem/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T08:30:00.000Z",
-    "summary": "The problematic use of guest editors was spotlighted last week when a genetics journal retracted nearly an entire special issue."
-  },
-  {
-    "title": "Opinion: The local news crisis is also a public health crisis",
-    "link": "https://www.statnews.com/2026/04/24/local-news-crisis-health-science-reporters-public-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T08:30:00.000Z",
-    "summary": "Health and science reporting is often treated as optional coverage. It is anything but."
-  },
-  {
-    "title": "Psychedelics get a boost from the White House",
-    "link": "https://www.statnews.com/2026/04/24/white-house-boosts-psychedelic-treatments-status-report-alex-hogan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T08:30:00.000Z",
-    "summary": "In this week’s STATus Report, host Alex Hogan chats with STAT Washington correspondent Daniel Payne about Trump's psychedelics EO."
-  },
-  {
-    "title": "Opinion: I started medical school at 69 and will begin residency at 72. Here’s what I learned",
-    "link": "https://www.statnews.com/2026/04/24/medical-school-late-in-life-np-to-md/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T08:30:00.000Z",
-    "summary": "Starting residency at 72 isn’t for the faint of heart. But that’s what Dawn Zuidegeest-Craft is doing."
-  },
-  {
     "title": "Inhibiting the integrated stress response restores cognition",
     "link": "https://www.nature.com/articles/d41573-026-00066-w",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-04-24T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "A CAR-T biotech’s dramatic turnaround, and drugmakers’ tactics to drive more scripts",
-    "link": "https://www.statnews.com/2026/04/23/readout-loud-podcast-kelonia-lilly-telehealth-pharma-medicare-obesity/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T21:34:43.000Z",
-    "summary": "This week on \"The Readout LOUD\": a CAR-T biotech's dramatic turnaround, and drugmakers' tactics to drive more scripts. Listen now."
-  },
-  {
-    "title": "STAT+: Trump celebrates closing first round of drug pricing deals, promises more ahead",
-    "link": "https://www.statnews.com/2026/04/23/trump-drug-price-deal-regeneron-mfn-negotiations/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T20:05:28.000Z",
-    "summary": "A deal with Regeneron was the last of 17 initially sought by the White House."
   },
   {
     "title": "FDA approves Regeneron’s hearing loss gene therapy",
@@ -176,44 +216,12 @@
     "summary": "The U.S. Food and Drug Administration today approved Otarmeni (lunsotogene parvec-cwha), the first-ever dual adeno-associated virus (AAV) vector-based gene therapy."
   },
   {
-    "title": "Heart’s beat may help it beat cancer, mouse research suggests",
-    "link": "https://www.statnews.com/2026/04/23/why-heart-cancer-is-rare-study-offers-new-theory/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T18:08:26.000Z",
-    "summary": "The constant pressure that the heart is under from beating thousands of times a day may create an environment hostile to cancers"
-  },
-  {
-    "title": "STAT+: Trump’s boosting of psychedelics, cannabis signal a new era in GOP drug policy",
-    "link": "https://www.statnews.com/2026/04/23/gop-drug-policy-trump-psychedelics-marijuana/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T18:05:52.000Z",
-    "summary": "The Trump administration, in a stark departure from the \"Just Say No\" era, is funding psychedelics research and rescheduling marijuana."
-  },
-  {
     "title": "Drugmaker AbbVie chooses North Carolina for $1.4B manufacturing campus",
     "link": "https://www.biopharmadive.com/news/drugmaker-abbvie-durham-north-carolina-manufacturing-campus/818323/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-23T16:56:00.000Z",
     "summary": "The 185-acre site will be the company’s largest single investment to date, with a focus on small-volume parenteral products like vials and prefilled syringes."
-  },
-  {
-    "title": "STAT+: Legislatures in Colorado and Virginia resist moves to constrain drug affordability boards",
-    "link": "https://www.statnews.com/pharmalot/2026/04/23/legislatures-colorado-virginia-drug-affordability-boards/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T16:55:21.000Z",
-    "summary": "Legislators in two states are resisting efforts to restrict prescription drug affordability boards."
-  },
-  {
-    "title": "Opinion: Dropping the flu vaccine requirement puts U.S. military readiness at risk",
-    "link": "https://www.statnews.com/2026/04/23/military-flu-shots-no-longer-required-retired-general-criticizes-move/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T16:15:55.000Z",
-    "summary": "Since the 1918 pandemic, the military has acknowledged the threat of influenza. Now that’s changing."
   },
   {
     "title": "Roche, facing biosimilar threats, puts faith in new cancer and obesity drugs",
