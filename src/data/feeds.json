@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Doctor, wife of acting U.S. attorney general, appointed to NIH advisory council",
+    "link": "https://www.statnews.com/2026/04/26/kristine-blanche-appointed-nih-advisory-council/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-26T21:43:41.000Z",
+    "summary": "An integrative medicine doctor who is the wife of the acting U.S. attorney general has been named as a member to one of the advisory councils that provides critical funding…"
+  },
+  {
     "title": "Nancy Cox, a CDC veteran and a stalwart in global flu research, dies at 77",
     "link": "https://www.statnews.com/2026/04/25/nancy-cox-flu-researcher-obituary/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,14 +216,6 @@
     "summary": "Since the 1918 pandemic, the military has acknowledged the threat of influenza. Now that’s changing."
   },
   {
-    "title": "STAT+: Sanofi research priorities in flux as new CEO logs in",
-    "link": "https://www.statnews.com/2026/04/23/biotech-news-sanofi-research-priorities-in-flux-with-new-ceo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-23T16:14:02.000Z",
-    "summary": "A gene therapy for deafness, all eyes on Erasca, and other biotech news from The Readout"
-  },
-  {
     "title": "Roche, facing biosimilar threats, puts faith in new cancer and obesity drugs",
     "link": "https://www.biopharmadive.com/news/roche-q1-2026-earnings-giredestrant-obesity-drugs/818300/",
     "source": "BioPharma Dive",
@@ -286,29 +286,5 @@
     "category": "regulatory",
     "date": "2026-04-20T15:12:37.000Z",
     "summary": "Since publishing roadmap last April, agency has successfully launched several key initiatives to replace animal testing with better alternatives"
-  },
-  {
-    "title": "Safety considerations for cereblon-recruiting targeted protein degraders",
-    "link": "https://www.nature.com/articles/s41573-026-01426-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-20T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Target identification and assessment in the era of AI",
-    "link": "https://www.nature.com/articles/s41573-026-01412-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-20T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Biologic degraders push forward in the clinic",
-    "link": "https://www.nature.com/articles/d41573-026-00064-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-04-20T00:00:00.000Z",
-    "summary": ""
   }
 ]
