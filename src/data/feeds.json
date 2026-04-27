@@ -1,5 +1,53 @@
 [
   {
+    "title": "Dems says RFK Jr. has a pattern of failing to answer their questions",
+    "link": "https://www.statnews.com/2026/04/27/rfk-jr-questions-from-democrats-unanswered-congressional-hearings/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T19:21:02.000Z",
+    "summary": "Kennedy broke his pledge to share a controversial contract, highlighting Democrats' frustrations with the health secretary."
+  },
+  {
+    "title": "Trump administration warns against using federal dollars on fentanyl test strips",
+    "link": "https://www.statnews.com/2026/04/27/trump-administration-samhsa-clear-shift-from-harm-reduction/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T18:07:51.000Z",
+    "summary": "The Trump administration underlines a “clear shift away from harm reduction and practices” that it says facilitates illegal drug use."
+  },
+  {
+    "title": "Oruka surges as long-acting psoriasis drug shows early promise",
+    "link": "https://www.biopharmadive.com/news/oruka-plaque-psoriasis-drug-study-results/818527/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-27T16:12:00.000Z",
+    "summary": "A therapy that works similarly to AbbVie’s blockbuster Skyrizi appeared more potent in a mid-stage trial and has the potential to be dosed less frequently."
+  },
+  {
+    "title": "Veradermics soars on positive data for baldness treatment",
+    "link": "https://www.biopharmadive.com/news/veradermics-oral-minoxidil-baldness-hair-loss-study-results/818529/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-27T15:46:00.000Z",
+    "summary": "The results could support the first approval in decades for an oral medicine that can treat male pattern baldness, though the therapy will face competition from generics and over-the-counter…"
+  },
+  {
+    "title": "STAT+: An insider reveals the real goals of prior authorization",
+    "link": "https://www.statnews.com/2026/04/27/former-united-healthcare-executive-interview-prior-authorization/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-27T14:51:30.000Z",
+    "summary": "Years ago, Archelle Georgiou helped squash prior auths at one of America's biggest health insurers."
+  },
+  {
+    "title": "Lilly to buy startup Ajax in bid for a better JAK drug",
+    "link": "https://www.biopharmadive.com/news/lilly-ajax-deal-acquire-jak-myelofibrosis-drug/818523/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-27T14:23:00.000Z",
+    "summary": "Worth up to $2.3 billion overall, the deal hands Lilly a drug designed to address the weaknesses of a class of medicines used to treat myelofibrosis and other diseases."
+  },
+  {
     "title": "STAT+: Astellas retries XLMTM gene therapy after deaths",
     "link": "https://www.statnews.com/2026/04/27/biotech-news-astellas-retries-xlmtm-gene-therapy-after-deaths/?utm_campaign=rss",
     "source": "STAT News",
@@ -14,6 +62,14 @@
     "category": "industry",
     "date": "2026-04-27T13:18:01.000Z",
     "summary": "Intellia disclosed that a single dose of its gene editing treatment dramatically reduced swelling attacks in patients with hereditary angioedema"
+  },
+  {
+    "title": "Intellia CRISPR drug succeeds in late-stage study against rare swelling disorder",
+    "link": "https://www.biopharmadive.com/news/intellia-gene-editing-hereditary-angioedema-lonvo-z-results/818503/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-27T12:48:00.000Z",
+    "summary": "The findings position Intellia to bring to market the first “in vivo” gene editing medicine, though the therapy’s commercial potential remains the source of intense investor debate."
   },
   {
     "title": "What’s the true risk for eating disorders with GLP-1s?",
@@ -88,6 +144,14 @@
     "summary": "Modern randomized controlled trials often rely on marginalized populations abroad."
   },
   {
+    "title": "In vivo CAR T purchase spree continues with Lilly deal worth up to US$7 billion",
+    "link": "https://www.nature.com/articles/d41573-026-00068-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-04-27T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "The evolving landscape of CDK inhibitor use in breast cancer therapy and beyond",
     "link": "https://www.nature.com/articles/s41573-026-01431-5",
     "source": "Nature Reviews Drug Discovery",
@@ -144,14 +208,6 @@
     "summary": "A Utah pilot to renew prescriptions using a bot faced backlash from the state's medical board, which called for an immediate suspension."
   },
   {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/04/24/jobs-up-down-ladder-latest-comings-goings/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T15:53:31.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
     "title": "Sanofi MS drug rejected in US gets an endorsement in Europe",
     "link": "https://www.biopharmadive.com/news/sanofis-tolebrutinib-cenrifki-ms-europe-recommend-approval/818414/",
     "source": "BioPharma Dive",
@@ -166,22 +222,6 @@
     "category": "industry",
     "date": "2026-04-24T14:46:00.000Z",
     "summary": "Lilly shares dipped, and Novo’s climbed, as Foundayo’s early trajectory diverged from that of oral Wegovy. Elsewhere, Regeneron inked a drug price deal and two companies announced leadership changes."
-  },
-  {
-    "title": "International childhood vaccine campaign grows",
-    "link": "https://www.statnews.com/2026/04/24/international-childhood-vaccines-trump-marijuana-psychedelics-morning-rounds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T13:57:31.000Z",
-    "summary": "In today's Morning Rounds newsletter, a new era in GOP drug policy, an international childhood vaccine campaign grows, and more."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Trump deal with Regeneron, reclassifying medical marijuana, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/24/trump-deal-with-regeneron-reclassifying-medical-marijuana/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-24T13:36:57.000Z",
-    "summary": "President Trump heralded a drug-pricing agreement with Regeneron, closing the last of 17 deals sought by the White House"
   },
   {
     "title": "FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order",
@@ -248,51 +288,11 @@
     "summary": "CMS and FDA announce the Regulatory Alignment for Predictable and Immediate Device (RAPID) coverage pathway, a new pathway designed to expedite access to certain FDA-designated Class II and Class III…"
   },
   {
-    "title": "Revolution drug shows promise in early pancreatic cancer",
-    "link": "https://www.biopharmadive.com/news/revolution-aacr-2026-daraxonrasib-pancreatic-cancer-results/818173/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-22T15:50:00.000Z",
-    "summary": "The findings build on data suggesting Revolution’s therapy could upend treatment for a notoriously tough-to-treat tumor and generate billions in sales."
-  },
-  {
-    "title": "Moderna, after losing US funding, rebounds to start mRNA bird flu vaccine trial",
-    "link": "https://www.biopharmadive.com/news/moderna-mrna-bird-flu-vaccine-trial-cepi-hhs/818172/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-22T15:21:00.000Z",
-    "summary": "A program that got caught up in HHS’ decision to abandon mRNA research was revived by a public-private coalition and is now beginning a large, late-stage test that could support a future approval."
-  },
-  {
-    "title": "Merck adds to pharma’s AI push; Roche details MS drug results",
-    "link": "https://www.biopharmadive.com/news/merck-google-idvynso-roche-fenebrutinib-arcus-gilead-ray/817987/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-22T13:33:00.000Z",
-    "summary": "Merck is making a $1 billion investment in a deal with Google Cloud. Elsewhere, Roche pitched its case for a closely watched multiple sclerosis pill and Arcus and Gilead are ending a yearslong…"
-  },
-  {
-    "title": "An ‘AI scientist’ can tackle drug R&D. What does that mean for pharma?",
-    "link": "https://www.biopharmadive.com/news/ai-pharma-scientist-drug-research-owkin/818280/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-22T13:16:00.000Z",
-    "summary": "A new tool is giving researchers a “data center full of genius Ph.D. students in their pocket.”"
-  },
-  {
     "title": "Cell surface SRC flags tumours",
     "link": "https://www.nature.com/articles/d41573-026-00065-x",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-04-22T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Achieves Year 1 Goals in Reducing Animal Testing in Drug Development",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-achieves-year-1-goals-reducing-animal-testing-drug-development",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-04-20T15:12:37.000Z",
-    "summary": "Since publishing roadmap last April, agency has successfully launched several key initiatives to replace animal testing with better alternatives"
   }
 ]
