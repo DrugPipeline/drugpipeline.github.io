@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Why conversations around health AI may be evolving beyond hype",
+    "link": "https://www.statnews.com/2026/04/29/health-ai-conversations-evolving-beyond-hype-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-29T16:13:31.000Z",
+    "summary": "In this edition of AI Prognosis, Brittany Trang argues that the tide may be turning when it comes to how the health care industry talks about AI."
+  },
+  {
+    "title": "Teva nabs experimental Tourette drug in $700M Emalex buyout",
+    "link": "https://www.biopharmadive.com/news/teva-emalex-acquisition-deal-tourette-drug-biotech/818827/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-29T15:53:00.000Z",
+    "summary": "A Jefferies analyst argued the deal — Teva’s largest in a decade — “makes sense” given the synergies between Emalex and the pharmaceutical giant’s neurology business."
+  },
+  {
+    "title": "Chiesi to buy KalVista in $1.9B deal for rare disease drug",
+    "link": "https://www.biopharmadive.com/news/chiesi-kalvista-deal-acquire-hereditary-angioedema-ekterly/818798/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-29T15:34:00.000Z",
+    "summary": "The acquisition is the fifth of a biotech company so far this week and, according to some Wall Street analysts, proves pharma’s interest in new and emerging oral therapies for hereditary angioedema."
+  },
+  {
+    "title": "FDA tests out ‘real-time’ clinical trials; AbbVie closes in on a KRAS biotech",
+    "link": "https://www.biopharmadive.com/news/fda-real-time-trials-abbvie-kestrel-lilly-profluent/818719/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-29T15:21:00.000Z",
+    "summary": "Through two pioneering studies, Amgen and AstraZeneca will share study data with FDA scientists as it’s accrued. Elsewhere, Lilly inked a gene editing deal and Pfizer reported success for a multiple…"
+  },
+  {
+    "title": "Infant formula largely safe from heavy metals, FDA finds",
+    "link": "https://www.statnews.com/2026/04/29/fda-baby-formula-safety-tests-contaminants/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-29T15:20:01.000Z",
+    "summary": "FDA sampled 312 major infant formula brands and found low or undetectable levels of pesticide residue, PFAS, heavy metals and phthalates."
+  },
+  {
     "title": "STAT+: A patent win for Pfizer and BridgeBio",
     "link": "https://www.statnews.com/2026/04/29/biotech-news-a-patent-win-for-pfizer-and-bridgebio/?utm_campaign=rss",
     "source": "STAT News",
@@ -192,22 +232,6 @@
     "summary": "Backed by Novo Holdings, Regeneron’s venture arm and several others, the biotech believes an oral drug licensed from Galapagos might hold potential treating many immunological diseases."
   },
   {
-    "title": "Predicting consequences of new hepatitis B vaccine recs",
-    "link": "https://www.statnews.com/2026/04/28/health-news-dangerous-consequences-of-new-hep-b-vaccine-guidelines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T11:46:02.000Z",
-    "summary": "New data on public trust in science, AI and mental health, and other news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Eli Lilly enlists AI startup for next-generation gene editors",
-    "link": "https://www.statnews.com/2026/04/28/eli-lilly-crispr-gene-editing-deal-profluent-ai/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T11:00:00.000Z",
-    "summary": "Eli Lilly's deal with Profluent aims to go beyond CRISPR by using AI-designed enzymes to insert entire genes. It could reshape genetic medicine."
-  },
-  {
     "title": "Biotech investors gamble on M&A. Some drugmakers are betting on themselves instead.",
     "link": "https://www.biopharmadive.com/news/biotech-startups-commercial-drugs-bridgebio-madrigal-kailera-argenx/817992/",
     "source": "BioPharma Dive",
@@ -272,22 +296,6 @@
     "summary": "The results could support the first approval in decades for an oral medicine that can treat male pattern baldness, though the therapy will face competition from generics and over-the-counter…"
   },
   {
-    "title": "Lilly to buy startup Ajax in bid for a better JAK drug",
-    "link": "https://www.biopharmadive.com/news/lilly-ajax-deal-acquire-jak-myelofibrosis-drug/818523/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-27T14:23:00.000Z",
-    "summary": "Worth up to $2.3 billion overall, the deal hands Lilly a drug designed to address the weaknesses of a class of medicines used to treat myelofibrosis and other diseases."
-  },
-  {
-    "title": "Intellia CRISPR drug succeeds in late-stage study against rare swelling disorder",
-    "link": "https://www.biopharmadive.com/news/intellia-gene-editing-hereditary-angioedema-lonvo-z-results/818503/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-27T12:48:00.000Z",
-    "summary": "The findings position Intellia to bring to market the first “in vivo” gene editing medicine, though the therapy’s commercial potential remains the source of intense investor debate."
-  },
-  {
     "title": "In vivo CAR T purchase spree continues with Lilly deal worth up to US$7 billion",
     "link": "https://www.nature.com/articles/d41573-026-00068-8",
     "source": "Nature Reviews Drug Discovery",
@@ -302,14 +310,6 @@
     "category": "research",
     "date": "2026-04-27T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Sanofi MS drug rejected in US gets an endorsement in Europe",
-    "link": "https://www.biopharmadive.com/news/sanofis-tolebrutinib-cenrifki-ms-europe-recommend-approval/818414/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-24T15:52:00.000Z",
-    "summary": "Tolebrutinib, which the FDA recently turned back due to safety concerns, received a positive recommendation that positions the therapy for its first regulatory approval."
   },
   {
     "title": "FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order",
