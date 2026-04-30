@@ -1,5 +1,69 @@
 [
   {
+    "title": "FDA Proposes to Exclude Semaglutide, Tirzepatide, and Liraglutide on 503B Bulks List",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-04-30T13:18:42.000Z",
+    "summary": "FDA is proposing to exclude semaglutide, tirzepatide, and liraglutide from the 503B bulks list, finding no clinical need for outsourcing facilities to compound these drugs from bulk substances."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Supreme Court hearing on ‘skinny labels,’ AstraZeneca U.K. expansion, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/04/30/supreme-court-hearing-skinny-labels-astrazeneca-uk-expansion/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T13:17:31.000Z",
+    "summary": "AstraZeneca will resume expansion of its U.K. R&D operations after the trade deal with the U.S. included measures to lift U.K. drug spending"
+  },
+  {
+    "title": "Smog from wildfires increasingly harmful, data show",
+    "link": "https://www.statnews.com/2026/04/30/health-news-smog-from-wildfires-increasingly-harmful-over-time/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T11:47:43.000Z",
+    "summary": "American baby formula testing, Medicaid work requirements, and more Morning Rounds health news"
+  },
+  {
+    "title": "STAT+: What does Akeso’s primo plenary spot say about its survival data?",
+    "link": "https://www.statnews.com/2026/04/30/akeso-summit-therapeutics-drug-ivonescimab-results-announced-asco/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T10:30:00.000Z",
+    "summary": "Mystery cloaks an ASCO plenary lung cancer survival result."
+  },
+  {
+    "title": "STAT+: New obesity tool aims to predict risk of 18 serious complications",
+    "link": "https://www.statnews.com/2026/04/30/obesity-health-risks-new-tool-obscore-beyond-bmi/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T09:00:00.000Z",
+    "summary": "A new tool, OBSCORE, is meant to better define who's at risk for obesity complications, going beyond BMI to include family history, diet, and more."
+  },
+  {
+    "title": "Opinion: Congress must hold RFK Jr. accountable after hearings",
+    "link": "https://www.statnews.com/2026/04/30/rfk-jr-congress-hearings-engagement/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T08:30:00.000Z",
+    "summary": "Michael Burgess and Larry Bucshon, former Republican congressmen and doctors, weigh in on RFK Jr.’s recent congressional hearings."
+  },
+  {
+    "title": "Securing NIH awards is getting more competitive — and confusing",
+    "link": "https://www.statnews.com/2026/04/30/nih-grant-funding-national-stat-survey-impact-labs-careers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T08:30:00.000Z",
+    "summary": "The likelihood of snagging NIH grants has plunged to historic lows, forcing academic researchers to resort to a variety of tactics to try to obtain funding"
+  },
+  {
+    "title": "Opinion: Are international medical graduates taking residency spots from Americans? We did the math",
+    "link": "https://www.statnews.com/2026/04/30/residency-match-2026-imgs-mds-dos-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T08:30:00.000Z",
+    "summary": "A new social media narrative claims international grads are stealing American doctors’ jobs. These authors did the math to figure out if it’s true."
+  },
+  {
     "title": "Avalyn, in pursuit of better lung drugs, banks $300M in an IPO",
     "link": "https://www.biopharmadive.com/news/avalyn-biotech-ipo-price-pulmonary-fibrosis-esbriet-ofev/818851/",
     "source": "BioPharma Dive",
@@ -144,52 +208,12 @@
     "summary": "Committee members largely blamed the other party’s health care policies for driving U.S. health care prices to levels inaccessible to many Americans."
   },
   {
-    "title": "STAT+: AIDS group sues Trump administration over undisclosed agreement with Gilead",
-    "link": "https://www.statnews.com/pharmalot/2026/04/28/aids-activist-group-sues-trump-administration-gilead-agreement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T20:31:07.000Z",
-    "summary": "The AIDS advocacy group PrEP4All has sued the Trump administration over an undisclosed agreement with Gilead."
-  },
-  {
-    "title": "STAT+: FDA launches effort to speed up clinical trials, using AI",
-    "link": "https://www.statnews.com/2026/04/28/fda-real-time-clinical-trials-pilot-project-astrazeneca-amgen-cancer-drugs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T19:24:35.000Z",
-    "summary": "Monitoring trials in real time may help shorten the time interval between trial phases."
-  },
-  {
-    "title": "Opinion: Healthcare or health care? Help STAT decide",
-    "link": "https://www.statnews.com/2026/04/28/ap-style-change-health-care-one-word-or-two/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T18:27:26.000Z",
-    "summary": "Should STAT use “healthcare” or “health care”? We want to hear from you."
-  },
-  {
     "title": "FDA Announces Major Steps to Implement Real-Time Clinical Trials",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-announces-major-steps-implement-real-time-clinical-trials",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-04-28T17:33:24.000Z",
     "summary": "The U.S. Food and Drug Administration today announced two major steps as part of an initiative to advance the implementation of real-time clinical trials (RTCT)."
-  },
-  {
-    "title": "Opinion: FDA commissioner: ‘Smarter,’ real-time clinical trials could transform drug development",
-    "link": "https://www.statnews.com/2026/04/28/fda-clinical-trial-endpoints-real-time-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T17:30:00.000Z",
-    "summary": "“For the first time, FDA regulators will be able to see what’s happening in a clinical trial, looking at endpoints in the cloud as they occur,” writes FDA commissioner."
-  },
-  {
-    "title": "Fauci adviser David Morens indicted on charges of concealing emails, avoiding records requests",
-    "link": "https://www.statnews.com/2026/04/28/fauci-adviser-david-morens-indicted-concealing-emails-avoiding-foia/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T17:12:21.000Z",
-    "summary": "The charges against Morens come after Congressional probes related to the origins of the virus that causes Covid-19."
   },
   {
     "title": "Pfizer deals extend patent life for a top-selling rare disease drug",
@@ -208,28 +232,12 @@
     "summary": "Survodutide spurred weight loss Wall Street analysts referred to as “Wegovy-like,” and showed signs it might help preserve muscle mass as well."
   },
   {
-    "title": "STAT+: Supreme Court to hear case about ‘skinny labeling’ and generic access",
-    "link": "https://www.statnews.com/pharmalot/2026/04/28/supreme-court-case-skinny-labeling-generics-access/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T15:36:31.000Z",
-    "summary": "The Supreme Court Wednesday will hear oral arguments about a simmering controversy over so-called skinny labels, with implications for the availability of generics."
-  },
-  {
     "title": "FDA claims Amgen drug data were ‘manipulated’; Erasca slides despite ‘home run’ results",
     "link": "https://www.biopharmadive.com/news/fda-tavneos-erasca-revolution-rocket-voucher-janux/818517/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-04-28T13:57:00.000Z",
     "summary": "Tavneos’ original developer hid a study analysis and then altered data, the FDA alleged. Elsewhere, Erasca’s RAS drug was met with skepticism and Rocket Pharma sold a voucher."
-  },
-  {
-    "title": "STAT+: Boehringer’s obesity drug shows 16.6% weight loss; more data needed",
-    "link": "https://www.statnews.com/2026/04/28/biotech-news-boehringer-drug-looks-efficacious-but-more-data-needed/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T13:36:22.000Z",
-    "summary": "Eli Lilly's deal with Profluent, Erasca's RAS-targeting cancer pill, and more biotech news today"
   },
   {
     "title": "Coultreon banks $125M to support testing of former Galapagos immune drug",
@@ -334,13 +342,5 @@
     "category": "regulatory",
     "date": "2026-04-23T19:25:59.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Otarmeni (lunsotogene parvec-cwha), the first-ever dual adeno-associated virus (AAV) vector-based gene therapy."
-  },
-  {
-    "title": "CMS and FDA Announce RAPID Coverage Pathway to Accelerate Patient Access to Life-Changing Medical Devices",
-    "link": "http://www.fda.gov/news-events/press-announcements/cms-and-fda-announce-rapid-coverage-pathway-accelerate-patient-access-life-changing-medical-devices",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-04-23T12:50:46.000Z",
-    "summary": "CMS and FDA announce the Regulatory Alignment for Predictable and Immediate Device (RAPID) coverage pathway, a new pathway designed to expedite access to certain FDA-designated Class II and Class III…"
   }
 ]
