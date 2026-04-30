@@ -1,5 +1,101 @@
 [
   {
+    "title": "FDA Approves First Non-Antipsychotic Drug to Treat Agitation Associated with Dementia",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-non-antipsychotic-drug-treat-agitation-associated-dementia",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-04-30T18:52:35.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved an expanded use for Auvelity (dextromethorphan hydrobromide and bupropion hydrochloride) extended-release tablets to treat agitation associated…"
+  },
+  {
+    "title": "STAT+: As artificial intelligence shows off diagnostic chops, scientists reckon with the way forward",
+    "link": "https://www.statnews.com/2026/04/30/open-ai-llm-model-outperforms-doctors-study-published-journal-science/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T18:00:24.000Z",
+    "summary": "On Thursday, researchers published in Science the results of a study that tested an OpenAI model on diagnostic and clinical reasoning tasks."
+  },
+  {
+    "title": "Trump drops Casey Means as surgeon general nominee, opts for radiologist Nicole Saphier",
+    "link": "https://www.statnews.com/2026/04/30/trump-withdraws-casey-means-nomination-surgeon-general-taps-nicole-saphier/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T17:49:04.000Z",
+    "summary": "Trump slammed Sen. Bill Cassidy for blocking his surgeon general pick, as he nominated a replacement."
+  },
+  {
+    "title": "Merck still sees ‘compelling’ outlook for Terns leukemia drug",
+    "link": "https://www.biopharmadive.com/news/merck-terns-leukemia-drug-deal-data-q1-2026-earnings/818949/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-30T16:21:00.000Z",
+    "summary": "Despite updated study data that suggest Terns’ treatment may be less differentiated, company executives claimed Thursday that it still could be an important step forward in care."
+  },
+  {
+    "title": "UniQure, in ‘symbolic’ win, to seek UK approval of Huntington’s gene therapy",
+    "link": "https://www.biopharmadive.com/news/uniqure-huntingtons-gene-therapy-uk-approval-application-fda/818923/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-30T15:55:00.000Z",
+    "summary": "News of the submission, which would be the first for UniQure’s closely watched treatment, comes as the therapy faces an uncertain future in the U.S."
+  },
+  {
+    "title": "STAT+: FDA wants to exclude weight loss drugs from a compounding list",
+    "link": "https://www.statnews.com/pharmalot/2026/04/30/fda-weight-loss-drugs-new-rule-would-end-glp-1-compound-pharmacy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T15:53:39.000Z",
+    "summary": "FDA moves to remove semaglutide, tirzepatide, and liraglutide from its 503B compounding list, saying there's no shortage of GLP-1 drugs from Novo Nordisk and Eli Lilly."
+  },
+  {
+    "title": "STAT+: Five-way obesity drug is super effective — in mice",
+    "link": "https://www.statnews.com/2026/04/30/biotech-news-five-way-obesity-drug-super-effective-in-mice/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T15:38:03.000Z",
+    "summary": "A 'quintuple agonist,' Alector halts it Alzheimer's trial, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: DOJ, Elevance spar over access to top exec in Medicare Advantage fraud case",
+    "link": "https://www.statnews.com/2026/04/30/elevance-health-fraud-doj-says-access-blocked-key-witness/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T15:34:50.000Z",
+    "summary": "Elevance said a top exec would depart, days after the Justice Department asked to depose him."
+  },
+  {
+    "title": "STAT+: Hinge has a new FDA-cleared migraine device",
+    "link": "https://www.statnews.com/2026/04/30/hinges-new-fda-cleared-migraine-device-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T15:30:13.000Z",
+    "summary": "In this edition of STAT Health Tech: FDA's plan to use AI to speed up trials, Hinge's new migraine device, and boosting cancer screening with texts."
+  },
+  {
+    "title": "Lilly posts another ‘blowout quarter’ as focus turns to Foundayo launch",
+    "link": "https://www.biopharmadive.com/news/lilly-q1-2026-earnings-foundayo-zepbound-obesity/818912/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-04-30T15:26:00.000Z",
+    "summary": "A strong performance from Mounjaro overseas boosted Lilly’s results, and the company raised its guidance for the year for both profit and revenue."
+  },
+  {
+    "title": "STAT+: Cigna will exit ACA individual markets next year, adding to tumult for patients",
+    "link": "https://www.statnews.com/2026/04/30/cigna-exits-aca-market-2027-369-thousand-people-affected/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T15:07:46.000Z",
+    "summary": "ACA membership is tumbling after Congress failed to extend extra subsidies that helped people afford the coverage."
+  },
+  {
+    "title": "STAT+: Democrats go hard on health care affordability",
+    "link": "https://www.statnews.com/2026/04/30/schumer-senate-health-policy-outline-focuses-on-affordability/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-04-30T14:50:20.000Z",
+    "summary": "The Senate's top Democrat unveiled a health policy outline that calls for lowering patients' costs across the board."
+  },
+  {
     "title": "FDA Proposes to Exclude Semaglutide, Tirzepatide, and Liraglutide on 503B Bulks List",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list",
     "source": "FDA Press Releases",
@@ -136,76 +232,12 @@
     "summary": "A change to FDA clinical trial data review, Rocket sells its priority review voucher, and more biotech news from The Readout"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about the FDA speeding up trials, a Supreme Court hearing on ‘skinny labels,’ and more",
-    "link": "https://www.statnews.com/pharmalot/2026/04/29/fda-plan-to-speed-clinical-trials-supreme-court-skinny-labels/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-29T13:09:22.000Z",
-    "summary": "The FDA announced efforts to make clinical trials more efficient, starting by reviewing data in real time from trials conducted by AstraZeneca and Amgen"
-  },
-  {
     "title": "FDA Releases Results from Largest-Ever Testing of Infant Formula in the U.S.",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-releases-results-largest-ever-testing-infant-formula-us",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-04-29T12:56:22.000Z",
     "summary": "FDA announces results from the largest and most rigorous examination ever conducted focused on chemical contaminants in infant formula available on the U.S. market."
-  },
-  {
-    "title": "Food safety experts warn of USDA brain drain",
-    "link": "https://www.statnews.com/2026/04/29/health-news-food-safety-experts-warn-usda-brain-drain/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-29T11:51:50.000Z",
-    "summary": "An autism advisory committee finally meets again, antipsychotics and dementia, and more health news from Morning Rounds"
-  },
-  {
-    "title": "Opinion: STAT+: Did Kennedy just stack the deck on FDA oversight of peptides?",
-    "link": "https://www.statnews.com/2026/04/29/rfk-jr-peptides-upcoming-fda-policy-shift-compounding-drugs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-29T08:30:00.000Z",
-    "summary": "RFK Jr. had long signaled that he was going to do something big on peptides. Now the moment has arrived."
-  },
-  {
-    "title": "Opinion: The medical school nutrition blues",
-    "link": "https://www.statnews.com/2026/04/29/medical-school-nutrition-preventive-medicine-podcast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-29T08:30:00.000Z",
-    "summary": "“I don’t think anyone has the answers. But the conversation needs to start”: medical students on bringing a preventive mindset to medical education."
-  },
-  {
-    "title": "Opinion: Why alternative medicine can feel so much better than mainstream health care",
-    "link": "https://www.statnews.com/2026/04/29/alternative-medicine-placebo-effect-cost-time/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-29T08:30:00.000Z",
-    "summary": "Modern medicine is about making people better — not necessarily making them feel good."
-  },
-  {
-    "title": "New report shows some health equity wins. Experts fear they will be short-lived",
-    "link": "https://www.statnews.com/2026/04/29/health-disparity-study-commonwealth-fund-reports-fragile-gains/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-29T04:01:00.000Z",
-    "summary": "A report released Wednesday highlights successes in reducing health disparities in U.S. states between 2022 and 2024."
-  },
-  {
-    "title": "In first meeting, federal autism committee focuses on ‘profound autism’",
-    "link": "https://www.statnews.com/2026/04/28/federal-autism-advisory-committee-profound-autism-new-definition/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-29T02:48:59.000Z",
-    "summary": "The committee met for the first time since Kennedy fired most of the committee’s scientific experts and replaced them with activists and advocates."
-  },
-  {
-    "title": "STAT+: Health system CEOs get off easy at Congressional hearing on affordability",
-    "link": "https://www.statnews.com/2026/04/28/health-system-ceos-congressional-hearing-affordability-health-care-costs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-28T22:10:15.000Z",
-    "summary": "Committee members largely blamed the other party’s health care policies for driving U.S. health care prices to levels inaccessible to many Americans."
   },
   {
     "title": "FDA Announces Major Steps to Implement Real-Time Clinical Trials",
@@ -238,22 +270,6 @@
     "category": "industry",
     "date": "2026-04-28T13:57:00.000Z",
     "summary": "Tavneos’ original developer hid a study analysis and then altered data, the FDA alleged. Elsewhere, Erasca’s RAS drug was met with skepticism and Rocket Pharma sold a voucher."
-  },
-  {
-    "title": "Coultreon banks $125M to support testing of former Galapagos immune drug",
-    "link": "https://www.biopharmadive.com/news/coultreon-biotech-startup-galapagos-immune-drug-financing/818575/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-28T12:33:00.000Z",
-    "summary": "Backed by Novo Holdings, Regeneron’s venture arm and several others, the biotech believes an oral drug licensed from Galapagos might hold potential treating many immunological diseases."
-  },
-  {
-    "title": "Biotech investors gamble on M&A. Some drugmakers are betting on themselves instead.",
-    "link": "https://www.biopharmadive.com/news/biotech-startups-commercial-drugs-bridgebio-madrigal-kailera-argenx/817992/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-28T11:00:00.000Z",
-    "summary": "Young biotechs usually get acquired instead of profitably selling their own medicines. A growing number are proving they can, which could make the sector more broadly appealing to investors, some say."
   },
   {
     "title": "AhR inhibition promotes axon regeneration",
@@ -294,14 +310,6 @@
     "category": "research",
     "date": "2026-04-28T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Oruka surges as long-acting psoriasis drug shows early promise",
-    "link": "https://www.biopharmadive.com/news/oruka-plaque-psoriasis-drug-study-results/818527/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-27T16:12:00.000Z",
-    "summary": "A therapy that works similarly to AbbVie’s blockbuster Skyrizi appeared more potent in a mid-stage trial and has the potential to be dosed less frequently."
   },
   {
     "title": "In vivo CAR T purchase spree continues with Lilly deal worth up to US$7 billion",
