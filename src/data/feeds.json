@@ -1,5 +1,45 @@
 [
   {
+    "title": "PFAS is still in some infant formula",
+    "link": "https://www.statnews.com/2026/05/01/health-news-pfas-still-in-some-infant-formula/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-01T13:12:39.000Z",
+    "summary": "Casey Means out as surgeon general nominee, America's renewed fertility anxiety, and more health news"
+  },
+  {
+    "title": "Opinion: The psychedelic revolution is leaving behind people of color",
+    "link": "https://www.statnews.com/2026/05/01/psychedelics-law-black-hispanic-indigenous-groups-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-01T08:30:00.000Z",
+    "summary": "Psychedelics’ potential as a form of treatment is virtually unmatched. But their promise faces both scientific uncertainty and thorny political questions."
+  },
+  {
+    "title": "‘Forever chemicals’ in baby formula? Scientists unpack FDA results",
+    "link": "https://www.statnews.com/2026/05/01/fda-infant-formula-safety-pfas-forever-chemical-levels-analyzed/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-01T08:30:00.000Z",
+    "summary": "FDA review confirmed overall safety of 16 brands of baby formula. In a STAT Q&A, experts unpack what low-level PFAS findings mean to worried moms."
+  },
+  {
+    "title": "STAT+: Her daughter Mila got a bespoke medicine. Now she’s starting a new biotech to make more",
+    "link": "https://www.statnews.com/2026/05/01/biotech-julia-vitarello-scaling-custom-therapy-everyone-medicines/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-01T08:30:00.000Z",
+    "summary": "Efforts to make customized medicines at scale have hit commercial and regulatory roadblocks. Julia Vintarello is trying again."
+  },
+  {
+    "title": "Opinion: America is worrying about fertility again. But it’s not really about families",
+    "link": "https://www.statnews.com/2026/05/01/america-birth-rate-decline-fertility-eugenics-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-01T08:30:00.000Z",
+    "summary": "Where the state once worried about too many births, it now worries about too few."
+  },
+  {
     "title": "Two biotechs raise a combined $556M in latest spurt of IPOs",
     "link": "https://www.biopharmadive.com/news/seaport-hemab-ipo-price-biotech-2026/818965/",
     "source": "BioPharma Dive",
@@ -14,6 +54,14 @@
     "category": "industry",
     "date": "2026-05-01T01:25:38.000Z",
     "summary": "At the hearing, the judge heard from mothers who lost sons to overdose, a teenager born into withdrawal, and people who spent years dealing with addiction treatment."
+  },
+  {
+    "title": "The landscape for therapeutic cancer vaccines",
+    "link": "https://www.nature.com/articles/d41573-026-00063-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-01T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Remembering J. Craig Venter: a relentless scientist who changed biotech — and was all too easily misunderstood",
@@ -168,46 +216,6 @@
     "summary": "American baby formula testing, Medicaid work requirements, and more Morning Rounds health news"
   },
   {
-    "title": "STAT+: What does Akeso’s primo plenary spot say about its survival data?",
-    "link": "https://www.statnews.com/2026/04/30/akeso-summit-therapeutics-drug-ivonescimab-results-announced-asco/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-30T10:30:00.000Z",
-    "summary": "Mystery cloaks an ASCO plenary lung cancer survival result."
-  },
-  {
-    "title": "STAT+: New obesity tool aims to predict risk of 18 serious complications",
-    "link": "https://www.statnews.com/2026/04/30/obesity-health-risks-new-tool-obscore-beyond-bmi/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-30T09:00:00.000Z",
-    "summary": "A new tool, OBSCORE, is meant to better define who's at risk for obesity complications, going beyond BMI to include family history, diet, and more."
-  },
-  {
-    "title": "Opinion: Congress must hold RFK Jr. accountable after hearings",
-    "link": "https://www.statnews.com/2026/04/30/rfk-jr-congress-hearings-engagement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-30T08:30:00.000Z",
-    "summary": "Michael Burgess and Larry Bucshon, former Republican congressmen and doctors, weigh in on RFK Jr.’s recent congressional hearings."
-  },
-  {
-    "title": "Securing NIH awards is getting more competitive — and confusing",
-    "link": "https://www.statnews.com/2026/04/30/nih-grant-funding-national-stat-survey-impact-labs-careers/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-30T08:30:00.000Z",
-    "summary": "The likelihood of snagging NIH grants has plunged to historic lows, forcing academic researchers to resort to a variety of tactics to try to obtain funding"
-  },
-  {
-    "title": "Opinion: Are international medical graduates taking residency spots from Americans? We did the math",
-    "link": "https://www.statnews.com/2026/04/30/residency-match-2026-imgs-mds-dos-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-30T08:30:00.000Z",
-    "summary": "A new social media narrative claims international grads are stealing American doctors’ jobs. These authors did the math to figure out if it’s true."
-  },
-  {
     "title": "Avalyn, in pursuit of better lung drugs, banks $300M in an IPO",
     "link": "https://www.biopharmadive.com/news/avalyn-biotech-ipo-price-pulmonary-fibrosis-esbriet-ofev/818851/",
     "source": "BioPharma Dive",
@@ -326,13 +334,5 @@
     "category": "research",
     "date": "2026-04-27T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Accelerates Action on Treatments for Serious Mental Illness Following Executive Order",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-accelerates-action-treatments-serious-mental-illness-following-executive-order",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-04-24T13:16:06.000Z",
-    "summary": "On April 18, President Trump issued an Executive Order directing the U.S. Department of Health and Human Services (HHS) to accelerate access to treatments for patients with serious mental illness,…"
   }
 ]
