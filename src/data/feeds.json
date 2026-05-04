@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: French regulator fines Novo and Lilly over weight loss ad campaigns",
+    "link": "https://www.statnews.com/pharmalot/2026/05/04/french-regulator-fines-novo-lilly-weight-loss-ad-campaigns/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-04T18:16:50.000Z",
+    "summary": "France's medicines regulator has fined Novo Nordisk and Eli Lilly over their weight loss ad campaigns."
+  },
+  {
+    "title": "Opinion: Mifepristone court ruling makes drug development riskier for everyone",
+    "link": "https://www.statnews.com/2026/05/04/mifepristone-supreme-court-fda-biotech-pharma/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-04T17:34:13.000Z",
+    "summary": "The 5th Circuit’s ruling on mifepristone “is bad for health care access, and it’s also bad for innovation,” writes Grace E. Colón."
+  },
+  {
+    "title": "Celcuity strengthens case for ASCO-spotlighted breast cancer drug",
+    "link": "https://www.biopharmadive.com/news/celcuity-gedatolisib-breast-cancer-PIK3CA-asco-2026/819173/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-04T16:23:00.000Z",
+    "summary": "The new data could support a broader approval submission for a therapy that is already under review and set to be showcased at the year’s biggest meeting for cancer research."
+  },
+  {
+    "title": "Supreme Court restores access to abortion pill mifepristone through telehealth, mail, and pharmacies",
+    "link": "https://www.statnews.com/2026/05/04/supreme-court-restores-access-abortion-pill-mifepristone/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-04T15:24:49.000Z",
+    "summary": "The Supreme Court on Monday restored broad access to the abortion pill mifepristone, blocking a ruling that had threatened to upend one of the main ways abortion is provided across the…"
+  },
+  {
+    "title": "Researchers urge study of paternal deaths, though a new paper finds fatherhood is protective",
+    "link": "https://www.statnews.com/2026/05/04/maternal-health-paternal-mortality-new-study-jama-pediatrics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-04T15:00:00.000Z",
+    "summary": "A research letter published on Monday in JAMA Pediatrics argues that paternal mortality deserve more attention"
+  },
+  {
+    "title": "STAT+: Pump the brakes on AI, buddy; and deposition deadlock",
+    "link": "https://www.statnews.com/2026/05/04/elevance-medicare-advantage-lawsuit-artificial-intelligence-emergency-departments/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-04T14:44:04.000Z",
+    "summary": "It's tough to write nuanced headlines, but a new study on AI in emergency rooms is getting way overhyped."
+  },
+  {
+    "title": "With $97M, Latus pursues a different kind of Huntington’s gene therapy",
+    "link": "https://www.biopharmadive.com/news/latus-huntington-gene-therapy-cln2-biotech-startup/819174/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-04T14:31:00.000Z",
+    "summary": "The therapy is part of a plan to develop gene therapies that can be efficiently delivered at lower doses, enabling them to be used against more than just “ultra-rare” conditions."
+  },
+  {
+    "title": "UCB to acquire maker of antibody treatments for autoimmune diseases",
+    "link": "https://www.statnews.com/2026/05/04/biotech-news-ucb-acquires-candid-antibody-treatments/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-04T14:28:17.000Z",
+    "summary": "A second shot at gene therapy for Huntington's, China's tightening grip on pharma supply chains, and more Readout biotech updates"
+  },
+  {
     "title": "What to know about hantavirus, the illness suspected in a cruise ship outbreak",
     "link": "https://www.statnews.com/2026/05/04/what-to-know-about-hantavirus-cruise-ship-outbreak/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,52 +232,12 @@
     "summary": "Casey Means out as surgeon general nominee, America's renewed fertility anxiety, and more health news"
   },
   {
-    "title": "Opinion: The psychedelic revolution is leaving behind people of color",
-    "link": "https://www.statnews.com/2026/05/01/psychedelics-law-black-hispanic-indigenous-groups-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T08:30:00.000Z",
-    "summary": "Psychedelics’ potential as a form of treatment is virtually unmatched. But their promise faces both scientific uncertainty and thorny political questions."
-  },
-  {
-    "title": "‘Forever chemicals’ in baby formula? Scientists unpack FDA results",
-    "link": "https://www.statnews.com/2026/05/01/fda-infant-formula-safety-pfas-forever-chemical-levels-analyzed/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T08:30:00.000Z",
-    "summary": "FDA review confirmed overall safety of 16 brands of baby formula. In a STAT Q&A, experts unpack what low-level PFAS findings mean to worried moms."
-  },
-  {
-    "title": "STAT+: Her daughter Mila got a bespoke medicine. Now she’s starting a new biotech to make more",
-    "link": "https://www.statnews.com/2026/05/01/biotech-julia-vitarello-scaling-custom-therapy-everyone-medicines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T08:30:00.000Z",
-    "summary": "Efforts to make customized medicines at scale have hit commercial and regulatory roadblocks. Julia Vintarello is trying again."
-  },
-  {
-    "title": "Opinion: America is worrying about fertility again. But it’s not really about families",
-    "link": "https://www.statnews.com/2026/05/01/america-birth-rate-decline-fertility-eugenics-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T08:30:00.000Z",
-    "summary": "Where the state once worried about too many births, it now worries about too few."
-  },
-  {
     "title": "Two biotechs raise a combined $556M in latest spurt of IPOs",
     "link": "https://www.biopharmadive.com/news/seaport-hemab-ipo-price-biotech-2026/818965/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-01T02:03:00.000Z",
     "summary": "Seaport Therapeutics and Hemab Therapeutics on Thursday became the latest drugmakers to debut on Wall Street, continuing a stretch of large IPOs this year that collectively raised almost $3.2 billion."
-  },
-  {
-    "title": "STAT+: OxyContin maker Purdue Pharma set to dissolve after judge approves its criminal sentence",
-    "link": "https://www.statnews.com/2026/04/30/oxycontin-maker-purdue-pharma-will-dissolve-criminal-sentence-approved/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T01:25:38.000Z",
-    "summary": "At the hearing, the judge heard from mothers who lost sons to overdose, a teenager born into withdrawal, and people who spent years dealing with addiction treatment."
   },
   {
     "title": "Dual-vector gene therapy for hearing loss secures first FDA approval",
@@ -240,14 +264,6 @@
     "summary": ""
   },
   {
-    "title": "Remembering J. Craig Venter: a relentless scientist who changed biotech — and was all too easily misunderstood",
-    "link": "https://www.statnews.com/2026/04/30/craig-venter-an-appreciation-pioneer-modern-genomics-dies-age-79/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-04-30T21:58:45.000Z",
-    "summary": "J. Craig Venter, the scientist whose relentless ambition helped turn genetics from an artisanal trade into an industrialized information machine, died at 79."
-  },
-  {
     "title": "FDA Approves First Non-Antipsychotic Drug to Treat Agitation Associated with Dementia",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-non-antipsychotic-drug-treat-agitation-associated-dementia",
     "source": "FDA Press Releases",
@@ -262,22 +278,6 @@
     "category": "industry",
     "date": "2026-04-30T16:21:00.000Z",
     "summary": "Despite updated study data that suggest Terns’ treatment may be less differentiated, company executives claimed Thursday that it still could be an important step forward in care."
-  },
-  {
-    "title": "UniQure, in ‘symbolic’ win, to seek UK approval of Huntington’s gene therapy",
-    "link": "https://www.biopharmadive.com/news/uniqure-huntingtons-gene-therapy-uk-approval-application-fda/818923/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-30T15:55:00.000Z",
-    "summary": "News of the submission, which would be the first for UniQure’s closely watched treatment, comes as the therapy faces an uncertain future in the U.S."
-  },
-  {
-    "title": "Lilly posts another ‘blowout quarter’ as focus turns to Foundayo launch",
-    "link": "https://www.biopharmadive.com/news/lilly-q1-2026-earnings-foundayo-zepbound-obesity/818912/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-04-30T15:26:00.000Z",
-    "summary": "A strong performance from Mounjaro overseas boosted Lilly’s results, and the company raised its guidance for the year for both profit and revenue."
   },
   {
     "title": "FDA Proposes to Exclude Semaglutide, Tirzepatide, and Liraglutide on 503B Bulks List",
