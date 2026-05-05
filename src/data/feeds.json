@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. targeting antidepressants, J&J pushing an IBD drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/05/rfk-jr-targets-ssri-antidepressants-jnj-pushes-ibd-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-05T13:12:19.000Z",
+    "summary": "HHS Secretary Robert F. Kennedy Jr. announced initiatives to rein in prescribing of SSRIs, the most widely used antidepressants"
+  },
+  {
+    "title": "Vertex earnings get muted investor response",
+    "link": "https://www.biopharmadive.com/news/vertex-earnings-q1-2026-povetacicept-journavx-cystic-fibrosis/819280/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-05T12:47:00.000Z",
+    "summary": "While overall revenue fell just shy of Wall Street forecasts, sales of the gene editing medicine Casgevy and pain drug Journavx missed analyst estimates by double-digit percentages."
+  },
+  {
+    "title": "Cytokinetics heart drug scores in closely watched trial",
+    "link": "https://www.biopharmadive.com/news/cytokinetics-aficamten-acacia-results-non-obstructive-hypertrophic-cardiomyopathy/819266/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-05T12:38:00.000Z",
+    "summary": "Myqorzo’s success in “non-obstructive” hypertrophic cardiomyopathy separates it from Bristol Myers Squibb’s rival Camzyos and opens up a multibillion-dollar market opportunity."
+  },
+  {
+    "title": "What you need to know about hantavirus (don’t panic)",
+    "link": "https://www.statnews.com/2026/05/05/health-news-hantavirus-what-to-know-dont-panic-though/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-05T11:44:11.000Z",
+    "summary": "The latest on the abortion pill, paternal deaths, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Cytokinetics drug Myqorzo meets twin efficacy goals in study of genetic heart disease",
+    "link": "https://www.statnews.com/2026/05/05/cytokinetics-myqorzo-non-obstructive-hypertrophic-cardiomyopathy-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-05T11:30:00.000Z",
+    "summary": "A Cytokinetics heart disease drug — already approved in one indication — succeeded in another Phase 3 trial, a potential boost for sales."
+  },
+  {
+    "title": "STAT+: Top lawmaker takes aim at doctor lobby, linking AMA’s billing codes to fraud fight",
+    "link": "https://www.statnews.com/2026/05/05/ama-payment-codes-fraud-target-gop-oversight-james-comer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-05T08:30:00.000Z",
+    "summary": "A top Republican is asking if the AMA's codes are helping to fuel health care fraud."
+  },
+  {
+    "title": "Opinion: The cruise ship hantavirus outbreak is a warning sign to the U.S.",
+    "link": "https://www.statnews.com/2026/05/05/hantavirus-cruise-ship-outbreak-who-world-cup/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-05T08:30:00.000Z",
+    "summary": "Leaving the WHO means the U.S. lacks access to necessary information about infectious disease."
+  },
+  {
+    "title": "Opinion: The ‘brain drain’ narrative about health professionals misses half of the story",
+    "link": "https://www.statnews.com/2026/05/05/brain-drain-doctors-returning-home-systems/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-05T08:30:00.000Z",
+    "summary": "52 health professionals returned home to 43 countries. Here are the unexpected challenges and opportunities they faced."
+  },
+  {
     "title": "Cytospire hauls in $83M for a new type of T cell engager",
     "link": "https://www.biopharmadive.com/news/cytospire-gamma-delta-t-cell-engager-series-a/819234/",
     "source": "BioPharma Dive",
@@ -14,6 +78,14 @@
     "category": "industry",
     "date": "2026-05-05T05:05:00.000Z",
     "summary": "A closely watched therapy developed by Johnson & Johnson failed to show a statistically meaningful improvement for IBD patients."
+  },
+  {
+    "title": "Shifts in pharma’s therapeutic area focus",
+    "link": "https://www.nature.com/articles/d41573-026-00069-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-05T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: French regulator fines Novo and Lilly over weight loss ad campaigns",
@@ -152,44 +224,12 @@
     "summary": "Labs are seeing fewer applications from international students and researchers, and some doctoral students are considering leaving early."
   },
   {
-    "title": "Federal appeals court blocks mailing of abortion pill mifepristone",
-    "link": "https://www.statnews.com/2026/05/02/mifepristone-abortion-pill-court-ruling-mailing-blocked/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-02T11:36:17.000Z",
-    "summary": "Mifepristone, involved in most abortions in the U.S., can now be distributed only in person and at clinics."
-  },
-  {
-    "title": "Opinion: STAT readers on MAHA activists, perimenopause, and diversity in medical school",
-    "link": "https://www.statnews.com/2026/05/02/stat-letters-to-editor-perimenopause-diversity-medical-school-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-02T11:00:00.000Z",
-    "summary": "“Unfortunately, the resources don't exist to take every flat-earther to the International Space Station to change their mind,” a STAT reader writes."
-  },
-  {
-    "title": "Opinion: What do medical students think about their education?",
-    "link": "https://www.statnews.com/2026/05/02/medical-school-nutrition-preventive-care-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-02T11:00:00.000Z",
-    "summary": "“No one's pulling the pieces together”: a conversation with medical students about preventive care education."
-  },
-  {
     "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
     "link": "https://www.biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-01T20:01:00.000Z",
     "summary": "Known as Veppanu, the drug is the first of its kind to get to market. But Arvinas and partner Pfizer are still searching for a new partner to sell it."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/05/01/up-and-down-the-ladder-the-latest-comings-and-goings-7/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T16:47:51.000Z",
-    "summary": "Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we’ll share it with others. That’s right. Send us your changes, and…"
   },
   {
     "title": "Summit’s ‘self-inflicted’ stumble; Esperion’s take-private deal",
@@ -214,38 +254,6 @@
     "category": "regulatory",
     "date": "2026-05-01T15:49:59.000Z",
     "summary": "FDA is announcing that it issued a “safe to proceed” letter to Revolution Medicines, allowing the sponsor to initiate an expanded access treatment protocol (EAP) for its experimental pancreatic…"
-  },
-  {
-    "title": "Bristol Myers’ legacy lift, Biogen’s blue skies and Regeneron’s murky outlook",
-    "link": "https://www.biopharmadive.com/news/bristol-myers-biogen-regeneron-q1-2026-earnings/819028/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-01T14:51:00.000Z",
-    "summary": "Investors are still waiting to see whether Bristol Myers and Regeneron’s pipelines will deliver, while Biogen was lifted by better-than-expected results for newer drugs like Leqembi and Skyclarys."
-  },
-  {
-    "title": "STAT+: Axsome wins FDA nod for Alzheimer’s agitation",
-    "link": "https://www.statnews.com/2026/05/01/biotech-news-axsome-wins-fda-nod-for-alzheimers-agitation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T14:08:31.000Z",
-    "summary": "Vinay Prasad's acting replacement, remembering genomics pioneer J. Craig Venter, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about obesity drugs and a compounding list, an AstraZeneca setback, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/05/01/obesity-drugs-excluded-from-compounding-list-astrazeneca-setback/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-01T13:45:35.000Z",
-    "summary": "The FDA proposed excluding the active ingredients in popular obesity and diabetes drugs from a list of substances that can be used for compounded versions"
-  },
-  {
-    "title": "Two biotechs raise a combined $556M in latest spurt of IPOs",
-    "link": "https://www.biopharmadive.com/news/seaport-hemab-ipo-price-biotech-2026/818965/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-01T02:03:00.000Z",
-    "summary": "Seaport Therapeutics and Hemab Therapeutics on Thursday became the latest drugmakers to debut on Wall Street, continuing a stretch of large IPOs this year that collectively raised almost $3.2 billion."
   },
   {
     "title": "Dual-vector gene therapy for hearing loss secures first FDA approval",
