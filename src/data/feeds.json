@@ -1,5 +1,61 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about Sanofi and an FDA voucher, FDA rethinking a rejection, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/07/sanofi-diabetes-drug-voucher-fda-rethinking-rare-disease-rejection/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T13:47:21.000Z",
+    "summary": "Sanofi asked the FDA to pull teplizumab out of a speedy review voucher program after a political appointee disagreed with staff over its approval"
+  },
+  {
+    "title": "STAT+: FDA to reconsider treatment for rare cancer after surprise rejection",
+    "link": "https://www.statnews.com/2026/05/07/biotech-news-fda-reconsiders-rare-cancer-treatment-after-surprise-rejection/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T13:23:56.000Z",
+    "summary": "Secret drug pricing deals, a virtual AI cancer clinic, and other biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: OpenAI’s health policy wishlist, CGM news from Dexcom, and more",
+    "link": "https://www.statnews.com/2026/05/07/openai-policy-wishlist-dexcom-cgm-updates-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T13:14:13.000Z",
+    "summary": "In this edition of STAT Health Tech: A health policy blueprint from OpenAI, CGM updates from Dexcom, and push back against whole body scans."
+  },
+  {
+    "title": "STAT+: FDA to reconsider treatment for rare cancer after its surprise rejection",
+    "link": "https://www.statnews.com/2026/05/07/fda-reconsider-rare-disease-drug-ebvallo/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T12:00:00.000Z",
+    "summary": "The companies developing Ebvallo reached an agreement with the FDA to address its main reason for rejecting the drug."
+  },
+  {
+    "title": "Hospital shootings steadily increased since 2000",
+    "link": "https://www.statnews.com/2026/05/07/health-news-hospital-shootings-steadily-on-the-rise/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T11:36:24.000Z",
+    "summary": "What the FDA has lost, why hantavirus isn't the next pandemic, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Next-gen Duchenne drug from Entrada disappoints",
+    "link": "https://www.statnews.com/2026/05/07/entrada-duchenne-exon-skipping-study-disappointment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T11:05:12.000Z",
+    "summary": "A next-gen Duchenne therapy from Entrada Therapeutics fell short in an early study, as a number of companies race to make improved drugs."
+  },
+  {
+    "title": "STAT+: Color me skeptical: Drinking gold is not an ALS cure",
+    "link": "https://www.statnews.com/2026/05/07/clene-als-treatment-gold-does-it-work/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T10:30:00.000Z",
+    "summary": "In this week's Biotech Scorecard newsletter, Adam Feuerstein takes on the company touting gold microdust suspended in water as an ALS treatment."
+  },
+  {
     "title": "STAT+: Angelini Pharma buys Catalyst Pharmaceuticals and its rare disease drugs for $4.1B",
     "link": "https://www.statnews.com/2026/05/07/angelini-pharma-acquires-catalyst-pharmaceuticals-rare-disease-neurology-firdapse/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,7 +64,7 @@
     "summary": "The Italian firm Angelini Pharma is buying Catalyst Pharmaceuticals, the maker of rare disease drugs, for $4.1 billion."
   },
   {
-    "title": "Public health experts are worried about the cruise ship hantavirus outbreak, but not for the reason you might think",
+    "title": "Cruise ship hantavirus outbreak worries experts, though they discount pandemic fears",
     "link": "https://www.statnews.com/2026/05/07/hantavirus-cruise-ship-outbreak-scientists-say-not-new-pandemic/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -144,68 +200,12 @@
     "summary": "Vivek Ramaswamy wins GOP primary for Ohio governor, CellCentric raises $220M for myeloma drug, and more biotech news"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a PhRMA ad campaign aimed at 340B, sales of Novo’s obesity pill, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/05/06/pharma-ad-campaign-aimed-at-340b-novo-obesity-pill-sales/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T13:34:07.000Z",
-    "summary": "One of the most powerful pharmaceutical lobbying groups is launching a new seven-figure advertising blitz targeting a federal drug discount program"
-  },
-  {
-    "title": "HHS tackles ‘overmedication’",
-    "link": "https://www.statnews.com/2026/05/06/health-news-hhs-tackles-alleged-overmedication/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T11:49:10.000Z",
-    "summary": "The cruise ship hantavirus outbreak, 988 staffing problems, and more health news from Morning Rounds"
-  },
-  {
     "title": "CellCentric raises $220M for a ‘transformative’ multiple myeloma medicine",
     "link": "https://www.biopharmadive.com/news/cellcentric-series-d-multiple-myeloma-inobrodib/819348/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-06T11:00:00.000Z",
     "summary": "A Series D round led by Venrock will support an ongoing Phase 2 study, and planned Phase 3 trial, of an oral drug the biotech sees as a differentiated option for patients with persistent disease."
-  },
-  {
-    "title": "Opinion: Trump’s executive order on psychedelics is the right move. But is my field ready for it?",
-    "link": "https://www.statnews.com/2026/05/06/psychedelics-executive-order-ibogaine-trump-research-funding-scheduling/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T08:30:00.000Z",
-    "summary": "The psychedelics field is getting what it has long wanted. Now it has to step up."
-  },
-  {
-    "title": "STAT+: OpenAI wants to ‘have their cake and eat it too’ with health AI policy recommendations",
-    "link": "https://www.statnews.com/2026/05/06/openai-policy-blueprint-unleashing-ai-potential-health-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T08:30:00.000Z",
-    "summary": "Policy recommendations in OpenAI's blueprint for unlocking AI’s potential to change health care are reasonable, but also self-serving, experts say."
-  },
-  {
-    "title": "STAT+: Even at a meeting in Rome, FDA shifts are top of mind for gene therapy field",
-    "link": "https://www.statnews.com/2026/05/06/fda-turmoil-felt-at-gene-therapy-conference-europe/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T08:30:00.000Z",
-    "summary": "Cell and gene therapy makers met in Rome to discuss the field's outlook in Europe. One main topic of conversation: the FDA."
-  },
-  {
-    "title": "Opinion: Dr. Glaucomflecken wants to make a stink",
-    "link": "https://www.statnews.com/2026/05/06/dr-glaucomflecken-will-flanary-interview-podcast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T08:30:00.000Z",
-    "summary": "“They don’t want this kind of scrutiny”: Why Dr. Glaucomflecken is getting involved in protests over an Oregon hospital system’s emergency department."
-  },
-  {
-    "title": "Opinion: STAT+: Ambiguous loss: a peculiar kind of grief in dementia care",
-    "link": "https://www.statnews.com/2026/05/06/ambiguous-loss-dementia-relationships-marriage-grief/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T08:30:00.000Z",
-    "summary": "Ambiguous loss is at the heart of the dementia illness experience."
   },
   {
     "title": "Novel opioid provides cleaner pain relief",
@@ -326,13 +326,5 @@
     "category": "regulatory",
     "date": "2026-04-30T18:52:35.000Z",
     "summary": "The U.S. Food and Drug Administration today approved an expanded use for Auvelity (dextromethorphan hydrobromide and bupropion hydrochloride) extended-release tablets to treat agitation associated…"
-  },
-  {
-    "title": "FDA Proposes to Exclude Semaglutide, Tirzepatide, and Liraglutide on 503B Bulks List",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-proposes-exclude-semaglutide-tirzepatide-and-liraglutide-503b-bulks-list",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-04-30T13:18:42.000Z",
-    "summary": "FDA is proposing to exclude semaglutide, tirzepatide, and liraglutide from the 503B bulks list, finding no clinical need for outsourcing facilities to compound these drugs from bulk substances."
   }
 ]
