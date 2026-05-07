@@ -1,5 +1,101 @@
 [
   {
+    "title": "STAT+: Oregon hospitals won’t outsource to national physician chain after all",
+    "link": "https://www.statnews.com/2026/05/06/peacehealth-drops-eugene-oregon-emergency-room-outsource-plan-apollomd/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T20:47:39.000Z",
+    "summary": "Faced with stiff local opposition and a possible loss in court, PeaceHealth drops plan to replace Eugene Emergency Physicians with staffing chain ApolloMD."
+  },
+  {
+    "title": "Trump administration’s drug strategy is at odds with recent actions on funding, policy",
+    "link": "https://www.statnews.com/2026/05/06/white-house-drug-control-policy-at-odds-recent-actions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T20:01:40.000Z",
+    "summary": "The White House nods to medication-assisted treatment and fentanyl test strips, despite recently placing new limits."
+  },
+  {
+    "title": "STAT+: Administration report on most favored nation drug pricing raises new details — and questions",
+    "link": "https://www.statnews.com/2026/05/06/most-favored-nation-drug-price-savings-estimated-529-billion/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T17:03:39.000Z",
+    "summary": "Administration report on most-favored nation drug pricing raises new details — and questions."
+  },
+  {
+    "title": "FDA Expands AI Capabilities and Completes Data Platform Consolidation",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-expands-ai-capabilities-and-completes-data-platform-consolidation",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-05-06T16:57:45.000Z",
+    "summary": "FDA announced major steps in its bold initiative to modernize the agency. The agency launched Elsa 4.0, a significant upgrade to the agency’s internal AI tool available to all FDA staff, from…"
+  },
+  {
+    "title": "STAT+: Sanofi asks to pull diabetes drug out of FDA voucher program after political appointee interfered with review",
+    "link": "https://www.statnews.com/2026/05/06/sanofi-asks-to-pull-diabetes-drug-teplizumab-makary-fda-voucher-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T16:16:42.000Z",
+    "summary": "Sanofi has asked the FDA to pull its type 1 diabetes drug out of Commissioner Marty Makary’s new speedy drug review program."
+  },
+  {
+    "title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
+    "link": "https://www.biopharmadive.com/news/bayer-perfuse-deal-glaucoma-diabetic-retinopathy-drug/819429/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-06T16:02:00.000Z",
+    "summary": "Centered around a glaucoma therapy in mid-stage testing, the deal is Bayer’s first drug company acquisition in several years and potentially its largest since it purchased AskBio in 2020."
+  },
+  {
+    "title": "STAT+: Color Health moving deeper into cancer services, complete with virtual ‘tumor boards’",
+    "link": "https://www.statnews.com/2026/05/06/cancer-care-color-health-virtual-clinics-driven-by-ai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T16:00:00.000Z",
+    "summary": "Color Health, which coordinates cancer screening, is moving into a gap it observed — obtaining and coordinating actual cancer care."
+  },
+  {
+    "title": "Novo hikes guidance on Wegovy pill’s fast sales start",
+    "link": "https://www.biopharmadive.com/news/novo-nordisk-wegovy-pill-sales-prescriptions-q1-2026/819418/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-06T15:26:21.000Z",
+    "summary": "In its latest earnings report, the Danish drugmaker said sales and profit should shrink less than the company originally anticipated thanks to strong prescription numbers for its new obesity pill."
+  },
+  {
+    "title": "Why the FDA is authorizing fruit-flavored vapes",
+    "link": "https://www.statnews.com/2026/05/06/fda-approval-new-flavored-vapes-trump-role-questioned/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T15:19:05.000Z",
+    "summary": "Marty Makary says he was \"skeptical initially\" about flavored vapes but that age-gating technology could limit their use."
+  },
+  {
+    "title": "STAT+: How a global effort to explore the ‘dark proteome’ is upending our understanding of human disease",
+    "link": "https://www.statnews.com/2026/05/06/dark-proteins-cancer-immunotherapy-targets-proteomics-news/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T15:00:00.000Z",
+    "summary": "An international team has found thousands of mini-proteins, including some involved in cell division and DNA repair, as well as several unique to cancer cells."
+  },
+  {
+    "title": "Avalo shares spike on skin drug data; BioNTech to cut staff",
+    "link": "https://www.biopharmadive.com/news/avalo-hidradenitis-suppurativa-biontech-madrigal-johnson-duet/819233/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-06T14:30:00.000Z",
+    "summary": "Avalo reported study success in what’s proven to be a tough-to-treat skin disease. Elsewhere, BioNTech announced plans to close multiple plants and Madrigal picked up an RNA-based drug for MASH."
+  },
+  {
+    "title": "STAT+: When the path to good AI is littered with bad data",
+    "link": "https://www.statnews.com/2026/05/06/when-path-good-ai-littered-with-bad-data-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-06T14:15:48.000Z",
+    "summary": "In this edition of AI Prognosis, Brittany Trang raises the question: What kind of health data would we need to train AI models to be useful in health care."
+  },
+  {
     "title": "FDA Launches One-Day Inspectional Assessments to Strengthen and Expand Oversight",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-one-day-inspectional-assessments-strengthen-and-expand-oversight",
     "source": "FDA Press Releases",
@@ -144,14 +240,6 @@
     "summary": "Cytokinetics' Myqorzo's trial results, Johnson & Johnson's IBD therapy, and more biotech news from The Readout"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. targeting antidepressants, J&J pushing an IBD drug, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/05/05/rfk-jr-targets-ssri-antidepressants-jnj-pushes-ibd-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-05T13:12:19.000Z",
-    "summary": "HHS Secretary Robert F. Kennedy Jr. announced initiatives to rein in prescribing of SSRIs, the most widely used antidepressants"
-  },
-  {
     "title": "Vertex earnings get muted investor response",
     "link": "https://www.biopharmadive.com/news/vertex-earnings-q1-2026-povetacicept-journavx-cystic-fibrosis/819280/",
     "source": "BioPharma Dive",
@@ -168,46 +256,6 @@
     "summary": "Myqorzo’s success in “non-obstructive” hypertrophic cardiomyopathy separates it from Bristol Myers Squibb’s rival Camzyos and opens up a multibillion-dollar market opportunity."
   },
   {
-    "title": "What you need to know about hantavirus (don’t panic)",
-    "link": "https://www.statnews.com/2026/05/05/health-news-hantavirus-what-to-know-dont-panic-though/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-05T11:44:11.000Z",
-    "summary": "The latest on the abortion pill, paternal deaths, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Cytokinetics drug Myqorzo meets twin efficacy goals in study of genetic heart disease",
-    "link": "https://www.statnews.com/2026/05/05/cytokinetics-myqorzo-non-obstructive-hypertrophic-cardiomyopathy-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-05T11:30:00.000Z",
-    "summary": "A Cytokinetics heart disease drug — already approved in one indication — succeeded in another Phase 3 trial, a potential boost for sales."
-  },
-  {
-    "title": "STAT+: Top lawmaker takes aim at doctor lobby, linking AMA’s billing codes to fraud fight",
-    "link": "https://www.statnews.com/2026/05/05/ama-payment-codes-fraud-target-gop-oversight-james-comer/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-05T08:30:00.000Z",
-    "summary": "A top Republican is asking if the AMA's codes are helping to fuel health care fraud."
-  },
-  {
-    "title": "Opinion: The cruise ship hantavirus outbreak is a warning sign to the U.S.",
-    "link": "https://www.statnews.com/2026/05/05/hantavirus-cruise-ship-outbreak-who-world-cup/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-05T08:30:00.000Z",
-    "summary": "Leaving the WHO means the U.S. lacks access to necessary information about infectious disease."
-  },
-  {
-    "title": "Opinion: The ‘brain drain’ narrative about health professionals misses half of the story",
-    "link": "https://www.statnews.com/2026/05/05/brain-drain-doctors-returning-home-systems/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-05T08:30:00.000Z",
-    "summary": "52 health professionals returned home to 43 countries. Here are the unexpected challenges and opportunities they faced."
-  },
-  {
     "title": "Cytospire hauls in $83M for a new type of T cell engager",
     "link": "https://www.biopharmadive.com/news/cytospire-gamma-delta-t-cell-engager-series-a/819234/",
     "source": "BioPharma Dive",
@@ -216,28 +264,12 @@
     "summary": "The British biotechnology startup is making \"pan-gamma delta” T cell engagers it says can address the limitations of similar, existing therapies."
   },
   {
-    "title": "STAT+: Johnson & Johnson advances IBD therapy, despite trial miss",
-    "link": "https://www.statnews.com/2026/05/05/johnson-and-johnson-ibd-therapy-no-meaningful-improvement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-05T05:05:00.000Z",
-    "summary": "A closely watched therapy developed by Johnson & Johnson failed to show a statistically meaningful improvement for IBD patients."
-  },
-  {
     "title": "Shifts in pharma’s therapeutic area focus",
     "link": "https://www.nature.com/articles/d41573-026-00069-7",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-05-05T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: French regulator fines Novo and Lilly over weight loss ad campaigns",
-    "link": "https://www.statnews.com/pharmalot/2026/05/04/french-regulator-fines-novo-lilly-weight-loss-ad-campaigns/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-04T18:16:50.000Z",
-    "summary": "France's medicines regulator has fined Novo Nordisk and Eli Lilly over their weight loss ad campaigns."
   },
   {
     "title": "Celcuity strengthens case for ASCO-spotlighted breast cancer drug",
@@ -254,30 +286,6 @@
     "category": "industry",
     "date": "2026-05-04T14:31:00.000Z",
     "summary": "The therapy is part of a plan to develop gene therapies that can be efficiently delivered at lower doses, enabling them to be used against more than just “ultra-rare” conditions."
-  },
-  {
-    "title": "UCB to acquire Candid in $2.2B bet on bispecifics for autoimmune diseases",
-    "link": "https://www.biopharmadive.com/news/ucb-candid-deal-bispecifics-t-cell-engagers-autoimmune-china/819155/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-04T10:20:00.000Z",
-    "summary": "The buyout involves a portfolio of antibody drugs Candid licensed from China-based biotechs and that UCB sees as part of the “next wave” of care for immunological conditions."
-  },
-  {
-    "title": "What is your AI drug repurposing strategy missing?",
-    "link": "https://www.biopharmadive.com/spons/what-is-your-ai-drug-repurposing-strategy-missing/819110/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-04T09:00:00.000Z",
-    "summary": "Fragmented data limits even the most advanced oncology AI. Curated knowledge changes that."
-  },
-  {
-    "title": "Arvinas’ ‘Protac’ breast cancer drug cleared by FDA",
-    "link": "https://www.biopharmadive.com/news/arvinas-pfizer-fda-approve-veppanu-vepdegestrant-breast-cancer/819108/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-01T20:01:00.000Z",
-    "summary": "Known as Veppanu, the drug is the first of its kind to get to market. But Arvinas and partner Pfizer are still searching for a new partner to sell it."
   },
   {
     "title": "FDA Permits Expanded Access for Investigational Pancreatic Cancer Drug",
