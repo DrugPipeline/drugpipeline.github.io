@@ -1,5 +1,29 @@
 [
   {
+    "title": "Odyssey, on second try, snags $279M in an IPO",
+    "link": "https://www.biopharmadive.com/news/odyssey-ipo-price-biotech-gary-glick-immune-drugs/819465/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-08T01:20:00.000Z",
+    "summary": "After withdrawing its initial filing last year, the immune drugmaker rebounded and added to a recent run of sizable new biotech stock offerings."
+  },
+  {
+    "title": "Fraudulent citations, blamed on AI hallucinations, are becoming more common in research papers",
+    "link": "https://www.statnews.com/2026/05/07/lancet-study-finds-steep-rise-fraudulent-citations-academic-papers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-07T22:30:00.000Z",
+    "summary": "“Fabricated” citations that do not reference real academic papers are spreading in the literature, polluting the public record of science, a new study found"
+  },
+  {
+    "title": "Sarepta tumbles as its gene therapy sales decline further",
+    "link": "https://www.biopharmadive.com/news/sarepta-tumbles-earnings-elevidys-analysts-expecations/819585/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-07T19:51:57.000Z",
+    "summary": "Even though Elevidys beat Wall Street expectations, analysts expect investor focus to shift toward Sarepta's early-stage RNA drugs."
+  },
+  {
     "title": "Key takeaways from WHO briefing on hantavirus cruise ship outbreak",
     "link": "https://www.statnews.com/2026/05/07/hantavirus-outbreak-key-takeaways-who-cruise-ship-briefing/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,14 +208,6 @@
     "summary": "FDA announced major steps in its bold initiative to modernize the agency. The agency launched Elsa 4.0, a significant upgrade to the agency’s internal AI tool available to all FDA staff, from…"
   },
   {
-    "title": "STAT+: Sanofi asks to pull diabetes drug out of FDA voucher program after political appointee interfered with review",
-    "link": "https://www.statnews.com/2026/05/06/sanofi-asks-to-pull-diabetes-drug-teplizumab-makary-fda-voucher-program/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T16:16:42.000Z",
-    "summary": "Sanofi has asked the FDA to pull its type 1 diabetes drug out of Commissioner Marty Makary’s new speedy drug review program."
-  },
-  {
     "title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
     "link": "https://www.biopharmadive.com/news/bayer-perfuse-deal-glaucoma-diabetic-retinopathy-drug/819429/",
     "source": "BioPharma Dive",
@@ -264,22 +280,6 @@
     "summary": "Whereas earlier Phase 3 results disappointed Wall Street, new findings in people with “chronic” disease were viewed by analysts as much more competitive with Amgen’s Tepezza."
   },
   {
-    "title": "Vertex earnings get muted investor response",
-    "link": "https://www.biopharmadive.com/news/vertex-earnings-q1-2026-povetacicept-journavx-cystic-fibrosis/819280/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-05T12:47:00.000Z",
-    "summary": "While overall revenue fell just shy of Wall Street forecasts, sales of the gene editing medicine Casgevy and pain drug Journavx missed analyst estimates by double-digit percentages."
-  },
-  {
-    "title": "Cytokinetics heart drug scores in closely watched trial",
-    "link": "https://www.biopharmadive.com/news/cytokinetics-aficamten-acacia-results-non-obstructive-hypertrophic-cardiomyopathy/819266/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-05T12:38:00.000Z",
-    "summary": "Myqorzo’s success in “non-obstructive” hypertrophic cardiomyopathy separates it from Bristol Myers Squibb’s rival Camzyos and opens up a multibillion-dollar market opportunity."
-  },
-  {
     "title": "Shifts in pharma’s therapeutic area focus",
     "link": "https://www.nature.com/articles/d41573-026-00069-7",
     "source": "Nature Reviews Drug Discovery",
@@ -294,29 +294,5 @@
     "category": "regulatory",
     "date": "2026-05-01T15:49:59.000Z",
     "summary": "FDA is announcing that it issued a “safe to proceed” letter to Revolution Medicines, allowing the sponsor to initiate an expanded access treatment protocol (EAP) for its experimental pancreatic…"
-  },
-  {
-    "title": "Dual-vector gene therapy for hearing loss secures first FDA approval",
-    "link": "https://www.nature.com/articles/d41573-026-00075-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-01T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "First-in-class HIV drug nabs approval",
-    "link": "https://www.nature.com/articles/d41573-026-00076-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-01T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The landscape for therapeutic cancer vaccines",
-    "link": "https://www.nature.com/articles/d41573-026-00063-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-01T00:00:00.000Z",
-    "summary": ""
   }
 ]
