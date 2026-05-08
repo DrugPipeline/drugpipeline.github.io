@@ -1,11 +1,91 @@
 [
   {
+    "title": "STAT+: The biotech news you need to read today",
+    "link": "https://www.statnews.com/2026/05/08/biotech-news-capricor-sues-partner-scientists-age-more-and-innovate-less/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-08T13:37:12.000Z",
+    "summary": "A Duchenne therapy lawsuit, FDA Commissioner Marty Makary’s White House troubles, and other news from The Readout"
+  },
+  {
+    "title": "FDA Issues Guidance to Improve Collection of Pregnancy Safety Data for Drugs and Biologics",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-guidance-improve-collection-pregnancy-safety-data-drugs-and-biologics",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-05-08T13:34:38.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued a final guidance for industry, Postapproval Pregnancy Safety Studies, with recommendations on different methodologies that can be used in the…"
+  },
+  {
+    "title": "Lilly, Gilead lead pharma’s M&A boom",
+    "link": "https://www.biopharmadive.com/news/lilly-gilead-lead-pharmas-deal-merger-drug-acquisition/819676/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-08T13:29:00.000Z",
+    "summary": "Deal volume in 2026 is substantially outpacing last year, and activity is being driven by interest in cancer and autoimmune disease drugs."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA gender rule change, its program for one-day inspections, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/08/fda-gender-rule-change-pilot-program-for-inspections/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-08T13:17:39.000Z",
+    "summary": "An FDA proposal to remove references to “gender” from its regulations sparked concerns about unintended consequences on research"
+  },
+  {
+    "title": "The aging scientific workforce collides with rising fabricating citations in medical journals",
+    "link": "https://www.statnews.com/2026/05/08/health-news-aging-scientific-workforce-and-fake-ai-citations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-08T11:27:48.000Z",
+    "summary": "The latest in the hantavirus cruise ship saga, why these former officials left the FDA, and more health news from Morning Rounds"
+  },
+  {
+    "title": "Why we left the FDA: Six former officials share their stories",
+    "link": "https://www.statnews.com/2026/05/08/former-fda-regulators-on-why-they-left-status-report/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-08T08:30:00.000Z",
+    "summary": "In this week's STATus Report, hear from six former FDA officials on why they left the agency."
+  },
+  {
+    "title": "Opinion: STAT+: Medicare’s new RAPID pathway is a breakthrough for adults. Children are still waiting",
+    "link": "https://www.statnews.com/2026/05/08/medicare-rapid-pathway-pediatric-medical-devices/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-08T08:30:00.000Z",
+    "summary": "“The pediatric and orphan pipeline is already the smallest, slowest, and least capitalized segment of the device industry,” writes Kolaleh Eskandanian."
+  },
+  {
+    "title": "Opinion: We need more men in nursing",
+    "link": "https://www.statnews.com/2026/05/08/men-nursing-careers-gender-diversity-patient-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-08T08:30:00.000Z",
+    "summary": "Men make up just 12% of nurses nationally. That needs to change."
+  },
+  {
     "title": "Odyssey, on second try, snags $279M in an IPO",
     "link": "https://www.biopharmadive.com/news/odyssey-ipo-price-biotech-gary-glick-immune-drugs/819465/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-08T01:20:00.000Z",
-    "summary": "After withdrawing its initial filing last year, the immune drugmaker rebounded and added to a recent run of sizable new biotech stock offerings."
+    "summary": "After withdrawing its initial filing last year, the immune drugmaker rebounded and added to a recent run of sizable new biotech stock offerings — while boosting its haul even higher through a…"
+  },
+  {
+    "title": "The ovarian cancer drug market",
+    "link": "https://www.nature.com/articles/d41573-026-00077-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-08T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "First PROTAC gains FDA approval, bolstering targeted protein degradation and induced proximity ambitions",
+    "link": "https://www.nature.com/articles/d41573-026-00078-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-08T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Fraudulent citations, blamed on AI hallucinations, are becoming more common in research papers",
@@ -152,54 +232,6 @@
     "summary": "The Italian firm Angelini Pharma is buying Catalyst Pharmaceuticals, the maker of rare disease drugs, for $4.1 billion."
   },
   {
-    "title": "Cruise ship hantavirus outbreak worries experts, though they discount pandemic fears",
-    "link": "https://www.statnews.com/2026/05/07/hantavirus-cruise-ship-outbreak-scientists-say-not-new-pandemic/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-07T08:30:00.000Z",
-    "summary": "Scientists are worried that hantaviruses haven’t been as well studied as they ought to be, but not that the MV Hondius cruise ship is ground zero for the next pandemic."
-  },
-  {
-    "title": "Opinion: Eugene Braunwald, ‘father of modern cardiology,’ told me he had two dreams. One came true",
-    "link": "https://www.statnews.com/2026/05/07/eugene-braunwald-obituary-cardiology-legacy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-07T08:30:00.000Z",
-    "summary": "Legendary cardiologist Eugene Braunwald had two visions for his career. One of them came true."
-  },
-  {
-    "title": "STAT+: What was lost at the FDA",
-    "link": "https://www.statnews.com/2026/05/07/fda-rebuilding-after-doge-former-regulators-speaking-out/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-07T08:30:00.000Z",
-    "summary": "What was lost at the FDA: A year after DOGE’s cuts, six agency staffers describe the work they never thought they’d leave."
-  },
-  {
-    "title": "STAT+: Oregon hospitals won’t outsource to national physician chain after all",
-    "link": "https://www.statnews.com/2026/05/06/peacehealth-drops-eugene-oregon-emergency-room-outsource-plan-apollomd/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T20:47:39.000Z",
-    "summary": "Faced with stiff local opposition and a possible loss in court, PeaceHealth drops plan to replace Eugene Emergency Physicians with staffing chain ApolloMD."
-  },
-  {
-    "title": "Trump administration’s drug strategy is at odds with recent actions on funding, policy",
-    "link": "https://www.statnews.com/2026/05/06/white-house-drug-control-policy-at-odds-recent-actions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T20:01:40.000Z",
-    "summary": "The White House nods to medication-assisted treatment and fentanyl test strips, despite recently placing new limits."
-  },
-  {
-    "title": "STAT+: Administration report on most favored nation drug pricing raises new details — and questions",
-    "link": "https://www.statnews.com/2026/05/06/most-favored-nation-drug-price-savings-estimated-529-billion/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-06T17:03:39.000Z",
-    "summary": "Administration report on most-favored nation drug pricing raises new details — and questions."
-  },
-  {
     "title": "FDA Expands AI Capabilities and Completes Data Platform Consolidation",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-expands-ai-capabilities-and-completes-data-platform-consolidation",
     "source": "FDA Press Releases",
@@ -270,14 +302,6 @@
     "category": "regulatory",
     "date": "2026-05-05T19:10:20.000Z",
     "summary": "FDA today authorized the marketing of four Glas electronic nicotine delivery systems (ENDS) through the premarket tobacco product application (PMTA) pathway."
-  },
-  {
-    "title": "Viridian data lift prospects for thyroid eye disease drug",
-    "link": "https://www.biopharmadive.com/news/viridian-chronic-thyroid-eye-disease-elegrobart-study-results/819308/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-05T16:04:48.000Z",
-    "summary": "Whereas earlier Phase 3 results disappointed Wall Street, new findings in people with “chronic” disease were viewed by analysts as much more competitive with Amgen’s Tepezza."
   },
   {
     "title": "Shifts in pharma’s therapeutic area focus",
