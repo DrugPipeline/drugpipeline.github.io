@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Astellas treatment offers new hope to a devastated rare disease community",
+    "link": "https://www.statnews.com/2026/05/11/biotech-news-astellas-treatment-offers-hope-to-rare-disease-community/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T14:45:46.000Z",
+    "summary": "Alzheimer's drug rollout letdown, a China-based heart drug startup, and more biotech news from The Readout"
+  },
+  {
+    "title": "FDA Advances Drug Repurposing to Address Unmet Medical Needs",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-advances-drug-repurposing-address-unmet-medical-needs",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-05-11T13:59:33.000Z",
+    "summary": "FDA announced it is soliciting input on efforts with respect to drug repurposing to help address unmet medical needs across a range of diseases and conditions."
+  },
+  {
+    "title": "Biotech layoffs are easing, but is the worst over?",
+    "link": "https://www.biopharmadive.com/news/biotech-layoffs-pharma-drug-jobs/819802/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-11T13:14:00.000Z",
+    "summary": "BioNTech is one of the most recent companies to announce cuts, but the pace of job losses is slowing."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Medicare and Alzheimer’s drugs, estrogen patch shortages, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/11/medicare-alzheimers-drugs-estrogen-patch-shortage/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T13:12:19.000Z",
+    "summary": "People on Medicare are not getting the recently approved Alzheimer’s medications nearly as much as federal officials anticipated"
+  },
+  {
+    "title": "The connection between periods and mental health",
+    "link": "https://www.statnews.com/2026/05/11/health-news-connection-between-periods-and-mental-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T11:52:44.000Z",
+    "summary": "Plans to oust Makary, a looming Supreme Court deadline on mifepristone, and other health news from Morning Rounds"
+  },
+  {
     "title": "The capacity crunch in biopharma is a location problem",
     "link": "https://www.biopharmadive.com/spons/the-capacity-crunch-in-biopharma-is-a-location-problem/819159/",
     "source": "BioPharma Dive",
@@ -136,6 +176,14 @@
     "summary": "The cruise ship hantavirus outbreak is serious but limited. Online, it's another story."
   },
   {
+    "title": "Lilly to invest extra $4.5B across Indiana manufacturing",
+    "link": "https://www.biopharmadive.com/news/lilly-invest-extra-4b-across-lebanon-indiana-manufacturing-mounjaro-zepbound/819720/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-08T15:33:00.000Z",
+    "summary": "The Indianapolis-based company expanded its spend to ensure it can meet growing demand for its weight-loss drugs."
+  },
+  {
     "title": "Former FDA leaders, pharma speak out on mifepristone",
     "link": "https://www.statnews.com/2026/05/08/supreme-court-mifepristone-amicus-briefs-pharma-former-fda-leaders/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,14 +216,6 @@
     "summary": "Pierre Fabre claims to now be “aligned” with U.S. regulators on the path forward for a twice-rejected treatment. Elsewhere, Argenx swapped CEOs and Blackstone made a $250 million biotech investment."
   },
   {
-    "title": "STAT+: The biotech news you need to read today",
-    "link": "https://www.statnews.com/2026/05/08/biotech-news-capricor-sues-partner-scientists-age-more-and-innovate-less/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T13:37:12.000Z",
-    "summary": "A Duchenne therapy lawsuit, FDA Commissioner Marty Makary’s White House troubles, and other news from The Readout"
-  },
-  {
     "title": "FDA Issues Guidance to Improve Collection of Pregnancy Safety Data for Drugs and Biologics",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-guidance-improve-collection-pregnancy-safety-data-drugs-and-biologics",
     "source": "FDA Press Releases",
@@ -190,22 +230,6 @@
     "category": "industry",
     "date": "2026-05-08T13:29:00.000Z",
     "summary": "Deal volume in 2026 is substantially outpacing last year, and activity is being driven by interest in cancer and autoimmune disease drugs."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA gender rule change, its program for one-day inspections, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/05/08/fda-gender-rule-change-pilot-program-for-inspections/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T13:17:39.000Z",
-    "summary": "An FDA proposal to remove references to “gender” from its regulations sparked concerns about unintended consequences on research"
-  },
-  {
-    "title": "The aging scientific workforce collides with rising fabricating citations in medical journals",
-    "link": "https://www.statnews.com/2026/05/08/health-news-aging-scientific-workforce-and-fake-ai-citations/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T11:27:48.000Z",
-    "summary": "The latest in the hantavirus cruise ship saga, why these former officials left the FDA, and more health news from Morning Rounds"
   },
   {
     "title": "Odyssey, on second try, snags $279M in an IPO",
@@ -256,28 +280,12 @@
     "summary": "While the company claimed a victory, analysts said data from a Phase 1/2 study fell short of expectations. Entrada shares subsequently tumbled more than 50%."
   },
   {
-    "title": "Roche to acquire digital pathology firm PathAI in deal potentially worth over $1B",
-    "link": "https://www.biopharmadive.com/news/roche-to-acquire-digital-pathology-firm-pathai-in-deal-potentially-worth-ov/819592/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-07T14:55:35.000Z",
-    "summary": "Roche plans to offer PathAI’s tools as part of an effort to improve cancer diagnosis and tailored treatment."
-  },
-  {
     "title": "FDA Expands AI Capabilities and Completes Data Platform Consolidation",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-expands-ai-capabilities-and-completes-data-platform-consolidation",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-05-06T16:57:45.000Z",
     "summary": "FDA announced major steps in its bold initiative to modernize the agency. The agency launched Elsa 4.0, a significant upgrade to the agency’s internal AI tool available to all FDA staff, from…"
-  },
-  {
-    "title": "Bayer to buy Perfuse for up to $2.45B, bolstering eye drug pipeline",
-    "link": "https://www.biopharmadive.com/news/bayer-perfuse-deal-glaucoma-diabetic-retinopathy-drug/819429/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-06T16:02:00.000Z",
-    "summary": "Centered around a glaucoma therapy in mid-stage testing, the deal is Bayer’s first drug company acquisition in several years and potentially its largest since it purchased AskBio in 2020."
   },
   {
     "title": "FDA Launches One-Day Inspectional Assessments to Strengthen and Expand Oversight",
