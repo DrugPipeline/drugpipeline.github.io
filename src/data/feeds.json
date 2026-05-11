@@ -1,11 +1,51 @@
 [
   {
+    "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
+    "link": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T18:04:34.000Z",
+    "summary": "Last year, the FDA had warned that natural opioids in kratom were being turned into harmful products. Now President Trump says approval should be considered."
+  },
+  {
+    "title": "STAT+: Medicare’s miss on Alzheimer’s drug spending",
+    "link": "https://www.statnews.com/2026/05/11/medicare-alzheimers-drugs-leqembi-kisunla-surprise-billing-lobbying/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T18:03:14.000Z",
+    "summary": "Far fewer seniors than expected are taking costly Alzheimer's drugs."
+  },
+  {
+    "title": "No FDA permission, no problem: New flavored vape policy worries experts",
+    "link": "https://www.statnews.com/2026/05/11/fda-vape-policy-new-guidance-favors-industry/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T17:14:24.000Z",
+    "summary": "A new FDA policy will let some flavored vapes stay on the market without authorization."
+  },
+  {
+    "title": "GSK cuts deal with Sino to broaden reach of hepatitis B drug",
+    "link": "https://www.biopharmadive.com/news/gsk-china-deal-sino-bepirovirsen-hepatitis-b/819818/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-11T15:56:10.000Z",
+    "summary": "The marketing deal is the latest in a series of recent pacts between GSK and China-based drug companies, and could speed access to a therapy called bepirovirsen that’s important to its future."
+  },
+  {
     "title": "STAT+: Astellas treatment offers new hope to a devastated rare disease community",
     "link": "https://www.statnews.com/2026/05/11/biotech-news-astellas-treatment-offers-hope-to-rare-disease-community/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-05-11T14:45:46.000Z",
     "summary": "Alzheimer's drug rollout letdown, a China-based heart drug startup, and more biotech news from The Readout"
+  },
+  {
+    "title": "Inhibrx delivers ‘differentiated’ cancer drug data; Fractyl starts diabetes gene therapy trial",
+    "link": "https://www.biopharmadive.com/news/inhibrx-fractyl-gene-therapy-capricor-bizengri-voucher-argenx/819798/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-11T14:00:00.000Z",
+    "summary": "Inhibrx, the subject of recent buyout rumors, showed its drug might enhance the effects of Keytruda. Elsewhere, Capricor sued its cell therapy partner and Argenx got a revenue boost."
   },
   {
     "title": "FDA Advances Drug Repurposing to Address Unmet Medical Needs",
@@ -104,6 +144,14 @@
     "summary": "Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM."
   },
   {
+    "title": "Eli Lilly inks dual-payload ADCs deal",
+    "link": "https://www.nature.com/articles/d41573-026-00079-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-11T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Experts wonder ‘Where is the CDC?’ as hantavirus outbreak unfolds",
     "link": "https://www.statnews.com/2026/05/09/mv-hondius-hantavirus-outbreak-cdc-takes-back-seat-to-who/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,30 +232,6 @@
     "summary": "The Indianapolis-based company expanded its spend to ensure it can meet growing demand for its weight-loss drugs."
   },
   {
-    "title": "Former FDA leaders, pharma speak out on mifepristone",
-    "link": "https://www.statnews.com/2026/05/08/supreme-court-mifepristone-amicus-briefs-pharma-former-fda-leaders/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T15:23:00.000Z",
-    "summary": "“The fundamental question is: Who gets to regulate mifepristone?”"
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/05/08/up-and-down-the-ladder-the-latest-comings-and-going/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T14:41:33.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "The biotechs wear Prada",
-    "link": "https://www.statnews.com/2026/05/08/met-gala-pharma-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T14:30:49.000Z",
-    "summary": "Was Naomi Osaka's Met Gala outfit inspired by Gilead's logo? Janelle Monáe's by Insilico's? Probably not — and yet."
-  },
-  {
     "title": "FDA to reevaluate spurned cell therapy; Under-the-skin Leqembi review extended",
     "link": "https://www.biopharmadive.com/news/fda-ebvallo-leqembi-iqlik-argenx-blackstone-anagram/819557/",
     "source": "BioPharma Dive",
@@ -262,22 +286,6 @@
     "category": "industry",
     "date": "2026-05-07T19:51:57.000Z",
     "summary": "Even though Elevidys beat Wall Street expectations, analysts expect investor focus to shift toward Sarepta's early-stage RNA drugs."
-  },
-  {
-    "title": "Angelini to buy Catalyst in $4B play for rare neuro drugs",
-    "link": "https://www.biopharmadive.com/news/angelini-catalyst-acquisition-cns-drugs/819591/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-07T15:20:00.000Z",
-    "summary": "The acquisition hands the Italian pharma a group of medicines approved to treat various CNS disorders and gives it wider market access in the U.S."
-  },
-  {
-    "title": "Entrada shares dive as Duchenne results disappoint",
-    "link": "https://www.biopharmadive.com/news/entrada-duchenne-data-stock-biotech-clinical-trial/819602/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-07T15:14:07.000Z",
-    "summary": "While the company claimed a victory, analysts said data from a Phase 1/2 study fell short of expectations. Entrada shares subsequently tumbled more than 50%."
   },
   {
     "title": "FDA Expands AI Capabilities and Completes Data Platform Consolidation",
