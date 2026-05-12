@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: STAT examines America’s deadliest drug",
+    "link": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-12T14:23:52.000Z",
+    "summary": "STAT examines America's failure to address excessive alcohol use across decades."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about pharma lobbying, Bristol’s deal with a Chinese partner, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/12/trumprx-pharma-lobbying-bristol-deal-with-chinese-partner/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-12T13:25:09.000Z",
+    "summary": "The 17 pharmaceutical companies anchoring TrumpRx poured more than $130 million into federal lobbying in 2025 — a nearly 23% surge"
+  },
+  {
+    "title": "FDA Finalizes Food Chemical Safety Post-Market Assessment Program, Launches Reassessment of BHT, ADA",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-finalizes-food-chemical-safety-post-market-assessment-program-launches-reassessment-bht-ada",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-05-12T13:08:03.000Z",
+    "summary": "FDA continues to implement its bold food agenda, with two decisive actions focused on food chemical safety."
+  },
+  {
+    "title": "Bristol Myers, Hengrui join forces in drugmaking alliance worth up to $15.2 billion",
+    "link": "https://www.biopharmadive.com/news/bristol-myers-hengrui-china-biotech-drugs-deal/819937/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-12T12:18:00.000Z",
+    "summary": "The wide-ranging pact involves as many as 13 drugs and marks the latest example of the growing relationship between Chinese pharmaceutical firms and their U.S. and Europe-based counterparts."
+  },
+  {
+    "title": "STAT+: Capsida says it still doesn’t know what caused gene therapy death",
+    "link": "https://www.statnews.com/2026/05/12/capsida-gene-therapy-trial-death-protein-target-adam-15/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-12T12:00:00.000Z",
+    "summary": "Some in the gene therapy field lament lost time while Capsida kept silent about the brain receptor it was targeting when things went wrong."
+  },
+  {
+    "title": "A year after Vertex’s big launch, pain drug research faces a pivotal moment",
+    "link": "https://www.biopharmadive.com/news/pain-drug-research-investment-journavx-vertex-latigo-lilly-ion-channel/818780/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-12T11:00:00.000Z",
+    "summary": "Journavx revived an area of development long considered a graveyard. Can any other pain drugs keep investor excitement going?"
+  },
+  {
+    "title": "STAT+: In the battle of sepsis algorithms, performance alone doesn’t predict victory",
+    "link": "https://www.statnews.com/2026/05/12/ai-sepsis-detection-startups-challenge-epic-systems/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-12T10:00:00.000Z",
+    "summary": "As new AI models for predicting sepsis hit the market, experts say performance alone will not drive adoption by hospitals."
+  },
+  {
+    "title": "PCOS’s new name is PMOS, a small letter change that required a big scientific process",
+    "link": "https://www.statnews.com/2026/05/12/pcos-now-called-pmos-polyendocrine-metabolic-ovarian-syndrome/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-12T09:00:00.000Z",
+    "summary": "A revised name for PCOS — polyendocrine metabolic ovarian syndrome, or PMOS — was introduced in a paper published Tuesday."
+  },
+  {
     "title": "STAT+: Patients jockey for exemptions from Medicaid’s new work requirements",
     "link": "https://www.statnews.com/2026/05/12/medicaid-work-requirements-lobbyists-seek-exemptions-deadline-looms/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,46 +232,6 @@
     "summary": "Doctors and insurers are battling to reshape the controversial No Surprises Act arbitration process, which has long frustrated both sides."
   },
   {
-    "title": "Animal skin disease confirmed in clusters of European men who have sex with men",
-    "link": "https://www.statnews.com/2026/05/11/rare-animal-skin-infection-msm-clusters-europe-dermatophilus-congolensis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-11T08:30:00.000Z",
-    "summary": "European researchers have diagnosed a number of men who have sex with other men with a skin disease that normally infects livestock."
-  },
-  {
-    "title": "STAT+: Medicare is spending far less than expected on new Alzheimer’s drugs",
-    "link": "https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-11T08:30:00.000Z",
-    "summary": "Adoption has been slow with new Alzheimer’s drugs because the treatments are complicated to administer and the benefits are uncertain."
-  },
-  {
-    "title": "Opinion: AI doctors should be licensed. Here’s a framework to do that",
-    "link": "https://www.statnews.com/2026/05/11/ai-doctors-licenses-utah-doctronic-pilot/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-11T08:30:00.000Z",
-    "summary": "A state-by-state approach to clinical AI won’t work. Here’s a framework that can."
-  },
-  {
-    "title": "Opinion: What addiction medicine can teach us about depending on AI",
-    "link": "https://www.statnews.com/2026/05/11/ai-dependence-addiction-substances-relief-psychology/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-11T08:30:00.000Z",
-    "summary": "People gradually rely on AI to reduce the discomfort of thinking. For some, that can become a problem."
-  },
-  {
-    "title": "STAT+: Five years after disaster, a rare disease community gets new chance at treatment",
-    "link": "https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-11T08:30:00.000Z",
-    "summary": "Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM."
-  },
-  {
     "title": "Eli Lilly inks dual-payload ADCs deal",
     "link": "https://www.nature.com/articles/d41573-026-00079-5",
     "source": "Nature Reviews Drug Discovery",
@@ -256,14 +280,6 @@
     "summary": "Deal volume in 2026 is substantially outpacing last year, and activity is being driven by interest in cancer and autoimmune disease drugs."
   },
   {
-    "title": "Odyssey, on second try, snags $279M in an IPO",
-    "link": "https://www.biopharmadive.com/news/odyssey-ipo-price-biotech-gary-glick-immune-drugs/819465/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-08T01:20:00.000Z",
-    "summary": "After withdrawing its initial filing last year, the immune drugmaker rebounded and added to a recent run of sizable new biotech stock offerings — while boosting its haul even higher through a…"
-  },
-  {
     "title": "The ovarian cancer drug market",
     "link": "https://www.nature.com/articles/d41573-026-00077-7",
     "source": "Nature Reviews Drug Discovery",
@@ -278,14 +294,6 @@
     "category": "research",
     "date": "2026-05-08T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Sarepta tumbles as its gene therapy sales decline further",
-    "link": "https://www.biopharmadive.com/news/sarepta-tumbles-earnings-elevidys-analysts-expecations/819585/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-07T19:51:57.000Z",
-    "summary": "Even though Elevidys beat Wall Street expectations, analysts expect investor focus to shift toward Sarepta's early-stage RNA drugs."
   },
   {
     "title": "FDA Expands AI Capabilities and Completes Data Platform Consolidation",
