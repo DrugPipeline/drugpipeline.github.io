@@ -1,5 +1,21 @@
 [
   {
+    "title": "Supreme Court temporarily extends women’s access to a widely used abortion pill",
+    "link": "https://www.statnews.com/2026/05/11/supreme-court-temporarily-extends-mifepristone-abortion-pill-access/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T20:14:08.000Z",
+    "summary": "The Supreme Court is temporarily extending access to a widely used abortion pill while it considers whether to allow restrictions on the drug to take effect."
+  },
+  {
+    "title": "STAT+: Colombia wins a key court ruling over a compulsory license issued for an HIV medicine",
+    "link": "https://www.statnews.com/pharmalot/2026/05/11/colombia-dolutegravir-court-case-patent-cost/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-11T19:57:25.000Z",
+    "summary": "A South American court upheld the steps taken by the Colombian government when it issued a compulsory license two years ago for an HIV medicine."
+  },
+  {
     "title": "STAT+: Trump pivots on kratom derivative 7-OH, floating approval for some forms",
     "link": "https://www.statnews.com/2026/05/11/trump-pivots-on-kratom-derivative-7-oh-floating-approval-for-some-forms/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,28 +216,12 @@
     "summary": "Makary's ouster would create another high-profile vacancy atop RFK Jr.'s health department."
   },
   {
-    "title": "STAT+: Capricor Therapeutics accuses Nippon Shinyaku of slow-walking plans on Duchenne drug",
-    "link": "https://www.statnews.com/pharmalot/2026/05/08/capricor-accuses-nippon-slow-walking-plans-for-duchenne-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T18:32:59.000Z",
-    "summary": "Capricor Therapeutics has accused Nippon Shinyaku and its U.S. subsidiary of botching the rollout of a Duchenne muscular dystrophy treatment."
-  },
-  {
     "title": "FDA Grants Seventh Approval under the National Priority Voucher Pilot Program",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-seventh-approval-under-national-priority-voucher-pilot-program",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-05-08T18:21:28.000Z",
     "summary": "FDA issued an approval for Bizengri (zenocutuzumab-zbco), a drug that treats NRG1 fusion-positive cholangiocarcinoma, an ultra-rare, aggressive cancer that forms in the bile ducts."
-  },
-  {
-    "title": "Opinion: I’m fighting misinformation online. False hantavirus claims follow a now-familiar playbook",
-    "link": "https://www.statnews.com/2026/05/08/hantavirus-outbreak-misinformation-spreads-faster-than-virus/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-08T15:34:07.000Z",
-    "summary": "The cruise ship hantavirus outbreak is serious but limited. Online, it's another story."
   },
   {
     "title": "Lilly to invest extra $4.5B across Indiana manufacturing",
@@ -326,13 +326,5 @@
     "category": "regulatory",
     "date": "2026-05-05T19:10:20.000Z",
     "summary": "FDA today authorized the marketing of four Glas electronic nicotine delivery systems (ENDS) through the premarket tobacco product application (PMTA) pathway."
-  },
-  {
-    "title": "Shifts in pharma’s therapeutic area focus",
-    "link": "https://www.nature.com/articles/d41573-026-00069-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-05T00:00:00.000Z",
-    "summary": ""
   }
 ]
