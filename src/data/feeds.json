@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: Why big digital health players are missing from Medicare’s chronic care experiment",
+    "link": "https://www.statnews.com/2026/05/14/medicare-chronic-care-pilot-access-digital-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T14:07:12.000Z",
+    "summary": "In this edition of STAT Health Tech: Why big digital health players skipped Medicare's ACCESS pilot, Isomorphic's big raise, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about upbeat results for a Duchenne drug, Takeda layoffs, and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/14/biogen-regenxbio-report-results-for-alzheimers-duchenne-takeda-layoffs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T13:44:43.000Z",
+    "summary": "Biogen reported mixed results from a mid-stage clinical trial investigating a treatment for Alzheimer’s disease that targets the protein tau"
+  },
+  {
+    "title": "With new data, Regenxbio to seek FDA approval of Duchenne gene therapy",
+    "link": "https://www.biopharmadive.com/news/regenxbio-duchenne-gene-therapy-results-fda/820145/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-14T13:10:00.000Z",
+    "summary": "Though two serious side effects muddied the results, CEO Curran Simpson expressed optimism about a clearance and claimed FDA leadership will have a “mandate on rare disease flexibility.”"
+  },
+  {
+    "title": "STAT+: Three years of declining overdose deaths begets cautious optimism and some concerns",
+    "link": "https://www.statnews.com/2026/05/14/health-news-three-years-of-declining-overdose-deaths/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T11:54:51.000Z",
+    "summary": "The next FDA leader, how the CDC is responding to hantavirus, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Biogen’s tau-targeting Alzheimer’s drug posts mixed results in mid-stage study",
+    "link": "https://www.statnews.com/2026/05/14/biogen-alzheimers-tau-diranersen-midstage-study-mixed-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T11:08:57.000Z",
+    "summary": "Biogen is moving its tau-targeting Alzheimer's drug into Phase 3 studies, despite mixed data from a Phase 2 trial."
+  },
+  {
+    "title": "STAT+: Regenxbio says Duchenne gene therapy succeeded in clinical trial, paving way for FDA submission",
+    "link": "https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T11:00:00.000Z",
+    "summary": "Regenxbio said its experimental gene therapy for Duchenne muscular dystrophy succeeded in a trial, paving the way for a submission to the FDA."
+  },
+  {
+    "title": "STAT+: CREATE Medicines, a biotech company developing CAR-T therapies, raises $122 million",
+    "link": "https://www.statnews.com/2026/05/14/create-medicines-car-t-raises-funding/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T11:00:00.000Z",
+    "summary": "CREATE Medicines has a new name, an expanded pipeline, and now fresh funding to propel the company’s first CAR-T candidates through human trials."
+  },
+  {
+    "title": "STAT+: ‘No drama’ Diamantas should serve biotech well as acting FDA chief",
+    "link": "https://www.statnews.com/2026/05/14/fda-kyle-diamantas-biotech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T10:30:00.000Z",
+    "summary": "Kyle Diamantas, the acting commissioner of the FDA, is expected to be a drama-free, stabilizing caretaker at the top of the agency."
+  },
+  {
     "title": "Opinion: Using AI in addiction medicine could be particularly risky",
     "link": "https://www.statnews.com/2026/05/14/addiction-medicine-ai-agent-empathy-caring-misguided/?utm_campaign=rss",
     "source": "STAT News",
@@ -128,68 +192,12 @@
     "summary": "FDA Commissioner Marty Makary is resigning, and Kyle Diamantas, the agency's top food regulator, will step in as acting commissioner"
   },
   {
-    "title": "STAT+: AI medical devices’ dirty FDA secret",
-    "link": "https://www.statnews.com/2026/05/13/ai-medical-devices-dirty-fda-secret-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T13:13:54.000Z",
-    "summary": "In this edition of STAT's AI Prognosis newsletter: A look at the quirks of the most common FDA medical device approval pathway, sepsis algorithms, and more."
-  },
-  {
-    "title": "Extreme heat is worsening faster for Black Americans",
-    "link": "https://www.statnews.com/2026/05/13/health-news-extreme-heat-worsens-faster-for-black-american/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T11:46:32.000Z",
-    "summary": "Bill Cassidy's can't-win conundrum, what RFK Jr. gets right and wrong about antidepressants, and more health news"
-  },
-  {
     "title": "[Podcast] Closing the Distance in Cancer Care",
     "link": "https://www.biopharmadive.com/spons/podcast-closing-the-distance-in-cancer-care/816089/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-13T11:16:33.000Z",
     "summary": "This podcast episode explores the critical role community oncology plays in the U.S. healthcare system and why supporting its growth and autonomy matters for patients and providers."
-  },
-  {
-    "title": "STAT+: Scientists link boy’s tumor to gene therapy viruses, in rare finding",
-    "link": "https://www.statnews.com/2026/05/13/gene-therapy-cancer-risks-mps-hurler-syndrome/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T10:00:00.000Z",
-    "summary": "Doctors have linked a boy's tumor to a gene therapy, but say the rare risks need to be weighed against the profound benefits such medicines can offer."
-  },
-  {
-    "title": "STAT+: Drug meant to make gene therapy safer may also make it less effective",
-    "link": "https://www.statnews.com/2026/05/13/encoded-therapeutics-dravet-syndrome-study-sirolimus-safety-tradeoff/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T10:00:00.000Z",
-    "summary": "Encoded Therapeutics gives a heads-up to other gene therapy company about the trade-offs with a drug meant to improve safety."
-  },
-  {
-    "title": "Opinion: RFK Jr.’s antidepressant deprescribing push gets one thing right — and others dangerously wrong",
-    "link": "https://www.statnews.com/2026/05/13/antidepressant-deprescribing-kennedy-ssris/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T08:30:00.000Z",
-    "summary": "“Deprescribing requires gradual tapering, psychological support, careful risk stratification, and accessible alternatives — none of which Kennedy’s initiative provides at scale.”"
-  },
-  {
-    "title": "Opinion: What can ‘blue zones’ really teach us about aging?",
-    "link": "https://www.statnews.com/2026/05/13/blue-zones-eric-topol-shelley-wood-podcast-interview/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T08:30:00.000Z",
-    "summary": "Have you heard about blue zones where people tend to live much longer? They’re more complicated than they might sound."
-  },
-  {
-    "title": "Opinion: Access to air conditioning is critical preventive care. But federal policy treats it as optional",
-    "link": "https://www.statnews.com/2026/05/13/heat-wave-air-conditioning-preventive-care-diabetes-liheap/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T08:30:00.000Z",
-    "summary": "Access to air conditioning is critical preventive care. But federal policy treats it as optional, write Charles E. Leonard and Anthony Nicome."
   },
   {
     "title": "The evolving landscape of obesity pharmacotherapy",
@@ -262,14 +270,6 @@
     "category": "industry",
     "date": "2026-05-11T15:56:10.000Z",
     "summary": "The marketing deal is the latest in a series of recent pacts between GSK and China-based drug companies, and could speed access to a therapy called bepirovirsen that’s important to its future."
-  },
-  {
-    "title": "Inhibrx delivers ‘differentiated’ cancer drug data; Fractyl starts diabetes gene therapy trial",
-    "link": "https://www.biopharmadive.com/news/inhibrx-fractyl-gene-therapy-capricor-bizengri-voucher-argenx/819798/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-11T14:00:00.000Z",
-    "summary": "Inhibrx, the subject of recent buyout rumors, showed its drug might enhance the effects of Keytruda. Elsewhere, Capricor sued its cell therapy partner and Argenx got a revenue boost."
   },
   {
     "title": "FDA Advances Drug Repurposing to Address Unmet Medical Needs",
