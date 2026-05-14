@@ -1,5 +1,85 @@
 [
   {
+    "title": "Hantavirus risk remains low, CDC says, citing its ‘playbook’ response",
+    "link": "https://www.statnews.com/2026/05/13/hantavirus-outbreak-cdc-briefing-cruise-ship-outbreak-response/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T21:12:10.000Z",
+    "summary": "Despite rising concern about the hantavirus outbreak on a cruise ship, two CDC doctors say the risk to the public remains low."
+  },
+  {
+    "title": "Officials say $1.3 billion in Medicaid money to California will be deferred over suspicions of fraud",
+    "link": "https://www.statnews.com/2026/05/13/medicaid-money-california-deferred-fraud-suspiscions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T19:42:48.000Z",
+    "summary": "Vice President JD Vance announced a $1.3 billion deferral in Medicaid reimbursements to California, as part of an initiative to root out fraud in federal health programs."
+  },
+  {
+    "title": "Opinion: The hantavirus is a wake-up call. Will the Trump administration answer it?",
+    "link": "https://www.statnews.com/2026/05/13/hantavirus-biocontainment-response-cdc-who-pandemic-preparedness/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T19:10:34.000Z",
+    "summary": "Arriving in the isolation ward of a biocontainment hospital is an unsettling, scary experience. In 2014, I spent 19 days in one while being treated for Ebola, watching the news…"
+  },
+  {
+    "title": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis",
+    "link": "https://www.statnews.com/2026/05/13/health-misinformation-doctors-hospitals-social-media-policies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T18:15:52.000Z",
+    "summary": "Hospitals and health systems need to loosen the reins and let physicians combat social media misinformation, writes Adam Goodcoff."
+  },
+  {
+    "title": "STAT+: What the Trump administration wants in its next FDA leader",
+    "link": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T17:26:08.000Z",
+    "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms."
+  },
+  {
+    "title": "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
+    "link": "https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T16:16:25.000Z",
+    "summary": "About 70,000 Americans died of drug overdoses last year — about 14% fewer than the previous year, according to preliminary government data."
+  },
+  {
+    "title": "FDA’s leadership void leaves biotech with renewed ‘uncertainty’",
+    "link": "https://www.biopharmadive.com/news/makary-fda-resign-biotech-impact/820090/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-13T16:02:00.000Z",
+    "summary": "Marty Makary's resignation leaves the agency with temporary directors in three top positions, and a number of newly instituted policies with an unclear future."
+  },
+  {
+    "title": "Lilly data point to ‘maintenance’ strategies for GLP-1 weight loss",
+    "link": "https://www.biopharmadive.com/news/lilly-zepbound-foundayo-maintenance-obesity-weight-loss-glp1/820093/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-13T15:23:00.000Z",
+    "summary": "A pair of trial results published in medical journals suggest switching from high-dose injectables to lower doses or pills could help people with obesity keep their weight down over the long term."
+  },
+  {
+    "title": "Medicare halts enrollment of new hospice, home health providers",
+    "link": "https://www.statnews.com/2026/05/13/medicare-halts-enrollment-of-new-hospice-home-health-providers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T15:17:25.000Z",
+    "summary": "The Centers for Medicare and Medicaid Services said it will pause the enrollment of new hospice and home health providers."
+  },
+  {
+    "title": "The ‘velocity of obesity’ aims to show which nations are slowing an epidemic",
+    "link": "https://www.statnews.com/2026/05/13/obesity-rates-bmi-rising-low-income-countries-plateau-wealthier-nations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-13T15:00:00.000Z",
+    "summary": "A study finds the rise in U.S. obesity rates have hit a plateau in children but are still climbing for adults, and are still high compared to those in other…"
+  },
+  {
     "title": "Assertio accepts new buyout bid; AI biotech Isomorphic banks $2B",
     "link": "https://www.biopharmadive.com/news/assertio-zydus-isomorphic-ai-kyverna-ac-immune/819950/",
     "source": "BioPharma Dive",
@@ -112,20 +192,20 @@
     "summary": "Young people and women are particularly vulnerable to MetALD, a dangerous merging of metabolic disease and alcohol use."
   },
   {
-    "title": "STAT+: Why Marty Makary was the worst FDA commissioner in 25 years",
-    "link": "https://www.statnews.com/2026/05/12/marty-makary-worst-fda-commissioner-25-years-stat-writer-matthew-herper/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T20:21:12.000Z",
-    "summary": "Marty Makary, who resigned under pressure from the FDA, brought to the job a fundamental lack of understanding of the nature of the role, STAT's Matthew Herper writes."
+    "title": "The evolving landscape of obesity pharmacotherapy",
+    "link": "https://www.nature.com/articles/s41573-026-01427-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-13T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "Males who discuss suicide seek help less often than females, report finds",
-    "link": "https://www.statnews.com/2026/05/12/suicide-in-men-crisis-text-line-report-males-see-seeking-help-as-weakness/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T19:21:11.000Z",
-    "summary": "Out of 1.5 million messages received in 2025, the Crisis Text Line found that less then 20% of the texters identified as male only"
+    "title": "Trends in the landscape of clinical trials of innovative drugs in China since 2015",
+    "link": "https://www.nature.com/articles/d41573-026-00081-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-13T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA chief Marty Makary resigns from agency, ending tumultuous tenure",
@@ -136,60 +216,12 @@
     "summary": "Makary’s exit ends a turbulent run marred by leadership upheaval, mass layoffs, political pressure and public spats with drugmakers."
   },
   {
-    "title": "STAT+: European Union inks a draft deal to boost local production of medicines and avoid shortages",
-    "link": "https://www.statnews.com/pharmalot/2026/05/12/european-union-draft-deal-boost-local-drug-production-avoid-shortages/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T18:18:06.000Z",
-    "summary": "The E.U. reached a provisional deal to strengthen the supply of essential medicines and avoid shortages by ‌boosting domestic production and reducing reliance on imports."
-  },
-  {
-    "title": "STAT+: Makary departs FDA amid turmoil as Diamantas, agency’s top food official, steps in",
-    "link": "https://www.statnews.com/2026/05/12/fda-commissioner-marty-makary-resigns-kyle-diamantas-acting/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T17:20:05.000Z",
-    "summary": "Food and Drug Administration Commissioner Marty Makary is resigning from his role after a tumultuous tenure."
-  },
-  {
-    "title": "Supreme Court extends mifepristone deadline",
-    "link": "https://www.statnews.com/2026/05/12/health-news-supreme-court-extends-mifepristone-deadline/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T16:24:40.000Z",
-    "summary": "The deadliest drug in the country, the new name for PCOS, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Hims takes a $33 million hit from GLP-1 ‘pivot’",
-    "link": "https://www.statnews.com/2026/05/12/hims-takes-33-million-hit-from-glp1-pivot-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T16:21:12.000Z",
-    "summary": "In this edition of STAT Health Tech: Hims earnings, Omada's PBM strategy, and the uphill battle faced by new sepsis algorithms."
-  },
-  {
-    "title": "STAT+: Hims’ sales miss as telehealth competition grows",
-    "link": "https://www.statnews.com/2026/05/12/biotech-news-hims-sales-miss-as-telehealth-competition-grows/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T16:19:30.000Z",
-    "summary": "Bristol's partnership with Hengrui Pharma, Viiv loses HIV treatment case, and more biotech news from The Readout"
-  },
-  {
     "title": "Arvinas, Pfizer find new partner for ‘Protac’ breast cancer drug",
     "link": "https://www.biopharmadive.com/news/arvinas-pfizer-rigel-veppanu-vepdegestrant-braest-cancer-deal/819949/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-12T16:05:00.000Z",
     "summary": "A deal with Rigel Pharmaceuticals ends months of uncertainty about the future of Veppanu, a first-of-its-kind, newly approved medicine with a murky financial outlook."
-  },
-  {
-    "title": "STAT+: STAT examines America’s deadliest drug",
-    "link": "https://www.statnews.com/2026/05/12/dc-diagnosis-medicaid-work-requirement-exemptions-deadliest-drug-series/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-12T14:23:52.000Z",
-    "summary": "STAT examines America's failure to address excessive alcohol use across decades."
   },
   {
     "title": "FDA Finalizes Food Chemical Safety Post-Market Assessment Program, Launches Reassessment of BHT, ADA",
@@ -216,6 +248,14 @@
     "summary": "Journavx revived an area of development long considered a graveyard. Can any other pain drugs keep investor excitement going?"
   },
   {
+    "title": "A peptide-guided strategy for kinase activation",
+    "link": "https://www.nature.com/articles/d41573-026-00080-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-12T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "GSK cuts deal with Sino to broaden reach of hepatitis B drug",
     "link": "https://www.biopharmadive.com/news/gsk-china-deal-sino-bepirovirsen-hepatitis-b/819818/",
     "source": "BioPharma Dive",
@@ -240,20 +280,12 @@
     "summary": "FDA announced it is soliciting input on efforts with respect to drug repurposing to help address unmet medical needs across a range of diseases and conditions."
   },
   {
-    "title": "Biotech layoffs are easing, but is the worst over?",
-    "link": "https://www.biopharmadive.com/news/biotech-layoffs-pharma-drug-jobs/819802/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-11T13:14:00.000Z",
-    "summary": "BioNTech is one of the most recent companies to announce cuts, but the pace of job losses is slowing."
-  },
-  {
-    "title": "The capacity crunch in biopharma is a location problem",
-    "link": "https://www.biopharmadive.com/spons/the-capacity-crunch-in-biopharma-is-a-location-problem/819159/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-11T09:00:00.000Z",
-    "summary": "Cell and gene therapies aren’t limited by ideas—they’re limited by where they’re built. See how “ready-now” locations change the math on scaling."
+    "title": "Eli Lilly inks dual-payload ADCs deal",
+    "link": "https://www.nature.com/articles/d41573-026-00079-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-11T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Grants Seventh Approval under the National Priority Voucher Pilot Program",
@@ -272,11 +304,19 @@
     "summary": "The U.S. Food and Drug Administration today issued a final guidance for industry, Postapproval Pregnancy Safety Studies, with recommendations on different methodologies that can be used in the…"
   },
   {
-    "title": "FDA Expands AI Capabilities and Completes Data Platform Consolidation",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-expands-ai-capabilities-and-completes-data-platform-consolidation",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-05-06T16:57:45.000Z",
-    "summary": "FDA announced major steps in its bold initiative to modernize the agency. The agency launched Elsa 4.0, a significant upgrade to the agency’s internal AI tool available to all FDA staff, from…"
+    "title": "The ovarian cancer drug market",
+    "link": "https://www.nature.com/articles/d41573-026-00077-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-08T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "First PROTAC gains FDA approval, bolstering targeted protein degradation and induced proximity ambitions",
+    "link": "https://www.nature.com/articles/d41573-026-00078-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-08T00:00:00.000Z",
+    "summary": ""
   }
 ]
