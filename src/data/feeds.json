@@ -1,5 +1,29 @@
 [
   {
+    "title": "PSA screening for prostate cancer reduces disease-specific deaths, new review shows",
+    "link": "https://www.statnews.com/2026/05/14/psa-tests-reduce-risk-prostate-cancer-deaths-new-study-cochrane-review/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-15T00:00:00.000Z",
+    "summary": "Prostate-specific antigen (PSA) blood testing likely reduces the risk of death from prostate cancer, found a new review"
+  },
+  {
+    "title": "Supreme Court preserves access to widely used abortion pill, while lawsuit plays out",
+    "link": "https://www.statnews.com/2026/05/14/supreme-court-preserves-access-abortion-pill-mifepristone/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T21:49:18.000Z",
+    "summary": "The Supreme Court on Thursday preserved women’s access to the abortion drug mifepristone, rejecting lower-court restrictions while a lawsuit continues."
+  },
+  {
+    "title": "Makary’s departure and Cassidy’s tenuous Senate seat",
+    "link": "https://www.statnews.com/2026/05/14/readout-loud-podcast-makary-fda-trump-cassidy-senate/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-14T20:14:09.000Z",
+    "summary": "This week's episode of “The Readout LOUD” is all about health politics, including Marty Makary's departure as FDA commissioner. Listen now."
+  },
+  {
     "title": "STAT investigates the epidemic killing 178,000 Americans a year",
     "link": "https://www.statnews.com/2026/05/14/deadliest-drug-alcohol-series-rick-berke-reader-letter/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,30 +184,6 @@
     "summary": "Arriving in the isolation ward of a biocontainment hospital is an unsettling, scary experience. In 2014, I spent 19 days in one while being treated for Ebola, watching the news…"
   },
   {
-    "title": "Opinion: Hospitals are silencing doctors online, and it’s fueling the health misinformation crisis",
-    "link": "https://www.statnews.com/2026/05/13/health-misinformation-doctors-hospitals-social-media-policies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T18:15:52.000Z",
-    "summary": "Hospitals and health systems need to loosen the reins and let physicians combat social media misinformation, writes Adam Goodcoff."
-  },
-  {
-    "title": "STAT+: What the Trump administration wants in its next FDA leader",
-    "link": "https://www.statnews.com/2026/05/13/marty-makary-fda-search-next-commissioner/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T17:26:08.000Z",
-    "summary": "Leaders want the next FDA commissioner to be someone who can rebuild trust, focus on food policy, and drive drug-approval reforms."
-  },
-  {
-    "title": "U.S. overdose deaths fell again in 2025, but some worry about policy and drug supply changes",
-    "link": "https://www.statnews.com/2026/05/13/us-overdose-deaths-2025-fell-again/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-13T16:16:25.000Z",
-    "summary": "About 70,000 Americans died of drug overdoses last year — about 14% fewer than the previous year, according to preliminary government data."
-  },
-  {
     "title": "FDA’s leadership void leaves biotech with renewed ‘uncertainty’",
     "link": "https://www.biopharmadive.com/news/makary-fda-resign-biotech-impact/820090/",
     "source": "BioPharma Dive",
@@ -302,21 +302,5 @@
     "category": "regulatory",
     "date": "2026-05-08T13:34:38.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a final guidance for industry, Postapproval Pregnancy Safety Studies, with recommendations on different methodologies that can be used in the…"
-  },
-  {
-    "title": "The ovarian cancer drug market",
-    "link": "https://www.nature.com/articles/d41573-026-00077-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "First PROTAC gains FDA approval, bolstering targeted protein degradation and induced proximity ambitions",
-    "link": "https://www.nature.com/articles/d41573-026-00078-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-08T00:00:00.000Z",
-    "summary": ""
   }
 ]
