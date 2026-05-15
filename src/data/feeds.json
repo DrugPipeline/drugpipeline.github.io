@@ -1,11 +1,43 @@
 [
   {
+    "title": "STAT+: A political contest in the U.K. could shake up drug pricing",
+    "link": "https://www.statnews.com/2026/05/15/health-news-uk-political-contest-shaking-up-drug-pricing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-15T13:31:19.000Z",
+    "summary": "Makary and Cassidy's fates, U.S. pressures Germany to pay more for drugs, and other health news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/15/germany-drug-prices-biotech-clinical-trials-pharmalittle-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-15T13:29:23.000Z",
+    "summary": "In today's Pharmalittle roundup: U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and much more."
+  },
+  {
+    "title": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place",
+    "link": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-15T13:24:34.000Z",
+    "summary": "Restricting telehealth prescribing of mifepristone wouldn't spell the end of telehealth medication abortion, writes OB/GYN Christine Henneberg."
+  },
+  {
+    "title": "Mail-order abortion pills are legal (for now)",
+    "link": "https://www.statnews.com/2026/05/15/health-news-mail-order-abortion-pills-are-legal-for-now/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-15T13:04:06.000Z",
+    "summary": "Africa CDC declares Ebola outbreak in DRC, the violent fallout from Trump’s cuts to foreign aid, and more health news"
+  },
+  {
     "title": "DOJ accuses Yale and UCLA medical schools of discriminating against white and Asian applicants",
     "link": "https://www.statnews.com/2026/05/15/trump-doj-targets-yale-ucla-medical-school-admissions/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-05-15T08:30:00.000Z",
-    "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic, following a similar missive…"
+    "summary": "The Justice Department sent a letter to Yale School of Medicine on Thursday, alleging it was illegally discriminating against applicants who are not Black or Hispanic."
   },
   {
     "title": "STAT+: Top U.S. officials pressured Germany to pay more for prescription drugs",
@@ -152,38 +184,6 @@
     "summary": "The next FDA leader, how the CDC is responding to hantavirus, and more health news from Morning Rounds"
   },
   {
-    "title": "STAT+: Biogen’s tau-targeting Alzheimer’s drug posts mixed results in mid-stage study",
-    "link": "https://www.statnews.com/2026/05/14/biogen-alzheimers-tau-diranersen-midstage-study-mixed-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-14T11:08:57.000Z",
-    "summary": "Biogen is moving its tau-targeting Alzheimer's drug into Phase 3 studies, despite mixed data from a Phase 2 trial."
-  },
-  {
-    "title": "STAT+: Regenxbio says Duchenne gene therapy succeeded in clinical trial, paving way for FDA submission",
-    "link": "https://www.statnews.com/2026/05/14/regenxbio-duchenne-gene-therapy-trial-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-14T11:00:00.000Z",
-    "summary": "Regenxbio said its experimental gene therapy for Duchenne muscular dystrophy succeeded in a trial, paving the way for a submission to the FDA."
-  },
-  {
-    "title": "STAT+: CREATE Medicines, a biotech company developing CAR-T therapies, raises $122 million",
-    "link": "https://www.statnews.com/2026/05/14/create-medicines-car-t-raises-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-14T11:00:00.000Z",
-    "summary": "CREATE Medicines has a new name, an expanded pipeline, and now fresh funding to propel the company’s first CAR-T candidates through human trials."
-  },
-  {
-    "title": "STAT+: ‘No drama’ Diamantas should serve biotech well as acting FDA chief",
-    "link": "https://www.statnews.com/2026/05/14/fda-kyle-diamantas-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-14T10:30:00.000Z",
-    "summary": "Kyle Diamantas, the acting commissioner of the FDA, is expected to be a drama-free, stabilizing caretaker at the top of the agency."
-  },
-  {
     "title": "FDA’s leadership void leaves biotech with renewed ‘uncertainty’",
     "link": "https://www.biopharmadive.com/news/makary-fda-resign-biotech-impact/820090/",
     "source": "BioPharma Dive",
@@ -294,13 +294,5 @@
     "category": "regulatory",
     "date": "2026-05-08T18:21:28.000Z",
     "summary": "FDA issued an approval for Bizengri (zenocutuzumab-zbco), a drug that treats NRG1 fusion-positive cholangiocarcinoma, an ultra-rare, aggressive cancer that forms in the bile ducts."
-  },
-  {
-    "title": "FDA Issues Guidance to Improve Collection of Pregnancy Safety Data for Drugs and Biologics",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-guidance-improve-collection-pregnancy-safety-data-drugs-and-biologics",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-05-08T13:34:38.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued a final guidance for industry, Postapproval Pregnancy Safety Studies, with recommendations on different methodologies that can be used in the…"
   }
 ]
