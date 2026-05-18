@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
+    "link": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-18T14:43:27.000Z",
+    "summary": "The rejection may make the pharma firms remaining lawsuits more difficult."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about U.S. biotech’s China problem, a Regeneron flop, and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/18/biotech-has-china-problem-regeneron-melanoma-drug-flops/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-18T13:11:48.000Z",
+    "summary": "The question of whether to partner with Chinese firms — or see them as rivals — is tearing biotech apart, pitting peers and partners against one another"
+  },
+  {
+    "title": "Regeneron immunotherapy combo comes up short in melanoma trial",
+    "link": "https://www.biopharmadive.com/news/regeneron-cancer-immunotherapy-fianlimab-lag3-melanoma-study-results/820443/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-18T11:55:00.000Z",
+    "summary": "A two-drug regimen of Regeneron’s fianlimab and Libtayo didn’t significantly outperform Keytruda in a late-stage study, a finding that surprised Wall Street analysts and wiped out billions in market…"
+  },
+  {
+    "title": "Texas is opening up a detransition clinic",
+    "link": "https://www.statnews.com/2026/05/18/health-news-texas-opens-detransition-clinic/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-18T11:43:39.000Z",
+    "summary": "Americans exposed to Ebola outbreak, Bill Cassidy's primary defeat, and more health news from Morning Rounds"
+  },
+  {
     "title": "Unlocking more value from mature drug products through strategic outsourcing",
     "link": "https://www.biopharmadive.com/spons/unlocking-more-value-from-mature-drug-products-through-strategic-outsourcin/820074/",
     "source": "BioPharma Dive",
@@ -30,6 +62,14 @@
     "category": "industry",
     "date": "2026-05-18T08:30:00.000Z",
     "summary": "Opinion: Vaccine policy it is not a matter of autonomy at all, because infants do not decline vaccination — their parents do."
+  },
+  {
+    "title": "Autophagy modulation in cancer",
+    "link": "https://www.nature.com/articles/s41573-026-01449-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-18T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: U.K. advocacy groups threaten court action over a key provision in the pharma trade deal with the U.S.",
@@ -104,7 +144,7 @@
     "summary": "“There's been interest in longevity, promoting it, for millennia. But this 25-year campaign really brought it to the forefront,” Eric Topol says of blue zones."
   },
   {
-    "title": "STAT+: FDA drug center head Tracy Beth Høeg leaves as agency faces leadership vacuum",
+    "title": "STAT+: FDA leadership shakeup widens following Makary’s departure",
     "link": "https://www.statnews.com/2026/05/15/fda-leadership-vacuum-tracy-beth-hoeg-resigns-drug-center-post/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -168,30 +208,6 @@
     "summary": "A new Ebola outbreak has been confirmed in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far."
   },
   {
-    "title": "STAT+: A political contest in the U.K. could shake up drug pricing",
-    "link": "https://www.statnews.com/2026/05/15/health-news-uk-political-contest-shaking-up-drug-pricing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-15T13:31:19.000Z",
-    "summary": "Makary and Cassidy's fates, U.S. pressures Germany to pay more for drugs, and other health news"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/05/15/germany-drug-prices-biotech-clinical-trials-pharmalittle-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-15T13:29:23.000Z",
-    "summary": "In today's Pharmalittle roundup: U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and much more."
-  },
-  {
-    "title": "Opinion: Telehealth abortion with mifepristone continues, with backup plans still in place",
-    "link": "https://www.statnews.com/2026/05/15/mifepristone-telehealth-abortion-alternatives-supreme-court/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-15T13:24:34.000Z",
-    "summary": "Restricting telehealth prescribing of mifepristone wouldn't spell the end of telehealth medication abortion, writes OB-GYN Christine Henneberg."
-  },
-  {
     "title": "India’s pharma industry is going global. But can it catch up to China?",
     "link": "https://www.biopharmadive.com/news/india-pharma-industry-china-drug-innovation/820335/",
     "source": "BioPharma Dive",
@@ -232,14 +248,6 @@
     "summary": "Marty Makary's resignation leaves the agency with temporary directors in three top positions, and a number of newly instituted policies with an unclear future."
   },
   {
-    "title": "Lilly data point to ‘maintenance’ strategies for GLP-1 weight loss",
-    "link": "https://www.biopharmadive.com/news/lilly-zepbound-foundayo-maintenance-obesity-weight-loss-glp1/820093/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-13T15:23:00.000Z",
-    "summary": "A pair of trial results published in medical journals suggest switching from high-dose injectables to lower doses or pills could help people with obesity keep their weight down over the long term."
-  },
-  {
     "title": "The evolving landscape of obesity pharmacotherapy",
     "link": "https://www.nature.com/articles/s41573-026-01427-1",
     "source": "Nature Reviews Drug Discovery",
@@ -270,13 +278,5 @@
     "category": "research",
     "date": "2026-05-12T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Advances Drug Repurposing to Address Unmet Medical Needs",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-advances-drug-repurposing-address-unmet-medical-needs",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-05-11T13:59:33.000Z",
-    "summary": "FDA announced it is soliciting input on efforts with respect to drug repurposing to help address unmet medical needs across a range of diseases and conditions."
   }
 ]
