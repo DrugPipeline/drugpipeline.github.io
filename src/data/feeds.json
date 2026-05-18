@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Why the WakeMed – Atrium Health hospital merger matters",
+    "link": "https://www.statnews.com/2026/05/18/atrium-health-wake-med-merger-gmrs-ipo-health-care-inc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-18T17:39:27.000Z",
+    "summary": "Hospital execs worked in secret on the deal for two years."
+  },
+  {
+    "title": "STAT+: AstraZeneca picks up FDA approval for hypertension drug",
+    "link": "https://www.statnews.com/2026/05/18/biotech-news-astrazeneca-picks-up-fda-approval-hypertension-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-18T17:05:01.000Z",
+    "summary": "The China question, FDA leadership shakeups, and other biotech news from The Readout"
+  },
+  {
+    "title": "U.S. bans entry from Ebola-affected countries as American patient is identified",
+    "link": "https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-18T16:04:31.000Z",
+    "summary": "In response to an Ebola outbreak, the U.S. has banned entry for noncitizens who have been in the Democratic Republic of the Congo, Uganda, or South Sudan recently."
+  },
+  {
+    "title": "FDA approves AstraZeneca’s new kind of hypertension drug",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-baxfendy-approval-hypertension-blood-pressure/820491/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-18T16:04:00.000Z",
+    "summary": "Baxfendy inhibits a blood-pressure-raising enzyme and, according to AstraZeneca executives, is poised to be a “big product” that should ultimately generate $5 billion or more in annual sales."
+  },
+  {
+    "title": "Merck ADC, licensed from China, hits mark in first big global trial",
+    "link": "https://www.biopharmadive.com/news/merck-kelun-china-adc-sacTMT-endometrial-cancer-data/820472/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-18T15:49:00.000Z",
+    "summary": "The endometrial cancer trial is the first of 17 late-stage studies Merck is running for a therapy that’s important to its ambitions of hitting $70 billion in annual sales next decade."
+  },
+  {
+    "title": "Høeg fired in latest FDA shakeup; 20 people die after taking Amgen drug",
+    "link": "https://www.biopharmadive.com/news/hoeg-fda-amgen-vincentage-regeneron-parabilis/820451/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-18T14:49:00.000Z",
+    "summary": "The agency has once again shuffled the leadership for two top drug review offices. Elsewhere, Parabilis partnered with Regeneron and an obesity pill is headed toward an approval in China."
+  },
+  {
     "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
     "link": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,36 +224,12 @@
     "summary": "The ruling maintains access to the drug while litigation continues. Mifepristone can still be prescribed at pharmacies or by mail without requiring in-person visits."
   },
   {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/05/15/up-and-down-the-ladder-the-latest-comings-and-goings-jobs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-15T15:40:39.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
     "title": "Biotech leaders campaign for Pazdur; Takeda to lay off 4,500 workers",
     "link": "https://www.biopharmadive.com/news/pazdur-fda-takeda-layoffs-astrazeneca-beone-alumis-acelyrin/820249/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-15T15:36:00.000Z",
     "summary": "Hundreds of executives and investors are pushing for Rick Pazdur to be the next FDA commissioner. Elsewhere, Takeda detailed its latest restructuring and Alumis is discarding a once-highly touted…"
-  },
-  {
-    "title": "Opinion: First hantavirus, now Ebola: What two outbreaks reveal about global preparedness",
-    "link": "https://www.statnews.com/2026/05/15/ebola-outbreak-drc-hantavirus-who/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-15T14:35:52.000Z",
-    "summary": "“Preparedness is not built during a crisis press conference or after a pathogen has already crossed borders,” writes Krutika Kuppalli."
-  },
-  {
-    "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
-    "link": "https://www.statnews.com/2026/05/15/new-ebola-outbreak-congo-ituri-province/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-15T14:16:13.000Z",
-    "summary": "A new Ebola outbreak has been confirmed in Congo’s remote Ituri province, with 246 suspected cases and 65 deaths recorded so far."
   },
   {
     "title": "India’s pharma industry is going global. But can it catch up to China?",
@@ -222,30 +246,6 @@
     "category": "industry",
     "date": "2026-05-14T16:07:00.000Z",
     "summary": "The fresh funds will support the biotech's pipeline of RNA-based CAR-T cell therapies for cancer and autoimmune conditions."
-  },
-  {
-    "title": "Biogen pushing tau drug forward despite Alzheimer’s study failure",
-    "link": "https://www.biopharmadive.com/news/biogen-biib080-alzheimers-tau-clinical-results-study-trial/820256/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-14T14:55:52.000Z",
-    "summary": "One of the company’s more closely watched research assets, BIIB080 is now heading to late-stage testing based on “the strength of the biomarker and efficacy data” seen in a Phase 2 trial."
-  },
-  {
-    "title": "With new data, Regenxbio to seek FDA approval of Duchenne gene therapy",
-    "link": "https://www.biopharmadive.com/news/regenxbio-duchenne-gene-therapy-results-fda/820145/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-14T13:10:00.000Z",
-    "summary": "Though two serious side effects muddied the results, CEO Curran Simpson expressed optimism about a clearance and claimed FDA leadership will have a “mandate on rare disease flexibility.”"
-  },
-  {
-    "title": "FDA’s leadership void leaves biotech with renewed ‘uncertainty’",
-    "link": "https://www.biopharmadive.com/news/makary-fda-resign-biotech-impact/820090/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-13T16:02:00.000Z",
-    "summary": "Marty Makary's resignation leaves the agency with temporary directors in three top positions, and a number of newly instituted policies with an unclear future."
   },
   {
     "title": "The evolving landscape of obesity pharmacotherapy",
