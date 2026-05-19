@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Dexcom CEO hints at future uses for CGM",
+    "link": "https://www.statnews.com/2026/05/19/dexcom-cgm-sensors-new-uses-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T14:10:17.000Z",
+    "summary": "In this edition of STAT Health Tech: Takeaways from a conversation with Dexcom CEO, and updates on WiSeR, and Epic's market share."
+  },
+  {
+    "title": "STAT+: A new ranking of pharma companies by R&D performance",
+    "link": "https://www.statnews.com/2026/05/19/biotech-news-new-ranking-of-pharma-companies-by-rd-performance/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T13:55:46.000Z",
+    "summary": "Maryland drug board to cap price of Ozempic, TrumpRx partners with Cuban, GoodRx, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Supreme Court setback for pharma, TrumpRx expands and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/19/supreme-court-setback-for-pharma-trumprx-expands/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T13:23:29.000Z",
+    "summary": "The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter"
+  },
+  {
+    "title": "Relay drug shows early promise against rare blood vessel diseases",
+    "link": "https://www.biopharmadive.com/news/relay-zovegalisib-vascular-anomalies-study-results/820532/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-19T12:05:00.000Z",
+    "summary": "While early, the findings suggest the therapy could be superior to Novartis’ Vijoice at treating “vascular anomalies,” a cluster of chronic conditions with few available treatments."
+  },
+  {
+    "title": "STAT+: Eli Lilly tops prominent rankings on pharma R&D performance",
+    "link": "https://www.statnews.com/2026/05/19/pharma-rankings-innovation-invention/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T12:00:00.000Z",
+    "summary": "A new set of lists ranks drug company laboratories on two criteria: innovation and invention."
+  },
+  {
+    "title": "The latest on Ebola: A travel ban and an old vaccine",
+    "link": "https://www.statnews.com/2026/05/19/health-news-ebola-travel-ban-and-old-vaccine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T11:39:48.000Z",
+    "summary": "Affordable Care Act changes, drinking while pregnant, and more health news from Morning Rounds"
+  },
+  {
     "title": "Opinion: I’m a heart transplant recipient. I’m haunted by ‘ghost approval’ for medication I need to survive",
     "link": "https://www.statnews.com/2026/05/19/insurance-approval-denial-cost-access-transplant-medication/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,52 +216,12 @@
     "summary": "China's ascent is forcing U.S. biotech companies and investors to pick a side: Is it an ally or an existential threat?"
   },
   {
-    "title": "Opinion: ‘Patient autonomy’ has nothing to do with childhood vaccine policies",
-    "link": "https://www.statnews.com/2026/05/18/patient-autonomy-childhood-vaccines-red-herring/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-18T08:30:00.000Z",
-    "summary": "Opinion: Vaccine policy it is not a matter of autonomy at all, because infants do not decline vaccination — their parents do."
-  },
-  {
     "title": "Autophagy modulation in cancer",
     "link": "https://www.nature.com/articles/s41573-026-01449-9",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-05-18T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: U.K. advocacy groups threaten court action over a key provision in the pharma trade deal with the U.S.",
-    "link": "https://www.statnews.com/pharmalot/2026/05/17/uk-advocates-threaten-court-action-over-pharma-trade-deal-with-us/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-17T23:01:00.000Z",
-    "summary": "A pair of advocacy groups is threatening legal action unless the U.K. government revokes regulations at the heart of a new pharma trade agreement with the U.S."
-  },
-  {
-    "title": "In Ebola outbreak, a number of Americans in the Congo believed to have had exposure to suspected cases",
-    "link": "https://www.statnews.com/2026/05/17/ebola-outbreak-congo-americans-exposure-suspected-cases/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-17T21:45:09.000Z",
-    "summary": "A number of Americans who are in the Congo are believed to have had exposure to suspected cases in the country’s latest Ebola outbreak, sources have told STAT."
-  },
-  {
-    "title": "When should you get a mammogram? Conflicting advice makes it hard to know",
-    "link": "https://www.statnews.com/2026/05/17/when-should-you-get-a-mammogram-conflicting-advice/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-17T19:04:45.000Z",
-    "summary": "When should you get a mammogram? Conflicting advice makes it hard to know."
-  },
-  {
-    "title": "STAT+: The hantavirus outbreak is prompting Covid flashbacks — including the conspiracies",
-    "link": "https://www.statnews.com/2026/05/17/hantavirus-outbreak-cruise-ship-covid-flashbacks-conspiracy-theories/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-17T18:07:58.000Z",
-    "summary": "The deadly outbreak of a rare strain of hantavirus on a cruise has generated echoes of the pandemic era, including conspiracy theories."
   },
   {
     "title": "FDA hold puts Aardvark Prader-Willi drug in limbo",
@@ -248,14 +256,6 @@
     "summary": "A record Sun Pharma acquisition signals global ambitions. But infrastructure, capital and policy gaps could stand in the way of India becoming an R&D powerhouse."
   },
   {
-    "title": "Create Medicines raises $122M to bolster in vivo CAR-T therapies",
-    "link": "https://www.biopharmadive.com/news/create-medicines-series-b-in-vivo-car-t-therapy/820226/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-14T16:07:00.000Z",
-    "summary": "The fresh funds will support the biotech's pipeline of RNA-based CAR-T cell therapies for cancer and autoimmune conditions."
-  },
-  {
     "title": "The evolving landscape of obesity pharmacotherapy",
     "link": "https://www.nature.com/articles/s41573-026-01427-1",
     "source": "Nature Reviews Drug Discovery",
@@ -270,13 +270,5 @@
     "category": "research",
     "date": "2026-05-13T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Finalizes Food Chemical Safety Post-Market Assessment Program, Launches Reassessment of BHT, ADA",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-finalizes-food-chemical-safety-post-market-assessment-program-launches-reassessment-bht-ada",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-05-12T13:08:03.000Z",
-    "summary": "FDA continues to implement its bold food agenda, with two decisive actions focused on food chemical safety."
   }
 ]
