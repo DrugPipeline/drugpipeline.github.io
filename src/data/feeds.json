@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: 23andMe offers to connect users’ DNA data with medical records",
+    "link": "https://www.statnews.com/2026/05/19/23andme-healthex-to-connect-dna-data-with-health-records/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-20T01:35:55.000Z",
+    "summary": "23andMe is partnering with HealthEx to allow users to import their medical records, the company said Tuesday at STAT Breakthrough Summit West."
+  },
+  {
+    "title": "STAT+: Marc Tessier-Lavigne addresses new book’s allegations about his conduct in Stanford misconduct case",
+    "link": "https://www.statnews.com/2026/05/19/former-stanford-president-marc-tessier-lavigne-responds-allegations-new-book/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T23:49:20.000Z",
+    "summary": "Former Stanford President Marc Tessier-Lavigne responded publicly for the first time, at a STAT event Tuesday, to allegations in a new book about why he was forced to resign."
+  },
+  {
+    "title": "Trump’s cuts to foreign aid are undermining the Ebola response, insiders say",
+    "link": "https://www.statnews.com/2026/05/19/us-aid-cuts-hamper-drc-ebola-response/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T22:39:31.000Z",
+    "summary": "President Trump's cuts to foreign aid probably hampered the detection of the Ebola outbreak and the response to it."
+  },
+  {
+    "title": "STAT+: Virginia governor vetoes legislation to create an advisory panel to lower the cost of prescription drugs",
+    "link": "https://www.statnews.com/pharmalot/2026/05/19/virginia-governor-vetoes-bill-to-create-panel-to-lower-drug-costs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T20:55:37.000Z",
+    "summary": "Virginia's governor vetoed a closely watched effort to create an advisory panel to lower prescription drug costs."
+  },
+  {
+    "title": "STAT+: This spine surgery usually costs $1,400. Under No Surprises Act arbitration? $34,000",
+    "link": "https://www.statnews.com/2026/05/19/no-surprises-act-dispute-resolution-fuels-extraordinary-payouts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T20:53:35.000Z",
+    "summary": "A new analysis shows how some clinicians are cashing in on a new process designed to protect patients from surprise bills."
+  },
+  {
+    "title": "How AI helped treat a newborn’s ultra rare disease. ‘It was almost like a light switch.’",
+    "link": "https://www.statnews.com/2026/05/19/ai-helped-find-treatment-newborn-ultra-rare-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-19T20:52:08.000Z",
+    "summary": "The parents of Jorie Kraus told the audience at STAT's Breakthrough Summit West about how AI helped their daughter who was born with a rare disease."
+  },
+  {
     "title": "STAT+: Canadian medical societies lack sufficient conflict-of-interest policies, study finds",
     "link": "https://www.statnews.com/pharmalot/2026/05/19/canadian-medical-societies-lack-sufficient-conflict-of-interest-policies/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,38 +192,6 @@
     "summary": "With no approved vaccine for the fast-growing Ebola outbreak in the DRC, experts weigh testing one with unknown protection."
   },
   {
-    "title": "STAT+: Trump’s CMS to allow skimpier plans on ACA exchanges",
-    "link": "https://www.statnews.com/2026/05/18/trump-aca-insurance-new-cms-rules-expand-catastrophic-coverage/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-18T19:45:49.000Z",
-    "summary": "The new plans could leave patients on the hook for more of their health care costs."
-  },
-  {
-    "title": "STAT+: Why the WakeMed – Atrium Health hospital merger matters",
-    "link": "https://www.statnews.com/2026/05/18/atrium-health-wake-med-merger-gmrs-ipo-health-care-inc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-18T17:39:27.000Z",
-    "summary": "Hospital execs worked in secret on the deal for two years."
-  },
-  {
-    "title": "STAT+: AstraZeneca picks up FDA approval for hypertension drug",
-    "link": "https://www.statnews.com/2026/05/18/biotech-news-astrazeneca-picks-up-fda-approval-hypertension-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-18T17:05:01.000Z",
-    "summary": "The China question, FDA leadership shakeups, and other biotech news from The Readout"
-  },
-  {
-    "title": "U.S. bans entry from Ebola-affected countries as American patient is identified",
-    "link": "https://www.statnews.com/2026/05/18/cdc-ebola-travel-ban-announced-uganda-congo-south-sudan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-18T16:04:31.000Z",
-    "summary": "In response to an Ebola outbreak, the U.S. has banned entry for noncitizens who have been in the Democratic Republic of the Congo, Uganda, or South Sudan recently."
-  },
-  {
     "title": "FDA approves AstraZeneca’s new kind of hypertension drug",
     "link": "https://www.biopharmadive.com/news/astrazeneca-baxfendy-approval-hypertension-blood-pressure/820491/",
     "source": "BioPharma Dive",
@@ -198,22 +214,6 @@
     "category": "industry",
     "date": "2026-05-18T14:49:00.000Z",
     "summary": "The agency has once again shuffled the leadership for two top drug review offices. Elsewhere, Parabilis partnered with Regeneron and an obesity pill is headed toward an approval in China."
-  },
-  {
-    "title": "STAT+: Supreme Court rejects challenge to Medicare drug price negotiation",
-    "link": "https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-18T14:43:27.000Z",
-    "summary": "The rejection may make the pharma firms remaining lawsuits more difficult."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about U.S. biotech’s China problem, a Regeneron flop, and much more",
-    "link": "https://www.statnews.com/pharmalot/2026/05/18/biotech-has-china-problem-regeneron-melanoma-drug-flops/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-18T13:11:48.000Z",
-    "summary": "The question of whether to partner with Chinese firms — or see them as rivals — is tearing biotech apart, pitting peers and partners against one another"
   },
   {
     "title": "Regeneron immunotherapy combo comes up short in melanoma trial",
@@ -254,21 +254,5 @@
     "category": "industry",
     "date": "2026-05-15T15:47:00.000Z",
     "summary": "The ruling maintains access to the drug while litigation continues. Mifepristone can still be prescribed at pharmacies or by mail without requiring in-person visits."
-  },
-  {
-    "title": "The evolving landscape of obesity pharmacotherapy",
-    "link": "https://www.nature.com/articles/s41573-026-01427-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-13T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Trends in the landscape of clinical trials of innovative drugs in China since 2015",
-    "link": "https://www.nature.com/articles/d41573-026-00081-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-13T00:00:00.000Z",
-    "summary": ""
   }
 ]
