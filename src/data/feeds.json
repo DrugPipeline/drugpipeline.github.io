@@ -1,5 +1,37 @@
 [
   {
+    "title": "Guarding biotech from China and big bets in longevity",
+    "link": "https://www.statnews.com/2026/05/21/guarding-biotech-from-china-and-big-bets-in-longevity/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-21T18:53:59.000Z",
+    "summary": "On this week’s episode of “The Readout LOUD,” the hosts discuss STAT's Breakthrough Summit West, where powerful leaders from health care and science rubbed shoulders. They share some of the…"
+  },
+  {
+    "title": "STAT+: RFK Jr.’s screen time warning",
+    "link": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-21T16:43:27.000Z",
+    "summary": "RFK Jr. is urging limits on how much screen time kids get, in a new government advisory."
+  },
+  {
+    "title": "STAT+: Immunovant shares surge on arthritis trial data",
+    "link": "https://www.statnews.com/2026/05/21/biotech-news-immunovant-shares-surge-on-arthritis-trial-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-21T16:27:38.000Z",
+    "summary": "Trial results for Lilly's \"triple-G\" drug, FDA's leadership purge leaves chaos, and more biotech news from The Readout"
+  },
+  {
+    "title": "RA Capital banks $75M for a biotech SPAC",
+    "link": "https://www.biopharmadive.com/news/ra-capital-spac-biotech-china-merger-pricing/820878/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-21T15:51:01.000Z",
+    "summary": "Research Alliance III follows a few months after Cormorant Asset Management priced a $150 million IPO for its own blank-check entity."
+  },
+  {
     "title": "BioMarin notches win in study that could expand use of top-selling medicine",
     "link": "https://www.biopharmadive.com/news/biomarin-voxzogo-results-hypochondroplasia-trial-results-fda-application/820873/",
     "source": "BioPharma Dive",
@@ -24,12 +56,20 @@
     "summary": "The DOJ alleges Elevance fraudulently billed the government for inaccurate medical diagnoses."
   },
   {
-    "title": "Live: Senate committee questions NIH director on 2027 budget",
+    "title": "Senate committee questions NIH director on 2027 budget",
     "link": "https://www.statnews.com/2026/05/21/live-coverage-nih-director-jay-bhattacharya-senate-testimony/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-05-21T14:00:40.000Z",
     "summary": "Watch as NIH Director Jay Bhattacharya is questioned by the Senate Appropriations Committee this morning on President Trump’s budget proposal for the 2027 fiscal year."
+  },
+  {
+    "title": "Lilly’s triple-acting obesity drug hits goal in Phase 3 trial",
+    "link": "https://www.biopharmadive.com/news/lillys-retatrutide-tripleG-phase3-obesity-data/820851/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-21T13:38:53.000Z",
+    "summary": "Participants who stayed on the drug lost around one-quarter of their body weight, potentially setting a new benchmark for rivals like Novo Nordisk."
   },
   {
     "title": "STAT+: Pharmalittle: We’re reading about a Lilly obesity drug trial, statistics for an Alzheimer’s drug, and more",
@@ -152,14 +192,6 @@
     "summary": "How the ouster of key officials at the FDA has created anxiety and uncertainty for the developers of rare disease drugs."
   },
   {
-    "title": "STAT+: Kennedy fires two leaders on preventive services task force",
-    "link": "https://www.statnews.com/2026/05/20/kennedy-fires-vice-chairs-us-preventive-services-task-force/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-20T16:44:42.000Z",
-    "summary": "Kennedy will have broad latitude to remake the panel, which advises the government on types of preventive care that should be covered by health insurance."
-  },
-  {
     "title": "After raising $800M, Parabilis seeks an IPO to pursue ‘undruggable’ targets",
     "link": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-helicon-peptide-desmoid/820709/",
     "source": "BioPharma Dive",
@@ -182,22 +214,6 @@
     "category": "industry",
     "date": "2026-05-20T15:14:00.000Z",
     "summary": "The biotechnology startup emerged from stealth with a peptide drug it claims to have the potential to reverse lung scarring in people with idiopathic pulmonary fibrosis."
-  },
-  {
-    "title": "STAT+: Drugmakers guard IP more tightly amid China competition",
-    "link": "https://www.statnews.com/2026/05/20/biotech-news-drugmakers-guard-ip-more-tightly-amid-china-competiti/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-20T15:03:23.000Z",
-    "summary": "The FDA's new path, the status of animal testing, and other biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Kennedy names interim surgeon general amid vacancies atop health department",
-    "link": "https://www.statnews.com/2026/05/20/kennedy-names-stephanie-haridopolos-interim-surgeon-general/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-20T14:44:26.000Z",
-    "summary": "Stephanie Haridopolos, a family medicine physician and senior HHS adviser, will take on the surgeon general's duties on an interim basis."
   },
   {
     "title": "Immunovant’s potential autoimmune ‘blockbuster’; Wave’s RNA editing update",
@@ -246,22 +262,6 @@
     "category": "industry",
     "date": "2026-05-19T15:58:00.000Z",
     "summary": "Tested in a condition known as ENPP1 deficiency, the treatment failed a trial goal that’s important to regulators, spurring doubts about its approval prospects."
-  },
-  {
-    "title": "A migraine drugmaker heads to the public markets through reverse merger",
-    "link": "https://www.biopharmadive.com/news/mentari-inmed-deal-acquisition-migraine-combined-company/820610/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-19T15:19:00.000Z",
-    "summary": "Mentari Therapeutics, a spinout from the prolific hub-and-spoke biotech Paragon, is developing two medications it hopes can treat migraines that aren’t well controlled by existing drugs."
-  },
-  {
-    "title": "Relay drug shows early promise against rare blood vessel diseases",
-    "link": "https://www.biopharmadive.com/news/relay-zovegalisib-vascular-anomalies-study-results/820532/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-19T12:05:00.000Z",
-    "summary": "While early, the findings suggest the therapy could be superior to Novartis’ Vijoice at treating “vascular anomalies,” a cluster of chronic conditions with few available treatments."
   },
   {
     "title": "Realizing the potential of agonistic antibody immunotherapy",
