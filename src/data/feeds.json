@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Genentech is soliciting research that can be used to blunt pharma reforms in Washington",
+    "link": "https://www.statnews.com/pharmalot/2026/05/22/genentech-soliciting-academics-write-papers-to-blunt-pharma-reforms-dc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T08:30:00.000Z",
+    "summary": "How a pharma company is soliciting research that can be used to blunt pharma proposed reforms in Washington."
+  },
+  {
+    "title": "Opinion: Check-in and intake at the doctor’s office are perfect for AI",
+    "link": "https://www.statnews.com/2026/05/22/chatbots-doctor-office-check-in-intake-ai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T08:30:00.000Z",
+    "summary": "This skeptic of AI in medicine sees one place where it could be valuable."
+  },
+  {
+    "title": "Opinion: The seed oil panic is hurting my cardiac patients",
+    "link": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T08:30:00.000Z",
+    "summary": "“My patients are replacing olive oil with beef tallow, even if they don't tell me during cardiac rehab,” writes a clinical dietitian."
+  },
+  {
     "title": "Mass General Brigham says it is saving more lives. Some doctors aren’t so sure.",
     "link": "https://www.statnews.com/2026/05/21/mass-general-brigham-says-it-is-saving-more-lives-some-doctors-arent-so-sure/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,30 +192,6 @@
     "summary": "Living with bullet fragments in your body can lead to chronic pain, issues with mobility, depression, even lead poisoning."
   },
   {
-    "title": "Congressional Democrats try to force a vote to end Medicare AI prior authorization pilot",
-    "link": "https://www.statnews.com/2026/05/20/democrats-force-vote-to-end-medicare-ai-prior-authorization-pilot/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-20T19:28:21.000Z",
-    "summary": "Congressional Democrats are mounting a fresh effort to end a Medicare experiment to use AI to approve or deny care."
-  },
-  {
-    "title": "STAT+: Pioneering trial for treating genetic disease before birth nears reality",
-    "link": "https://www.statnews.com/2026/05/20/tippi-mackenzie-in-utero-gene-therapy-nears-first-fda-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-20T18:48:30.000Z",
-    "summary": "A UCSF team has submitted an application to the FDA seeking approval for a small trial of in utero gene therapy for a rare lysosomal storage disorder."
-  },
-  {
-    "title": "Surgeon general’s office issues warning on screen time for children",
-    "link": "https://www.statnews.com/2026/05/20/surgeon-general-public-health-warning-screen-time-children/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-20T18:30:00.000Z",
-    "summary": "A public health advisory calls on parents, schools, and government to limit children's use of screens, saying some patterns of use “can pose real harm to children.”"
-  },
-  {
     "title": "After raising $800M, Parabilis seeks an IPO to pursue ‘undruggable’ targets",
     "link": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-helicon-peptide-desmoid/820709/",
     "source": "BioPharma Dive",
@@ -240,43 +240,11 @@
     "summary": "The acquisition is Lilly’s latest push into genetic medicine, giving it a technology designed to overcome some of the field’s longstanding limitations."
   },
   {
-    "title": "FDA approves first-in-class hypertension drug",
-    "link": "https://www.nature.com/articles/d41573-026-00085-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-20T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Twenty years of induced pluripotent stem cells",
-    "link": "https://www.nature.com/articles/d41573-026-00084-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-20T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "BioMarin drug acquired in buyout misses goal in rare disease study",
     "link": "https://www.biopharmadive.com/news/biomarins-enpp1-deficiency-inozyme-study-results/820585/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-19T15:58:00.000Z",
     "summary": "Tested in a condition known as ENPP1 deficiency, the treatment failed a trial goal that’s important to regulators, spurring doubts about its approval prospects."
-  },
-  {
-    "title": "Realizing the potential of agonistic antibody immunotherapy",
-    "link": "https://www.nature.com/articles/s41573-026-01442-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-19T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Autophagy modulation in cancer",
-    "link": "https://www.nature.com/articles/s41573-026-01449-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-18T00:00:00.000Z",
-    "summary": ""
   }
 ]
