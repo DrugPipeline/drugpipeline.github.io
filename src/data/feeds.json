@@ -1,5 +1,77 @@
 [
   {
+    "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
+    "link": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T17:19:15.000Z",
+    "summary": "The Trump administration disclosed plans to reduce state directed payments even more, setting up a probable showdown with provider groups."
+  },
+  {
+    "title": "FDA Approves First Treatment for Chronic Hepatitis Delta Virus (HDV) Infection",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-chronic-hepatitis-delta-virus-hdv-infection",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-05-22T17:16:56.000Z",
+    "summary": "Today, the U.S. Food and Drug Administration approved Hepcludex (bulevirtide-gmod) injection to treat chronic hepatitis delta virus (HDV) infection in adults without cirrhosis (advanced liver…"
+  },
+  {
+    "title": "ASCO26: 5 data snapshots ahead of the year’s biggest cancer drug meeting",
+    "link": "https://www.biopharmadive.com/news/asco-2026-abstracts-merck-biontech-lilly-moderna/820898/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-22T15:46:00.000Z",
+    "summary": "Clinical trial abstracts posted Thursday ahead of this year’s ASCO meeting gave a peek at anticipated datasets from Merck, BioNTech, Eli Lilly and Moderna."
+  },
+  {
+    "title": "Parkinson’s drug from Biogen, Denali comes up short",
+    "link": "https://www.biopharmadive.com/news/biogen-denali-parkinsons-trial-failure-lrrk2/820961/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-22T14:46:00.000Z",
+    "summary": "High-level results have led the companies to scrap the mid-stage trial, though Denali plans to continue independently running a separate experiment focused on a certain subset of Parkinson’s patients."
+  },
+  {
+    "title": "STAT+: EU and US advisers split over AstraZeneca breast cancer drug",
+    "link": "https://www.statnews.com/2026/05/22/biotech-news-astrazeneca-breast-cancer-drug-mixed-eu-and-us-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T13:40:42.000Z",
+    "summary": "Merck-Kelun ADC outperforms Keytruda in trial, a closely watched Parkinson’s drug fails, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Parkinson’s drug setback, a Merck lung cancer therapy, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/22/parkinson-drug-trial-setback-merck-lung-cancer-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T13:29:35.000Z",
+    "summary": "Biogen and Denali said their experimental Parkinson’s therapy failed to slow the degenerative brain disorder in a randomized trial"
+  },
+  {
+    "title": "A CDC page on mpox caught in political crosshairs",
+    "link": "https://www.statnews.com/2026/05/22/health-news-cdc-mpox-page-caught-in-political-crosshairs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T13:14:29.000Z",
+    "summary": "Seed oil panic, how STIs spread, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Longevity startup Retro Biosciences says latest fundraising values it at $1.8 billion",
+    "link": "https://www.statnews.com/2026/05/22/retro-biosciences-longevity-valuation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T11:00:00.000Z",
+    "summary": "Retro Biosciences, the longevity startup backed by OpenAI CEO Sam Altman, has raised more money at a $1.8 billion valuation, it announced Friday."
+  },
+  {
+    "title": "A federal office of men’s health has never been closer, yet it’s likely still years away",
+    "link": "https://www.statnews.com/2026/05/22/state-of-mens-health-act-new-office-slowed/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-22T10:00:00.000Z",
+    "summary": "Supporters worry that a men’s health office created by the Trump administration risks being dismantled by a future Democratic president"
+  },
+  {
     "title": "STAT+: Genentech is soliciting research that can be used to blunt pharma reforms in Washington",
     "link": "https://www.statnews.com/pharmalot/2026/05/22/genentech-soliciting-academics-write-papers-to-blunt-pharma-reforms-dc/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,6 +102,14 @@
     "category": "industry",
     "date": "2026-05-22T02:27:52.000Z",
     "summary": "The company behind the analytics, Vizient, touts MGH's increasing hospice enrollment to improved mortality performance."
+  },
+  {
+    "title": "Incretin-based multi-agonist reverses obesity and diabetes",
+    "link": "https://www.nature.com/articles/d41573-026-00087-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-22T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Closely watched experimental Parkinson’s drug fails key clinical trial",
@@ -144,54 +224,6 @@
     "summary": "Bristol Myers' neuroscience heads are trying to make a name in brain drugs for a company best known for its cancer and cell therapy work."
   },
   {
-    "title": "How Florida hospitals won big in Medicaid funds (just in time)",
-    "link": "https://www.statnews.com/2026/05/21/health-news-how-florida-hospitals-won-medicaid-funds/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T12:24:03.000Z",
-    "summary": "A surgeon general's report on screen time, the health impact of bullet fragments, and more Morning Rounds news"
-  },
-  {
-    "title": "STAT+: Lilly’s ‘triple-G’ drug leads to bariatric-surgery levels of weight loss in trial",
-    "link": "https://www.statnews.com/2026/05/21/eli-lilly-retatrutide-triple-g-weight-loss-obesity-discontinuations-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T10:45:00.000Z",
-    "summary": "A next-gen Eli Lilly obesity drug led to bariatric-surgery levels of weight loss in a study, but also saw patients dropping out because of side effects."
-  },
-  {
-    "title": "STAT+: After warning letter, Whoop and FDA in discussions about controversial blood pressure feature",
-    "link": "https://www.statnews.com/2026/05/21/whoop-has-not-resolved-fda-dispute-over-blood-pressure-feature/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T08:30:00.000Z",
-    "summary": "Whoop is yet to resolve a dispute with the FDA over a blood pressure feature, a top executive said at STAT's Breakthrough Summit."
-  },
-  {
-    "title": "Opinion: STAT+: Dark times ahead at the FDA",
-    "link": "https://www.statnews.com/2026/05/21/fda-makary-hoeg-szarama-leadership-vacuum/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T08:30:00.000Z",
-    "summary": "It almost feels like the Trump administration is intentionally breaking the FDA, writes Lab Dish columnist Paul Knoepfler."
-  },
-  {
-    "title": "STAT+: Are ‘AI co-scientist’ tools actually useful for scientists?",
-    "link": "https://www.statnews.com/2026/05/21/are-ai-scientist-tools-actually-useful-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T08:30:00.000Z",
-    "summary": "In this edition of AI Prognosis, Brittany Trang explains in detail why 'AI co-scientist' tools may not be as helpful for scientists, yet."
-  },
-  {
-    "title": "Opinion: Living with bullet fragments in the body can have long-term medical consequences",
-    "link": "https://www.statnews.com/2026/05/21/retained-bullet-fragments-depression-lead-poisoning-trauma/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T08:30:00.000Z",
-    "summary": "Living with bullet fragments in your body can lead to chronic pain, issues with mobility, depression, even lead poisoning."
-  },
-  {
     "title": "After raising $800M, Parabilis seeks an IPO to pursue ‘undruggable’ targets",
     "link": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-helicon-peptide-desmoid/820709/",
     "source": "BioPharma Dive",
@@ -232,19 +264,35 @@
     "summary": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products"
   },
   {
-    "title": "Lilly snaps up Engage to advance non-viral genetic medicines",
-    "link": "https://www.biopharmadive.com/news/lilly-engage-bio-acquisition-LNPs-genetic-medicines/820736/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-20T07:55:00.000Z",
-    "summary": "The acquisition is Lilly’s latest push into genetic medicine, giving it a technology designed to overcome some of the field’s longstanding limitations."
+    "title": "FDA approves first-in-class hypertension drug",
+    "link": "https://www.nature.com/articles/d41573-026-00085-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-20T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "BioMarin drug acquired in buyout misses goal in rare disease study",
-    "link": "https://www.biopharmadive.com/news/biomarins-enpp1-deficiency-inozyme-study-results/820585/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-19T15:58:00.000Z",
-    "summary": "Tested in a condition known as ENPP1 deficiency, the treatment failed a trial goal that’s important to regulators, spurring doubts about its approval prospects."
+    "title": "Twenty years of induced pluripotent stem cells",
+    "link": "https://www.nature.com/articles/d41573-026-00084-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-20T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Realizing the potential of agonistic antibody immunotherapy",
+    "link": "https://www.nature.com/articles/s41573-026-01442-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-19T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Autophagy modulation in cancer",
+    "link": "https://www.nature.com/articles/s41573-026-01449-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-18T00:00:00.000Z",
+    "summary": ""
   }
 ]
