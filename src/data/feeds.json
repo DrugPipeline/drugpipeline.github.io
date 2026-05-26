@@ -1,5 +1,61 @@
 [
   {
+    "title": "Process intensification: Separating fact from fiction",
+    "link": "https://www.biopharmadive.com/spons/process-intensification-separating-fact-from-fiction/820433/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-26T09:00:00.000Z",
+    "summary": "Uncover four key misconceptions that could be holding your intensification strategies back — and how to set your initiatives up for success."
+  },
+  {
+    "title": "Measuring what matters: New priorities in COA selection",
+    "link": "https://www.biopharmadive.com/spons/measuring-what-matters-new-priorities-in-coa-selection/820214/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-26T09:00:00.000Z",
+    "summary": "Detecting meaningful change in rare disease trials requires more than statistics—it demands the right COA. Discover why sensitivity matters and how AI is transforming trial outcomes."
+  },
+  {
+    "title": "STAT+: How Kyle Diamantas defied expectations as he rose to lead the FDA",
+    "link": "https://www.statnews.com/2026/05/26/kyle-diamantas-acting-fda-commissioner-wins-trust-exceeds-expectations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T08:30:00.000Z",
+    "summary": "WASHINGTON — People in the food world didn’t know what to expect when the Trump administration appointed a little-known Florida attorney as the FDA’s top food official in 2025. They…"
+  },
+  {
+    "title": "Opinion: The Ebola outbreak will lead to devastating violence against women and girls",
+    "link": "https://www.statnews.com/2026/05/26/ebola-outbreak-congo-violence-women-girls/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T08:30:00.000Z",
+    "summary": "“Women and girls in eastern Congo will be harmed in predictable, named ways over the next 12 months,” write researchers Lindsay Stark and Ilana Seff."
+  },
+  {
+    "title": "Opinion: 8 former CDC directors: Reform PEPFAR, don’t dismantle it",
+    "link": "https://www.statnews.com/2026/05/26/pepfar-state-department-plan-dismantling-hiv-cdc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T08:30:00.000Z",
+    "summary": "A State Department plan scheduled to be implemented June 1 would strip the U.S. of decades of disease defense, write eight former CDC directors."
+  },
+  {
+    "title": "STAT+: An AI biotech CEO sets the record straight on AI drug development hype",
+    "link": "https://www.statnews.com/2026/05/26/ai-biotech-bighat-biosciences-ceo-on-ai-drug-development-hype/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T08:30:00.000Z",
+    "summary": "CEO of BigHat Biosciences, which designs antibody therapies using machine-learning, on how AI can, and cannot, help in drug development."
+  },
+  {
+    "title": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies",
+    "link": "https://www.statnews.com/2026/05/26/humira-patents-abbvie-innovation-pharma-monopoly-excerpt/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T08:30:00.000Z",
+    "summary": "“Just because a company invests does not mean it has invented anything novel,” Tahir Amin and Rohit Malpani write in this excerpt from “Pharma Monopoly.”"
+  },
+  {
     "title": "STAT+: Eli Lilly says Verve’s gene editor lowers cholesterol levels in early study",
     "link": "https://www.statnews.com/2026/05/25/eli-lilly-verv-102-gene-editing-cholesterol-phase-1-trial-data/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,30 +208,6 @@
     "summary": "A type of targeted chemotherapy developed by China-based Kelun-Biotech and licensed to Merck cut the risk of tumor progression by 65% in patients with lung cancer, according to Phase 3…"
   },
   {
-    "title": "Guarding biotech from China and big bets in longevity",
-    "link": "https://www.statnews.com/2026/05/21/guarding-biotech-from-china-and-big-bets-in-longevity/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T18:53:59.000Z",
-    "summary": "On this week’s episode of “The Readout LOUD,” the hosts discuss STAT's Breakthrough Summit West, where powerful leaders from health care and science rubbed shoulders. They share some of the…"
-  },
-  {
-    "title": "STAT+: RFK Jr.’s screen time warning",
-    "link": "https://www.statnews.com/2026/05/21/rfk-jr-s-screen-time-warning/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T16:43:27.000Z",
-    "summary": "RFK Jr. is urging limits on how much screen time kids get, in a new government advisory."
-  },
-  {
-    "title": "STAT+: Immunovant shares surge on arthritis trial data",
-    "link": "https://www.statnews.com/2026/05/21/biotech-news-immunovant-shares-surge-on-arthritis-trial-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T16:27:38.000Z",
-    "summary": "Trial results for Lilly's \"triple-G\" drug, FDA's leadership purge leaves chaos, and more biotech news from The Readout"
-  },
-  {
     "title": "RA Capital banks $75M for a biotech SPAC",
     "link": "https://www.biopharmadive.com/news/ra-capital-spac-biotech-china-merger-pricing/820878/",
     "source": "BioPharma Dive",
@@ -190,22 +222,6 @@
     "category": "industry",
     "date": "2026-05-21T15:19:19.000Z",
     "summary": "The success came two days after a Phase 3 setback for another experimental drug and helps improve the position of Voxzogo amid increased competition."
-  },
-  {
-    "title": "STAT+: Acting head of NIH’s infectious disease institute reported to have stepped down",
-    "link": "https://www.statnews.com/2026/05/21/nih-niaid-jeffrey-taubenberger-exit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T14:48:36.000Z",
-    "summary": "Jeffery Taubenberger, the acting head of the NIAID, the NIH’s infectious disease institute, is reported to have stepped down."
-  },
-  {
-    "title": "STAT+: Elevance executive ordered to testify in Medicare Advantage fraud case",
-    "link": "https://www.statnews.com/2026/05/21/elevance-medicare-advantage-fraud-case-peter-haytaian-deposition/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T14:33:20.000Z",
-    "summary": "The DOJ alleges Elevance fraudulently billed the government for inaccurate medical diagnoses."
   },
   {
     "title": "Lilly’s triple-acting obesity drug hits goal in Phase 3 trial",
@@ -238,22 +254,6 @@
     "category": "industry",
     "date": "2026-05-20T15:28:00.000Z",
     "summary": "The collaboration marks an “evolution” in the pharmaceutical giant’s use of AI and adds to a series of broad deals its peers have used to adopt the technology across many day-to-day activities."
-  },
-  {
-    "title": "Oorja, run by Acceleron veterans, launches to make new fibrosis drugs",
-    "link": "https://www.biopharmadive.com/news/oorja-biotech-startup-westlake-ipf-drug-acceleron/820718/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-20T15:14:00.000Z",
-    "summary": "The biotechnology startup emerged from stealth with a peptide drug it claims to have the potential to reverse lung scarring in people with idiopathic pulmonary fibrosis."
-  },
-  {
-    "title": "Immunovant’s potential autoimmune ‘blockbuster’; Wave’s RNA editing update",
-    "link": "https://www.biopharmadive.com/news/immunovant-arthritis-wave-aatd-pfizer-vaccine-takeda-ira/820676/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-20T14:43:50.000Z",
-    "summary": "Immunovant shares climbed on results an analyst deemed “compelling” in tough-to-treat arthritis. Elsewhere, Wave’s pioneering rare disease program advanced and Takeda lost an antitrust suit."
   },
   {
     "title": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products",
