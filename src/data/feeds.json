@@ -1,5 +1,69 @@
 [
   {
+    "title": "Trump is seeing doctors for his annual physical. What the public finds out is up to him",
+    "link": "https://www.statnews.com/2026/05/26/trump-annual-physicial-medical-exam-public-scrutiny/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T14:32:51.000Z",
+    "summary": "President Trump is getting a medical exam on Tuesday, putting his health under renewed public scrutiny after he has worked to dismiss concerns over his age and stamina."
+  },
+  {
+    "title": "Astellas eyes more cost cuts; FDA panel to debate Moderna vaccine",
+    "link": "https://www.biopharmadive.com/news/astellas-cuts-moderna-fda-datroway-tnbc-hepcludex-hepatitis/821055/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-26T14:16:57.000Z",
+    "summary": "The Japanese pharma is aiming for $1.3 billion in yearly savings between now and 2030. Elsewhere, Datroway gained a new clearance in breast cancer and the FDA approved a drug for hepatitis D."
+  },
+  {
+    "title": "What do early data from Utah’s Doctronic AI pilot show?",
+    "link": "https://www.statnews.com/2026/05/26/utah-doctronic-ai-experiment-early-data-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T13:58:11.000Z",
+    "summary": "In this edition of STAT Health Tech: Early data from a Utah pilot using AI to renew prescriptions, Oura files to go public, and more."
+  },
+  {
+    "title": "STAT+: Five biotech news updates to stay on top of today",
+    "link": "https://www.statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T13:50:16.000Z",
+    "summary": "Eli Lilly spends more of its GLP-1 cash, Humira's masterclass in monopoly, and more updates from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Lilly gene therapy for cholesterol, three new Lilly deals, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/26/lilly-gene-therapy-for-cholesterol-three-new-lilly-deals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T13:28:28.000Z",
+    "summary": "Eli Lilly reported that a high dose of its gene-editing therapy reduced cholesterol levels by 62% in participants in a Phase 1 clinical trial"
+  },
+  {
+    "title": "Ebola outbreak continues to worsen, with new collateral risks for girls and women",
+    "link": "https://www.statnews.com/2026/05/26/health-news-ebola-outbreak-continues-to-worsen/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T13:13:30.000Z",
+    "summary": "The new acting FDA head defies expectations, 1.17 billion people with mental disorders, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Eli Lilly to buy three small vaccine developers",
+    "link": "https://www.statnews.com/2026/05/26/eli-lilly-acquisitions-vaccine-developers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-26T11:29:16.000Z",
+    "summary": "Eli Lilly is acquiring three small vaccine developers, expanding its work in infectious diseases and giving the field a boost."
+  },
+  {
+    "title": "SR One’s Simeon George on how China is rewriting biotech’s venture playbook",
+    "link": "https://www.biopharmadive.com/news/simeon-george-sr-one-china-venture-financing/820781/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-26T11:00:00.000Z",
+    "summary": "The veteran investor says that the trove of ready-made prospects is making the global biotech ecosystem “more competitive” and steering dollars away from “half-baked ideas.”"
+  },
+  {
     "title": "Process intensification: Separating fact from fiction",
     "link": "https://www.biopharmadive.com/spons/process-intensification-separating-fact-from-fiction/820433/",
     "source": "BioPharma Dive",
@@ -101,7 +165,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-22T14:46:00.000Z",
-    "summary": "High-level results have led the companies to scrap the mid-stage trial, though Denali plans to continue independently running a separate experiment focused on a certain subset of Parkinson’s patients."
+    "summary": "High-level results have led the companies to scrap a mid-stage trial, though Denali plans to continue independently running a separate experiment focused on a certain subset of Parkinson’s patients."
   },
   {
     "title": "STAT+: EU and US advisers split over AstraZeneca breast cancer drug",
@@ -152,60 +216,12 @@
     "summary": "How a pharma company is soliciting research that can be used to blunt pharma proposed reforms in Washington."
   },
   {
-    "title": "Opinion: Check-in and intake at the doctor’s office are perfect for AI",
-    "link": "https://www.statnews.com/2026/05/22/chatbots-doctor-office-check-in-intake-ai/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T08:30:00.000Z",
-    "summary": "This skeptic of AI in medicine sees one place where it could be valuable."
-  },
-  {
-    "title": "Opinion: The seed oil panic is hurting my cardiac patients",
-    "link": "https://www.statnews.com/2026/05/22/seed-oils-healthy-fats-tallow-fact-check-cardiac-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T08:30:00.000Z",
-    "summary": "“My patients are replacing olive oil with beef tallow, even if they don't tell me during cardiac rehab,” writes a clinical dietitian."
-  },
-  {
-    "title": "Mass General Brigham says it is saving more lives. Some doctors aren’t so sure.",
-    "link": "https://www.statnews.com/2026/05/21/mass-general-brigham-says-it-is-saving-more-lives-some-doctors-arent-so-sure/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T02:27:52.000Z",
-    "summary": "The company behind the analytics, Vizient, touts MGH's increasing hospice enrollment to improved mortality performance."
-  },
-  {
     "title": "Incretin-based multi-agonist reverses obesity and diabetes",
     "link": "https://www.nature.com/articles/d41573-026-00087-5",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-05-22T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: Closely watched experimental Parkinson’s drug fails key clinical trial",
-    "link": "https://www.statnews.com/2026/05/21/parkinsons-disease-biogen-denali-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T23:39:12.000Z",
-    "summary": "Biogen and Denali Therapeutics said a closely watched experimental therapy for Parkinson’s disease failed to slow the degenerative brain disorder in a randomized trial."
-  },
-  {
-    "title": "STAT+: 3 burning questions senators had for the NIH director",
-    "link": "https://www.statnews.com/2026/05/21/nih-budget-hearing-3-questions-director-jay-bhattacharya/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T21:06:46.000Z",
-    "summary": "Besides showing skepticism on the budget, senators grilled the NIH director about a leadership vacuum, two viral outbreaks, and the pace of funding."
-  },
-  {
-    "title": "STAT+: Merck-Kelun lung cancer drug cut risk of tumor progression by 65%, ASCO abstract shows",
-    "link": "https://www.statnews.com/2026/05/21/merck-kelun-sac-tmt-lung-cancer-drug-trial-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-21T21:00:00.000Z",
-    "summary": "A type of targeted chemotherapy developed by China-based Kelun-Biotech and licensed to Merck cut the risk of tumor progression by 65% in patients with lung cancer, according to Phase 3…"
   },
   {
     "title": "RA Capital banks $75M for a biotech SPAC",
@@ -238,22 +254,6 @@
     "category": "industry",
     "date": "2026-05-21T13:00:00.000Z",
     "summary": "Bristol Myers' neuroscience heads are trying to make a name in brain drugs for a company best known for its cancer and cell therapy work."
-  },
-  {
-    "title": "After raising $800M, Parabilis seeks an IPO to pursue ‘undruggable’ targets",
-    "link": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-helicon-peptide-desmoid/820709/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-20T15:58:00.000Z",
-    "summary": "Parabilis is teeing up the latest high-profile stock issuance in a year when biotech IPOs are averaging more than $286 million in total proceeds."
-  },
-  {
-    "title": "Bristol Myers deepens AI investment with Anthropic deal",
-    "link": "https://www.biopharmadive.com/news/bristol-myers-deepens-ai-investment-anthropic-deal/820697/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-20T15:28:00.000Z",
-    "summary": "The collaboration marks an “evolution” in the pharmaceutical giant’s use of AI and adds to a series of broad deals its peers have used to adopt the technology across many day-to-day activities."
   },
   {
     "title": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products",
