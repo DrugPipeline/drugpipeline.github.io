@@ -1,5 +1,45 @@
 [
   {
+    "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
+    "link": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T08:30:00.000Z",
+    "summary": "“Trump has willingly exposed an entire generation of children to Big Tobacco’s nicotine addiction,” writes Sen. Dick Durbin."
+  },
+  {
+    "title": "Opinion: The patients demanding unvaccinated blood transfusions",
+    "link": "https://www.statnews.com/2026/05/27/unvaccinated-blood-transfusions-directed-donation-interview/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T08:30:00.000Z",
+    "summary": "If you've been vaccinated against Covid-19, some patients might not want your donated blood."
+  },
+  {
+    "title": "STAT+: How Stanford patients help expose ‘fault lines’ in health AI adoption",
+    "link": "https://www.statnews.com/2026/05/27/stanford-patient-panels-feedback-on-ai-shaping-health-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T08:30:00.000Z",
+    "summary": "Stanford Health Care started asking patients about new AI tools before they are implemented. Here's what patients are telling them."
+  },
+  {
+    "title": "‘Are we just going to give up and die like every other generation?’",
+    "link": "https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T08:30:00.000Z",
+    "summary": "Inside the longevity conference that brings together founders, investors, biohackers, and the generally death-averse to discuss how to forestall — or even beat — our demise."
+  },
+  {
+    "title": "Opinion: It’s the end of science as we know it, and I feel fine",
+    "link": "https://www.statnews.com/2026/05/27/science-enterprise-replication-crisis-ivory-tower-community/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T08:30:00.000Z",
+    "summary": "“Science itself is inherently resilient — that is, after all, why it’s science,” writes Jonathan Jackson."
+  },
+  {
     "title": "STAT+: Praise for FDA’s acting commissioner",
     "link": "https://www.statnews.com/2026/05/26/kyle-diamantas-fda-draws-praise-nih-leadership-vacuum-dc-diagnosis/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,14 +208,6 @@
     "summary": "“There's a whole industry that seems to have sprung up”: Two experts on the people profiting from the rise of the perimenopause movement."
   },
   {
-    "title": "STAT+: Congress slashed Medicaid funding to providers. The Trump administration wants to cut even further",
-    "link": "https://www.statnews.com/2026/05/22/medicaid-state-directed-payments-trump-proposes-more-cuts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T17:19:15.000Z",
-    "summary": "The Trump administration disclosed plans to reduce state directed payments even more, setting up a probable showdown with provider groups."
-  },
-  {
     "title": "FDA Approves First Treatment for Chronic Hepatitis Delta Virus (HDV) Infection",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-chronic-hepatitis-delta-virus-hdv-infection",
     "source": "FDA Press Releases",
@@ -198,38 +230,6 @@
     "category": "industry",
     "date": "2026-05-22T14:46:00.000Z",
     "summary": "High-level results have led the companies to scrap a mid-stage trial, though Denali plans to continue independently running a separate experiment focused on a certain subset of Parkinson’s patients."
-  },
-  {
-    "title": "STAT+: EU and US advisers split over AstraZeneca breast cancer drug",
-    "link": "https://www.statnews.com/2026/05/22/biotech-news-astrazeneca-breast-cancer-drug-mixed-eu-and-us-approval/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T13:40:42.000Z",
-    "summary": "Merck-Kelun ADC outperforms Keytruda in trial, a closely watched Parkinson’s drug fails, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Parkinson’s drug setback, a Merck lung cancer therapy, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/05/22/parkinson-drug-trial-setback-merck-lung-cancer-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T13:29:35.000Z",
-    "summary": "Biogen and Denali said their experimental Parkinson’s therapy failed to slow the degenerative brain disorder in a randomized trial"
-  },
-  {
-    "title": "A CDC page on mpox caught in political crosshairs",
-    "link": "https://www.statnews.com/2026/05/22/health-news-cdc-mpox-page-caught-in-political-crosshairs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T13:14:29.000Z",
-    "summary": "Seed oil panic, how STIs spread, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Longevity startup Retro Biosciences says latest fundraising values it at $1.8 billion",
-    "link": "https://www.statnews.com/2026/05/22/retro-biosciences-longevity-valuation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-22T11:00:00.000Z",
-    "summary": "Retro Biosciences, the longevity startup backed by OpenAI CEO Sam Altman, has raised more money at a $1.8 billion valuation, it announced Friday."
   },
   {
     "title": "Incretin-based multi-agonist reverses obesity and diabetes",
