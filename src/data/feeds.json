@@ -1,5 +1,45 @@
 [
   {
+    "title": "Opinion: MIT president: Why so many optimistic scientists are losing heart",
+    "link": "https://www.statnews.com/2026/05/27/science-funding-derailed-breakthroughs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T14:55:06.000Z",
+    "summary": "“This erosion of our strength is a loss for the nation,” writes MIT President Sally Kornbluth."
+  },
+  {
+    "title": "STAT+: Kailera’s own ‘triple-G’ drug also looks very powerful",
+    "link": "https://www.statnews.com/2026/05/27/biotech-news-kailera-triple-g-drug-looks-very-powerful/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T14:33:20.000Z",
+    "summary": "The business of living forever, Chan Zuckerberg Biohub's AI protein model, and other biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca breast cancer pill, an ADAP deal in Florida, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/05/27/astrazeneca-breast-cancer-pill-adap-deal-in-florida/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T13:33:27.000Z",
+    "summary": "The FDA extended the decision deadline for an experimental breast cancer pill from AstraZeneca after an advisory panel voted against the drug"
+  },
+  {
+    "title": "STAT+: Where patients and hospitals disagree about AI",
+    "link": "https://www.statnews.com/2026/05/27/health-ai-where-patients-hospitals-disagree-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T13:09:50.000Z",
+    "summary": "In this edition of AI Prognosis, Brittany Trang takes a look at patients' role in how Stanford Health Care adopts AI tools, and more health AI news."
+  },
+  {
+    "title": "Trump says latest medical exam went ‘PERFECTLY’",
+    "link": "https://www.statnews.com/2026/05/27/health-news-trump-says-latest-medical-exam-went-perfectly/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-27T11:52:33.000Z",
+    "summary": "The conference where death is (theoretically) optional, new trends among undocumented patients, and more health news from Morning Rounds"
+  },
+  {
     "title": "Opinion: Sen. Dick Durbin: Trump is letting Big Tobacco target children",
     "link": "https://www.statnews.com/2026/05/27/flavored-vapes-e-cigarettes-fda-trump-durbin/?utm_campaign=rss",
     "source": "STAT News",
@@ -24,7 +64,7 @@
     "summary": "Stanford Health Care started asking patients about new AI tools before they are implemented. Here's what patients are telling them."
   },
   {
-    "title": "‘Are we just going to give up and die like every other generation?’",
+    "title": "STAT+: ‘Are we just going to give up and die like every other generation?’",
     "link": "https://www.statnews.com/2026/05/27/longevity-movement-shift-fringe-idea-to-big-business/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -168,46 +208,6 @@
     "summary": "“Women and girls in eastern Congo will be harmed in predictable, named ways over the next 12 months,” write researchers Lindsay Stark and Ilana Seff."
   },
   {
-    "title": "Opinion: 8 former CDC directors: Reform PEPFAR, don’t dismantle it",
-    "link": "https://www.statnews.com/2026/05/26/pepfar-state-department-plan-dismantling-hiv-cdc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-26T08:30:00.000Z",
-    "summary": "A State Department plan scheduled to be implemented June 1 would strip the U.S. of decades of disease defense, write eight former CDC directors."
-  },
-  {
-    "title": "STAT+: An AI biotech CEO sets the record straight on AI drug development hype",
-    "link": "https://www.statnews.com/2026/05/26/ai-biotech-bighat-biosciences-ceo-on-ai-drug-development-hype/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-26T08:30:00.000Z",
-    "summary": "CEO of BigHat Biosciences, which designs antibody therapies using machine-learning, on how AI can, and cannot, help in drug development."
-  },
-  {
-    "title": "Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies",
-    "link": "https://www.statnews.com/2026/05/26/humira-patents-abbvie-innovation-pharma-monopoly-excerpt/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-26T08:30:00.000Z",
-    "summary": "“Just because a company invests does not mean it has invented anything novel,” Tahir Amin and Rohit Malpani write in this excerpt from “Pharma Monopoly.”"
-  },
-  {
-    "title": "STAT+: Eli Lilly says Verve’s gene editor lowers cholesterol levels in early study",
-    "link": "https://www.statnews.com/2026/05/25/eli-lilly-verv-102-gene-editing-cholesterol-phase-1-trial-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-25T12:45:00.000Z",
-    "summary": "Eli Lilly said Monday that a high dose of its gene-editing therapy reduced cholesterol levels by 62% in participants in a clinical trial."
-  },
-  {
-    "title": "Opinion: How the perimenopause movement is hurting women",
-    "link": "https://www.statnews.com/2026/05/23/perimenopause-misinformation-influencers-supplements-hormones/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-23T11:00:00.000Z",
-    "summary": "“There's a whole industry that seems to have sprung up”: Two experts on the people profiting from the rise of the perimenopause movement."
-  },
-  {
     "title": "FDA Approves First Treatment for Chronic Hepatitis Delta Virus (HDV) Infection",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-chronic-hepatitis-delta-virus-hdv-infection",
     "source": "FDA Press Releases",
@@ -254,13 +254,5 @@
     "category": "industry",
     "date": "2026-05-21T15:19:19.000Z",
     "summary": "The success came two days after a Phase 3 setback for another experimental drug and helps improve the position of Voxzogo amid increased competition."
-  },
-  {
-    "title": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-warns-retailers-selling-illegal-tobacco-products-look-everyday-products",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-05-20T13:53:58.000Z",
-    "summary": "FDA Warns Retailers Selling Illegal Tobacco Products That Look Like Everyday Products"
   }
 ]
