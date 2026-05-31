@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds",
+    "link": "https://www.statnews.com/2026/05/31/prostate-cancer-hormone-therapy-cut-relapse-asco-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-31T12:00:00.000Z",
+    "summary": "By doing hormone therapy up front in prostate cancer cases, the hope was to shrink the relapse rate after surgery. Results were encouraging."
+  },
+  {
+    "title": "STAT+: Akeso and Summit’s ivonescimab extends survival in squamous cell lung cancer",
+    "link": "https://www.statnews.com/2026/05/31/squamous-cell-lung-cancer-akeso-summit-harmoni-asco-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-31T12:00:00.000Z",
+    "summary": "A lung cancer drug developed in China was a highlight of ASCO but doctors want to see follow-up in a more diverse population."
+  },
+  {
+    "title": "STAT+: Practice-changing results reported for Revolution Medicines pancreatic cancer drug",
+    "link": "https://www.statnews.com/2026/05/31/pancreatic-cancer-daraxonrasib-revolution-medicines-results-asco-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-05-31T12:00:00.000Z",
+    "summary": "Much-awaited results at ASCO show that scientists have indeed found a way to drug a \"greasy ball\" involved in pancreatic cancer."
+  },
+  {
+    "title": "‘Unprecedented’ Revolution data point to paradigm shift in pancreatic cancer",
+    "link": "https://www.biopharmadive.com/news/revolution-daraxonrasib-asco-2026-rasolute-study-results/821555/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-31T12:00:00.000Z",
+    "summary": "Highly anticipated data presented at ASCO confirmed what’s been heralded as a medical breakthrough against a historically tough-to-treat tumor."
+  },
+  {
+    "title": "Akeso, Summit drug extends survival in closely watched lung cancer trial",
+    "link": "https://www.biopharmadive.com/news/akeso-summit-ivonescimab-asco-2026-harmoni6/821559/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-05-31T12:00:00.000Z",
+    "summary": "Ivonescimab reduced the risk of death by one-third compared to chemotherapy in a China-based study that’s seen as an important barometer for a class of cancer immunotherapies known as \"PD-1/VEGF…"
+  },
+  {
     "title": "STAT+: BioNTech and Pfizer tout bispecifics data at ASCO, and Pazdur sees silver lining at FDA",
     "link": "https://www.statnews.com/2026/05/30/asco-news-day-2-biontech-pfizer-kelun-merck-pazdur/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,14 +248,6 @@
     "summary": "This week on \"The Readout LOUD,\" longtime biotech exec Jeremy Levin talks about his new book and the industry's strategic turning point. Listen now."
   },
   {
-    "title": "STAT+: Trump’s pharma deals get tested",
-    "link": "https://www.statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-28T16:07:30.000Z",
-    "summary": "We still have a lot of questions about Trump's MFN deals with pharma companies."
-  },
-  {
     "title": "GSK, Ionis unveil data for hepatitis B drug touted as ‘functional cure’",
     "link": "https://www.biopharmadive.com/news/gsk-ionis-bepirovirsen-hepatitis-b-nejm-study-results/821341/",
     "source": "BioPharma Dive",
@@ -232,22 +264,6 @@
     "summary": "The agreement includes Lilly’s new pill Foundayo and restores coverage for Zepbound, erasing what had been a commercial edge for rival Novo Nordisk."
   },
   {
-    "title": "Opinion: Ebola at the World Cup? Here’s what we should actually worry about",
-    "link": "https://www.statnews.com/2026/05/28/ebola-world-cup-travel-public-health-measles/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-28T14:24:47.000Z",
-    "summary": "“Infectious disease threats during the World Cup will almost certainly look much more familiar than frightening headlines suggest,” writes Krutika Kuppalli."
-  },
-  {
-    "title": "STAT+: Oura brings rings to the cuffless blood pressure party",
-    "link": "https://www.statnews.com/2026/05/28/oura-arrives-blood-pressure-party-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-28T14:01:52.000Z",
-    "summary": "In this edition of STAT Health Tech: A new wave of blood pressure monitoring wearables, Stanford asking patients about AI, and more."
-  },
-  {
     "title": "Targeting claudins in cancer",
     "link": "https://www.nature.com/articles/s41573-026-01450-2",
     "source": "Nature Reviews Drug Discovery",
@@ -262,21 +278,5 @@
     "category": "research",
     "date": "2026-05-28T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Verge, following trial failure, rebrands its AI drug discovery ambitions",
-    "link": "https://www.biopharmadive.com/news/verge-genomics-labs-neuroscience-AI-drug-discovery/821229/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-27T18:43:00.000Z",
-    "summary": "Formerly known as Verge Genomics, the new Verge Labs will help pharma and biotech partners match potential brain drugs to patients who best benefit from them."
-  },
-  {
-    "title": "FDA delays decision on AstraZeneca breast cancer pill",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-camizestrant-fda-delay-breast-cancer/821193/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-27T18:09:00.000Z",
-    "summary": "The review extension comes weeks after an advisory panel found the evidence supporting the drug, camizestrant, inconclusive in what would be a new kind of treatment setting."
   }
 ]
