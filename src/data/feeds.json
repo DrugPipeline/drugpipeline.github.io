@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
+    "link": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-01T22:24:47.000Z",
+    "summary": "States are racing to implement the new requirements by the start of next year."
+  },
+  {
+    "title": "STAT+: Eli Lilly warns hospitals to submit claims data in the next five days or lose their 340B drug discounts",
+    "link": "https://www.statnews.com/pharmalot/2026/06/01/lilly-warns-hospitals-submit-claims-data-or-lose-340b-drug-discounts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-01T22:00:00.000Z",
+    "summary": "Eli Lilly has told more than 1,000 hospitals participating in the 340B drug discount program to submit claims data over the next five days — or lose price breaks."
+  },
+  {
+    "title": "STAT+: Global coalition to fast-track three vaccines targeting Ebola outbreak with $62 million in funding",
+    "link": "https://www.statnews.com/2026/06/01/ebola-bundibugyo-vaccine-studies-cepi-62-million-funding/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-01T21:35:53.000Z",
+    "summary": "With no licensed vaccines available to protect against the Ebola virus currently spreading in the Congo, efforts are underway to fast-track development of at least three vaccines."
+  },
+  {
     "title": "STAT+: Abivax ulcerative colitis drug shows strong efficacy, but cases of cancer raise concerns",
     "link": "https://www.statnews.com/2026/06/01/abivax-ulcerative-colitis-obefazimod/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,30 +184,6 @@
     "summary": "ASCO Day 3: A huge advance for pancreatic cancer, a let down for Akeso and Summit, and a new approach to immunotherapy."
   },
   {
-    "title": "Ultra-low doses could bring costly cancer treatments to more patients in poorer countries",
-    "link": "https://www.statnews.com/2026/05/31/low-dose-nivolumab-extends-survival-trial-head-neck-squamous-cell-carcinoma-asco-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-31T17:11:55.000Z",
-    "summary": "Low-dose, low-cost immunotherapies may help patients in poorer countries access high-tech cancer treatments."
-  },
-  {
-    "title": "STAT+: For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds",
-    "link": "https://www.statnews.com/2026/05/31/prostate-cancer-hormone-therapy-cut-relapse-asco-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-31T12:00:00.000Z",
-    "summary": "By doing hormone therapy upfront in prostate cancer cases, the hope was to shrink the relapse rate after surgery. Results were encouraging."
-  },
-  {
-    "title": "STAT+: Akeso and Summit’s ivonescimab extends survival in squamous cell lung cancer",
-    "link": "https://www.statnews.com/2026/05/31/squamous-cell-lung-cancer-akeso-summit-harmoni-asco-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-05-31T12:00:00.000Z",
-    "summary": "A lung cancer drug developed in China was a highlight of ASCO but doctors want to see follow-up in a more diverse population."
-  },
-  {
     "title": "‘Unprecedented’ Revolution data point to paradigm shift in pancreatic cancer",
     "link": "https://www.biopharmadive.com/news/revolution-daraxonrasib-asco-2026-rasolute-study-results/821555/",
     "source": "BioPharma Dive",
@@ -246,5 +246,37 @@
     "category": "regulatory",
     "date": "2026-05-29T13:13:39.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a draft guidance to reduce unnecessary animal testing in nonclinical safety assessments for certain cancer drugs."
+  },
+  {
+    "title": "Better data for better medicines: a path to data-driven medicines regulation",
+    "link": "https://www.nature.com/articles/d41573-026-00083-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-29T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Closing the paediatric gap in cancer drug development: a call to industry",
+    "link": "https://www.nature.com/articles/d41573-026-00089-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-29T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting claudins in cancer",
+    "link": "https://www.nature.com/articles/s41573-026-01450-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "A guide to effective drug development through nonprofit models",
+    "link": "https://www.nature.com/articles/d41573-026-00088-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-05-28T00:00:00.000Z",
+    "summary": ""
   }
 ]
