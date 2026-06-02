@@ -1,5 +1,61 @@
 [
   {
+    "title": "Fulcrum exploring a potential sale after FDA sidelined its sickle cell drug",
+    "link": "https://www.biopharmadive.com/news/fulcrum-strategic-review-sickle-cell-fda-pociredir/821740/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-02T16:08:00.000Z",
+    "summary": "Fulcrum’s setback is the latest in a series of stumbles for the developers of sickle cell medicines, among them Pfizer, Novartis and Intellia Therapeutics."
+  },
+  {
+    "title": "STAT+: Radiopharmaceutical shows promise in post-Pluvicto setting",
+    "link": "https://www.statnews.com/2026/06/02/biotech-news-radiopharmaceutical-shows-promise-in-post-pluvicto/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-02T15:04:20.000Z",
+    "summary": "Abivax's ulcerative colitis data, Fulcrum's scrapped sickle cell drug, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Lilly threat to 340B hospitals, Ebola vaccine funding, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/02/lilly-threat-to-340b-hospitals-ebola-vaccine-funding/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-02T13:25:26.000Z",
+    "summary": "Lilly gave hospitals participating in a federal drug discount program five days to submit claims data or it will stop the price breaks"
+  },
+  {
+    "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-help-accelerate-cell-and-gene-therapies-patients",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-06-02T13:03:59.000Z",
+    "summary": "The U.S. Food and Drug Administration (FDA) today issued draft guidance to help developers bring promising gene therapies to patients more efficiently by making greater use of existing scientific and…"
+  },
+  {
+    "title": "AbiVax falls as safety worries cloud ‘landmark’ immune drug results",
+    "link": "https://www.biopharmadive.com/news/abivax-obefazimod-abtect-ulcerative-colitis-results-cancer/821685/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-02T12:22:00.000Z",
+    "summary": "A handful of cancer cases reported among treatment recipients overshadowed efficacy results analysts described as “best-in-disease” and sent shares down more than 30%."
+  },
+  {
+    "title": "How one state’s medical meal program lowered health care costs",
+    "link": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-02T12:19:11.000Z",
+    "summary": "Medicaid work requirements, fast-tracked funding for experimental Ebola vaccines, and more health news from Morning Rounds"
+  },
+  {
+    "title": "ASCO ‘26: Bispecifics vs. ADCs, a ‘RAS’ revolution and a step change in prostate cancer",
+    "link": "https://www.biopharmadive.com/news/asco-2026-daraxonrasib-ivonescimab-proteus-erleada-results/821622/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-02T10:27:00.000Z",
+    "summary": "At the year’s biggest cancer meeting, a high-stakes clash between two popular drug classes erupted, and scientists made headway against a once-insurmountable foe."
+  },
+  {
     "title": "Why US-manufactured pharmaceutical packaging equipment matters",
     "link": "https://www.biopharmadive.com/spons/why-us-manufactured-pharmaceutical-packaging-equipment-matters/821680/",
     "source": "BioPharma Dive",
@@ -168,28 +224,12 @@
     "summary": "A compound named “substance God help me” by its longtime champion could benefit from RFK Jr.'s favorable views on using peptides."
   },
   {
-    "title": "STAT+: Medicare still won’t say how much covering obesity drugs will cost",
-    "link": "https://www.statnews.com/2026/06/01/medicare-50-dollar-weight-loss-drugs-glp-1-bridge-program-cost-estimate/?utm_campaign=rss",
-    "source": "STAT News",
+    "title": "Akeso, Summit drug extends survival in closely watched lung cancer trial",
+    "link": "https://www.biopharmadive.com/news/akeso-summit-ivonescimab-asco-2026-harmoni6/821559/",
+    "source": "BioPharma Dive",
     "category": "industry",
-    "date": "2026-06-01T08:30:00.000Z",
-    "summary": "Older adults on Medicare can get Wegovy and Zepbound for $50 a month, starting in July. But the agency still is not sharing how much this will cost taxpayers."
-  },
-  {
-    "title": "STAT+: Executives reveal tech initiatives at Summa Health, eight months after General Catalyst acquisition",
-    "link": "https://www.statnews.com/2026/06/01/summa-health-tech-initiatives-after-general-catalyst-acquisition/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-01T08:30:00.000Z",
-    "summary": "Two years after General Catalyst said it was buying Ohio safety-net hospital Summa Health, executives shed light on how the “transformation” is going."
-  },
-  {
-    "title": "Opinion: Medical schools diversified. So where are all the diverse doctors?",
-    "link": "https://www.statnews.com/2026/06/01/residency-diversity-med-school-disciplinary-action-dei-equity-black-latino/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-01T08:30:00.000Z",
-    "summary": "Why are residency programs disciplining and dismissing trainees in a system funded to train them?"
+    "date": "2026-05-31T12:00:00.000Z",
+    "summary": "Though ivonescimab reduced the risk of death by one-third compared to chemotherapy in a China-based study, the total survival benefit of four months stirred debate and pressured company shares."
   },
   {
     "title": "‘Unprecedented’ Revolution data point to paradigm shift in pancreatic cancer",
@@ -200,44 +240,12 @@
     "summary": "Highly anticipated data presented at ASCO confirmed what’s been heralded as a medical breakthrough against a historically tough-to-treat tumor."
   },
   {
-    "title": "Akeso, Summit drug extends survival in closely watched lung cancer trial",
-    "link": "https://www.biopharmadive.com/news/akeso-summit-ivonescimab-asco-2026-harmoni6/821559/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-31T12:00:00.000Z",
-    "summary": "Though ivonescimab reduced the risk of death by one-third compared to chemotherapy in a China-based study, the total survival benefit of four months stirred debate and pressured company shares."
-  },
-  {
     "title": "At ASCO, Merck makes case for a ‘cornerstone’ cancer drug",
     "link": "https://www.biopharmadive.com/news/merck-asco-2026-sac-tmt-lung-cancer-results/821500/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-05-29T20:31:00.000Z",
     "summary": "Study results accrued so far are giving Merck greater conviction that the therapy, licensed from a China-based biotech, was worth placing into a sprawling Phase 3 program."
-  },
-  {
-    "title": "Bristol Myers unveils data for one of its next-gen blood cancer drugs",
-    "link": "https://www.biopharmadive.com/news/bristol-myers-mezigdomide-asco-2026-successor-results/821509/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-29T20:02:00.000Z",
-    "summary": "Called mezigdomide, the drug is one of two protein-degrading medicines Bristol Myers hopes to soon position as successors to its lucrative Revlimid franchise."
-  },
-  {
-    "title": "Replimune takes third swing at cancer drug approval following ‘productive’ FDA talks",
-    "link": "https://www.biopharmadive.com/news/replimune-fda-approval-application-talks-stock-biotech-melanoma/821496/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-29T16:14:52.000Z",
-    "summary": "A twice-spurned therapy that’s been seen as one of the FDA’s more controversial recent rejections is getting a new chance following the resignation of former commissioner Marty Makary."
-  },
-  {
-    "title": "Allogene CEO to step down; Agios drug fails key test",
-    "link": "https://www.biopharmadive.com/news/allogene-chang-agios-decnupaz-imfinzi-bridgebio/821367/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-29T14:17:00.000Z",
-    "summary": "David Chang will leave his post after an eight-year run at the cell therapy maker. Elsewhere, a next-generation blood disease drug stumbled and an acquisition yielded an FDA approval for AbbVie."
   },
   {
     "title": "FDA Issues Draft Guidance to Cut Unnecessary Animal Testing for Cancer Drugs",
