@@ -1,5 +1,69 @@
 [
   {
+    "title": "Legend surges on early data for ‘in vivo’ lymphoma cell therapy",
+    "link": "https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-03T15:57:00.000Z",
+    "summary": "Initial findings show that the therapy reduced or eliminated disease signs in all recipients, sparking hopes that the treatment might be competitive with “ex vivo” medicines like Novartis’ Kymriah."
+  },
+  {
+    "title": "House bill aims to crack down on China biotech deals",
+    "link": "https://www.biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-03T15:18:00.000Z",
+    "summary": "A proposal to add biotechnology to the COINS Act follows two big deals involving Pfizer and Bristol Myers, and comes amid U.S. fears that China’s drugmaking progress may threaten national security."
+  },
+  {
+    "title": "NewLimit’s $435M megaround; Lilly’s busy dealmaking week",
+    "link": "https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-03T15:15:00.000Z",
+    "summary": "The anti-aging biotech has secured one of the year’s biggest venture fundings to bring its first drug into testing. Elsewhere, Lilly nabbed a “GLP-2” obesity drug and Praxis shares tumbled."
+  },
+  {
+    "title": "STAT+: What the pope’s encyclical on AI means for Catholic hospitals, and all of health care",
+    "link": "https://www.statnews.com/2026/06/03/pope-encyclical-catholic-health-system-implications-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-03T14:00:47.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: Brittany Trang analyzes the pope's encyclical on artificial intelligence for takeaways relevant for health care."
+  },
+  {
+    "title": "STAT+: Legend Biotech emerged as a rare market winner",
+    "link": "https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-03T13:36:39.000Z",
+    "summary": "New guidance for gene therapy developers, Lilly's deal for kidney drugs, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about GLP-1 drugs and knees, FDA cell and gene therapy guidance, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/03/weight-loss-drugs-knee-replacements-fda-cell-gene-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-03T13:17:47.000Z",
+    "summary": "Taking weight loss drugs for at least three years could prevent thousands of knee replacements a year, a new study found"
+  },
+  {
+    "title": "Is the military fueling eating disorders?",
+    "link": "https://www.statnews.com/2026/06/03/health-news-is-the-military-fueling-eating-disorders/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-03T11:58:31.000Z",
+    "summary": "A brief hantavirus update, some good news about death, and more health news from Morning Rounds"
+  },
+  {
+    "title": "Lilly, Ascidian link up in RNA exon editing pact",
+    "link": "https://www.biopharmadive.com/news/ascidian-lilly-kidney-deal-rna-exon-editing/821749/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-03T11:00:00.000Z",
+    "summary": "Worth as much as $1.9 billion, the deal directs Ascidian to help Lilly find potential drugs for genetically driven kidney diseases."
+  },
+  {
     "title": "Top ultra-processed food researchers call for sweeping policy change: ‘The system is rigged’",
     "link": "https://www.statnews.com/2026/06/03/ultra-processed-food-experts-want-sweeping-policy-changes/?utm_campaign=rss",
     "source": "STAT News",
@@ -54,6 +118,46 @@
     "category": "industry",
     "date": "2026-06-03T00:41:06.000Z",
     "summary": "A senior NIH scientist and his research fellow were charged with smuggling vials of deactivated mpox virus into the country from Africa and lying about it."
+  },
+  {
+    "title": "Understanding Ras inhibitor resistance",
+    "link": "https://www.nature.com/articles/d41573-026-00091-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Inhibiting Nipah virus",
+    "link": "https://www.nature.com/articles/d41573-026-00092-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Inhibiting lactate transport reduces lung fibrosis",
+    "link": "https://www.nature.com/articles/d41573-026-00090-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Informing HIV vaccine design",
+    "link": "https://www.nature.com/articles/d41573-026-00093-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Towards mRNA therapeutics 2.0",
+    "link": "https://www.nature.com/articles/s41573-026-01459-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Celcuity breast cancer drug misses ‘lofty’ expectations in ASCO-spotlighted trial",
@@ -184,70 +288,6 @@
     "summary": "With no licensed vaccines available to protect against the Ebola virus currently spreading in the Congo, efforts are underway to fast-track development of at least three vaccines."
   },
   {
-    "title": "STAT+: Abivax ulcerative colitis drug shows strong efficacy, but cases of cancer raise concerns",
-    "link": "https://www.statnews.com/2026/06/01/abivax-ulcerative-colitis-obefazimod/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-01T21:31:11.000Z",
-    "summary": "Abivax said its experimental treatment for ulcerative colitis showed significant efficacy in a closely watched trial, but shares of the company tanked on safety concerns."
-  },
-  {
-    "title": "STAT+: At ASCO, talk of barriers to cancer care, new treatments, and other big takeaways",
-    "link": "https://www.statnews.com/2026/06/01/asco-news-day-4-merkel-cell-carcinoma-glp1s-grail/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-01T20:56:38.000Z",
-    "summary": "Here is some of what you may have missed from the world's largest cancer research meeting."
-  },
-  {
-    "title": "STAT+: At the world’s largest cancer research meeting, data briefly took a backseat to grief",
-    "link": "https://www.statnews.com/2026/06/01/cancer-oncologists-grief-asco-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-01T20:25:58.000Z",
-    "summary": "At the world's largest cancer research meeting, new data were plentiful. But this year, there was also a focus on grief."
-  },
-  {
-    "title": "RallyBio tries again for reverse merger, this time with Avenzo",
-    "link": "https://www.biopharmadive.com/news/avenzo-rallybio-reverse-merger-cancer-drugs/821613/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-01T19:03:00.000Z",
-    "summary": "It's the second attempt for the rare disease company, which initially announced plans to merge with Candid Therapeutics before the immune drug developer was bought by UCB."
-  },
-  {
-    "title": "Servier buys into muscular dystrophy with potentially $2.7B deal",
-    "link": "https://www.biopharmadive.com/news/servier-edgewise-muscular-dystrophy-deal-acquisition-neuroscience-neurology/821605/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-01T15:39:00.000Z",
-    "summary": "The French drugmaker has agreed to acquire an experimental tablet from Edgewise Therapeutics that some bullish analysts say could eventually hit peak sales of over $2 billion."
-  },
-  {
-    "title": "As FDA misses deadline on electric shock ban, disability advocates speak out",
-    "link": "https://www.statnews.com/2026/06/01/fda-misses-deadline-electric-shock-ban-disability-advocates-speak-out/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-01T15:30:14.000Z",
-    "summary": "The FDA has missed a self-imposed deadline to ban the use of electrical shock devices in people with intellectual disabilities."
-  },
-  {
-    "title": "2026 Orphan Drugs Report: A safe(r) passage amid stormy waters?",
-    "link": "https://www.biopharmadive.com/spons/2026-orphan-drugs-report-a-safer-passage-amid-stormy-waters/820746/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-01T09:00:00.000Z",
-    "summary": "Orphan drugs remain commercially durable, strategically relevant and supported by a strong pipeline"
-  },
-  {
-    "title": "Akeso, Summit drug extends survival in closely watched lung cancer trial",
-    "link": "https://www.biopharmadive.com/news/akeso-summit-ivonescimab-asco-2026-harmoni6/821559/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-05-31T12:00:00.000Z",
-    "summary": "Though ivonescimab reduced the risk of death by one-third compared to chemotherapy in a China-based study, the total survival benefit of four months stirred debate and pressured company shares."
-  },
-  {
     "title": "FDA Issues Draft Guidance to Cut Unnecessary Animal Testing for Cancer Drugs",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-cut-unnecessary-animal-testing-cancer-drugs",
     "source": "FDA Press Releases",
@@ -274,14 +314,6 @@
   {
     "title": "Targeting claudins in cancer",
     "link": "https://www.nature.com/articles/s41573-026-01450-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "A guide to effective drug development through nonprofit models",
-    "link": "https://www.nature.com/articles/d41573-026-00088-4",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-05-28T00:00:00.000Z",
