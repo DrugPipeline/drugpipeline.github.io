@@ -1,11 +1,19 @@
 [
   {
+    "title": "STAT+: Trump administration to strip job protections of top NIH officials, grants staff",
+    "link": "https://www.statnews.com/2026/06/03/trump-administration-to-strip-job-protections-of-top-nih-officials-grants-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T03:14:32.000Z",
+    "summary": "Among the affected positions, which the White House estimates to be 8,000, are high-level officials who oversee research grants from the NIH."
+  },
+  {
     "title": "STAT+: Alnylam to partner with Inceptive Nucleics for AI foundation models for RNAi therapeutics",
     "link": "https://www.statnews.com/2026/06/03/alnylam-partner-with-inceptive-nucleics-ai-foundation-models/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-06-03T20:45:11.000Z",
-    "summary": "Alnylam announced a three-year deal with Inceptive Nucleics, worth up to $2 billion, with $30 million upfront in cash and equity in the startup."
+    "summary": "Alnylam announced a three-year deal with Inceptive, worth up to $2 billion, with $30 million up front in cash and equity in the startup."
   },
   {
     "title": "STAT+: HaloMD faces lawsuit alleging No Surprises Act middleman used ‘sham letter,’ misleading data",
@@ -280,14 +288,6 @@
     "summary": "It’s time to rethink and redesign how patients enter the health care system altogether, writes emergency physician Iyesatta Massaquoi Emeli."
   },
   {
-    "title": "STAT+: Trump administration releases rules for new Medicaid work requirements",
-    "link": "https://www.statnews.com/2026/06/01/trump-medicaid-work-requirement-rules-verification-eligibility/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-01T22:24:47.000Z",
-    "summary": "States are racing to implement the new requirements by the start of next year."
-  },
-  {
     "title": "FDA Issues Draft Guidance to Cut Unnecessary Animal Testing for Cancer Drugs",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-cut-unnecessary-animal-testing-cancer-drugs",
     "source": "FDA Press Releases",
@@ -309,14 +309,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-05-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Targeting claudins in cancer",
-    "link": "https://www.nature.com/articles/s41573-026-01450-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-05-28T00:00:00.000Z",
     "summary": ""
   }
 ]
