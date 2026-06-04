@@ -1,11 +1,107 @@
 [
   {
+    "title": "STAT+: AI titans push Congress for DNA safeguards",
+    "link": "https://www.statnews.com/2026/06/04/biotech-news-ai-titans-push-congress-to-dna-safeguards/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T13:37:54.000Z",
+    "summary": "Inceptive Nucleics and Alnylam's partnership, why Grail's \"failed\" trial still matters, and other biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Utah Medical Board scolded for going rogue with AI criticism",
+    "link": "https://www.statnews.com/2026/06/04/doctronic-utah-pilot-medical-board-scolded-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T13:33:01.000Z",
+    "summary": "In this edition of STAT Health Tech: An update on the Utah pilot that uses a chatbot to renew drug prescriptions, AI scribes for patients, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about fewer pharma investments in Germany, growing U.S. layoffs, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/04/fewer-pharma-investments-in-germany-growing-layoffs-in-us/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T13:17:15.000Z",
+    "summary": "Eli Lilly is halving its originally planned investment in the production of weight loss syringes in Germany in response to a cost-cutting law"
+  },
+  {
+    "title": "Scientists uncover a new hiding spot for HIV",
+    "link": "https://www.statnews.com/2026/06/04/health-news-scientists-uncover-new-hiding-spot-for-hiv/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T12:32:36.000Z",
+    "summary": "An Ebola update, Trump to strip job protections of NIH officials, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Does Revolution Medicines’ pancreatic cancer drug have even greater potential?",
+    "link": "https://www.statnews.com/2026/06/04/revolution-medicines-daraxonrasib-pancreatic-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T10:30:00.000Z",
+    "summary": "Revolution Medicines' pancreatic cancer drug has not yet been approved — and already talk has shifted to how (and when) its use might be expanded."
+  },
+  {
+    "title": "STAT+: After hospitals, patients get a turn to bring AI into the doctor’s office",
+    "link": "https://www.statnews.com/2026/06/04/after-doctors-patient-ai-scribes-track-visits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T08:30:00.000Z",
+    "summary": "Ambient scribes were the first large-scale application of AI in health care. Now developers are pitching them as diligent note-takers for patients."
+  },
+  {
+    "title": "Opinion: Lawmakers promised cancer patients would be protected from Medicaid cuts. Now CMS says otherwise",
+    "link": "https://www.statnews.com/2026/06/04/medicaid-work-requirements-final-rule-cancer-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T08:30:00.000Z",
+    "summary": "“One of the cancer community’s worst fears is coming to pass,” writes Gwen Nichols of Blood Cancer United."
+  },
+  {
+    "title": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story",
+    "link": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T08:30:00.000Z",
+    "summary": "An oncologist shares three lessons from the world’s first randomized trial on a multi-cancer early detection."
+  },
+  {
+    "title": "What happens at a longevity festival?",
+    "link": "https://www.statnews.com/2026/06/04/longevity-science-vitalist-bay-festival-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T08:30:00.000Z",
+    "summary": "What happens at a longevity festival? On this week's STATus Report, Alex Hogan gets a dispatch from STAT's Sarah Todd."
+  },
+  {
+    "title": "Male puberty is understudied — but when it starts may predict long-term health risks",
+    "link": "https://www.statnews.com/2026/06/04/male-puberty-timing-long-term-health-risk-prediction/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-04T08:30:00.000Z",
+    "summary": "Due to a significant gender gap, far less is known about the health risks of early or late puberty onset among boys than girls."
+  },
+  {
+    "title": "A Spanish biotech banks $87M to make differentiated ADCs",
+    "link": "https://www.biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-04T07:00:00.000Z",
+    "summary": "Ona Therapeutics, a Barcelona-based drugmaker, is developing next-generation drugs it says could help patients with advanced forms of breast and colorectal cancers."
+  },
+  {
     "title": "STAT+: Trump administration to strip job protections of top NIH officials, grants staff",
     "link": "https://www.statnews.com/2026/06/03/trump-administration-to-strip-job-protections-of-top-nih-officials-grants-research/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-06-04T03:14:32.000Z",
     "summary": "Among the affected positions, which the White House estimates to be 8,000, are high-level officials who oversee research grants from the NIH."
+  },
+  {
+    "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
+    "link": "https://www.nature.com/articles/d41573-026-00094-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-04T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Alnylam to partner with Inceptive Nucleics for AI foundation models for RNAi therapeutics",
@@ -112,38 +208,6 @@
     "summary": "While NIH-funded centers weren’t on the front lines of virus responses like the CDC or USAID, some researchers involved in the network said the cuts have damaged relationships with experts…"
   },
   {
-    "title": "Opinion: How the military may be fueling eating disorders in men",
-    "link": "https://www.statnews.com/2026/06/03/eating-disorders-men-military-troops-veterans/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-03T08:30:00.000Z",
-    "summary": "“Much of the rhetoric, imagery, and policy messaging from the Trump administration centers on extreme masculine ideals,” First Opinion author writes."
-  },
-  {
-    "title": "Opinion: The Amish way of health care",
-    "link": "https://www.statnews.com/2026/06/03/amish-public-health-vaccines-autism-first-opinion-podcast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-03T08:30:00.000Z",
-    "summary": "“Public health is going to have to talk about the Amish more and more”: Listen to STAT’s \"First Opinion Podcast\" on the Amish and health care."
-  },
-  {
-    "title": "Opinion: The medical-billing AI arms race between providers and insurance",
-    "link": "https://www.statnews.com/2026/06/03/ai-arms-race-medical-building-waste/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-03T08:30:00.000Z",
-    "summary": "“The financial side effects of care have become clinical ones,” writes Darshak Sanghavi."
-  },
-  {
-    "title": "Senior NIH scientist, research fellow charged with bringing deactivated mpox virus into U.S.",
-    "link": "https://www.statnews.com/2026/06/02/nih-scientist-federal-charges-mpox/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-03T00:41:06.000Z",
-    "summary": "A senior NIH scientist and his research fellow were charged with smuggling vials of deactivated mpox virus into the country from Africa and lying about it."
-  },
-  {
     "title": "Understanding Ras inhibitor resistance",
     "link": "https://www.nature.com/articles/d41573-026-00091-9",
     "source": "Nature Reviews Drug Discovery",
@@ -200,36 +264,12 @@
     "summary": "Select hospitals have refused to share data to prove they’re not double-dipping drug discounts, Lilly said. Hospitals, which have until Monday to comply, are urging the government to intervene."
   },
   {
-    "title": "STAT+: Longevity startup NewLimit raises $435 million ahead of first clinical trial",
-    "link": "https://www.statnews.com/2026/06/02/longevity-startup-newlimit-announces-435-million-clinical-trial-financing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-02T17:00:00.000Z",
-    "summary": "Longevity startup NewLimit plans to launch its first clinical trial of a liver medicine after raising a staggering $435 million in new funding."
-  },
-  {
     "title": "Fulcrum exploring a potential sale after FDA sidelined its sickle cell drug",
     "link": "https://www.biopharmadive.com/news/fulcrum-strategic-review-sickle-cell-fda-pociredir/821740/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-02T16:08:00.000Z",
     "summary": "Fulcrum’s setback is the latest in a series of stumbles for the developers of sickle cell medicines, among them Pfizer, Novartis and Intellia Therapeutics."
-  },
-  {
-    "title": "STAT+: Radiopharmaceutical shows promise in post-Pluvicto setting",
-    "link": "https://www.statnews.com/2026/06/02/biotech-news-radiopharmaceutical-shows-promise-in-post-pluvicto/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-02T15:04:20.000Z",
-    "summary": "Abivax's ulcerative colitis data, Fulcrum's scrapped sickle cell drug, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Lilly threat to 340B hospitals, Ebola vaccine funding, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/02/lilly-threat-to-340b-hospitals-ebola-vaccine-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-02T13:25:26.000Z",
-    "summary": "Lilly gave hospitals participating in a federal drug discount program five days to submit claims data or it will stop the price breaks"
   },
   {
     "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
@@ -248,44 +288,12 @@
     "summary": "A handful of cancer cases reported among treatment recipients overshadowed efficacy results analysts described as “best-in-disease” and sent shares down more than 30%."
   },
   {
-    "title": "How one state’s medical meal program lowered health care costs",
-    "link": "https://www.statnews.com/2026/06/02/health-news-testing-one-state-medical-meal-progra/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-02T12:19:11.000Z",
-    "summary": "Medicaid work requirements, fast-tracked funding for experimental Ebola vaccines, and more health news from Morning Rounds"
-  },
-  {
     "title": "ASCO ‘26: Bispecifics vs. ADCs, a ‘RAS’ revolution and a step change in prostate cancer",
     "link": "https://www.biopharmadive.com/news/asco-2026-daraxonrasib-ivonescimab-proteus-erleada-results/821622/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-02T10:27:00.000Z",
     "summary": "At the year’s biggest cancer meeting, a high-stakes clash between two popular drug classes erupted, and scientists made headway against a once-insurmountable foe."
-  },
-  {
-    "title": "Why US-manufactured pharmaceutical packaging equipment matters",
-    "link": "https://www.biopharmadive.com/spons/why-us-manufactured-pharmaceutical-packaging-equipment-matters/821680/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-02T10:00:00.000Z",
-    "summary": "As manufacturers modernize operations, the origin of their equipment is a strategic consideration."
-  },
-  {
-    "title": "STAT+: Online care is caught in the crossfire as states crack down on corporate medicine",
-    "link": "https://www.statnews.com/2026/06/02/telehealth-virtual-rx-boom-corporate-practice-of-medicine-laws/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-02T08:30:00.000Z",
-    "summary": "Growing legislative scrutiny across multiple states targets the corporate structure underlying most direct-to-consumer telehealth businesses."
-  },
-  {
-    "title": "Opinion: The virtual end of the doctor’s office waiting room",
-    "link": "https://www.statnews.com/2026/06/02/doctors-office-waiting-room-telehealth-virtual-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-02T08:30:00.000Z",
-    "summary": "It’s time to rethink and redesign how patients enter the health care system altogether, writes emergency physician Iyesatta Massaquoi Emeli."
   },
   {
     "title": "FDA Issues Draft Guidance to Cut Unnecessary Animal Testing for Cancer Drugs",
