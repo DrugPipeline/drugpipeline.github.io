@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Will Makary’s FDA voucher program survive?",
+    "link": "https://www.statnews.com/2026/06/05/biotech-news-will-makarys-fda-voucher-program-survive/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-05T13:45:12.000Z",
+    "summary": "RevMed's cancer drug feels out of reach for some, SCOTUS preserves key generic drug pathway, and more biotech news"
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/06/05/jobs-up-and-down-the-ladder-latest-comings-and-goings/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-05T13:36:59.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "Texas AG investigating energy drinks",
+    "link": "https://www.statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-05T13:17:35.000Z",
+    "summary": "The limitations of private health insurance, the quiet collapse of America's research ethics watchdog and other Morning Rounds news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Roche accusing U.S. of ‘blackmail,’ a ruling on skinny labels, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/05/roche-calls-trump-policy-blackmail-supreme-court-rules-on-skinny-labels/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-05T13:17:01.000Z",
+    "summary": "Drugmakers and patient groups asked the FDA to pause former commissioner Marty Markary's National Priority Voucher drug review program"
+  },
+  {
+    "title": "Pharma is betting big on PD-1/VEGF bispecifics. But are companies chasing the wrong target?",
+    "link": "https://www.biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-05T11:00:00.000Z",
+    "summary": "While many drugmakers are focused on lung cancer, evidence shows the liver may be a better bet."
+  },
+  {
     "title": "Tiny HHS office tasked with protecting research participants’ safety is running on fumes",
     "link": "https://www.statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,44 +184,12 @@
     "summary": "“One of the cancer community’s worst fears is coming to pass,” writes Gwen Nichols of Blood Cancer United."
   },
   {
-    "title": "Opinion: Grail’s multi-cancer early detection trial was negative. But as an oncologist, I see more to this story",
-    "link": "https://www.statnews.com/2026/06/04/grail-multi-cancer-early-detection-test-trial-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-04T08:30:00.000Z",
-    "summary": "An oncologist shares three lessons from the world’s first randomized trial on a multi-cancer early detection."
-  },
-  {
-    "title": "What happens at a longevity festival?",
-    "link": "https://www.statnews.com/2026/06/04/longevity-science-vitalist-bay-festival-status-report-alex-hogan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-04T08:30:00.000Z",
-    "summary": "What happens at a longevity festival? On this week's STATus Report, Alex Hogan gets a dispatch from STAT's Sarah Todd."
-  },
-  {
-    "title": "Male puberty is understudied — but when it starts may predict long-term health risks",
-    "link": "https://www.statnews.com/2026/06/04/male-puberty-timing-long-term-health-risk-prediction/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-04T08:30:00.000Z",
-    "summary": "Due to a significant gender gap, far less is known about the health risks of early or late puberty onset among boys than girls."
-  },
-  {
     "title": "A Spanish biotech banks $87M to make differentiated ADCs",
     "link": "https://www.biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-04T07:00:00.000Z",
     "summary": "Ona Therapeutics, a Barcelona-based drugmaker, is developing next-generation drugs it says could help patients with advanced forms of breast and colorectal cancers."
-  },
-  {
-    "title": "STAT+: Trump administration to strip job protections of top NIH officials, grants staff",
-    "link": "https://www.statnews.com/2026/06/03/trump-administration-to-strip-job-protections-of-top-nih-officials-grants-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-04T03:14:32.000Z",
-    "summary": "Among the affected positions, which the White House estimates to be 8,000, are high-level officials who oversee research grants from the NIH."
   },
   {
     "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
@@ -280,27 +288,11 @@
     "summary": "Select hospitals have refused to share data to prove they’re not double-dipping drug discounts, Lilly said. Hospitals, which have until Monday to comply, are urging the government to intervene."
   },
   {
-    "title": "Fulcrum exploring a potential sale after FDA sidelined its sickle cell drug",
-    "link": "https://www.biopharmadive.com/news/fulcrum-strategic-review-sickle-cell-fda-pociredir/821740/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-02T16:08:00.000Z",
-    "summary": "Fulcrum’s setback is the latest in a series of stumbles for the developers of sickle cell medicines, among them Pfizer, Novartis and Intellia Therapeutics."
-  },
-  {
     "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-help-accelerate-cell-and-gene-therapies-patients",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-06-02T13:03:59.000Z",
     "summary": "The U.S. Food and Drug Administration (FDA) today issued draft guidance to help developers bring promising gene therapies to patients more efficiently by making greater use of existing scientific and…"
-  },
-  {
-    "title": "FDA Issues Draft Guidance to Cut Unnecessary Animal Testing for Cancer Drugs",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-cut-unnecessary-animal-testing-cancer-drugs",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-05-29T13:13:39.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued a draft guidance to reduce unnecessary animal testing in nonclinical safety assessments for certain cancer drugs."
   }
 ]
