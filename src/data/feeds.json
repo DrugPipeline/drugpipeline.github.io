@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Lilly shares safety, tolerability data on its next-gen obesity drug",
+    "link": "https://www.statnews.com/2026/06/06/illy-retatrutide-triple-g-weight-loss-obesity-safety-data-ada/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-06T18:32:27.000Z",
+    "summary": "Eli Lilly presented new safety and tolerability data on retatrutide at the annual meeting of the American Diabetes Association on Saturday."
+  },
+  {
     "title": "STAT+: Detailed data show Pfizer’s monthly obesity drug continues to show potential",
     "link": "https://www.statnews.com/2026/06/06/pfizer-obesity-drug-berobenatide-metsera-results/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,14 +184,6 @@
     "summary": "The Supreme Court unanimously ruled that Hikma Pharmaceutical did not infringe patents held by Amarin in a decision with implications for lawsuits over so-called skinny labels."
   },
   {
-    "title": "STAT+: For pancreatic cancer patients, an exciting drug can feel out of reach",
-    "link": "https://www.statnews.com/pharmalot/2026/06/04/revolution-medicines-pancreatic-cancer-drug-daraxonrasib-heavy-demand/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-04T17:15:55.000Z",
-    "summary": "For pancreatic cancer patients, the surge in interest for an exciting new drug is leaving them fearful about when they might get the treatment or if there will be enough…"
-  },
-  {
     "title": "Alnylam, Inceptive ink AI deal potentially worth $2B",
     "link": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
     "source": "BioPharma Dive",
@@ -216,14 +216,6 @@
     "summary": "Ona Therapeutics, a Barcelona-based drugmaker, is developing next-generation drugs it says could help patients with advanced forms of breast and colorectal cancers."
   },
   {
-    "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
-    "link": "https://www.nature.com/articles/d41573-026-00094-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Legend surges on early data for ‘in vivo’ lymphoma cell therapy",
     "link": "https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/",
     "source": "BioPharma Dive",
@@ -246,46 +238,6 @@
     "category": "industry",
     "date": "2026-06-03T15:15:00.000Z",
     "summary": "The anti-aging biotech has secured one of the year’s biggest venture fundings to bring its first drug into testing. Elsewhere, Lilly nabbed a “GLP-2” obesity drug and Praxis shares tumbled."
-  },
-  {
-    "title": "Understanding Ras inhibitor resistance",
-    "link": "https://www.nature.com/articles/d41573-026-00091-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inhibiting Nipah virus",
-    "link": "https://www.nature.com/articles/d41573-026-00092-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inhibiting lactate transport reduces lung fibrosis",
-    "link": "https://www.nature.com/articles/d41573-026-00090-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Informing HIV vaccine design",
-    "link": "https://www.nature.com/articles/d41573-026-00093-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Towards mRNA therapeutics 2.0",
-    "link": "https://www.nature.com/articles/s41573-026-01459-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
