@@ -1,5 +1,77 @@
 [
   {
+    "title": "Incyte to buy blood disorder drug in possibly $2B deal",
+    "link": "https://www.biopharmadive.com/news/incyte-vega-acquisition-star-biotech-deal-blood-disorder-vwd/822238/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-08T15:44:00.000Z",
+    "summary": "Acquiring Vega Therapeutics, an offshoot of \"hub-and-spoke\" biotech Star Therapeutics, would give Incyte a medicine that’s in late-stage testing and designed to control bleeding."
+  },
+  {
+    "title": "J&J to acquire Firefly, maker of ‘degrader’ antibody drugs, for up to $1B",
+    "link": "https://www.biopharmadive.com/news/jnj-firefly-acquisition-deal-cancer-degrader-antibody-conjugate/822223/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-08T15:26:00.000Z",
+    "summary": "The buyout hands J&J a technology that merges elements of two popular drugmaking methods: protein degraders and antibody-drug conjugates."
+  },
+  {
+    "title": "ADA ‘26: Lilly’s dominance, Pfizer’s ‘foundational’ drug and Roche’s ‘me-too’ option",
+    "link": "https://www.biopharmadive.com/news/ada-2026-lilly-retatrutide-pfizer-berobenatide-roche-enicepatide/822208/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-08T15:01:00.000Z",
+    "summary": "At a big meeting for weight loss drugs, Lilly’s “triple G” therapy set a new standard as lingering doubts surrounded other competing treatments."
+  },
+  {
+    "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
+    "link": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T14:53:05.000Z",
+    "summary": "The biggest U.S. health insurer is changing how it pays for lactation counseling, and it could cut payment for many providers."
+  },
+  {
+    "title": "STAT+: Novo underwhelmed by drug it once fought Pfizer for",
+    "link": "https://www.statnews.com/2026/06/08/biotech-news-novo-underwhelmed-by-drug-it-once-fought-pfizer-for/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T14:05:38.000Z",
+    "summary": "Revolution and Tango yield promising cancer results, Incyte buys bleeding disorder drug, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Lilly and Pfizer obesity drug data, Roche and J&J deals, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T13:28:35.000Z",
+    "summary": "Lilly disclosed new data that provide more details on the safety and tolerability of its next-generation obesity drug retatrutide"
+  },
+  {
+    "title": "STAT+: J&J spends $1 billion to enter KRAS race for cancer treatments",
+    "link": "https://www.statnews.com/2026/06/08/johnson-and-johnson-firefly-cancer-kras-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T13:17:20.000Z",
+    "summary": "Johnson & Johnson said it will purchase the startup Firefly Bio for $1 billion in an effort to expand its work in the suddenly buzzy field of KRAS inhibitors."
+  },
+  {
+    "title": "Major readouts from the annual diabetes conference",
+    "link": "https://www.statnews.com/2026/06/08/health-news-readouts-from-annual-diabetes-conference/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T12:22:16.000Z",
+    "summary": "Why \"Schedule F\" matters, the Ebola outbreak response, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Combination of pancreatic cancer drugs from Tango, Revolution leads to high response rate",
+    "link": "https://www.statnews.com/2026/06/08/pancreatic-cancer-combination-tango-therapeutics-revolution-medicines-vopimetostat-daraxonrasib/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T11:55:45.000Z",
+    "summary": "A combination of pancreatic cancer drugs from Tango Therapeutics and Revolution Medicines led to a strong response rate in an early-stage trial."
+  },
+  {
     "title": "Precision under pressure: Logistic solutions for nuclear medicine scalability",
     "link": "https://www.biopharmadive.com/spons/precision-under-pressure-logistic-solutions-for-nuclear-medicine-scalabili/821374/",
     "source": "BioPharma Dive",
@@ -38,6 +110,14 @@
     "category": "industry",
     "date": "2026-06-08T08:30:00.000Z",
     "summary": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are."
+  },
+  {
+    "title": "ASO sustains microglial neural repair activity",
+    "link": "https://www.nature.com/articles/d41573-026-00095-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-08T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Competition for obesity drugs, clinical blind spots, and more news from ADA",
@@ -144,60 +224,12 @@
     "summary": "The Supreme Court ruled that a knockoff version of Amarin’s Vascepa didn’t infringe on patents — a decision with far-reaching implications for the availability of generics."
   },
   {
-    "title": "Opinion: If Americans risk their lives fighting Ebola overseas, they deserve the right to come home",
-    "link": "https://www.statnews.com/2026/06/05/americans-ebola-kenya-protests/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-05T15:13:28.000Z",
-    "summary": "Outbreak response is difficult enough without asking responders to wonder whether they will have access to the best available care if they become ill."
-  },
-  {
-    "title": "STAT+: Will Makary’s FDA voucher program survive?",
-    "link": "https://www.statnews.com/2026/06/05/biotech-news-will-makarys-fda-voucher-program-survive/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-05T13:45:12.000Z",
-    "summary": "RevMed's cancer drug feels out of reach for some, SCOTUS preserves key generic drug pathway, and more biotech news"
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/06/05/jobs-up-and-down-the-ladder-latest-comings-and-goings/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-05T13:36:59.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "Texas AG investigating energy drinks",
-    "link": "https://www.statnews.com/2026/06/05/health-news-texas-ag-investigating-energy-drinks/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-05T13:17:35.000Z",
-    "summary": "The limitations of private health insurance, the quiet collapse of America's research ethics watchdog and other Morning Rounds news"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Roche accusing U.S. of ‘blackmail,’ a ruling on skinny labels, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/05/roche-calls-trump-policy-blackmail-supreme-court-rules-on-skinny-labels/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-05T13:17:01.000Z",
-    "summary": "Drugmakers and patient groups asked the FDA to pause former commissioner Marty Markary's National Priority Voucher drug review program"
-  },
-  {
     "title": "Pharma is betting big on PD-1/VEGF bispecifics. But are companies chasing the wrong target?",
     "link": "https://www.biopharmadive.com/news/pharma-merck-summit-vegf-pd1-drug-research-cancer/822035/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-05T11:00:00.000Z",
     "summary": "While many drugmakers are focused on lung cancer, evidence shows the liver may be a better bet."
-  },
-  {
-    "title": "Tiny HHS office tasked with protecting research participants’ safety is running on fumes",
-    "link": "https://www.statnews.com/2026/06/05/hhs-cuts-office-human-research-protections-running-on-fumes/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-05T08:30:00.000Z",
-    "summary": "OHRP has experienced an unprecedented exodus of ethics expertise, raising concerns about its ability to effectively protect volunteers."
   },
   {
     "title": "Alnylam, Inceptive ink AI deal potentially worth $2B",
@@ -216,28 +248,52 @@
     "summary": "Shares for ADC Therapeutics fell more than 50% after a Phase 3 trial observed a death rate that at least one analyst believes “may be difficult to accept for physicians, patients and regulators.”"
   },
   {
-    "title": "Otsuka showcases kidney drug data; Pfizer cuts an AI deal",
-    "link": "https://www.biopharmadive.com/news/otsuka-voyxact-pfizer-chai-takeda-innovent-axsome/821990/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-04T13:22:00.000Z",
-    "summary": "Voyxact helped preserve kidney function, but left an opening for competing IgAN drugs from Vera and Vertex. Elsewhere, Takeda’s alliance with Innovent paid early dividends and Axsome warded off…"
+    "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
+    "link": "https://www.nature.com/articles/d41573-026-00094-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-04T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "A Spanish biotech banks $87M to make differentiated ADCs",
-    "link": "https://www.biopharmadive.com/news/ona-antibody-drug-conjugate-breast-colorectal-cancer/821891/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-04T07:00:00.000Z",
-    "summary": "Ona Therapeutics, a Barcelona-based drugmaker, is developing next-generation drugs it says could help patients with advanced forms of breast and colorectal cancers."
+    "title": "Understanding Ras inhibitor resistance",
+    "link": "https://www.nature.com/articles/d41573-026-00091-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "Legend surges on early data for ‘in vivo’ lymphoma cell therapy",
-    "link": "https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-03T15:57:00.000Z",
-    "summary": "Initial findings show that the therapy reduced or eliminated disease signs in all recipients, sparking hopes that the treatment might be competitive with “ex vivo” medicines like Novartis’ Kymriah."
+    "title": "Inhibiting Nipah virus",
+    "link": "https://www.nature.com/articles/d41573-026-00092-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Inhibiting lactate transport reduces lung fibrosis",
+    "link": "https://www.nature.com/articles/d41573-026-00090-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Informing HIV vaccine design",
+    "link": "https://www.nature.com/articles/d41573-026-00093-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Towards mRNA therapeutics 2.0",
+    "link": "https://www.nature.com/articles/s41573-026-01459-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
