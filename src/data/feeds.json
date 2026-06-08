@@ -1,5 +1,45 @@
 [
   {
+    "title": "Precision under pressure: Logistic solutions for nuclear medicine scalability",
+    "link": "https://www.biopharmadive.com/spons/precision-under-pressure-logistic-solutions-for-nuclear-medicine-scalabili/821374/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-08T09:00:00.000Z",
+    "summary": "Racing the clock: How precision logistics deliver life-saving nuclear medicine."
+  },
+  {
+    "title": "Innovation alone is no longer enough in biopharma",
+    "link": "https://www.biopharmadive.com/spons/innovation-alone-is-no-longer-enough-in-biopharma/821551/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-08T09:00:00.000Z",
+    "summary": "In biopharma, the next edge may come from the systems that turn discovery into scale."
+  },
+  {
+    "title": "Opinion: $2 million gene therapy cures require a financing model",
+    "link": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T08:30:00.000Z",
+    "summary": "“We do not lack cures. We lack the infrastructure to pay for and deliver them,” writes William Padula."
+  },
+  {
+    "title": "Opinion: American horses are obese, too",
+    "link": "https://www.statnews.com/2026/06/08/obese-horses-humans-metabolic-syndrome-food-system/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T08:30:00.000Z",
+    "summary": "“American horses are getting sick in ways that look remarkably familiar,” writes Joshua Moen."
+  },
+  {
+    "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
+    "link": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-08T08:30:00.000Z",
+    "summary": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are."
+  },
+  {
     "title": "STAT+: Competition for obesity drugs, clinical blind spots, and more news from ADA",
     "link": "https://www.statnews.com/2026/06/07/competition-obesity-drugs-clinical-blind-spots-and-more-ada/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,30 +200,6 @@
     "summary": "OHRP has experienced an unprecedented exodus of ethics expertise, raising concerns about its ability to effectively protect volunteers."
   },
   {
-    "title": "Opinion: How living and practicing medicine abroad complicated my beliefs about universal health care systems",
-    "link": "https://www.statnews.com/2026/06/05/universal-health-care-system-tradeoffs-accountability/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-05T08:30:00.000Z",
-    "summary": "“I believe deeply in universal health care. But universal care must also mean universal safety and accountability, not merely universal access.”"
-  },
-  {
-    "title": "HHS confirms Americans with high-risk Ebola exposures will have access to experimental therapy",
-    "link": "https://www.statnews.com/2026/06/04/kenya-ebola-quarantine-experimental-treatment-mbp-134-authorized/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-04T23:40:43.000Z",
-    "summary": "Americans who have high-risk exposures to Ebola in the current outbreak in Central Africa will have access to an experimental antibody treatment."
-  },
-  {
-    "title": "STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program",
-    "link": "https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-04T20:53:33.000Z",
-    "summary": "The White House has used the program to reward companies that help its political goals."
-  },
-  {
     "title": "Alnylam, Inceptive ink AI deal potentially worth $2B",
     "link": "https://www.biopharmadive.com/news/alnylam-inceptive-ai-drug-discovery-rna-deal-artificial-intelligence/822008/",
     "source": "BioPharma Dive",
@@ -216,76 +232,12 @@
     "summary": "Ona Therapeutics, a Barcelona-based drugmaker, is developing next-generation drugs it says could help patients with advanced forms of breast and colorectal cancers."
   },
   {
-    "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
-    "link": "https://www.nature.com/articles/d41573-026-00094-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Legend surges on early data for ‘in vivo’ lymphoma cell therapy",
     "link": "https://www.biopharmadive.com/news/legend-in-vivo-car-t-LB2501-lymphoma-data-eha/821882/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-03T15:57:00.000Z",
     "summary": "Initial findings show that the therapy reduced or eliminated disease signs in all recipients, sparking hopes that the treatment might be competitive with “ex vivo” medicines like Novartis’ Kymriah."
-  },
-  {
-    "title": "House bill aims to crack down on China biotech deals",
-    "link": "https://www.biopharmadive.com/news/binsa-china-biotech-deals-house-moolenaar-dingell/821841/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-03T15:18:00.000Z",
-    "summary": "A proposal to add biotechnology to the COINS Act follows two big deals involving Pfizer and Bristol Myers, and comes amid U.S. fears that China’s drugmaking progress may threaten national security."
-  },
-  {
-    "title": "NewLimit’s $435M megaround; Lilly’s busy dealmaking week",
-    "link": "https://www.biopharmadive.com/news/newlimit-lilly-hanmi-haisco-praxis-cytomx-regeneron/821624/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-03T15:15:00.000Z",
-    "summary": "The anti-aging biotech has secured one of the year’s biggest venture fundings to bring its first drug into testing. Elsewhere, Lilly nabbed a “GLP-2” obesity drug and Praxis shares tumbled."
-  },
-  {
-    "title": "Understanding Ras inhibitor resistance",
-    "link": "https://www.nature.com/articles/d41573-026-00091-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inhibiting Nipah virus",
-    "link": "https://www.nature.com/articles/d41573-026-00092-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inhibiting lactate transport reduces lung fibrosis",
-    "link": "https://www.nature.com/articles/d41573-026-00090-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Informing HIV vaccine design",
-    "link": "https://www.nature.com/articles/d41573-026-00093-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Towards mRNA therapeutics 2.0",
-    "link": "https://www.nature.com/articles/s41573-026-01459-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
