@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: NIAID appoints new acting director after weeks-long questions over leadership",
+    "link": "https://www.statnews.com/2026/06/09/niaid-acting-director-john-powers-replaces-taubenberger/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-09T14:50:45.000Z",
+    "summary": "The NIH has appointed researcher John Powers III to lead its infectious disease institute on an acting basis, after weeks of being in leadership limbo."
+  },
+  {
+    "title": "FDA Expands Sunscreen Options for the First Time in 20 Years",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-06-09T14:05:25.000Z",
+    "summary": "Today, the U.S. Food and Drug Administration added bemotrizinol to the list of permitted sunscreen active ingredients, marking a significant milestone in the agency's efforts to advance sunscreen…"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a $10.6 billion GSK deal, an AstraZeneca obesity pill, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/09/gsk-buying-nuvalent-cancer-drug-astrazeneca-obesity-pill-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-09T13:39:19.000Z",
+    "summary": "GSK agreed to buy Nuvalent, a cancer drug developer, in a deal worth $10.6 billion, as the company continues its expansion in oncology"
+  },
+  {
+    "title": "Dexcom RCT suggests CGM benefits for broad diabetes population",
+    "link": "https://www.statnews.com/2026/06/09/dexcom-cgm-trial-wearables-clinic-apple-updates-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-09T13:34:45.000Z",
+    "summary": "In this edition of STAT Health Tech: Dexcom's CGM trial, udpates from Apple's annual developers' conference, and wearables."
+  },
+  {
+    "title": "STAT+: NIH staffers published a letter of dissent a year ago. They feel it’s been ignored",
+    "link": "https://www.statnews.com/2026/06/09/nih-bethesda-declaration-1-year-later-dissenters-say-problems-persist/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-09T13:00:00.000Z",
+    "summary": "In a report published on the first anniversary of the Bethesda Declaration, 71 staffers write that they feel NIH leadership “largely ignored\" their concerns."
+  },
+  {
+    "title": "STAT+: What’s changed since the last major Ebola outbreak",
+    "link": "https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-09T12:23:29.000Z",
+    "summary": "A suppressed federal alcohol report, an \"inevitable development\" for wearables data, and more health news from Morning Rounds"
+  },
+  {
     "title": "A leader of the 2014 U.S. Ebola response compares then to now",
     "link": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/?utm_campaign=rss",
     "source": "STAT News",
@@ -54,6 +102,22 @@
     "category": "industry",
     "date": "2026-06-09T05:00:00.000Z",
     "summary": "A government-commissioned study had been meant to inform new dietary guidelines, and found risks associated with even light drinking."
+  },
+  {
+    "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
+    "link": "https://www.nature.com/articles/d41573-026-00096-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Analysis of a decade of post-authorisation studies for medicines approved by the EMA",
+    "link": "https://www.nature.com/articles/d41573-026-00082-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest",
@@ -184,30 +248,6 @@
     "summary": "In biopharma, the next edge may come from the systems that turn discovery into scale."
   },
   {
-    "title": "Opinion: $2 million gene therapy cures require a financing model",
-    "link": "https://www.statnews.com/2026/06/08/financing-gene-therapies-cures-cost/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-08T08:30:00.000Z",
-    "summary": "“We do not lack cures. We lack the infrastructure to pay for and deliver them,” writes William Padula."
-  },
-  {
-    "title": "Opinion: American horses are obese, too",
-    "link": "https://www.statnews.com/2026/06/08/obese-horses-humans-metabolic-syndrome-food-system/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-08T08:30:00.000Z",
-    "summary": "“American horses are getting sick in ways that look remarkably familiar,” writes Joshua Moen."
-  },
-  {
-    "title": "When it’s time to save a limb, novel clinic meets unhoused people where they are",
-    "link": "https://www.statnews.com/2026/06/08/vascular-care-homeless-amputation-prevention-effort-mass-general/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-08T08:30:00.000Z",
-    "summary": "Unmet vascular needs can lead to limb loss among unhoused patients. An unusual Massachusetts General Hospital program meets patients where they are."
-  },
-  {
     "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
     "link": "https://www.nature.com/articles/s41573-026-01473-9",
     "source": "Nature Reviews Drug Discovery",
@@ -222,22 +262,6 @@
     "category": "research",
     "date": "2026-06-08T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: Competition for obesity drugs, clinical blind spots, and more news from ADA",
-    "link": "https://www.statnews.com/2026/06/07/competition-obesity-drugs-clinical-blind-spots-and-more-ada/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-07T20:59:21.000Z",
-    "summary": "You're reading the web edition of STAT's ADA in 30 Seconds, from the American Diabetes Association's annual conference."
-  },
-  {
-    "title": "STAT+: New data may cast doubt on competitiveness of Boehringer’s obesity drug",
-    "link": "https://www.statnews.com/2026/06/07/boehringer-ingelheim-obesity-drug-survodutide-phase-3-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-07T18:30:19.000Z",
-    "summary": "Boehringer Ingelheim’s obesity drug showed promise in cutting liver fat, but it was less impressive at overall weight loss, new data shows."
   },
   {
     "title": "Study data convince Lundbeck to push new migraine drug forward",
@@ -286,29 +310,5 @@
     "category": "research",
     "date": "2026-06-03T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Informing HIV vaccine design",
-    "link": "https://www.nature.com/articles/d41573-026-00093-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Towards mRNA therapeutics 2.0",
-    "link": "https://www.nature.com/articles/s41573-026-01459-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA Issues Draft Guidance to Help Accelerate Cell and Gene Therapies for Patients",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-draft-guidance-help-accelerate-cell-and-gene-therapies-patients",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-06-02T13:03:59.000Z",
-    "summary": "The U.S. Food and Drug Administration (FDA) today issued draft guidance to help developers bring promising gene therapies to patients more efficiently by making greater use of existing scientific and…"
   }
 ]
