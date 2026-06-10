@@ -1,5 +1,37 @@
 [
   {
+    "title": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72",
+    "link": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T08:30:00.000Z",
+    "summary": "“I know what I’m getting into”: Dawn Zuidgeest-Craft on starting medical residency at almost 73."
+  },
+  {
+    "title": "Opinion: Even in abortion-protecting states, teens face unnecessary barriers to care",
+    "link": "https://www.statnews.com/2026/06/10/parental-notification-laws-abortion-blue-states/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T08:30:00.000Z",
+    "summary": "“Legal protection for abortion does not mean equitable access for minors,” a pediatrics resident writes."
+  },
+  {
+    "title": "STAT+: As the U.S. looks on, European countries feel growing pressure on drug prices",
+    "link": "https://www.statnews.com/2026/06/10/european-drug-pricing-most-favored-nation-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T08:30:00.000Z",
+    "summary": "In Europe, two divergent paths are emerging as countries grapple with what to do about drug prices, affecting both pharma and patients — and testing the influence of the U.S."
+  },
+  {
+    "title": "Are Republicans turning against medications for treating opioid addiction?",
+    "link": "https://www.statnews.com/2026/06/10/medications-opioid-use-disorder-trump-moud-policy-change/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T08:30:00.000Z",
+    "summary": "Federal actions and proposals have reignited debate over methadone and buprenorphine, worrying addiction experts and patient groups."
+  },
+  {
     "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
     "link": "https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,36 +192,20 @@
     "summary": "“Innovations like xenotransplantation would never have reached clinical trials without animal experimentation,” writes transplant surgeon Joshua Mezrich."
   },
   {
-    "title": "STAT+: GSK to buy Nuvalent, maker of targeted cancer drugs, for $10.6B",
-    "link": "https://www.statnews.com/2026/06/09/gsk-nuvalent-acquistion-oncology-lung-cancer-zidesamtinib-neladalkib/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T06:48:20.000Z",
-    "summary": "GSK is buying Nuvalent, the maker of targeted cancer drugs, for $10.6 billion, a sizable addition to the latest run of biopharma acquisitions."
+    "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
+    "link": "https://www.nature.com/articles/d41573-026-00096-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "Alcohol study discarded by Trump officials is published in scientific journal",
-    "link": "https://www.statnews.com/2026/06/09/suppressed-alcohol-health-study-released-one-drink-or-less-daily/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T05:00:00.000Z",
-    "summary": "A government-commissioned study had been meant to inform new dietary guidelines, and found risks associated with even light drinking."
-  },
-  {
-    "title": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest",
-    "link": "https://www.statnews.com/2026/06/08/ebola-outbreak-congo-health-workers-little-pay-rest/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-08T20:17:11.000Z",
-    "summary": "Health workers at the epicenter of Congo's Ebola outbreak are laboring with little pay or rest."
-  },
-  {
-    "title": "STAT+: AstraZeneca’s GLP-1 pill shows promise in obesity, diabetes trials",
-    "link": "https://www.statnews.com/2026/06/08/astrazeneca-obesity-diabetes-treatment-studies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-08T20:15:00.000Z",
-    "summary": "AstraZeneca’s GLP-1 pill showed promise in mid-stage obesity and diabetes studies, but it may still be too early to determine how it stacks up against other oral treatments."
+    "title": "Analysis of a decade of post-authorisation studies for medicines approved by the EMA",
+    "link": "https://www.nature.com/articles/d41573-026-00082-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "City banks nearly $100M for next-gen RNAi drugs",
@@ -246,5 +262,29 @@
     "category": "industry",
     "date": "2026-06-08T09:00:00.000Z",
     "summary": "Racing the clock: How precision logistics deliver life-saving nuclear medicine."
+  },
+  {
+    "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
+    "link": "https://www.nature.com/articles/s41573-026-01473-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-08T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "ASO sustains microglial neural repair activity",
+    "link": "https://www.nature.com/articles/d41573-026-00095-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-08T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
+    "link": "https://www.nature.com/articles/d41573-026-00094-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-04T00:00:00.000Z",
+    "summary": ""
   }
 ]
