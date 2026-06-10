@@ -1,5 +1,37 @@
 [
   {
+    "title": "Diabetes association leader apologizes for expulsion of members, pledges to rebuild trust",
+    "link": "https://www.statnews.com/2026/06/10/ada-annual-convention-ceo-apology-protester-removal/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T19:42:34.000Z",
+    "summary": "The American Diabetes Association CEO apologizes to five members kicked out of annual convention for distributing protest literature, launches review of what went awry."
+  },
+  {
+    "title": "STAT+: Your sepsis algorithm shouldn’t require a time machine",
+    "link": "https://www.statnews.com/2026/06/10/sepsis-algorithm-shouldnt-require-time-machine-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T16:19:14.000Z",
+    "summary": "In this edition of AI Prognosis: Quirky medical data tripping up sepsis algorithms, AI scribes for patients, and some AI biotech news."
+  },
+  {
+    "title": "Ethyreal starts up with $101M and takes aim at a pair of immune diseases",
+    "link": "https://www.biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-10T16:00:00.000Z",
+    "summary": "The startup is developing a medicine that works differently than available treatments for thyroid eye disease and could benefit people with a related condition, too."
+  },
+  {
+    "title": "Sanofi stops immune drug trial in latest research setback",
+    "link": "https://www.biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-10T15:28:00.000Z",
+    "summary": "The failure adds to a series of mixed or negative readouts and leaves in doubt the future of a therapy Sanofi has viewed as a potential blockbuster."
+  },
+  {
     "title": "Parabilis sets a record with a $670M biotech IPO",
     "link": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-price-helicon-peptides-cancer-verdine/822397/",
     "source": "BioPharma Dive",
@@ -78,14 +110,6 @@
     "category": "industry",
     "date": "2026-06-10T08:30:00.000Z",
     "summary": "Federal actions and proposals have reignited debate over methadone and buprenorphine, worrying addiction experts and patient groups."
-  },
-  {
-    "title": "Evolution of the psoriasis therapy landscape",
-    "link": "https://www.nature.com/articles/d41573-026-00097-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-10T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
@@ -200,38 +224,6 @@
     "summary": "In a report published on the first anniversary of the Bethesda Declaration, 71 staffers write that they feel NIH leadership “largely ignored\" their concerns."
   },
   {
-    "title": "STAT+: What’s changed since the last major Ebola outbreak",
-    "link": "https://www.statnews.com/2026/06/09/health-news-whats-changed-since-the-last-ebola-outbreak/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T12:23:29.000Z",
-    "summary": "A suppressed federal alcohol report, an \"inevitable development\" for wearables data, and more health news from Morning Rounds"
-  },
-  {
-    "title": "A leader of the 2014 U.S. Ebola response compares then to now",
-    "link": "https://www.statnews.com/2026/06/09/ebola-outbreak-response-difference-between-2014-today-susan-reichle/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T08:30:00.000Z",
-    "summary": "As the world deals with an outbreak of Ebola that has no known cure, Susan Reichle, who last year co-founded Aid Transition Alliance to support former USAID professionals, discusses the…"
-  },
-  {
-    "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
-    "link": "https://www.nature.com/articles/d41573-026-00096-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Analysis of a decade of post-authorisation studies for medicines approved by the EMA",
-    "link": "https://www.nature.com/articles/d41573-026-00082-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "City banks nearly $100M for next-gen RNAi drugs",
     "link": "https://www.biopharmadive.com/news/city-therapeutics-rnai-series-b/822266/",
     "source": "BioPharma Dive",
@@ -254,45 +246,5 @@
     "category": "industry",
     "date": "2026-06-08T16:13:52.000Z",
     "summary": "A combination involving Tango’s experimental therapy appeared to boost response rates in a small clinical trial well beyond what would be expected, sparking a share surge."
-  },
-  {
-    "title": "Incyte to buy blood disorder drug in possibly $2B deal",
-    "link": "https://www.biopharmadive.com/news/incyte-vega-acquisition-star-biotech-deal-blood-disorder-vwd/822238/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-08T15:44:00.000Z",
-    "summary": "Acquiring Vega Therapeutics, an offshoot of \"hub-and-spoke\" biotech Star Therapeutics, would give Incyte a medicine that’s in late-stage testing and designed to control bleeding."
-  },
-  {
-    "title": "J&J to acquire Firefly, maker of ‘degrader’ antibody drugs, for $1B",
-    "link": "https://www.biopharmadive.com/news/jnj-firefly-acquisition-deal-cancer-degrader-antibody-conjugate/822223/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-08T15:26:00.000Z",
-    "summary": "The buyout hands J&J a technology that merges elements of two popular drugmaking methods: protein degraders and antibody-drug conjugates."
-  },
-  {
-    "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
-    "link": "https://www.nature.com/articles/s41573-026-01473-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "ASO sustains microglial neural repair activity",
-    "link": "https://www.nature.com/articles/d41573-026-00095-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
-    "link": "https://www.nature.com/articles/d41573-026-00094-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-04T00:00:00.000Z",
-    "summary": ""
   }
 ]
