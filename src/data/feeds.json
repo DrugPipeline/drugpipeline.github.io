@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
+    "link": "https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-09T20:46:06.000Z",
+    "summary": "The number of prescription drug shortages in the U.S. fell by 23% last year, but a new analysis found other troubling signs about medicines in short supply."
+  },
+  {
     "title": "STAT+: Trump’s health care affordability czar takes aim at hospitals",
     "link": "https://www.statnews.com/2026/06/09/trumps-affordability-czar-backs-medicaid-cuts-alcohol-study-published-dc-diagnosis/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,22 +176,6 @@
     "summary": "A government-commissioned study had been meant to inform new dietary guidelines, and found risks associated with even light drinking."
   },
   {
-    "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
-    "link": "https://www.nature.com/articles/d41573-026-00096-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Analysis of a decade of post-authorisation studies for medicines approved by the EMA",
-    "link": "https://www.nature.com/articles/d41573-026-00082-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Health workers at the epicenter of Congo’s Ebola outbreak labor with little pay or rest",
     "link": "https://www.statnews.com/2026/06/08/ebola-outbreak-congo-health-workers-little-pay-rest/?utm_campaign=rss",
     "source": "STAT News",
@@ -248,67 +240,11 @@
     "summary": "At a big meeting for weight loss drugs, Lilly’s “triple G” therapy set a new standard as lingering doubts surrounded other competing treatments."
   },
   {
-    "title": "STAT+: UnitedHealthcare’s lactation billing feud, and fake strokes",
-    "link": "https://www.statnews.com/2026/06/08/unitedhealth-lactation-counseling-policy-medicare-advantage-audits-stroke/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-08T14:53:05.000Z",
-    "summary": "The biggest U.S. health insurer is changing how it pays for lactation counseling, and it could cut payment for many providers."
-  },
-  {
     "title": "Precision under pressure: Logistic solutions for nuclear medicine scalability",
     "link": "https://www.biopharmadive.com/spons/precision-under-pressure-logistic-solutions-for-nuclear-medicine-scalabili/821374/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-08T09:00:00.000Z",
     "summary": "Racing the clock: How precision logistics deliver life-saving nuclear medicine."
-  },
-  {
-    "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
-    "link": "https://www.nature.com/articles/s41573-026-01473-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "ASO sustains microglial neural repair activity",
-    "link": "https://www.nature.com/articles/d41573-026-00095-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Therapeutic and prophylactic strategies for Ebola caused by Bundibugyo virus",
-    "link": "https://www.nature.com/articles/d41573-026-00094-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Understanding Ras inhibitor resistance",
-    "link": "https://www.nature.com/articles/d41573-026-00091-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inhibiting Nipah virus",
-    "link": "https://www.nature.com/articles/d41573-026-00092-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inhibiting lactate transport reduces lung fibrosis",
-    "link": "https://www.nature.com/articles/d41573-026-00090-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-03T00:00:00.000Z",
-    "summary": ""
   }
 ]
