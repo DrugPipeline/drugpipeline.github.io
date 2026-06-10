@@ -1,5 +1,53 @@
 [
   {
+    "title": "Parabilis sets a record with a $670M biotech IPO",
+    "link": "https://www.biopharmadive.com/news/parabilis-biotech-ipo-price-helicon-peptides-cancer-verdine/822397/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-10T15:06:00.000Z",
+    "summary": "The largest-ever new stock sale for a venture-backed biotech company extends a streak of large IPOs in 2026 that’s now resulted in 12 drug startups securing more than $4.1 billion combined."
+  },
+  {
+    "title": "OB-GYN association, deviating from CDC guidance, issues its own vaccine recommendations",
+    "link": "https://www.statnews.com/2026/06/10/acog-obgyn-vaccine-recommendations-pregnancy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T14:44:46.000Z",
+    "summary": "The American College of Obstetricians and Gynecologists has released a recommended vaccine schedule during pregnancy, one that diverges from CDC guidance."
+  },
+  {
+    "title": "STAT+: Hope for Kendall Square’s lab market",
+    "link": "https://www.statnews.com/2026/06/10/biotech-news-hope-for-kendall-squares-lab-market/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T14:31:24.000Z",
+    "summary": "Drug pricing in Europe, AI deals for VC firms, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about U.S. pressure on European drug prices, longer shortages, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/10/american-pressure-on-european-drug-prices-longer-shortages/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T13:20:28.000Z",
+    "summary": "A new analysis found the average drug shortage in 2025 had lasted 5.3 years, exceeding the 4.3 years seen in 2024"
+  },
+  {
+    "title": "AstraZeneca’s ‘extensive’ obesity drug push; $125M for ultrasound-aided genetic medicine",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-obesity-sonothera-bausch-layoffs-cartesian-alzecure/822398/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-10T13:12:00.000Z",
+    "summary": "Newly published data convinced AstraZeneca to conduct a sprawling late-stage program for its GLP-1 pill. Elsewhere, Bausch + Lomb will lay off 119 employees and Cartesian boosted its ‘in vivo’ cell…"
+  },
+  {
+    "title": "DOJ reaches second settlement on youth gender care",
+    "link": "https://www.statnews.com/2026/06/10/health-news-doj-reaches-second-settlement-on-youth-gender-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-10T11:55:12.000Z",
+    "summary": "A new era of American sunscreen, NIAID taps new acting director, and more health news from Morning Rounds"
+  },
+  {
     "title": "Opinion: ‘They all think I’m insane’: What it’s like to start medical residency at 72",
     "link": "https://www.statnews.com/2026/06/10/medical-residency-in-seventies-caribbean-medical-school-experience/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,6 +78,14 @@
     "category": "industry",
     "date": "2026-06-10T08:30:00.000Z",
     "summary": "Federal actions and proposals have reignited debate over methadone and buprenorphine, worrying addiction experts and patient groups."
+  },
+  {
+    "title": "Evolution of the psoriasis therapy landscape",
+    "link": "https://www.nature.com/articles/d41573-026-00097-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-10T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
@@ -160,38 +216,6 @@
     "summary": "As the world deals with an outbreak of Ebola that has no known cure, Susan Reichle, who last year co-founded Aid Transition Alliance to support former USAID professionals, discusses the…"
   },
   {
-    "title": "STAT+: Trump’s health care affordability czar touts Medicaid cuts to hospital leaders",
-    "link": "https://www.statnews.com/2026/06/09/affordability-czar-casey-mulligan-hfma-speech-medicaid-cuts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T08:30:00.000Z",
-    "summary": "Hospital execs say they're working to mitigate the impacts of the looming cuts."
-  },
-  {
-    "title": "Opinion: Why STAT is sticking with ‘health care’ as two words",
-    "link": "https://www.statnews.com/2026/06/09/health-care-vs-healthcare-ap-style-stat/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T08:30:00.000Z",
-    "summary": "Is it “health care” or “healthcare”? STAT readers had strong feelings."
-  },
-  {
-    "title": "STAT+: Wearables, and the flood of data they generate, inch closer to entering the clinic",
-    "link": "https://www.statnews.com/2026/06/09/wearables-data-oura-whoop-clinical-integration/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T08:30:00.000Z",
-    "summary": "Wearables generate a lot of health data, but it exists outside the clinic for the most part. New moves from Oura and Whoop may change that."
-  },
-  {
-    "title": "Opinion: Ending animal testing could set back xenotransplantation just as the field is poised for a breakthrough",
-    "link": "https://www.statnews.com/2026/06/09/pig-organ-transplant-animal-testing-impact-xenotransplantation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T08:30:00.000Z",
-    "summary": "“Innovations like xenotransplantation would never have reached clinical trials without animal experimentation,” writes transplant surgeon Joshua Mezrich."
-  },
-  {
     "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
     "link": "https://www.nature.com/articles/d41573-026-00096-4",
     "source": "Nature Reviews Drug Discovery",
@@ -246,22 +270,6 @@
     "category": "industry",
     "date": "2026-06-08T15:26:00.000Z",
     "summary": "The buyout hands J&J a technology that merges elements of two popular drugmaking methods: protein degraders and antibody-drug conjugates."
-  },
-  {
-    "title": "ADA ‘26: Lilly’s dominance, Pfizer’s ‘foundational’ drug and Roche’s ‘me-too’ option",
-    "link": "https://www.biopharmadive.com/news/ada-2026-lilly-retatrutide-pfizer-berobenatide-roche-enicepatide/822208/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-08T15:01:00.000Z",
-    "summary": "At a big meeting for weight loss drugs, Lilly’s “triple G” therapy set a new standard as lingering doubts surrounded other competing treatments."
-  },
-  {
-    "title": "Precision under pressure: Logistic solutions for nuclear medicine scalability",
-    "link": "https://www.biopharmadive.com/spons/precision-under-pressure-logistic-solutions-for-nuclear-medicine-scalabili/821374/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-08T09:00:00.000Z",
-    "summary": "Racing the clock: How precision logistics deliver life-saving nuclear medicine."
   },
   {
     "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
