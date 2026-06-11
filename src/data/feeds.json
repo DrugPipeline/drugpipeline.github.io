@@ -1,5 +1,85 @@
 [
   {
+    "title": "Summit pulls $500M share sale a day after announcing it",
+    "link": "https://www.biopharmadive.com/news/summit-therapeutics-pulls-500-million-share-sale-pd1-vegf-ivonescimab/822619/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-11T15:55:32.000Z",
+    "summary": "The developer of a leading PD-1/VEGF cancer drug cited “market conditions” for the cancellation. Its shares have struggled to break out following data milestones."
+  },
+  {
+    "title": "Sensorion, citing Regeneron competition, shifts focus to a different hearing loss therapy",
+    "link": "https://www.biopharmadive.com/news/sensorion-gene-therapy-hearing-loss-otof-gjb2/822609/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-11T15:29:57.000Z",
+    "summary": "A strategic review determined that the development environment had \"notably changed,\" leading Sensorion to end work on its gene therapy for OTOF-related hearing loss."
+  },
+  {
+    "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
+    "link": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T14:55:52.000Z",
+    "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care."
+  },
+  {
+    "title": "STAT+: Novartis doubles down on molecular glue strategy",
+    "link": "https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T14:11:20.000Z",
+    "summary": "Seniors' drug costs rise sharply, Enliven's leukemia drugs, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about employer coverage of obesity drugs, another Sanofi setback, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/11/employer-overage-of-obesity-drugs-another-sanofi-setback/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T13:21:55.000Z",
+    "summary": "More employers are planning to drop coverage of GLP-1 drugs for weight loss next year as increasing numbers of people take the medications"
+  },
+  {
+    "title": "FDA Issues Emergency Use Authorization for Generic Over-the-Counter Drug to Treat New World Screwworm in Dogs and Cats",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-generic-over-counter-drug-treat-new-world-screwworm-dogs-and",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-06-11T12:21:28.000Z",
+    "summary": "FDA today issued an Emergency Use Authorization (EUA) for generic Nitenpyram Tablets (nitenpyram) for the treatment of New World screwworm (NWS) infestations (myiasis) in dogs, puppies, cats, and…"
+  },
+  {
+    "title": "STAT+: ‘Synthetic lethality’ could trigger another round of biotech M&A",
+    "link": "https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T12:05:00.000Z",
+    "summary": "Proving out a \"synthetic lethality\" approach can help treat cancer will take a lot more work. It also might trigger some creative deal-making."
+  },
+  {
+    "title": "STAT+: Enliven Therapeutics’ leukemia drug shows promise in new study",
+    "link": "https://www.statnews.com/2026/06/11/enliven-therapeutics-leukemia-drug-shows-promise/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T12:05:00.000Z",
+    "summary": "A targeted drug from Enliven Therapeutics induced molecular responses in nearly half of patients with advanced leukemia, new data show."
+  },
+  {
+    "title": "HHS responds coolly to paper on alcohol risk",
+    "link": "https://www.statnews.com/2026/06/11/health-news-hhs-responds-to-paper-on-alcohol-risk/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T11:55:52.000Z",
+    "summary": "Soda and liver cancer, scientists conflicted on a new NIH proposal, and more health news from Morning Rounds"
+  },
+  {
+    "title": "Takeda’s $4B TYK2 drug tops Bristol Myers’ Sotyktu in head-to-head test",
+    "link": "https://www.biopharmadive.com/news/takeda-zasocitinib-sotyktu-psoriasis-trial/822500/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-11T11:00:00.000Z",
+    "summary": "The results support Takeda’s long-held belief in zasocitinib’s superiority and could help it gain a commercial advantage over Bristol’s therapy."
+  },
+  {
     "title": "STAT+: Scientists see promise in NIH proposal to cap number of grants they receive",
     "link": "https://www.statnews.com/2026/06/11/nih-grant-cap-proposal-science-policy-experts-react/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,6 +110,22 @@
     "category": "industry",
     "date": "2026-06-11T04:01:00.000Z",
     "summary": "Federal investigation finds Medicare Advantage insurers block rehab care for older adults, only to reverse denials on appeal."
+  },
+  {
+    "title": "Antiviral peptide nabs FDA approval for hepatitis delta virus infection",
+    "link": "https://www.nature.com/articles/d41573-026-00101-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "First CD123-targeted ADC secures FDA approval for rare blood cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00100-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Diabetes association leader apologizes for expulsion of members, pledges to rebuild trust",
@@ -160,38 +256,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
-    "link": "https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T20:46:06.000Z",
-    "summary": "The number of prescription drug shortages in the U.S. fell by 23% last year, but a new analysis found other troubling signs about medicines in short supply."
-  },
-  {
-    "title": "STAT+: Trump’s health care affordability czar takes aim at hospitals",
-    "link": "https://www.statnews.com/2026/06/09/trumps-affordability-czar-backs-medicaid-cuts-alcohol-study-published-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T19:56:13.000Z",
-    "summary": "Plus a buried alcohol study gets published, and a Biosecure update."
-  },
-  {
-    "title": "Diabetes Association in uproar after members expelled from annual meeting over protest of NIH cuts",
-    "link": "https://www.statnews.com/2026/06/09/american-diabetes-association-uproar-over-expulsion-of-members/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T19:12:46.000Z",
-    "summary": "The condemnations keep coming after five diabetes experts were escorted out of an ADA meeting for handing out copies of an editorial criticizing federal research cuts."
-  },
-  {
-    "title": "FDA OKs first new sunscreen ingredient in more than 25 years",
-    "link": "https://www.statnews.com/2026/06/09/new-sunscreen-ingredient-bemotrizinol-fda/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T18:43:15.000Z",
-    "summary": "Federal health regulators on Tuesday signed off on the first new sunscreen ingredient for the U.S. market in more than 25 years."
-  },
-  {
     "title": "Merck, Gilead report mixed outcomes in key lung cancer, HIV studies",
     "link": "https://www.biopharmadive.com/news/merck-gilead-trodelvy-evoke-islend-hiv-results/822344/",
     "source": "BioPharma Dive",
@@ -206,22 +270,6 @@
     "category": "industry",
     "date": "2026-06-09T15:50:00.000Z",
     "summary": "Led by former Loxo Oncology CEO Josh Bilenker, the startup now has a trio of cancer drugs in early-stage testing and more following closely behind."
-  },
-  {
-    "title": "Trump administration warns more than 500 hospitals to provide more price information or face fines",
-    "link": "https://www.statnews.com/2026/06/09/trump-administration-warns-hospitals-price-information-fines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T15:35:43.000Z",
-    "summary": "The Trump administration has warned more than 500 hospitals that they are failing to provide the public with basic pricing information."
-  },
-  {
-    "title": "Gilead and Merck’s latest trial success and flop",
-    "link": "https://www.statnews.com/2026/06/09/biotech-news-gilead-and-merck-latest-trial-success-and-flop/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T15:11:54.000Z",
-    "summary": "AstraZeneca's GLP-1 pill, GSK's $10.6B cancer startup acquisition, and more biotech news from The Readout"
   },
   {
     "title": "FDA Expands Sunscreen Options for the First Time in 20 Years",
@@ -254,30 +302,6 @@
     "category": "research",
     "date": "2026-06-09T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "City banks nearly $100M for next-gen RNAi drugs",
-    "link": "https://www.biopharmadive.com/news/city-therapeutics-rnai-series-b/822266/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-08T19:34:00.000Z",
-    "summary": "Co-founded by longtime Alnylam CEO John Maraganore, City has brought a clotting disorder drug into early human testing. An experimental therapy for Stargardt disease could soon follow."
-  },
-  {
-    "title": "Roche stakes $700M on Nurix’s protein-degrading drug",
-    "link": "https://www.biopharmadive.com/news/roche-nurix-protein-degrader-btk-bexobrutideg-deal/822230/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-08T17:35:00.000Z",
-    "summary": "Potentially worth up to $2.3 billion, the collaboration is a bet that drugs able to eliminate the “BTK” enzyme will prove superior to existing medicines that block its activity."
-  },
-  {
-    "title": "Tango data add to growing momentum for pancreatic cancer drugs",
-    "link": "https://www.biopharmadive.com/news/tango-pancreatic-cancer-data-vopimetostat-daraxonrasib/822221/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-08T16:13:52.000Z",
-    "summary": "A combination involving Tango’s experimental therapy appeared to boost response rates in a small clinical trial well beyond what would be expected, sparking a share surge."
   },
   {
     "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
