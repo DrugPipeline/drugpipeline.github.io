@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Scientists see promise in NIH proposal to cap number of grants they receive",
+    "link": "https://www.statnews.com/2026/06/11/nih-grant-cap-proposal-science-policy-experts-react/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T08:30:00.000Z",
+    "summary": "Without easy access to leaders within a field or top-of-the-line lab equipment, principal investigators outside top universities often struggle to compete for grants from the NIH."
+  },
+  {
+    "title": "Opinion: How long Covid’s scientific stalemate made it politically erasable",
+    "link": "https://www.statnews.com/2026/06/11/long-covid-research-federal-funding-stalemate-trump/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T08:30:00.000Z",
+    "summary": "Long Covid hasn’t disappeared. It’s just gone underground, writes Steven Phillips."
+  },
+  {
+    "title": "Opinion: We published in Nature Medicine in 2025 for free. In 2026, it cost us $12,850",
+    "link": "https://www.statnews.com/2026/06/11/open-access-journal-fees-nature-wiley-elsevier-nih/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-11T08:30:00.000Z",
+    "summary": "In 2025, Elizabeth Selvin and her colleagues published in Nature Medicine for free. In 2026, it cost them $12,850, she writes."
+  },
+  {
     "title": "STAT+: Private Medicare plans erect barriers to rehab care in pursuit of profit, federal investigators find",
     "link": "https://www.statnews.com/2026/06/11/medicare-advantage-oig-report-rehab-care-deny-appeal-reverse/?utm_campaign=rss",
     "source": "STAT News",
@@ -120,6 +144,22 @@
     "summary": "Federal actions and proposals have reignited debate over methadone and buprenorphine, worrying addiction experts and patient groups."
   },
   {
+    "title": "Evolution of the psoriasis therapy landscape",
+    "link": "https://www.nature.com/articles/d41573-026-00097-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-10T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Advancing ferroptosis-targeted therapies",
+    "link": "https://www.nature.com/articles/d41573-026-00098-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-10T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds",
     "link": "https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,14 +224,6 @@
     "summary": "AstraZeneca's GLP-1 pill, GSK's $10.6B cancer startup acquisition, and more biotech news from The Readout"
   },
   {
-    "title": "STAT+: NIAID appoints new acting director after weekslong questions over leadership",
-    "link": "https://www.statnews.com/2026/06/09/niaid-acting-director-john-powers-replaces-taubenberger/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T14:50:45.000Z",
-    "summary": "The NIH has appointed researcher John Powers III to lead its infectious disease institute on an acting basis, after weeks of being in leadership limbo."
-  },
-  {
     "title": "FDA Expands Sunscreen Options for the First Time in 20 Years",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years",
     "source": "FDA Press Releases",
@@ -200,28 +232,28 @@
     "summary": "Today, the U.S. Food and Drug Administration added bemotrizinol to the list of permitted sunscreen active ingredients, marking a significant milestone in the agency's efforts to advance sunscreen…"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a $10.6 billion GSK deal, an AstraZeneca obesity pill, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/09/gsk-buying-nuvalent-cancer-drug-astrazeneca-obesity-pill-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T13:39:19.000Z",
-    "summary": "GSK agreed to buy Nuvalent, a cancer drug developer, in a deal worth $10.6 billion, as the company continues its expansion in oncology"
-  },
-  {
-    "title": "Dexcom RCT suggests CGM benefits for broad diabetes population",
-    "link": "https://www.statnews.com/2026/06/09/dexcom-cgm-trial-wearables-clinic-apple-updates-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-09T13:34:45.000Z",
-    "summary": "In this edition of STAT Health Tech: Dexcom's CGM trial, udpates from Apple's annual developers' conference, and wearables."
-  },
-  {
     "title": "GSK boosts cancer pipeline with $11B Nuvalent buyout",
     "link": "https://www.biopharmadive.com/news/gsk-nuvalent-11B-dollar-acquisition-alk-ros1/822340/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-09T13:28:02.000Z",
     "summary": "The British drugmaker's third acquisition this year gives it two experimental lung cancer drugs under FDA review that it hopes will support a franchise."
+  },
+  {
+    "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
+    "link": "https://www.nature.com/articles/d41573-026-00096-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Analysis of a decade of post-authorisation studies for medicines approved by the EMA",
+    "link": "https://www.nature.com/articles/d41573-026-00082-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "City banks nearly $100M for next-gen RNAi drugs",
@@ -246,5 +278,21 @@
     "category": "industry",
     "date": "2026-06-08T16:13:52.000Z",
     "summary": "A combination involving Tango’s experimental therapy appeared to boost response rates in a small clinical trial well beyond what would be expected, sparking a share surge."
+  },
+  {
+    "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
+    "link": "https://www.nature.com/articles/s41573-026-01473-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-08T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "ASO sustains microglial neural repair activity",
+    "link": "https://www.nature.com/articles/d41573-026-00095-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-08T00:00:00.000Z",
+    "summary": ""
   }
 ]
