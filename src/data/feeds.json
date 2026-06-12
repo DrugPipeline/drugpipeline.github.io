@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/06/12/up-and-down-the-ladder-job-changes-astrazeneca-bayer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T15:04:15.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "STAT+: Prometheus raises $12 billion in capital for artificial engineers",
+    "link": "https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T14:09:35.000Z",
+    "summary": "Nonprofit Blood Cancer United acquires cancer drug, Lilly and Nvidia invest in Abridge, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a discontinued cancer drug, a Novo security breach, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/12/nonprofit-buys-discontinued-cancer-drug-novo-security-breach/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T13:22:57.000Z",
+    "summary": "The nonprofit Blood Cancer United is buying the remaining supplies of a discontinued investigational cancer drug, Luvelta"
+  },
+  {
+    "title": "Chile offers new data on food warning label efficacy",
+    "link": "https://www.statnews.com/2026/06/12/health-news-chile-offers-new-data-on-food-warning-label-efficacy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T11:51:16.000Z",
+    "summary": "Kennedy's \"publicly\" \"available\" \"calendar,\" drinking during pregnancy, and more health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
     "link": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,6 +62,14 @@
     "category": "industry",
     "date": "2026-06-12T08:05:00.000Z",
     "summary": "Many in the diabetes research community expressed shock and disbelief that their colleagues were threatened with arrest for passing out paper copies of an editorial."
+  },
+  {
+    "title": "The unglamourous AI wins that are quietly transforming drug discovery and development",
+    "link": "https://www.nature.com/articles/d41573-026-00099-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-12T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Upcoming FDA approval decisions in Q3 2026",
@@ -176,44 +216,12 @@
     "summary": "Proving out a \"synthetic lethality\" approach can help treat cancer will take a lot more work. It also might trigger some creative deal-making."
   },
   {
-    "title": "STAT+: Enliven Therapeutics’ leukemia drug shows promise in new study",
-    "link": "https://www.statnews.com/2026/06/11/enliven-therapeutics-leukemia-drug-shows-promise/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T12:05:00.000Z",
-    "summary": "A targeted drug from Enliven Therapeutics induced molecular responses in nearly half of patients with advanced leukemia, new data show."
-  },
-  {
-    "title": "HHS responds coolly to paper on alcohol risk",
-    "link": "https://www.statnews.com/2026/06/11/health-news-hhs-responds-to-paper-on-alcohol-risk/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T11:55:52.000Z",
-    "summary": "Soda and liver cancer, scientists conflicted on a new NIH proposal, and more health news from Morning Rounds"
-  },
-  {
     "title": "Takeda’s $4B TYK2 drug tops Bristol Myers’ Sotyktu in head-to-head test",
     "link": "https://www.biopharmadive.com/news/takeda-zasocitinib-sotyktu-psoriasis-trial/822500/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-11T11:00:00.000Z",
     "summary": "The results support Takeda’s long-held belief in zasocitinib’s superiority and could help it gain a commercial advantage over Bristol’s therapy."
-  },
-  {
-    "title": "STAT+: Scientists see promise in NIH proposal to cap number of grants they receive",
-    "link": "https://www.statnews.com/2026/06/11/nih-grant-cap-proposal-science-policy-experts-react/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T08:30:00.000Z",
-    "summary": "Without easy access to leaders within a field or top-of-the-line lab equipment, principal investigators outside top universities often struggle to compete for grants from the NIH."
-  },
-  {
-    "title": "Opinion: How long Covid’s scientific stalemate made it politically erasable",
-    "link": "https://www.statnews.com/2026/06/11/long-covid-research-federal-funding-stalemate-trump/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T08:30:00.000Z",
-    "summary": "Long Covid hasn’t disappeared. It’s just gone underground, writes Steven Phillips."
   },
   {
     "title": "Antiviral peptide nabs FDA approval for hepatitis delta virus infection",
@@ -306,14 +314,6 @@
   {
     "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
     "link": "https://www.nature.com/articles/d41573-026-00096-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Analysis of a decade of post-authorisation studies for medicines approved by the EMA",
-    "link": "https://www.nature.com/articles/d41573-026-00082-w",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-06-09T00:00:00.000Z",
