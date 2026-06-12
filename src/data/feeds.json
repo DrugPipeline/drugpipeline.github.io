@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
+    "link": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T08:30:00.000Z",
+    "summary": "Hospital execs agree that affordability is a major issue. What to do about it is less clear."
+  },
+  {
+    "title": "Opinion: Ebola outbreak response requires engaging with religious traditions and leaders",
+    "link": "https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T08:30:00.000Z",
+    "summary": "“Failing to engage religious and traditional leaders in meaningful ways was a grave misstep in previous Ebola outbreaks,” researchers write."
+  },
+  {
+    "title": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
+    "link": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T08:30:00.000Z",
+    "summary": "“American science is too valuable to be turned into a political football,” writes David J. Skorton, president of the Association of American Medical Colleges."
+  },
+  {
+    "title": "How a diabetes conference sparked a controversy",
+    "link": "https://www.statnews.com/2026/06/12/ada-convention-controversy-explored-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-12T08:05:00.000Z",
+    "summary": "Many in the diabetes research community expressed shock and disbelief that their colleagues were threatened with arrest for passing out paper copies of an editorial."
+  },
+  {
+    "title": "Upcoming FDA approval decisions in Q3 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00103-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-12T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Novel drug targets in 2025",
+    "link": "https://www.nature.com/articles/d41573-026-00102-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-12T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
     "link": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,22 +216,6 @@
     "summary": "Long Covid hasn’t disappeared. It’s just gone underground, writes Steven Phillips."
   },
   {
-    "title": "Opinion: We published in Nature Medicine in 2025 for free. In 2026, it cost us $12,850",
-    "link": "https://www.statnews.com/2026/06/11/open-access-journal-fees-nature-wiley-elsevier-nih/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T08:30:00.000Z",
-    "summary": "In 2025, Elizabeth Selvin and her colleagues published in Nature Medicine for free. In 2026, it cost them $12,850, she writes."
-  },
-  {
-    "title": "STAT+: Private Medicare plans erect barriers to rehab care in pursuit of profit, federal investigators find",
-    "link": "https://www.statnews.com/2026/06/11/medicare-advantage-oig-report-rehab-care-deny-appeal-reverse/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T04:01:00.000Z",
-    "summary": "Federal investigation finds Medicare Advantage insurers block rehab care for older adults, only to reverse denials on appeal."
-  },
-  {
     "title": "Antiviral peptide nabs FDA approval for hepatitis delta virus infection",
     "link": "https://www.nature.com/articles/d41573-026-00101-w",
     "source": "Nature Reviews Drug Discovery",
@@ -198,22 +230,6 @@
     "category": "research",
     "date": "2026-06-11T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Diabetes association leader apologizes for expulsion of members, pledges to rebuild trust",
-    "link": "https://www.statnews.com/2026/06/10/ada-annual-convention-ceo-apology-protester-removal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-10T19:42:34.000Z",
-    "summary": "The American Diabetes Association CEO apologizes to five members kicked out of annual convention for distributing protest literature, launches review of what went awry."
-  },
-  {
-    "title": "STAT+: Your sepsis algorithm shouldn’t require a time machine",
-    "link": "https://www.statnews.com/2026/06/10/sepsis-algorithm-shouldnt-require-time-machine-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-10T16:19:14.000Z",
-    "summary": "In this edition of AI Prognosis: Quirky medical data tripping up sepsis algorithms, AI scribes for patients, and some AI biotech news."
   },
   {
     "title": "Ethyreal starts up with $101M and takes aim at a pair of immune diseases",
@@ -301,22 +317,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Reply to ‘Stimulating medicines repurposing in the EU: a pilot project’",
-    "link": "https://www.nature.com/articles/s41573-026-01473-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "ASO sustains microglial neural repair activity",
-    "link": "https://www.nature.com/articles/d41573-026-00095-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-08T00:00:00.000Z",
     "summary": ""
   }
 ]
