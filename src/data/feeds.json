@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: FDA approves Sanofi diabetes drug for children with stage 3 diabetes",
+    "link": "https://www.statnews.com/2026/06/13/teplizumab-tzield-sanofi-fda-approval-children-stage-3-diabetes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-13T13:22:44.000Z",
+    "summary": "The FDA has approved a drug that was previously caught in a dispute between career staff and the political appointee head of the CDER."
+  },
+  {
+    "title": "WHO director-general is profoundly concerned after visit to Ebola outbreak area",
+    "link": "https://www.statnews.com/2026/06/13/who-director-general-in-drc-war-greater-concern-than-ebola/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-13T13:00:00.000Z",
+    "summary": "The director-general of the World Health Organization is profoundly worried about the Ebola outbreak in the DRC, he told STAT in an interview."
+  },
+  {
     "title": "Opinion: ‘I’m pretty much all in’: An interview with a woman starting medical residency at almost 73",
     "link": "https://www.statnews.com/2026/06/13/medical-residency-late-in-life-interview/?utm_campaign=rss",
     "source": "STAT News",
@@ -96,30 +112,6 @@
     "summary": "Many in the diabetes research community expressed shock and disbelief that their colleagues were threatened with arrest for passing out paper copies of an editorial."
   },
   {
-    "title": "The unglamourous AI wins that are quietly transforming drug discovery and development",
-    "link": "https://www.nature.com/articles/d41573-026-00099-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-12T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Upcoming FDA approval decisions in Q3 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00103-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-12T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Novel drug targets in 2025",
-    "link": "https://www.nature.com/articles/d41573-026-00102-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-12T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
     "link": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,28 +192,12 @@
     "summary": "A strategic review determined that the development environment had \"notably changed,\" leading Sensorion to end work on its gene therapy for OTOF-related hearing loss."
   },
   {
-    "title": "STAT+: A suspicious denial pattern in Medicare Advantage",
-    "link": "https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T14:55:52.000Z",
-    "summary": "Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care."
-  },
-  {
     "title": "Novartis RNA drug acquired in $12B Avidity deal notches a trial win",
     "link": "https://www.biopharmadive.com/news/novartis-del-brax-avidity-trial-data/822628/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-11T14:18:10.000Z",
     "summary": "The data showed that del-brax, an “antisense oligonucleotide conjugate” being tested against a muscle-wasting disease, met its primary endpoint in a Phase 1/2 study."
-  },
-  {
-    "title": "STAT+: Novartis doubles down on molecular glue strategy",
-    "link": "https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T14:11:20.000Z",
-    "summary": "Seniors' drug costs rise sharply, Enliven's leukemia drugs, and more biotech news from The Readout"
   },
   {
     "title": "J&J looks to widen Imaavy’s use; $300M backs rare disease drug launch",
@@ -246,22 +222,6 @@
     "category": "industry",
     "date": "2026-06-11T11:00:00.000Z",
     "summary": "The results support Takeda’s long-held belief in zasocitinib’s superiority and could help it gain a commercial advantage over Bristol’s therapy."
-  },
-  {
-    "title": "Antiviral peptide nabs FDA approval for hepatitis delta virus infection",
-    "link": "https://www.nature.com/articles/d41573-026-00101-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "First CD123-targeted ADC secures FDA approval for rare blood cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00100-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "Ethyreal starts up with $101M and takes aim at a pair of immune diseases",
@@ -296,35 +256,11 @@
     "summary": "Newly published data convinced AstraZeneca to conduct a sprawling late-stage program for its GLP-1 pill. Elsewhere, Bausch + Lomb will lay off 119 employees and Cartesian boosted its ‘in vivo’ cell…"
   },
   {
-    "title": "Evolution of the psoriasis therapy landscape",
-    "link": "https://www.nature.com/articles/d41573-026-00097-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-10T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Advancing ferroptosis-targeted therapies",
-    "link": "https://www.nature.com/articles/d41573-026-00098-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-10T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Expands Sunscreen Options for the First Time in 20 Years",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-06-09T14:05:25.000Z",
     "summary": "Today, the U.S. Food and Drug Administration added bemotrizinol to the list of permitted sunscreen active ingredients, marking a significant milestone in the agency's efforts to advance sunscreen…"
-  },
-  {
-    "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
-    "link": "https://www.nature.com/articles/d41573-026-00096-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
   }
 ]
