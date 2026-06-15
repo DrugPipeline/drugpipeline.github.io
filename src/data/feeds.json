@@ -1,5 +1,77 @@
 [
   {
+    "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
+    "link": "https://www.statnews.com/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-15T18:19:20.000Z",
+    "summary": "The FDA said it will allow Colorado to import certain prescription drugs from Canada in an effort to bring prices down for residents."
+  },
+  {
+    "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
+    "link": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-15T15:25:14.000Z",
+    "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be."
+  },
+  {
+    "title": "STAT+: A key European clinical trial registry lacks complete and timely results, an analysis finds",
+    "link": "https://www.statnews.com/pharmalot/2026/06/15/european-clinical-trial-registry-results-analysis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-15T15:04:33.000Z",
+    "summary": "A new analysis found that results for less than half of the clinical studies registered in a key European database were reported within the required time frame."
+  },
+  {
+    "title": "Covid vaccination cut risk of adverse heart events, large study finds",
+    "link": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-15T15:01:52.000Z",
+    "summary": "Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers."
+  },
+  {
+    "title": "Medicare drug price rule may target under-the-skin Keytruda and Opdivo",
+    "link": "https://www.biopharmadive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822899/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-15T14:07:22.000Z",
+    "summary": "For 2029, a federal rule proposes closing a \"loophole\" that protects medicines transitioning from intravenous administration from price protection."
+  },
+  {
+    "title": "Lilly scores early positive data for new JAK drug",
+    "link": "https://www.biopharmadive.com/news/Lilly-JAK-drug-myelofibrosis-clinical-trial-results-eha/822914/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-15T13:43:00.000Z",
+    "summary": "Acquired through its purchase of Ajax, the drug showed encouraging effects in patients with hard-to-treat myelofibrosis. To analysts, such results could lead to competition for Incyte’s Jakafi."
+  },
+  {
+    "title": "J&J multiple myeloma drug gains edge in earlier stage disease",
+    "link": "https://www.biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-15T13:37:00.000Z",
+    "summary": "The latest results studying Talvey in combination with Darzalex Faspro support J&J’s efforts to expand the immunotherapy's use."
+  },
+  {
+    "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
+    "link": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-15T13:36:34.000Z",
+    "summary": "A syphilis drug shortage, Sanofi's diabetes drug approval, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-15T13:22:46.000Z",
+    "summary": "Pfizer hasn't complied with a request to donate emergency penicillin to state health agencies as a backstop to prevent congenital syphilis"
+  },
+  {
     "title": "STAT+: Where ‘democracy met science,’ 50 years ago",
     "link": "https://www.statnews.com/2026/06/15/health-news-cambridge-recombinant-dna-anniversary/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,20 +80,20 @@
     "summary": "State Medicaid crackdowns strain home care, WHO leader on Ebola outbreak, and more health news"
   },
   {
-    "title": "Planning a successful pivot from lab to clinic",
-    "link": "https://www.biopharmadive.com/spons/planning-a-successful-pivot-from-lab-to-clinic/822197/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-15T09:00:00.000Z",
-    "summary": "For sterile injectables, key early decisions can have a significant impact on the products’ development."
-  },
-  {
     "title": "Celiac disease is entering a new era of therapeutic innovation",
     "link": "https://www.biopharmadive.com/spons/celiac-disease-is-entering-a-new-era-of-therapeutic-innovation/822457/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-15T09:00:00.000Z",
     "summary": "For the ~1 in 100 people living with celiac, the burden of disease extends far beyond their plate."
+  },
+  {
+    "title": "Planning a successful pivot from lab to clinic",
+    "link": "https://www.biopharmadive.com/spons/planning-a-successful-pivot-from-lab-to-clinic/822197/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-15T09:00:00.000Z",
+    "summary": "For sterile injectables, key early decisions can have a significant impact on the products’ development."
   },
   {
     "title": "As states follow Trump’s Medicaid fraud playbook, people with disabilities struggle to find care",
@@ -144,38 +216,6 @@
     "summary": "Kennedy's \"publicly\" \"available\" \"calendar,\" drinking during pregnancy, and more health news from Morning Rounds"
   },
   {
-    "title": "STAT+: At hospital finance conference, a call to end the friction that’s keeping costs high",
-    "link": "https://www.statnews.com/2026/06/12/hfma-conference-healthcare-affordability-revenue-cycle-vendors/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-12T08:30:00.000Z",
-    "summary": "Hospital execs agree that affordability is a major issue. What to do about it is less clear."
-  },
-  {
-    "title": "Opinion: Ebola outbreak response requires engaging with religious traditions and leaders",
-    "link": "https://www.statnews.com/2026/06/12/ebola-response-drc-uganda-religion-burial-rites/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-12T08:30:00.000Z",
-    "summary": "“Failing to engage religious and traditional leaders in meaningful ways was a grave misstep in previous Ebola outbreaks,” researchers write."
-  },
-  {
-    "title": "Opinion: I’ve spent 40 years in research. I have never seen a threat to science like the new grantmaking rule",
-    "link": "https://www.statnews.com/2026/06/12/omb-grantmaking-rule-uniform-guidance-politics-science/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-12T08:30:00.000Z",
-    "summary": "“American science is too valuable to be turned into a political football,” writes David J. Skorton, president of the Association of American Medical Colleges."
-  },
-  {
-    "title": "How a diabetes conference sparked a controversy",
-    "link": "https://www.statnews.com/2026/06/12/ada-convention-controversy-explored-status-report-alex-hogan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-12T08:05:00.000Z",
-    "summary": "Many in the diabetes research community expressed shock and disbelief that their colleagues were threatened with arrest for passing out paper copies of an editorial."
-  },
-  {
     "title": "The unglamourous AI wins that are quietly transforming drug discovery and development",
     "link": "https://www.nature.com/articles/d41573-026-00099-1",
     "source": "Nature Reviews Drug Discovery",
@@ -198,22 +238,6 @@
     "category": "research",
     "date": "2026-06-12T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: Updated: Tracking RFK Jr.’s promises to remake health in America",
-    "link": "https://www.statnews.com/2026/06/11/rfk-jr-maha-promise-tracker-fact-check/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-12T00:00:00.000Z",
-    "summary": "STAT is tracking goals and promises of Robert F. Kennedy Jr. and his Make America Healthy Again movement — successes, incompletes, and fails."
-  },
-  {
-    "title": "STAT+: An obesity drug deep-dive, and peptides move mainstream",
-    "link": "https://www.statnews.com/2026/06/11/an-obesity-drug-deep-dive-and-peptides-move-mainstream/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-11T20:26:14.000Z",
-    "summary": "Can any of the new obesity medications in development stand out from the pack? Which company just broke records with its IPO? And will the Food and Drug Administration allow…"
   },
   {
     "title": "Summit pulls $500M share sale a day after announcing it",
@@ -256,14 +280,6 @@
     "summary": "FDA today issued an Emergency Use Authorization (EUA) for generic Nitenpyram Tablets (nitenpyram) for the treatment of New World screwworm (NWS) infestations (myiasis) in dogs, puppies, cats, and…"
   },
   {
-    "title": "Takeda’s $4B TYK2 drug tops Bristol Myers’ Sotyktu in head-to-head test",
-    "link": "https://www.biopharmadive.com/news/takeda-zasocitinib-sotyktu-psoriasis-trial/822500/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-11T11:00:00.000Z",
-    "summary": "The results support Takeda’s long-held belief in zasocitinib’s superiority and could help it gain a commercial advantage over Bristol’s therapy."
-  },
-  {
     "title": "Antiviral peptide nabs FDA approval for hepatitis delta virus infection",
     "link": "https://www.nature.com/articles/d41573-026-00101-w",
     "source": "Nature Reviews Drug Discovery",
@@ -278,22 +294,6 @@
     "category": "research",
     "date": "2026-06-11T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Ethyreal starts up with $101M and takes aim at a pair of immune diseases",
-    "link": "https://www.biopharmadive.com/news/ethyreal-bio-graves-thyroid-eye-disease-tshr/822477/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-10T16:00:00.000Z",
-    "summary": "The startup is developing a medicine that works differently than available treatments for thyroid eye disease and could benefit people with a related condition, too."
-  },
-  {
-    "title": "Sanofi stops immune drug trial in latest research setback",
-    "link": "https://www.biopharmadive.com/news/sanofi-rilipubart-cidp-fail-vigil/822472/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-10T15:28:00.000Z",
-    "summary": "The failure adds to a series of mixed or negative readouts and leaves in doubt the future of a therapy Sanofi has viewed as a potential blockbuster."
   },
   {
     "title": "Evolution of the psoriasis therapy landscape",
