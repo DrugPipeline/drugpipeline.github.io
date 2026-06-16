@@ -1,7 +1,15 @@
 [
   {
+    "title": "FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-06-15T20:44:15.000Z",
+    "summary": "On June 12, 2026, the U.S. Food and Drug Administration granted accelerated approval to Tzield (teplizumab) for a new indication, to delay the decline of insulin production in pediatric patients ages…"
+  },
+  {
     "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
-    "link": "https://www.statnews.com/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss",
+    "link": "https://www.statnews.com/pharmalot/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-06-15T18:19:20.000Z",
@@ -318,13 +326,5 @@
     "category": "regulatory",
     "date": "2026-06-09T14:05:25.000Z",
     "summary": "Today, the U.S. Food and Drug Administration added bemotrizinol to the list of permitted sunscreen active ingredients, marking a significant milestone in the agency's efforts to advance sunscreen…"
-  },
-  {
-    "title": "Implantable hydrogel encapsulates ‘living therapeutics’",
-    "link": "https://www.nature.com/articles/d41573-026-00096-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-09T00:00:00.000Z",
-    "summary": ""
   }
 ]
