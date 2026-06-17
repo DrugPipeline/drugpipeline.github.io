@@ -1,5 +1,53 @@
 [
   {
+    "title": "Jazz zeroes in on next-gen T cell engagers with AbCellera deal",
+    "link": "https://www.biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-17T15:09:00.000Z",
+    "summary": "The potentially $4 billion collaboration is the latest example of drugmakers working to broaden the use of T cell engagers, which, so far, have had limited success outside of certain blood cancers."
+  },
+  {
+    "title": "STAT+: FDA appears open to Moderna’s flu vaccine ahead of adcomm",
+    "link": "https://www.statnews.com/2026/06/17/biotech-news-fda-appears-open-to-moderna-flu-shot/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T13:34:42.000Z",
+    "summary": "UniQure will submit Huntington's therapy for approval, Eli Lilly buys 4E Therapeutics, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about hackers extorting Novo, an FDA about-face, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/17/hackers-extorting-novo-fda-about-face-on-uniqure-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T13:09:46.000Z",
+    "summary": "A cyber extortion group claimed ​to have stolen more than a terabyte of data from Novo Nordisk and said it is ‌exploring selling some of the data"
+  },
+  {
+    "title": "STAT+: Is Abridge’s ‘patient centered’ claim a bridge too far?",
+    "link": "https://www.statnews.com/2026/06/17/is-scribe-developer-abridge-patient-centered-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T12:01:22.000Z",
+    "summary": "In this edition of AI Prognosis, Brittany Trang takes a close look at ambient scribe developer Abridge's claim about being patient-centered."
+  },
+  {
+    "title": "Trump administration will bring special ed to HHS",
+    "link": "https://www.statnews.com/2026/06/17/health-news-trump-administration-brings-special-ed-to-hhs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T11:53:26.000Z",
+    "summary": "Infant mortality rate dips, OTC naloxone options rise, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Following dispute with FDA, UniQure is cleared to submit Huntington’s treatment for approval",
+    "link": "https://www.statnews.com/2026/06/17/huntingtons-disease-uniqure-drug-fda-review/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T11:43:08.000Z",
+    "summary": "The FDA has reversed its opposition to a closely watched experimental treatment for Huntington’s disease, clearing a path for its maker."
+  },
+  {
     "title": "A new Westlake-backed biotech takes aim at migraines",
     "link": "https://www.biopharmadive.com/news/vedana-migraine-stealth-launch-biotech-pacap/822960/",
     "source": "BioPharma Dive",
@@ -192,22 +240,6 @@
     "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be."
   },
   {
-    "title": "STAT+: A key European clinical trial registry lacks complete and timely results, an analysis finds",
-    "link": "https://www.statnews.com/pharmalot/2026/06/15/european-clinical-trial-registry-results-analysis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-15T15:04:33.000Z",
-    "summary": "A new analysis found that results for less than half of the clinical studies registered in a key European database were reported within the required time frame."
-  },
-  {
-    "title": "Covid vaccination cut risk of adverse heart events, large study finds",
-    "link": "https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-15T15:01:52.000Z",
-    "summary": "Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers."
-  },
-  {
     "title": "Medicare drug price rule may target under-the-skin Keytruda and Opdivo",
     "link": "https://www.biopharmadive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822899/",
     "source": "BioPharma Dive",
@@ -222,38 +254,6 @@
     "category": "industry",
     "date": "2026-06-15T13:43:00.000Z",
     "summary": "Acquired through its purchase of Ajax, the drug showed encouraging effects in patients with hard-to-treat myelofibrosis. To analysts, such results could lead to competition for Incyte’s Jakafi."
-  },
-  {
-    "title": "J&J multiple myeloma drug gains edge in earlier stage disease",
-    "link": "https://www.biopharmadive.com/news/jj-multiple-myeloma-drug-talvey-earlier-stage-disease/822904/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-15T13:37:00.000Z",
-    "summary": "The latest results studying Talvey in combination with Darzalex Faspro support J&J’s efforts to expand the immunotherapy's use."
-  },
-  {
-    "title": "STAT+: Lilly’s Ajax acquisition may have been worth it",
-    "link": "https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-15T13:36:34.000Z",
-    "summary": "A syphilis drug shortage, Sanofi's diabetes drug approval, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-15T13:22:46.000Z",
-    "summary": "Pfizer hasn't complied with a request to donate emergency penicillin to state health agencies as a backstop to prevent congenital syphilis"
-  },
-  {
-    "title": "STAT+: Where ‘democracy met science,’ 50 years ago",
-    "link": "https://www.statnews.com/2026/06/15/health-news-cambridge-recombinant-dna-anniversary/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-15T11:56:24.000Z",
-    "summary": "State Medicaid crackdowns strain home care, WHO leader on Ebola outbreak, and more health news"
   },
   {
     "title": "FDA Clears First Over-the-Counter Continuous Glucose Monitor for Children",
