@@ -1,5 +1,45 @@
 [
   {
+    "title": "FTC, four state AGs sue transgender health group over care standards",
+    "link": "https://www.statnews.com/2026/06/17/ftc-gender-affirming-lawsuit-targets-wpath/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T18:23:28.000Z",
+    "summary": "The FTC and four state attorneys general have sued the main professional organization for gender-affirming care clinicians."
+  },
+  {
+    "title": "NIH diversity programs doubled undergraduates’ odds of getting a Ph.D., 20-year study finds",
+    "link": "https://www.statnews.com/2026/06/17/nih-diversity-programs-terminated-despite-success-study-shows/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T18:01:40.000Z",
+    "summary": "A new study found that two diversity-oriented programs supported by the NIH doubled the odds that an undergraduate would earn a Ph.D."
+  },
+  {
+    "title": "Luigi Mangione will assert psychiatric defense in murder case in UnitedHealthcare CEO’s killing",
+    "link": "https://www.statnews.com/2026/06/17/luigi-mangione-psychiatric-defense-murder-case-unitedhealthcare-ceo-killing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T17:02:53.000Z",
+    "summary": "Luigi Mangione plans to assert a psychiatric defense at his state murder trial, claiming he was suffering from extreme emotional disturbance when he gunned down UnitedHealthcare CEO Brian Thompson."
+  },
+  {
+    "title": "UniQure to file gene therapy for approval, reflecting major shifts at FDA",
+    "link": "https://www.biopharmadive.com/news/uniqure-fda-gene-therapy-huntingtons-approval-filing-leadership/823163/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-17T16:12:00.000Z",
+    "summary": "The decision marks another regulatory U-turn following the exits of Marty Makary and Vinay Prasad, suggesting to some analysts that current FDA leadership may be more flexible in certain cases."
+  },
+  {
+    "title": "STAT+: Advocacy groups petition FDA to withdraw approval of ‘unsafe’ use of antibiotics given to livestock",
+    "link": "https://www.statnews.com/pharmalot/2026/06/17/advocates-petition-fda-withdraw-approval-unsafe-use-antibiotics-given-livestock/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T16:07:12.000Z",
+    "summary": "More than 60 organizations are urging the FDA to withdraw approval for what they called the “unsafe” use of antibiotics for preventing disease in food-producing livestock."
+  },
+  {
     "title": "Jazz zeroes in on next-gen T cell engagers with AbCellera deal",
     "link": "https://www.biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/",
     "source": "BioPharma Dive",
@@ -200,22 +240,6 @@
     "summary": "As the Human Cell Atlas project marks its 10th anniversary, a leader's ties to a major single-cell RNA sequencing company raise conflict-of-interest questions."
   },
   {
-    "title": "Opinion: Congress must reauthorize the Pandemic and All-Hazards Preparedness Act",
-    "link": "https://www.statnews.com/2026/06/16/aspr-pandemic-all-hazard-preparedness-act-reauthorization/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-16T08:30:00.000Z",
-    "summary": "America’s next health emergency won’t wait for Washington, write W. Craig Vanderwagen and Jennifer B. Alton."
-  },
-  {
-    "title": "Opinion: I’m an Alzheimer’s specialist. I still missed it in my own father",
-    "link": "https://www.statnews.com/2026/06/16/alzheimers-diagnosis-treatment-infrastructure/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-16T08:30:00.000Z",
-    "summary": "“Alzheimer’s is not primarily a disease of old age. It is a decades-long biological process,” writes Elizabeth Bevins."
-  },
-  {
     "title": "FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3",
     "source": "FDA Press Releases",
@@ -224,36 +248,12 @@
     "summary": "On June 12, 2026, the U.S. Food and Drug Administration granted accelerated approval to Tzield (teplizumab) for a new indication, to delay the decline of insulin production in pediatric patients ages…"
   },
   {
-    "title": "STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada",
-    "link": "https://www.statnews.com/pharmalot/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-15T18:19:20.000Z",
-    "summary": "The FDA said it will allow Colorado to import certain prescription drugs from Canada in an effort to bring prices down for residents."
-  },
-  {
-    "title": "STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end",
-    "link": "https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-15T15:25:14.000Z",
-    "summary": "After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be."
-  },
-  {
     "title": "Medicare drug price rule may target under-the-skin Keytruda and Opdivo",
     "link": "https://www.biopharmadive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822899/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-15T14:07:22.000Z",
     "summary": "For 2029, a federal rule proposes closing a \"loophole\" that protects medicines transitioning from intravenous administration from price protection."
-  },
-  {
-    "title": "Lilly scores early positive data for new JAK drug",
-    "link": "https://www.biopharmadive.com/news/Lilly-JAK-drug-myelofibrosis-clinical-trial-results-eha/822914/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-15T13:43:00.000Z",
-    "summary": "Acquired through its purchase of Ajax, the drug showed encouraging effects in patients with hard-to-treat myelofibrosis. To analysts, such results could lead to competition for Incyte’s Jakafi."
   },
   {
     "title": "FDA Clears First Over-the-Counter Continuous Glucose Monitor for Children",
