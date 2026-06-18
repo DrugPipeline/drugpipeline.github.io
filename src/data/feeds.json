@@ -1,11 +1,59 @@
 [
   {
+    "title": "STAT+: Eli Lilly ends 340B drug discounts to some hospitals for failing to provide claims data",
+    "link": "https://www.statnews.com/pharmalot/2026/06/18/eli-lilly-340b-hospitals-drug-discount-price-breaks-eliminated/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-18T19:56:26.000Z",
+    "summary": "Making good on its threat, Eli Lilly has begun eliminating mandated price breaks to a few dozen hospitals that participate in a federal drug discount program."
+  },
+  {
+    "title": "New hope in treating Huntington’s disease and a report card on RFK Jr.’s promises",
+    "link": "https://www.statnews.com/2026/06/18/huntingtons-disease-uniqure-rfk-jr-readout-loud-podcast/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-18T19:40:54.000Z",
+    "summary": "This week on \"The Readout LOUD\" podcast: new hope in treating Huntington's disease and a report card on RFK Jr.'s promises. Listen now."
+  },
+  {
+    "title": "Ebola cases increase almost 40% in a week as death toll passes 200",
+    "link": "https://www.statnews.com/2026/06/18/ebola-outbreak-congo-uganda-cases-increase-death-toll/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-18T16:30:00.000Z",
+    "summary": "Ebola cases have increased almost 40% in a week in the current outbreak in Congo and Uganda as the death toll passes 200."
+  },
+  {
+    "title": "cAMPfield lands $180M  to build gut disease drug",
+    "link": "https://www.biopharmadive.com/news/campfield-series-a-launch-immune-drugs/823259/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-18T15:45:00.000Z",
+    "summary": "The biotech is advancing an anti-inflammatory drug that originated with vTv for inflammatory bowel diseases, leaning on a better side effect profile."
+  },
+  {
+    "title": "STAT+: Do wearables actually help people with cardiovascular disease?",
+    "link": "https://www.statnews.com/2026/06/18/do-wearables-actually-help-people-with-cardiovascular-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-18T15:29:32.000Z",
+    "summary": "In this edition of STAT Health Tech: A look at what researchers found about if using wearables help people with cardiovascular diseases, and more."
+  },
+  {
     "title": "STAT+: Cambrian’s experimental longevity drug mimics exercise",
     "link": "https://www.statnews.com/2026/06/18/biotech-news-cambrians-experimental-longevity-drug-mimics-exercise/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-06-18T15:19:31.000Z",
     "summary": "What Soon-Shiong has delivered, Encanta's RSV antiviral, and other biotech news from The Readout"
+  },
+  {
+    "title": "Biogen adds more immune drugs in $1B buyout of secretive startup Raythera",
+    "link": "https://www.biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-18T15:12:00.000Z",
+    "summary": "The companies didn’t specify the drugs Biogen is acquiring in the deal, though patents Raythera secured provide important clues."
   },
   {
     "title": "Pfizer CFO to step down; Denali sells a regulatory fast-pass",
@@ -120,6 +168,22 @@
     "summary": ""
   },
   {
+    "title": "Can multispecific biologics break the efficacy ceiling?",
+    "link": "https://www.nature.com/articles/d41573-026-00106-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Multispecific T-cell engagers attract cancer drug developers",
+    "link": "https://www.nature.com/articles/d41573-026-00107-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "RFK Jr. presents $700 million in mental health funding, but experts say grants aren’t new",
     "link": "https://www.statnews.com/2026/06/17/rfk-new-mental-health-funding-or-new-use-existing-grants/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,14 +224,6 @@
     "summary": "A new study found that two diversity-oriented programs supported by the NIH doubled the odds that an undergraduate would earn a Ph.D."
   },
   {
-    "title": "Luigi Mangione will assert psychiatric defense in murder case in UnitedHealthcare CEO’s killing",
-    "link": "https://www.statnews.com/2026/06/17/luigi-mangione-psychiatric-defense-murder-case-unitedhealthcare-ceo-killing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-17T17:02:53.000Z",
-    "summary": "Luigi Mangione plans to assert a psychiatric defense at his state murder trial, claiming he was suffering from extreme emotional disturbance when he gunned down UnitedHealthcare CEO Brian Thompson."
-  },
-  {
     "title": "UniQure to file gene therapy for approval, reflecting major shifts at FDA",
     "link": "https://www.biopharmadive.com/news/uniqure-fda-gene-therapy-huntingtons-approval-filing-leadership/823163/",
     "source": "BioPharma Dive",
@@ -176,36 +232,12 @@
     "summary": "The decision marks another regulatory U-turn following the exits of Marty Makary and Vinay Prasad, suggesting to some analysts that current FDA leadership may be more flexible in certain cases."
   },
   {
-    "title": "STAT+: Advocacy groups petition FDA to withdraw approval of ‘unsafe’ use of antibiotics given to livestock",
-    "link": "https://www.statnews.com/pharmalot/2026/06/17/advocates-petition-fda-withdraw-approval-unsafe-use-antibiotics-given-livestock/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-17T16:07:12.000Z",
-    "summary": "More than 60 organizations are urging the FDA to withdraw approval for what they called the “unsafe” use of antibiotics for preventing disease in food-producing livestock."
-  },
-  {
     "title": "Jazz zeroes in on next-gen T cell engagers with AbCellera deal",
     "link": "https://www.biopharmadive.com/news/jazz-abcellera-t-cell-engager-multispecific-antibodies-deal/823125/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-17T15:09:00.000Z",
     "summary": "The potentially $4 billion collaboration is the latest example of drugmakers working to broaden the use of T cell engagers, which, so far, have had limited success outside of certain blood cancers."
-  },
-  {
-    "title": "STAT+: FDA appears open to Moderna’s flu vaccine ahead of adcomm",
-    "link": "https://www.statnews.com/2026/06/17/biotech-news-fda-appears-open-to-moderna-flu-shot/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-17T13:34:42.000Z",
-    "summary": "UniQure will submit Huntington's therapy for approval, Eli Lilly buys 4E Therapeutics, and more biotech news"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about hackers extorting Novo, an FDA about-face, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/17/hackers-extorting-novo-fda-about-face-on-uniqure-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-17T13:09:46.000Z",
-    "summary": "A cyber extortion group claimed ​to have stolen more than a terabyte of data from Novo Nordisk and said it is ‌exploring selling some of the data"
   },
   {
     "title": "A new Westlake-backed biotech takes aim at migraines",
@@ -238,22 +270,6 @@
     "category": "industry",
     "date": "2026-06-16T15:59:00.000Z",
     "summary": "Ahead of a Thursday advisory panel meeting, agency scientists highlighted shortcomings in data accrued for a vaccine the FDA controversially refused to even review earlier this year."
-  },
-  {
-    "title": "Edgewise heart drug passes key trial test",
-    "link": "https://www.biopharmadive.com/news/edgewise-heart-drug-EDG-7500-cardiomyopathy/823006/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-16T13:36:17.000Z",
-    "summary": "Still, the results leave somewhat unclear how different the company’s drug is than marketed hypertrophic cardiomyopathy medicines from Bristol Myers Squibb and Cytokinetics."
-  },
-  {
-    "title": "Neumora depression drug fails; EnGene to cut 50% of staff",
-    "link": "https://www.biopharmadive.com/news/neumora-depression-engene-jnj-sensei-faeth-celltaxis-cellares/822929/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-16T13:08:00.000Z",
-    "summary": "Neumora’s stumble is the latest setback for a once-promising class of brain drugs. Elsewhere, a cell therapy manufacturing specialist took steps toward an IPO and J&J made its latest U.S investment."
   },
   {
     "title": "FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose",
