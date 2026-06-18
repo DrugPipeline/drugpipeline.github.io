@@ -1,5 +1,37 @@
 [
   {
+    "title": "Kardigan extends biotech’s streak of big IPOs with $400M haul",
+    "link": "https://www.biopharmadive.com/news/kardigan-ipo-price-biotech-myokardia-heart-drugs/822947/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-18T01:04:00.000Z",
+    "summary": "Including the heart drug developer’s offering, four biotechs in 2026 have raised at least $400 million in IPO proceeds — the most in a single year since 2021, according to BioPharma Dive data."
+  },
+  {
+    "title": "RFK Jr. presents $700 million in mental health funding, but experts say grants aren’t new",
+    "link": "https://www.statnews.com/2026/06/17/rfk-new-mental-health-funding-or-new-use-existing-grants/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T21:36:50.000Z",
+    "summary": "RFK Jr. presents funding intended to address mental illness and addiction, particularly among homeless people."
+  },
+  {
+    "title": "FDA Approves First Single-Dose Generic Treatment for Influenza",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-single-dose-generic-treatment-influenza",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-06-17T21:32:27.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved the first generic of Xofluza (baloxavir marboxil) tablets, the first single-dose treatment for acute uncomplicated influenza and prophylaxis in…"
+  },
+  {
+    "title": "STAT+: DOJ’s swift win in OhioHealth case should have hospitals studying their contracts, experts say",
+    "link": "https://www.statnews.com/2026/06/17/ohiohealth-antitrust-settlement-doj-ohio-attorney-general/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-17T20:23:19.000Z",
+    "summary": "The speed of DOJ's proposed antitrust settlement with OhioHealth should put other hospitals on notice, experts say."
+  },
+  {
     "title": "FTC, four state AGs sue transgender health group over care standards",
     "link": "https://www.statnews.com/2026/06/17/ftc-gender-affirming-lawsuit-targets-wpath/?utm_campaign=rss",
     "source": "STAT News",
@@ -216,14 +248,6 @@
     "summary": "Medicare-funded weight loss, Utah's lower drunk driving limit, and more health news from Morning Rounds"
   },
   {
-    "title": "STAT+: Verge Labs’ new AI model solves patient stratification problems for neurology clinical trials",
-    "link": "https://www.statnews.com/2026/06/16/verge-labs-ai-model-clinical-trials-data-neurology-diseases/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-16T12:00:00.000Z",
-    "summary": "As the saying goes, one man’s trash is another man’s treasure. Or as Verge Labs might put it, one company’s failed clinical trial … is that same company’s new AI…"
-  },
-  {
     "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
     "link": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
     "source": "BioPharma Dive",
@@ -232,28 +256,12 @@
     "summary": "This podcast explores how leading Alzheimer’s experts are working to bridge the gap between clinical trial design and frontline care."
   },
   {
-    "title": "STAT+: Human Cell Atlas leader’s tie to 10x Genomics raises conflict-of-interest questions",
-    "link": "https://www.statnews.com/2026/06/16/human-cell-atlas-consortium-meeting-boston-spatial-biology-next-step/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-16T08:30:00.000Z",
-    "summary": "As the Human Cell Atlas project marks its 10th anniversary, a leader's ties to a major single-cell RNA sequencing company raise conflict-of-interest questions."
-  },
-  {
     "title": "FDA Approves New Indication for Tzield (teplizumab) for Certain Pediatric Patients with Recently Diagnosed Stage 3 Type 1 Diabetes",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-indication-tzield-teplizumab-certain-pediatric-patients-recently-diagnosed-stage-3",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-06-15T20:44:15.000Z",
     "summary": "On June 12, 2026, the U.S. Food and Drug Administration granted accelerated approval to Tzield (teplizumab) for a new indication, to delay the decline of insulin production in pediatric patients ages…"
-  },
-  {
-    "title": "Medicare drug price rule may target under-the-skin Keytruda and Opdivo",
-    "link": "https://www.biopharmadive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822899/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-15T14:07:22.000Z",
-    "summary": "For 2029, a federal rule proposes closing a \"loophole\" that protects medicines transitioning from intravenous administration from price protection."
   },
   {
     "title": "FDA Clears First Over-the-Counter Continuous Glucose Monitor for Children",
@@ -294,21 +302,5 @@
     "category": "regulatory",
     "date": "2026-06-11T12:21:28.000Z",
     "summary": "FDA today issued an Emergency Use Authorization (EUA) for generic Nitenpyram Tablets (nitenpyram) for the treatment of New World screwworm (NWS) infestations (myiasis) in dogs, puppies, cats, and…"
-  },
-  {
-    "title": "Antiviral peptide nabs FDA approval for hepatitis delta virus infection",
-    "link": "https://www.nature.com/articles/d41573-026-00101-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "First CD123-targeted ADC secures FDA approval for rare blood cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00100-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": ""
   }
 ]
