@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: CMS recalculates Medicare Advantage star ratings again, adding more volatility to program",
+    "link": "https://www.statnews.com/2026/06/18/medicare-advantage-star-ratings-recalculated-volatility-industry-lawsuits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-18T22:25:13.000Z",
+    "summary": "Medicare Advantage plans that receive four out of five stars or better get bonus payments, which have ballooned to $16 billion this year."
+  },
+  {
+    "title": "STAT+: FDA advisory panel endorses Moderna mRNA flu vaccine that was subject of controversy",
+    "link": "https://www.statnews.com/2026/06/18/fda-mrna-flu-vaccine-vrbpac-advisers-endorse-moderna-shots/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-18T20:26:25.000Z",
+    "summary": "A panel of advisers to FDA gave its endorsement to a seasonal mRNA flu vaccine that was developed by Moderna and that earlier this year became the subject of controversy."
+  },
+  {
+    "title": "Moderna flu vaccine wins unanimous support from FDA panel",
+    "link": "https://www.biopharmadive.com/news/moderna-mflusiva-mrna-flu-vaccine-fda-committee-vote/823275/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-18T20:25:00.000Z",
+    "summary": "The endorsement of an advisory committee positions Moderna to complete a dramatic turnaround for a shot the FDA declined to review earlier this year."
+  },
+  {
     "title": "STAT+: Eli Lilly ends 340B drug discounts to some hospitals for failing to provide claims data",
     "link": "https://www.statnews.com/pharmalot/2026/06/18/eli-lilly-340b-hospitals-drug-discount-price-breaks-eliminated/?utm_campaign=rss",
     "source": "STAT News",
@@ -48,12 +72,12 @@
     "summary": "What Soon-Shiong has delivered, Encanta's RSV antiviral, and other biotech news from The Readout"
   },
   {
-    "title": "Biogen adds more immune drugs in $1B buyout of secretive startup Raythera",
+    "title": "Biogen adds more immune drugs in $1B buyout of secretive startup RayThera",
     "link": "https://www.biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-18T15:12:00.000Z",
-    "summary": "The companies didn’t specify the drugs Biogen is acquiring in the deal, though patents Raythera secured provide important clues."
+    "summary": "The companies didn’t specify the drugs Biogen is acquiring in the deal, though patents RayThera secured provide important clues."
   },
   {
     "title": "Pfizer CFO to step down; Denali sells a regulatory fast-pass",
@@ -208,22 +232,6 @@
     "summary": "The speed of DOJ's proposed antitrust settlement with OhioHealth should put other hospitals on notice, experts say."
   },
   {
-    "title": "FTC, four state AGs sue transgender health group over care standards",
-    "link": "https://www.statnews.com/2026/06/17/ftc-gender-affirming-lawsuit-targets-wpath/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-17T18:23:28.000Z",
-    "summary": "The FTC and four state attorneys general have sued the main professional organization for gender-affirming care clinicians."
-  },
-  {
-    "title": "NIH diversity programs doubled undergraduates’ odds of getting a Ph.D., 20-year study finds",
-    "link": "https://www.statnews.com/2026/06/17/nih-diversity-programs-terminated-despite-success-study-shows/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-17T18:01:40.000Z",
-    "summary": "A new study found that two diversity-oriented programs supported by the NIH doubled the odds that an undergraduate would earn a Ph.D."
-  },
-  {
     "title": "UniQure to file gene therapy for approval, reflecting major shifts at FDA",
     "link": "https://www.biopharmadive.com/news/uniqure-fda-gene-therapy-huntingtons-approval-filing-leadership/823163/",
     "source": "BioPharma Dive",
@@ -264,14 +272,6 @@
     "summary": "Express Scripts and the PBM lobby are following in CVS Caremark’s footsteps in filing complaints challenging the FAIR Rx Act, which was passed earlier this year despite vehement opposition from PBMs."
   },
   {
-    "title": "FDA staff scrutinizes evidence supporting Moderna’s flu vaccine",
-    "link": "https://www.biopharmadive.com/news/moderna-flu-vaccine-fda-advisory-committee-documents/823002/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-16T15:59:00.000Z",
-    "summary": "Ahead of a Thursday advisory panel meeting, agency scientists highlighted shortcomings in data accrued for a vaccine the FDA controversially refused to even review earlier this year."
-  },
-  {
     "title": "FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-broadens-access-over-counter-naloxone-nasal-spray-opioid-overdose",
     "source": "FDA Press Releases",
@@ -294,29 +294,5 @@
     "category": "regulatory",
     "date": "2026-06-12T19:39:25.000Z",
     "summary": "The U.S. Food and Drug Administration today cleared for marketing the first over-the-counter (OTC) continuous glucose monitor (CGM) for children, Dexcom Inc.’s Stelo Glucose Biosensor System, an…"
-  },
-  {
-    "title": "The unglamourous AI wins that are quietly transforming drug discovery and development",
-    "link": "https://www.nature.com/articles/d41573-026-00099-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-12T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Upcoming FDA approval decisions in Q3 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00103-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-12T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Novel drug targets in 2025",
-    "link": "https://www.nature.com/articles/d41573-026-00102-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-12T00:00:00.000Z",
-    "summary": ""
   }
 ]
