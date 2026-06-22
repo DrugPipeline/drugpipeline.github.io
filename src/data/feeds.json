@@ -1,5 +1,93 @@
 [
   {
+    "title": "STAT+: AbbVie to buy Apogee Therapeutics in nearly $11B deal",
+    "link": "https://www.statnews.com/2026/06/22/abbvie-apogee-acquisition-immunology-zumilokibart/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T11:45:55.000Z",
+    "summary": "AbbVie is buying Apogee Therapeutics, the developer of an experimental atopic dermatitis drug, for nearly $11B, continuing a run of pharma acquisitions."
+  },
+  {
+    "title": "STAT+: Definium LSD therapy helped patients with major depression in late-stage trial",
+    "link": "https://www.statnews.com/2026/06/22/definium-lsd-dt120-major-depression-phase-3-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T11:00:00.000Z",
+    "summary": "Definium Therapeutics said that its LSD therapy helped patients with major depression in its first Phase 3 trial, bringing the psychedelic drug closer to a potential approval."
+  },
+  {
+    "title": "Bionyra brings in $165M for next-generation immune drugs",
+    "link": "https://www.biopharmadive.com/news/bionyra-immune-drug-startup-sofinnova-jeito/823296/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-22T11:00:00.000Z",
+    "summary": "The biotech, co-founded by Sofinnova Partners and a former Sanofi immunology R&D head, is testing new biologics against common immune conditions."
+  },
+  {
+    "title": "STAT+: FDA reverses course on Regenxbio’s childhood gene therapy after rejection",
+    "link": "https://www.statnews.com/2026/06/22/fda-reverses-course-regenxbio-gene-therapy-navsunli-hunter-syndrome/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T10:43:36.000Z",
+    "summary": "The FDA will reconsider approving Regenxbio's experimental gene therapy for a deadly and rare childhood brain disorder it rejected just four months ago."
+  },
+  {
+    "title": "From episodes to a lifetime: How AI can enable women’s health brands to build a partnership that lasts",
+    "link": "https://www.biopharmadive.com/spons/from-episodes-to-a-lifetime-how-ai-can-enable-womens-health-brands-to-bui/822817/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-22T09:00:00.000Z",
+    "summary": "Women's health audiences have long memories and finely tuned instincts for what is performative."
+  },
+  {
+    "title": "The first 14 days: How specialty programs set patients up for success",
+    "link": "https://www.biopharmadive.com/spons/the-first-14-days-how-specialty-programs-set-patients-up-for-success/822595/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-22T09:00:00.000Z",
+    "summary": "As specialty medicines play a growing role in healthcare, the patient journey that follows is equally critical."
+  },
+  {
+    "title": "Health equity researchers fear unseen level of scrutiny under White House proposal",
+    "link": "https://www.statnews.com/2026/06/22/health-disparity-research-new-dei-rule-threat-nih-grants/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T08:30:00.000Z",
+    "summary": "Health disparities researchers say a new White House proposal could disqualify much of their work from federal funding — perhaps the most serious threat yet to the future of their…"
+  },
+  {
+    "title": "STAT+: Pharma goes on a spending spree, snapping up biotechs in a hurry",
+    "link": "https://www.statnews.com/2026/06/22/pharma-biotech-ma-boom-2026-deals-total-123-billion/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T08:30:00.000Z",
+    "summary": "Pharmaceutical companies are hungry to make deals, and they’re making more than they have in years."
+  },
+  {
+    "title": "Opinion: I work in a psychiatric ER. I’m watching the system fail people in real time",
+    "link": "https://www.statnews.com/2026/06/22/psychiatric-er-detox-caregivers-autism-emergency/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T08:30:00.000Z",
+    "summary": "The psychiatric ER is “a detox center for those with no safe place to withdraw and a respite center for caregivers at their breaking point,” writes a psychiatrist."
+  },
+  {
+    "title": "Opinion: STAT+: Enough, already: the problem with clinical trial data collection",
+    "link": "https://www.statnews.com/2026/06/22/clinical-trial-data-how-much-is-too-much/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T08:30:00.000Z",
+    "summary": "“Nearly 30% of the data collected in clinical trials do not directly inform key decisions, yet patients are still asked to provide it.”"
+  },
+  {
+    "title": "STAT+: Sanofi names new R&D head as it tries to jump-start pipeline",
+    "link": "https://www.statnews.com/2026/06/22/sanofi-paulo-fontoura-houman-ashrafian-research-and-development/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-22T06:53:58.000Z",
+    "summary": "Sanofi said that Paulo Fontoura, the chief medical officer at Xaira, would be taking over as its head of R&D, as the company tries to jumpstart its pipeline."
+  },
+  {
     "title": "Opinion: STAT readers debate blue zones, open-access publishing fees, and more",
     "link": "https://www.statnews.com/2026/06/20/blue-zones-real-open-access-publishing-fees-letters-to-editor/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,22 +200,6 @@
     "summary": "The biotech is advancing an anti-inflammatory drug that originated with vTv for inflammatory bowel diseases, leaning on a better side effect profile."
   },
   {
-    "title": "STAT+: Do wearables actually help people with cardiovascular disease?",
-    "link": "https://www.statnews.com/2026/06/18/do-wearables-actually-help-people-with-cardiovascular-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T15:29:32.000Z",
-    "summary": "In this edition of STAT Health Tech: A look at what researchers found about if using wearables help people with cardiovascular diseases, and more."
-  },
-  {
-    "title": "STAT+: Cambrian’s experimental longevity drug mimics exercise",
-    "link": "https://www.statnews.com/2026/06/18/biotech-news-cambrians-experimental-longevity-drug-mimics-exercise/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T15:19:31.000Z",
-    "summary": "What Soon-Shiong has delivered, Encanta's RSV antiviral, and other biotech news from The Readout"
-  },
-  {
     "title": "Biogen adds more immune drugs in $1B buyout of secretive startup RayThera",
     "link": "https://www.biopharmadive.com/news/biogen-raythera-deal-acquire-immune-drugs/823241/",
     "source": "BioPharma Dive",
@@ -142,54 +214,6 @@
     "category": "industry",
     "date": "2026-06-18T14:55:00.000Z",
     "summary": "A search is underway for a successor to Dave Denton, who took a job outside the pharmaceutical industry. Elsewhere, a new kind of Duchenne gene therapy got venture backing and a GSK deal paid…"
-  },
-  {
-    "title": "STAT+: Shingles vaccine may lower dementia risk, new study finds",
-    "link": "https://www.statnews.com/2026/06/18/shingles-vaccine-may-lower-dementia-risk-new-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T14:29:30.000Z",
-    "summary": "Nursing home residents who received at least one dose of shingles vaccine were 24 percent less likely to develop dementia, a new study found."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA review of Moderna’s flu shot, J&J’s focus on cancer, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/18/fda-panel-vote-moderna-flu-vaccine-jnj-cancer-drugs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T13:28:42.000Z",
-    "summary": "Johnson & Johnson has no plans to enter the booming obesity market, opting instead to focus on diseases such as cancer"
-  },
-  {
-    "title": "How many Americans can afford high-quality health care? A new poll finds the number has fallen",
-    "link": "https://www.statnews.com/2026/06/18/how-many-americans-can-afford-their-healthcare/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T13:08:26.000Z",
-    "summary": "A new poll shows only about half of U.S. adults could afford their health care and had access to quality care last year."
-  },
-  {
-    "title": "Six of the biggest health news stories today",
-    "link": "https://www.statnews.com/2026/06/18/health-news-high-end-infant-formula-synthetic-opioids-ftc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T11:59:47.000Z",
-    "summary": "High-end infant formula scrutiny, the spread of synthetic opioids, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: In pancreatic cancer, Patrick Soon-Shiong makes promises he has not kept",
-    "link": "https://www.statnews.com/2026/06/18/patrick-soon-shiong-pancreatic-cancer-abivax-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T10:30:00.000Z",
-    "summary": "A wide gap exists between what Patrick Soon-Shiong says his cancer drugs can achieve and what they actually do, STAT's Adam Feuerstein writes."
-  },
-  {
-    "title": "Super-potent synthetic opioids called nitazenes are spreading across the U.S.",
-    "link": "https://www.statnews.com/2026/06/18/nitazenes-deadly-synthetic-opioids-rapid-spread-united-states/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-18T09:00:00.000Z",
-    "summary": "Overdose deaths confirmed to involve nitazenes have risen sharply in the U.S., from 27 in 2020 to 409 in 2024, according to the CDC"
   },
   {
     "title": "Kardigan extends biotech’s streak of big IPOs with $400M haul",
@@ -246,30 +270,6 @@
     "category": "industry",
     "date": "2026-06-17T15:09:00.000Z",
     "summary": "The potentially $4 billion collaboration is the latest example of drugmakers working to broaden the use of T cell engagers, which, so far, have had limited success outside of certain blood cancers."
-  },
-  {
-    "title": "A new Westlake-backed biotech takes aim at migraines",
-    "link": "https://www.biopharmadive.com/news/vedana-migraine-stealth-launch-biotech-pacap/822960/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-17T09:00:00.000Z",
-    "summary": "Vedana Therapeutics emerged from stealth Wednesday with $46 million to support its mission of developing “anti-PACAP” therapies, an increasingly popular strategy for migraine prevention."
-  },
-  {
-    "title": "Lilly buys non-opioid pain drugmaker 4E",
-    "link": "https://www.biopharmadive.com/news/lilly-4e-acquisition-non-opioid-pain-drugs/823016/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-16T16:23:00.000Z",
-    "summary": "It’s the latest in a string of deals for Lilly, which has sunk more than $18 billion into acquisitions over the past few years."
-  },
-  {
-    "title": "Express Scripts, PCMA sue to block Tennesee law breaking up PBMs and pharmacies",
-    "link": "https://www.biopharmadive.com/news/express-scripts-pcma-sue-tennesee-law-breaking-up-pbms-pharmacies/823045/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-16T16:05:00.000Z",
-    "summary": "Express Scripts and the PBM lobby are following in CVS Caremark’s footsteps in filing complaints challenging the FAIR Rx Act, which was passed earlier this year despite vehement opposition from PBMs."
   },
   {
     "title": "FDA Broadens Access to Over-the-Counter Naloxone Nasal Spray for Opioid Overdose",
