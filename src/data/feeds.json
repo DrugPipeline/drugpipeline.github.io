@@ -1,5 +1,29 @@
 [
   {
+    "title": "Opinion: How I used public radio to recruit 20,000 participants for a peer-reviewed study on walking breaks",
+    "link": "https://www.statnews.com/2026/06/24/short-walking-breaks-sitting-health-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T08:30:00.000Z",
+    "summary": "“With the right structure, Americans will roll up their sleeves, do the science, and trust the result,” Manoush Zomorodi writes."
+  },
+  {
+    "title": "Opinion: New human embryo editing advances require tough conversations on ethical boundaries",
+    "link": "https://www.statnews.com/2026/06/24/embryo-editing-dieter-egli-ethical-boundaries-moratorium/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T08:30:00.000Z",
+    "summary": "Scientists can’t ignore the ethical complexities of new embryo editing advances."
+  },
+  {
+    "title": "STAT+: What an abandoned heart failure trial says about ‘breakthrough’ devices that don’t reach patients",
+    "link": "https://www.statnews.com/2026/06/24/fda-breakthrough-devices-what-we-learned-livanova-vitaria-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T08:30:00.000Z",
+    "summary": "An abandoned heart-failure trial offers a rare window into devices that the FDA deems \"breakthrough\" but never reach patients."
+  },
+  {
     "title": "STAT+: FDA drops enforcement against Whoop after it tweaks blood pressure feature",
     "link": "https://www.statnews.com/2026/06/23/fda-drops-enforcement-against-wearable-maker-whoop/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,14 +200,6 @@
     "summary": "Pfizer said an experimental drug it hoped could replace a widely used chemotherapy in one of the most common forms of lung cancer fell short in a clinical trial."
   },
   {
-    "title": "STAT+: FDA to launch pilot program to speed up early-stage clinical trials",
-    "link": "https://www.statnews.com/2026/06/22/fda-speed-up-early-stage-single-study-clinical-trials/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-22T15:48:44.000Z",
-    "summary": "Federal health officials aim to speed up drug development and better compete with China."
-  },
-  {
     "title": "Regenxbio to resubmit gene therapy as FDA backtracks on another drug rejection",
     "link": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
     "source": "BioPharma Dive",
@@ -198,22 +214,6 @@
     "category": "industry",
     "date": "2026-06-22T15:12:00.000Z",
     "summary": "Houman Ashrafian is leaving Sanofi to pursue a new opportunity. Elsewhere, one of Merck’s prized immune drugs succeeded in a pivotal study and a psychedelics biotech’s shares surged."
-  },
-  {
-    "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
-    "link": "https://www.statnews.com/2026/06/22/ebola-congo-1000-cases-254-deaths-civil-war-impedes-search-patient-zero/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-22T14:27:52.000Z",
-    "summary": "Confirmed cases in the Ebola outbreak in eastern Congo have reached 1,003, including 254 deaths, officials said, as tracing those who had been in contact with patients remains a major challenge."
-  },
-  {
-    "title": "STAT+: Another big deal, another sign biotech M&A is back",
-    "link": "https://www.statnews.com/2026/06/22/biotech-news-another-big-deal-another-sign-ma-is-back/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-22T13:21:46.000Z",
-    "summary": "AbbVie buys Apogee Therapeutics, LSD therapy Phase 3 results, and more biotech news from The Readout"
   },
   {
     "title": "AbbVie to acquire Apogee, staking nearly $11B on long-acting autoimmune drugs",
@@ -238,6 +238,30 @@
     "category": "industry",
     "date": "2026-06-22T09:00:00.000Z",
     "summary": "Women's health audiences have long memories and finely tuned instincts for what is performative."
+  },
+  {
+    "title": "New antibiotic targets novel ribosomal site",
+    "link": "https://www.nature.com/articles/d41573-026-00105-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Can multispecific biologics break the efficacy ceiling?",
+    "link": "https://www.nature.com/articles/d41573-026-00106-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Multispecific T-cell engagers attract cancer drug developers",
+    "link": "https://www.nature.com/articles/d41573-026-00107-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-18T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Single-Dose Generic Treatment for Influenza",
