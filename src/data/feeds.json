@@ -1,5 +1,61 @@
 [
   {
+    "title": "STAT+: At BIO, a glimpse behind Lilly and Chai’s partnership",
+    "link": "https://www.statnews.com/2026/06/24/biotech-news-bio-2026-glimpse-behind-lilly-and-chai-partnership/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T14:14:29.000Z",
+    "summary": "RIP Sangamo, onshoring with drug manufacturing, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA commissioner candidate, Germany’s plans for drug prices, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T13:00:37.000Z",
+    "summary": "Regenxbio plans to apply for accelerated approval for its gene therapy for Duchenne muscular dystrophy."
+  },
+  {
+    "title": "Sangamo holds a bankruptcy sale; VCs back a China-linked Beam competitor",
+    "link": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-24T12:12:00.000Z",
+    "summary": "Eli Lilly and Astellas will be the lead bidders at an auction for Sangamo assets. Elsewhere, an investor syndicate committed $230 million to a gene editing startup and Merck KGaA struck a…"
+  },
+  {
+    "title": "STAT+: Wagering on FDA changes, Regenxbio will submit Duchenne gene therapy for approval",
+    "link": "https://www.statnews.com/2026/06/24/regenxbio-duchenne-gene-therapy-fda-submission/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T11:55:38.000Z",
+    "summary": "Regenxbio plans to submit its Duchenne gene therapy for FDA approval, just a month after it said that regulators wanted to see another trial."
+  },
+  {
+    "title": "FDA finally analyzed its own youth tobacco data",
+    "link": "https://www.statnews.com/2026/06/24/health-news-fda-finally-analyzed-its-own-youth-tobacco-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T11:53:25.000Z",
+    "summary": "Government can't restrict SNAP dollars on candy, diminishing returns for IVF add-ons, and other health news"
+  },
+  {
+    "title": "STAT+: Ophthalmology venture grabs investors’ attention, raises $330 million",
+    "link": "https://www.statnews.com/2026/06/24/ophthalmology-biotech-ollin-biosciences/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T11:00:00.000Z",
+    "summary": "A startup developing treatments for eye diseases has raised $330 million from investors as it readies for late-stage testing."
+  },
+  {
+    "title": "Ollin refuels with $330M to back pivotal tests of Vabysmo challenger",
+    "link": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-24T11:00:00.000Z",
+    "summary": "One of the year’s largest venture funding rounds comes just after a head-to-head study showed Ollin’s drug — licensed from a China-based developer — had certain advantages over Roche’s eye treatment."
+  },
+  {
     "title": "Opinion: How I used public radio to recruit 20,000 participants for a peer-reviewed study on walking breaks",
     "link": "https://www.statnews.com/2026/06/24/short-walking-breaks-sitting-health-research/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,46 +216,6 @@
     "summary": "Exclusive: STAT has learned that Eli Lilly and the FDA allowed a 79-year-old to gain extraordinary access to an experimental obesity drug through the agency’s “compassionate use” program."
   },
   {
-    "title": "STAT+: A sweeping new AI to detect heart conditions is coming to OpenEvidence",
-    "link": "https://www.statnews.com/2026/06/23/pathway-labs-echonext-ai-tool-heart-disease-detection/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T08:30:00.000Z",
-    "summary": "EchoNext, a new AI tool cleared by the FDA, will let doctors use an EKG to easily screen patients for structural heart diseases."
-  },
-  {
-    "title": "Opinion: Ending birthright citizenship could be a public health disaster",
-    "link": "https://www.statnews.com/2026/06/23/birthright-citizenship-supreme-court-ruling-public-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T08:30:00.000Z",
-    "summary": "If the Supreme Court upholds the executive order ending birthright citizenship, it could “have stark consequences at the intersection of bioethics and public health.”"
-  },
-  {
-    "title": "Opinion: The Catch-22 for disabled workers hidden in Medicaid’s new work requirements",
-    "link": "https://www.statnews.com/2026/06/23/medicaid-work-requirements-disability-medically-frail/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T08:30:00.000Z",
-    "summary": "“There's a particular cruelty buried in the new Medicaid work requirement rules,” write Maria Town and Nicole Jorwic."
-  },
-  {
-    "title": "Trump administration targets disability integration mandate in DOJ memo",
-    "link": "https://www.statnews.com/2026/06/22/doj-memo-targets-disability-integration-olmstead-mandate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-22T22:20:37.000Z",
-    "summary": "A new memo from the Department of Justice seeks to upend landmark disability laws and court rulings."
-  },
-  {
-    "title": "STAT+: Closely watched Pfizer lung cancer drug falls short in clinical trial",
-    "link": "https://www.statnews.com/2026/06/22/pfizer-lung-cancer-sigvotatug-vedotin/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-22T21:36:11.000Z",
-    "summary": "Pfizer said an experimental drug it hoped could replace a widely used chemotherapy in one of the most common forms of lung cancer fell short in a clinical trial."
-  },
-  {
     "title": "Regenxbio to resubmit gene therapy as FDA backtracks on another drug rejection",
     "link": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
     "source": "BioPharma Dive",
@@ -222,22 +238,6 @@
     "category": "industry",
     "date": "2026-06-22T11:49:00.000Z",
     "summary": "AbbVie’s largest deal in more than half a decade adds a group of immune disease medications — among them a Dupixent competitor — the company believes to have “mega-blockbuster” sales potential."
-  },
-  {
-    "title": "Bionyra brings in $165M for next-generation immune drugs",
-    "link": "https://www.biopharmadive.com/news/bionyra-immune-drug-startup-sofinnova-jeito/823296/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-22T11:00:00.000Z",
-    "summary": "The biotech, co-founded by Sofinnova Partners and a former Sanofi immunology R&D head, is testing new biologics against common immune conditions."
-  },
-  {
-    "title": "From episodes to a lifetime: How AI can enable women’s health brands to build a partnership that lasts",
-    "link": "https://www.biopharmadive.com/spons/from-episodes-to-a-lifetime-how-ai-can-enable-womens-health-brands-to-bui/822817/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-22T09:00:00.000Z",
-    "summary": "Women's health audiences have long memories and finely tuned instincts for what is performative."
   },
   {
     "title": "New antibiotic targets novel ribosomal site",
