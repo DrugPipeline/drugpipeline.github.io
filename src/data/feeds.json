@@ -1,5 +1,53 @@
 [
   {
+    "title": "Judge temporarily blocks subpoenas in criminal probe of transgender care at New York hospitals",
+    "link": "https://www.statnews.com/2026/06/24/judge-blocks-subpoena-probe-transgender-care-new-york-hospitals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T17:34:35.000Z",
+    "summary": "A judge temporarily blocked federal prosecutors in Texas from getting access to the medical records of transgender patients treated at New York hospitals on Wednesday."
+  },
+  {
+    "title": "Clinical trial set to test two drugs for fast-growing Ebola outbreak",
+    "link": "https://www.statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T16:32:20.000Z",
+    "summary": "A clinical trial testing two drugs against the Bundibugyo ebolavirus, which is driving a fast-moving outbreak in Central Africa, is set to begin next week, WHO officials said."
+  },
+  {
+    "title": "Investors pour $115M into RQ Bio in search of a preventive flu drug",
+    "link": "https://www.biopharmadive.com/news/rq-bio-flu-antibody-drug-financing-startup/823621/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-24T15:30:00.000Z",
+    "summary": "The startup claims to have a “differentiated” antibody that can provide long-lasting protection against a variety of influenza strains."
+  },
+  {
+    "title": "STAT+: A dispatch on AI from BIOtech’s big summer bash",
+    "link": "https://www.statnews.com/2026/06/24/dispatch-from-bio-biotech-big-summer-bash-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T15:21:20.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: Brittany Trang brings the latest from BIO on how biotech companies are approaching artificial intelligence."
+  },
+  {
+    "title": "STAT+: AI wades into a vexing medical mystery: What causes sudden cardiac death?",
+    "link": "https://www.statnews.com/2026/06/24/artificial-intelligence-model-cause-of-sudden-cardiac-death/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-24T15:01:15.000Z",
+    "summary": "A new study published in Nature uses artificial intelligence to identify people at high risk for sudden cardiac death, and pinpoints a possible reason."
+  },
+  {
+    "title": "To Wall Street, psychedelics biotechs are more teammates than rivals",
+    "link": "https://www.biopharmadive.com/news/psychedelics-definium-biotech-research-field-results-validate/823510/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-24T14:56:00.000Z",
+    "summary": "Some analysts argue that, even for competitors, a big clinical trial win for Definium Therapeutics helps validate the psychedelic field and “bring it even further into the mainstream.”"
+  },
+  {
     "title": "STAT+: At BIO, a glimpse behind Lilly and Chai’s partnership",
     "link": "https://www.statnews.com/2026/06/24/biotech-news-bio-2026-glimpse-behind-lilly-and-chai-partnership/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,22 +216,6 @@
     "summary": "In this edition of STAT Health Tech: OpenEvidence adds AI to detect heart disease, and Cadence raises $100 million, and more."
   },
   {
-    "title": "HHS has sent drug for Ebola clinical trial",
-    "link": "https://www.statnews.com/2026/06/23/health-news-hhs-sent-drug-for-ebola-clinical-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T12:45:45.000Z",
-    "summary": "FDA's early-stage clinical trial program, a mysterious single patient gets retatrutide access, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Cadence raises $100 million to automate chronic disease care with regulated AI",
-    "link": "https://www.statnews.com/2026/06/23/cadence-100-million-raise-automate-chronic-care-ai/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T12:00:00.000Z",
-    "summary": "Digital health startup Cadence has raised $100 million at a $1.23 billion valuation to expand its chronic disease management program."
-  },
-  {
     "title": "‘The window’s open’: At BIO, investors take stock of a growing class of biotech IPOs",
     "link": "https://www.biopharmadive.com/news/bio-2026-ipo-biotech-performance-predictions/823474/",
     "source": "BioPharma Dive",
@@ -200,44 +232,12 @@
     "summary": "The drugmaker stopped paying 340B discounts to hospitals that didn’t comply with its new paperwork requirements late last week. Hospitals are urging HRSA to step in."
   },
   {
-    "title": "STAT+: Gene-editing startup launches with $230 million and a Chinese licensing deal",
-    "link": "https://www.statnews.com/2026/06/23/gene-editing-startup-serapha-bio-aatd/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T11:30:00.000Z",
-    "summary": "A new gene-editing startup negotiated contracts with a Chinese company, raised $230 million in funding, and executed a reverse-merger with a preexisting biotech company."
-  },
-  {
-    "title": "STAT+: Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it?",
-    "link": "https://www.statnews.com/2026/06/23/eli-lilly-unusual-weight-loss-drug-trial-compassionate-use-retatrutide-trump/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T08:30:00.000Z",
-    "summary": "Exclusive: STAT has learned that Eli Lilly and the FDA allowed a 79-year-old to gain extraordinary access to an experimental obesity drug through the agency’s “compassionate use” program."
-  },
-  {
     "title": "Regenxbio to resubmit gene therapy as FDA backtracks on another drug rejection",
     "link": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-22T15:39:00.000Z",
     "summary": "The agency took another step toward clearing a backlog of Makary-era rejections that appeared to contradict earlier agreements with drugmakers."
-  },
-  {
-    "title": "Sanofi swaps R&D leaders; Merck’s Prometheus deal pays dividends",
-    "link": "https://www.biopharmadive.com/news/sanofi-ashrafian-fontoura-merck-prometheus-definium-nura-bioarctic/823359/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-22T15:12:00.000Z",
-    "summary": "Houman Ashrafian is leaving Sanofi to pursue a new opportunity. Elsewhere, one of Merck’s prized immune drugs succeeded in a pivotal study and a psychedelics biotech’s shares surged."
-  },
-  {
-    "title": "AbbVie to acquire Apogee, staking nearly $11B on long-acting autoimmune drugs",
-    "link": "https://www.biopharmadive.com/news/abbvie-apogee-acquire-zumilokibart-eczema-drugs/823353/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-22T11:49:00.000Z",
-    "summary": "AbbVie’s largest deal in more than half a decade adds a group of immune disease medications — among them a Dupixent competitor — the company believes to have “mega-blockbuster” sales potential."
   },
   {
     "title": "New antibiotic targets novel ribosomal site",
