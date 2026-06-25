@@ -1,11 +1,83 @@
 [
   {
+    "title": "STAT+: At BIO 2026, industry wrestled with Washington politics, and making AI work better",
+    "link": "https://www.statnews.com/2026/06/25/bio-2026-biotech-conference-san-diego-key-takeaways/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T19:19:26.000Z",
+    "summary": "Biotech executives reveal concerns over Chinese biotech, the profitability of AI, and the durability of Trump's drug price moves."
+  },
+  {
+    "title": "The mysterious case of Eli Lilly’s obesity drug",
+    "link": "https://www.statnews.com/2026/06/25/readout-loud-podcast-eli-lilly-fda-obesity-trump-absci-regenxbio/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T18:58:44.000Z",
+    "summary": "Who got exclusive access to Eli Lilly's highly anticipated obesity candidate? And why are drugmakers spending so much on acquisitions? Find out on this week's \"Readout LOUD.\""
+  },
+  {
+    "title": "STAT+: Cassidy proposes bill to rein in 340B drug discount program",
+    "link": "https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T17:32:39.000Z",
+    "summary": "Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts."
+  },
+  {
+    "title": "Supreme Court ruling blocks thousands of lawsuits against maker of Roundup weedkiller",
+    "link": "https://www.statnews.com/2026/06/25/supreme-court-blocks-thousands-lawsuits-roundup-weedkiller-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T17:15:58.000Z",
+    "summary": "The Supreme Court sided with the maker of Roundup weedkiller in a ruling expected to block thousands of lawsuits alleging it failed to warn people the product could cause cancer."
+  },
+  {
+    "title": "STAT+: Proposed CDC science office could tighten political control at agency",
+    "link": "https://www.statnews.com/2026/06/25/cdc-new-science-office-tighter-political-control/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T16:10:32.000Z",
+    "summary": "Under President Trump, political leaders are exerting more control across federal health agencies."
+  },
+  {
+    "title": "STAT+: Democrats press White House on who got special access to Eli Lilly’s new obesity drug",
+    "link": "https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T15:03:57.000Z",
+    "summary": "The unusual access to an experimental drug has captured the attention of the American public as well."
+  },
+  {
+    "title": "STAT+: Next-gen CRISPR tools improve editing accuracy in embryos, but also stoke ethical concerns",
+    "link": "https://www.statnews.com/2026/06/25/crispr-base-editing-human-embryo-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T15:00:00.000Z",
+    "summary": "The use of genome editing in early embryos has pulled back the curtain on the role of one of the key genes that orchestrates the first stages of human development,…"
+  },
+  {
+    "title": "Remix to go public in reverse merger with once high-flying Passage Bio",
+    "link": "https://www.biopharmadive.com/news/passage-bio-remix-reverse-merger-gene-therapy-wilson/823775/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-25T14:55:08.000Z",
+    "summary": "The transaction marks the latest turn in the fortunes of Passage Bio, one of the companies started by gene therapy pioneer Jim Wilson."
+  },
+  {
     "title": "STAT+: The China debate gets louder in Washington",
     "link": "https://www.statnews.com/2026/06/25/biotech-news-the-china-debate-gets-louder-in-washington/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-06-25T14:20:37.000Z",
     "summary": "A boom in GLP-1s and health care costs, AI-designed hair growth drugs, and more biotech news from The Readout"
+  },
+  {
+    "title": "Antares gets $105M from Novartis for new cancer drugs",
+    "link": "https://www.biopharmadive.com/news/novartis-antares-deal-cancer-drugs/823761/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-25T14:10:13.000Z",
+    "summary": "Adam Friedman, CEO of the Scorpion Therapeutics spinout, said the deal helps both companies accelerate research \"faster than either of us could alone.\""
   },
   {
     "title": "STAT+: FDA’s breakthrough pipeline fills up with generative AI devices",
@@ -80,6 +152,14 @@
     "summary": "The Tarasoff case remains a pivotal marker in bioethics at the bicentennial as we now reach the country’s 250th birthday."
   },
   {
+    "title": "Time to peak sales: how long is the climb?",
+    "link": "https://www.nature.com/articles/d41573-026-00104-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-06-25T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci",
     "link": "https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss",
     "source": "STAT News",
@@ -104,36 +184,12 @@
     "summary": "A judge temporarily blocked federal prosecutors in Texas from getting access to the medical records of transgender patients treated at New York hospitals on Wednesday."
   },
   {
-    "title": "Clinical trial set to test two drugs for fast-growing Ebola outbreak",
-    "link": "https://www.statnews.com/2026/06/24/ebola-treatment-trials-gilead-remdesivir-mappbio-mbp-134/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T16:32:20.000Z",
-    "summary": "A clinical trial testing two drugs against the Bundibugyo ebolavirus, which is driving a fast-moving outbreak in Central Africa, is set to begin next week, WHO officials said."
-  },
-  {
     "title": "Investors pour $115M into RQ Bio in search of a preventive flu drug",
     "link": "https://www.biopharmadive.com/news/rq-bio-flu-antibody-drug-financing-startup/823621/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-24T15:30:00.000Z",
     "summary": "The startup claims to have a “differentiated” antibody that can provide long-lasting protection against a variety of influenza strains."
-  },
-  {
-    "title": "STAT+: A dispatch on AI from BIOtech’s big summer bash",
-    "link": "https://www.statnews.com/2026/06/24/dispatch-from-bio-biotech-big-summer-bash-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T15:21:20.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: Brittany Trang brings the latest from BIO on how biotech companies are approaching artificial intelligence."
-  },
-  {
-    "title": "STAT+: AI wades into a vexing medical mystery: What causes sudden cardiac death?",
-    "link": "https://www.statnews.com/2026/06/24/artificial-intelligence-model-cause-of-sudden-cardiac-death/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T15:01:15.000Z",
-    "summary": "A new study published in Nature uses artificial intelligence to identify people at high risk for sudden cardiac death, and pinpoints a possible reason."
   },
   {
     "title": "To Wall Street, psychedelics biotechs are more teammates than rivals",
@@ -144,44 +200,12 @@
     "summary": "Some analysts argue that, even for competitors, a big clinical trial win for Definium Therapeutics helps validate the psychedelic field and “bring it even further into the mainstream.”"
   },
   {
-    "title": "STAT+: At BIO, a glimpse behind Lilly and Chai’s partnership",
-    "link": "https://www.statnews.com/2026/06/24/biotech-news-bio-2026-glimpse-behind-lilly-and-chai-partnership/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T14:14:29.000Z",
-    "summary": "RIP Sangamo, onshoring with drug manufacturing, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA commissioner candidate, Germany’s plans for drug prices, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T13:00:37.000Z",
-    "summary": "Regenxbio plans to apply for accelerated approval for its gene therapy for Duchenne muscular dystrophy."
-  },
-  {
     "title": "Sangamo holds a bankruptcy sale; VCs back a China-linked Beam competitor",
     "link": "https://www.biopharmadive.com/news/sangamo-bankruptcy-serapha-china-saturnus-cenrifki-carsgen/823588/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-24T12:12:00.000Z",
     "summary": "Eli Lilly and Astellas will be the lead bidders at an auction for Sangamo assets. Elsewhere, an investor syndicate committed $230 million to a gene editing startup and Merck KGaA struck a…"
-  },
-  {
-    "title": "STAT+: Wagering on FDA changes, Regenxbio will submit Duchenne gene therapy for approval",
-    "link": "https://www.statnews.com/2026/06/24/regenxbio-duchenne-gene-therapy-fda-submission/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T11:55:38.000Z",
-    "summary": "Regenxbio plans to submit its Duchenne gene therapy for FDA approval, just a month after it said that regulators wanted to see another trial."
-  },
-  {
-    "title": "FDA finally analyzed its own youth tobacco data",
-    "link": "https://www.statnews.com/2026/06/24/health-news-fda-finally-analyzed-its-own-youth-tobacco-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T11:53:25.000Z",
-    "summary": "Government can't restrict SNAP dollars on candy, diminishing returns for IVF add-ons, and other health news"
   },
   {
     "title": "Ollin refuels with $330M to back pivotal tests of Vabysmo challenger",
@@ -222,21 +246,5 @@
     "category": "industry",
     "date": "2026-06-23T11:59:00.000Z",
     "summary": "In interviews as well as a panel at BIO’s annual meeting, investors and life sciences bankers predicted an acceleration in offerings later this year — but only among companies fitting a certain…"
-  },
-  {
-    "title": "Hospitals irate after Eli Lilly follows through on 340B ultimatum",
-    "link": "https://www.biopharmadive.com/news/eli-lilly-halts-340b-discounts-hospitals-irate-hrsa/823402/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-23T11:47:00.000Z",
-    "summary": "The drugmaker stopped paying 340B discounts to hospitals that didn’t comply with its new paperwork requirements late last week. Hospitals are urging HRSA to step in."
-  },
-  {
-    "title": "Regenxbio to resubmit gene therapy as FDA backtracks on another drug rejection",
-    "link": "https://www.biopharmadive.com/news/regenxbio-fda-resubmit-hunter-syndrome-gene-therapy/823381/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-22T15:39:00.000Z",
-    "summary": "The agency took another step toward clearing a backlog of Makary-era rejections that appeared to contradict earlier agreements with drugmakers."
   }
 ]
