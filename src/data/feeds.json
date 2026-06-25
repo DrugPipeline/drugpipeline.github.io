@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: The China debate gets louder in Washington",
+    "link": "https://www.statnews.com/2026/06/25/biotech-news-the-china-debate-gets-louder-in-washington/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T14:20:37.000Z",
+    "summary": "A boom in GLP-1s and health care costs, AI-designed hair growth drugs, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: FDA’s breakthrough pipeline fills up with generative AI devices",
+    "link": "https://www.statnews.com/2026/06/25/fda-breakthrough-generative-ai-devices-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T13:43:08.000Z",
+    "summary": "In this edition of STAT Health Tech: FDA drops enforcement against Whoop, more AI devices get FDA 'breakthrough' label, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about weight loss drug spending, launch prices for medicines, and much more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/25/weight-loss-drug-spending-launch-prices-for-medicines/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T13:03:07.000Z",
+    "summary": "The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter"
+  },
+  {
+    "title": "STAT+: FDA gives generative AI in radiology two breakthrough designation nods",
+    "link": "https://www.statnews.com/2026/06/25/radiology-generative-ai-cognita-aidoc-fda-breakthrough-designation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T12:00:00.000Z",
+    "summary": "FDA has granted breakthrough designation to two devices that use generative AI to interpret chest X-rays and draft the radiology reports."
+  },
+  {
+    "title": "Another roadblock for DOJ campaign against trans health",
+    "link": "https://www.statnews.com/2026/06/25/health-news-another-roadblock-for-doj-campaign-against-trans-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-25T11:48:40.000Z",
+    "summary": "New bill proposes expanding methadone access, $5.7 trillion on U.S. health care, and more health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: Facing a brutal run, battered vaccine makers still see cause for hope",
     "link": "https://www.statnews.com/2026/06/25/vaccine-industry-dark-period-causes-for-hope/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,52 +184,12 @@
     "summary": "Government can't restrict SNAP dollars on candy, diminishing returns for IVF add-ons, and other health news"
   },
   {
-    "title": "STAT+: Ophthalmology venture grabs investors’ attention, raises $330 million",
-    "link": "https://www.statnews.com/2026/06/24/ophthalmology-biotech-ollin-biosciences/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T11:00:00.000Z",
-    "summary": "A startup developing treatments for eye diseases has raised $330 million from investors as it readies for late-stage testing."
-  },
-  {
     "title": "Ollin refuels with $330M to back pivotal tests of Vabysmo challenger",
     "link": "https://www.biopharmadive.com/news/ollin-biosciences-financing-china-innovent-vabysmo-amd-dme/823564/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-24T11:00:00.000Z",
     "summary": "One of the year’s largest venture funding rounds comes just after a head-to-head study showed Ollin’s drug — licensed from a China-based developer — had certain advantages over Roche’s eye treatment."
-  },
-  {
-    "title": "Opinion: How I used public radio to recruit 20,000 participants for a peer-reviewed study on walking breaks",
-    "link": "https://www.statnews.com/2026/06/24/short-walking-breaks-sitting-health-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T08:30:00.000Z",
-    "summary": "“With the right structure, Americans will roll up their sleeves, do the science, and trust the result,” Manoush Zomorodi writes."
-  },
-  {
-    "title": "Opinion: New human embryo editing advances require tough conversations on ethical boundaries",
-    "link": "https://www.statnews.com/2026/06/24/embryo-editing-dieter-egli-ethical-boundaries-moratorium/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T08:30:00.000Z",
-    "summary": "Scientists can’t ignore the ethical complexities of new embryo editing advances."
-  },
-  {
-    "title": "STAT+: What an abandoned heart failure trial says about ‘breakthrough’ devices that don’t reach patients",
-    "link": "https://www.statnews.com/2026/06/24/fda-breakthrough-devices-what-we-learned-livanova-vitaria-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-24T08:30:00.000Z",
-    "summary": "An abandoned heart-failure trial offers a rare window into devices that the FDA deems \"breakthrough\" but never reach patients."
-  },
-  {
-    "title": "STAT+: FDA drops enforcement against Whoop after it tweaks blood pressure feature",
-    "link": "https://www.statnews.com/2026/06/23/fda-drops-enforcement-against-wearable-maker-whoop/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-23T23:36:09.000Z",
-    "summary": "The FDA told wearable maker Whoop last week that it would not take further enforcement action over the company's blood pressure feature."
   },
   {
     "title": "Pfizer drug acquired in Seagen deal disappoints in lung cancer study",
