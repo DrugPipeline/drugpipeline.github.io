@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: All of Us tests a new approach to collect real-world data for research",
+    "link": "https://www.statnews.com/2026/06/30/nih-all-of-us-program-taps-ehr-records-fill-data-gaps/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T14:00:00.000Z",
+    "summary": "The NIH All of Us Research Program has secured thousands of electronic medical records through an innovative use of patient data-sharing networks"
+  },
+  {
+    "title": "STAT+: Investors double down on Bain-backed startup",
+    "link": "https://www.statnews.com/2026/06/30/biotech-news-investors-double-down-on-bain-backed-capital/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T13:40:24.000Z",
+    "summary": "FDA's top gene therapy regulator steps down, Trump's plan to lower GLP-1 prices, and more biotech news"
+  },
+  {
+    "title": "STAT+: FDA digital leader hints at coming AI policy updates",
+    "link": "https://www.statnews.com/2026/06/30/health-tech-fda-digital-leader-hints-at-coming-ai-policy-updates/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T13:32:06.000Z",
+    "summary": "Today's health tech news includes virtual PT for a whole country, what the FDA is considering on AI policy, and more"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Chinese trial sites being probed, RFK Jr. and peptides, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/06/30/china-clinical-trials-probe-rfk-jr-peptides-compounders/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T13:31:20.000Z",
+    "summary": "U.S. lawmakers are investigating whether several large drugmakers have been involved ​in clinical trials in China that helped fuel its military capability"
+  },
+  {
+    "title": "Half of states sue over Medicaid work requirements",
+    "link": "https://www.statnews.com/2026/06/30/health-news-half-of-states-sue-over-medicaid-work-requirements/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T12:14:25.000Z",
+    "summary": "FDA peptide panelists, a new study on Covid and flu shots, and more health news from Morning Rounds"
+  },
+  {
     "title": "Opinion: Short-sighted new student loan caps elevate chiropractic care over critical health care professions",
     "link": "https://www.statnews.com/2026/06/30/graduate-student-loan-caps-health-care-nursing-chiropractors/?utm_campaign=rss",
     "source": "STAT News",
@@ -142,46 +182,6 @@
     "category": "industry",
     "date": "2026-06-29T08:30:00.000Z",
     "summary": "In a Q&A, Kenneth Chien, no longer with Moderna, predicts the company's mRNA cancer vaccine will be transformative for biotech."
-  },
-  {
-    "title": "STAT+: Investor Clive Meanwell on designing biotechs for population health, and AI’s role as a catalyst",
-    "link": "https://www.statnews.com/2026/06/29/clive-meanwell-population-health-partners-on-ai-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T08:30:00.000Z",
-    "summary": "Clive Meanwell, chairman of investment firm Population Health Partners, was an AI skeptic until recently. Now, he thinks it's a catalyst."
-  },
-  {
-    "title": "STAT+: Sword Health contracted to provide AI-supported physical therapy for an entire country",
-    "link": "https://www.statnews.com/2026/06/29/sword-health-portugal-deal-ai-supported-physical-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T08:30:00.000Z",
-    "summary": "Portugal's National Health Service signed a deal with digital health company Sword for its AI-assisted virtual physical therapy care."
-  },
-  {
-    "title": "Opinion: STAT+: The U.S.-China biotech crackdown may hurt the scientists America needs the most",
-    "link": "https://www.statnews.com/2026/06/29/china-biotech-perpetual-foreigner-chinese-american-scientists/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T08:30:00.000Z",
-    "summary": "“There is a difference between a policy based on evidence and a broad legislative response that targets China-origin entities as inherently suspicious,” writes Brian Yang."
-  },
-  {
-    "title": "Opinion: Banning gender-affirming care doesn’t protect children — it makes it harder to help them",
-    "link": "https://www.statnews.com/2026/06/29/gender-affirming-care-trans-youth-plastic-surgeons-statement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T08:30:00.000Z",
-    "summary": "“Physician groups betraying the public’s trust out of fear of government retaliation has permanent consequences,” writes a plastic surgeon."
-  },
-  {
-    "title": "STAT+: The ERs that can turn patients away — and are reaping millions",
-    "link": "https://www.statnews.com/2026/06/29/nutex-health-micro-hospitals-er-loophole-idr-profits/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T08:30:00.000Z",
-    "summary": "The hospital operator Nutex enriched itself by exploiting loopholes in laws meant to protect patients, STAT found."
   },
   {
     "title": "CRISPR strategy tackles bacterial toxin",
