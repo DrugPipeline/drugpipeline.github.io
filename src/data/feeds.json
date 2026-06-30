@@ -1,5 +1,45 @@
 [
   {
+    "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
+    "link": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T19:40:01.000Z",
+    "summary": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”"
+  },
+  {
+    "title": "STAT+: Anthropic releases Claude Science, a product aimed at researchers, the pharma industry",
+    "link": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T17:00:00.000Z",
+    "summary": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies."
+  },
+  {
+    "title": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region",
+    "link": "https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T15:58:19.000Z",
+    "summary": "Sources confirm to STAT that Marburg cases have been detected in western Uganda, adding another viral hemorrhagic fever outbreak in central Africa."
+  },
+  {
+    "title": "Viridian may have edge over Amgen in eye drug showdown, analysts argue",
+    "link": "https://www.biopharmadive.com/news/thyroid-eye-disease-market-expands-approval-lumvoa-viridian/824069/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-30T15:33:00.000Z",
+    "summary": "The FDA, through a new approval, gave Viridian's drug a label that some on Wall Street believe makes it well-positioned to compete against Tepezza in the thyroid eye disease market."
+  },
+  {
+    "title": "Beeline ups its Series A round for immune drug work",
+    "link": "https://www.biopharmadive.com/news/beeline-series-a-extension-bain-bristol-myers/824091/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-30T14:22:12.000Z",
+    "summary": "The company, which was built by Bain Capital, has now raised more than $426 million in its quest to advance a portfolio of Bristol Myers drugs."
+  },
+  {
     "title": "STAT+: All of Us tests a new approach to collect real-world data for research",
     "link": "https://www.statnews.com/2026/06/30/nih-all-of-us-program-taps-ehr-records-fill-data-gaps/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,14 +184,6 @@
     "summary": "Moderna still bullish on mRNA, Ipsen's acquisition of Kartos, and more biotech news from The Readout"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a broader $35 insulin cap, a former FDA cancer drug chief, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/29/insulin-cap-revival-former-fda-cancer-drug-chief/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T13:07:35.000Z",
-    "summary": "The search for affordability wins is leading U.S. senators back to capping the cost of insulin at $35 in the private insurance market and for the uninsured"
-  },
-  {
     "title": "Theravance, after clinical setbacks, agrees to $929M buyout",
     "link": "https://www.biopharmadive.com/news/theravance-clinical-setback-929-million-buyout/823952/",
     "source": "BioPharma Dive",
@@ -160,28 +192,12 @@
     "summary": "The acquisition by royalty management company Zymeworks follows a \"strategic review\" triggered by the failure of a drug for a type of low blood pressure."
   },
   {
-    "title": "What’s next for 988 LGBTQ+ services?",
-    "link": "https://www.statnews.com/2026/06/29/health-news-whats-next-for-988-lgbtq-services/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T12:04:42.000Z",
-    "summary": "Private ERs, pulmonary hypertension, and other health news from Morning Rounds"
-  },
-  {
     "title": "10 clinical trials to watch in the second half of 2026",
     "link": "https://www.biopharmadive.com/news/biotech-pharma-clinical-trials-watch-2026/808255/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-29T11:00:00.000Z",
     "summary": "The biotechnology sector’s upswing accelerated in the first half. Positive results from anticipated trials in lung cancer, Alzheimer’s and multiple autoimmune conditions could add to the momentum."
-  },
-  {
-    "title": "STAT+: Moderna co-founder Kenneth Chien on the future of mRNA — and Moderna",
-    "link": "https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T08:30:00.000Z",
-    "summary": "In a Q&A, Kenneth Chien, no longer with Moderna, predicts the company's mRNA cancer vaccine will be transformative for biotech."
   },
   {
     "title": "CRISPR strategy tackles bacterial toxin",
@@ -286,21 +302,5 @@
     "category": "research",
     "date": "2026-06-25T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Ionis, with new FDA nod, hits a ‘commercial inflection point’",
-    "link": "https://www.biopharmadive.com/news/ionis-wins-fda-ok-Tryngolza-broader-label-expansion/823717/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-24T20:50:14.000Z",
-    "summary": "Historically seen as a \"platform monetization story,\" according to one analyst, Ionis now has a potential multibillion-dollar medicine in Tryngolza, which secured expanded approval Wednesday."
-  },
-  {
-    "title": "Investors pour $115M into RQ Bio in search of a preventive flu drug",
-    "link": "https://www.biopharmadive.com/news/rq-bio-flu-antibody-drug-financing-startup/823621/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-24T15:30:00.000Z",
-    "summary": "The startup claims to have a “differentiated” antibody that can provide long-lasting protection against a variety of influenza strains."
   }
 ]
