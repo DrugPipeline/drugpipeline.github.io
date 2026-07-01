@@ -1,5 +1,45 @@
 [
   {
+    "title": "Opinion: What Ebola and Marburg are teaching us about the next pandemic",
+    "link": "https://www.statnews.com/2026/07/01/ebola-virus-outbreak-bundibugyo-marburg-testing-krutika-kuppalli/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T08:30:00.000Z",
+    "summary": "“What is urgently needed is a shift from pathogen-specific diagnostics toward pathogen-agnostic diagnostic systems,” write Krutika Kuppalli and Placide Mbala."
+  },
+  {
+    "title": "Opinion: Maryland Gov. Wes Moore: How to improve young men’s mental health",
+    "link": "https://www.statnews.com/2026/07/01/young-men-mental-health-loneliness-despair-maryland-wes-moore/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T08:30:00.000Z",
+    "summary": "“We need to stop treating our young men and boys as problems to be solved, and start treating them as people to be invested in,” writes Gov. Wes Moore."
+  },
+  {
+    "title": "STAT+: The biotech scorecard for the third quarter: 15 stock-moving events to watch",
+    "link": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T08:30:00.000Z",
+    "summary": "Here is STAT’s biotech scorecard, our regular ledger of stock-moving biotech events, for the third quarter."
+  },
+  {
+    "title": "STAT+: Booze schmooze: The alcohol industry, frazzled by headwinds, wields its power behind the scenes",
+    "link": "https://www.statnews.com/2026/07/01/alcohol-lobby-immense-power-explored-deadliest-drug-part-7/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T08:30:00.000Z",
+    "summary": "Demand for alcohol is declining. The industry is fighting harder and more creatively than ever against limits — and winning."
+  },
+  {
+    "title": "Circular RNA guides exon skipping in DMD",
+    "link": "https://www.nature.com/articles/d41573-026-00115-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-01T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
     "link": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss",
     "source": "STAT News",
@@ -174,38 +214,6 @@
     "category": "regulatory",
     "date": "2026-06-29T20:16:10.000Z",
     "summary": "FDA announces the selection of seven companies to participate in the FDA PreCheck Pilot Program, a new initiative designed to boost American global competitiveness, strengthen domestic drug…"
-  },
-  {
-    "title": "STAT+: 26 states sue to block Medicaid work requirements",
-    "link": "https://www.statnews.com/2026/06/29/state-lawsuit-block-medicaid-work-requirements/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T20:11:47.000Z",
-    "summary": "States argue the rules will make it too hard for people to get the Medicaid coverage they're entitled too."
-  },
-  {
-    "title": "5 takeaways from STAT’s investigation into microhospital operator Nutex Health",
-    "link": "https://www.statnews.com/2026/06/29/nutex-health-investigation-takeaways-stat-news-no-surprises-act/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T17:28:16.000Z",
-    "summary": "Read the takeaways from STAT's investigation into Nutex, which used the No Surprises Act to fuel a stunning financial turnaround."
-  },
-  {
-    "title": "STAT+: Unredacted comments from California hospital lawsuits show stunning admissions and a ‘forced’ McKinsey collaboration",
-    "link": "https://www.statnews.com/2026/06/29/healthcare-news-unredacted-ca-hospital-lawsuit-sad-mckinsey-tax/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T17:03:13.000Z",
-    "summary": "Who controls the Medicaid market, GLP-1 usage and pizza household costs, and more from Health Care Inc."
-  },
-  {
-    "title": "STAT+: Longevity, wellness physicians named to panel advising FDA on peptides",
-    "link": "https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T16:51:35.000Z",
-    "summary": "The panel will soon consider whether to relax restrictions on certain peptides."
   },
   {
     "title": "Theravance, after clinical setbacks, agrees to $929M buyout",
