@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Synthetic biology researchers think they’ve made a cell. Is it alive?",
+    "link": "https://www.statnews.com/2026/07/01/synthethic-biology-researcher-announce-creation-spud-cells/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T14:17:19.000Z",
+    "summary": "Researchers have created what they say may count as the first synthetic cell, and have started a public benefit corporation to share the technology with other scientists. It’s a piece…"
+  },
+  {
+    "title": "Ipsen to buy Swiss biotech Memo Therapeutics in potential $800M deal",
+    "link": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-01T13:51:27.000Z",
+    "summary": "The purchase hands Ipsen an experimental medicine in late-stage testing for a virus that often affects kidney transplant patients."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Anthropic drug development goals, Trump drug plan snags, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/01/anthropic-drug-development-goals-trump-plan-hitting-snag/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T13:41:23.000Z",
+    "summary": "Anthropic announced the availability of Claude Science, which optimizes its large language model for use in scientific labs and by drugmakers"
+  },
+  {
+    "title": "STAT+: More signs that GLP-1s may help with peripheral artery disease",
+    "link": "https://www.statnews.com/2026/07/01/biotech-news-glp-1s-may-help-with-peripheral-artery-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T13:37:58.000Z",
+    "summary": "Anthropic will begin developing drugs, BridgeBio pockets a billion, and more biotech news from The Readout"
+  },
+  {
+    "title": "FDA says Zyn can market its pouches as safer than cigarettes",
+    "link": "https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T11:50:18.000Z",
+    "summary": "The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: FDA approves Orca Bio’s T cell therapy for blood cancer patients",
+    "link": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T11:38:17.000Z",
+    "summary": "The FDA approved a T-cell therapy from Orca Bio that reduces the risk of a debilitating immune reaction in patients with blood cancers undergoing stem cell transplants."
+  },
+  {
     "title": "Opinion: What Ebola and Marburg are teaching us about the next pandemic",
     "link": "https://www.statnews.com/2026/07/01/ebola-virus-outbreak-bundibugyo-marburg-testing-krutika-kuppalli/?utm_campaign=rss",
     "source": "STAT News",
@@ -34,6 +82,22 @@
   {
     "title": "Circular RNA guides exon skipping in DMD",
     "link": "https://www.nature.com/articles/d41573-026-00115-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-01T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Growth in clinical research capability in China and impact on the pharmaceutical sector",
+    "link": "https://www.nature.com/articles/d41573-026-00113-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-01T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "R&amp;D productivity trends for biopharma companies in Asia and emerging markets",
+    "link": "https://www.nature.com/articles/d41573-026-00114-5",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-07-01T00:00:00.000Z",
@@ -168,46 +232,6 @@
     "summary": "The Trump administration's grand bargain with drugmakers isn't working out as planned."
   },
   {
-    "title": "Opinion: Florida is the first state to require EKGs for high school athletes. It’s a mistake",
-    "link": "https://www.statnews.com/2026/06/30/florida-ekg-law-high-school-athletes/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T08:30:00.000Z",
-    "summary": "“There are better ways for schools to protect student athletes,” writes Katherine Hofmann."
-  },
-  {
-    "title": "STAT+: Even with MAHA, Trump administration has gone soft on alcohol",
-    "link": "https://www.statnews.com/2026/06/30/maha-trump-ignores-alcohol-risk-deadliest-drug-part-6/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T08:30:00.000Z",
-    "summary": "A STAT investigation has found that the Trump administration has downplayed alcohol’s risks and actively derailed efforts to understand and prevent drinking-related harms."
-  },
-  {
-    "title": "STAT+: Abivax seeks to ease safety concerns with new data, boosting shares",
-    "link": "https://www.statnews.com/2026/06/30/abivax-obefazimod-ulcerative-colitis-maintenance-trial-safety-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T07:05:22.000Z",
-    "summary": "Safety concerns tied to Abivax's experimental bowel disease drug tanked company shares just weeks ago. But a new analysis sent them climbing."
-  },
-  {
-    "title": "STAT+: FDA’s top gene therapy regulator is leaving his role",
-    "link": "https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T21:46:06.000Z",
-    "summary": "The departure of Vijay Kumar follows a broader leadership shakeup at the FDA."
-  },
-  {
-    "title": "STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general",
-    "link": "https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T20:17:43.000Z",
-    "summary": "AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid."
-  },
-  {
     "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing",
     "source": "FDA Press Releases",
@@ -296,27 +320,11 @@
     "summary": "Blair Jackson says the next 12 months may be the most important in Alkermes’ history, as the brain drugmaker races to join an “orexin” market that analysts see as a multibillion-dollar opportunity."
   },
   {
-    "title": "On second try, Acadia drug gets nod from European regulators",
-    "link": "https://www.biopharmadive.com/news/acadia-drug-nod-from-european-regulators/823864/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-26T13:24:43.000Z",
-    "summary": "The influential CHMP committee also threw its support behind more than a dozen other medicines while recommending the marketing authorization for Tavneos be revoked."
-  },
-  {
     "title": "FDA Proposes Rule That Would Help Hold Foreign Tobacco Product Manufacturers Accountable, Protect Public Health",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-would-help-hold-foreign-tobacco-product-manufacturers-accountable-protect-public",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-06-26T12:58:49.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a proposed rule that, if finalized, would help protect the public health of Americans, including youth, by strengthening the agency’s ability to…"
-  },
-  {
-    "title": "Time to peak sales: how long is the climb?",
-    "link": "https://www.nature.com/articles/d41573-026-00104-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-25T00:00:00.000Z",
-    "summary": ""
   }
 ]
