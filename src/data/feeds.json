@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
+    "link": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-01T15:11:47.000Z",
+    "summary": "AI Prognosis: The release of Claude Science suggests big model makers are getting serious about real science, and not just flashy problems."
+  },
+  {
     "title": "STAT+: Synthetic biology researchers think they’ve made a cell. Is it alive?",
     "link": "https://www.statnews.com/2026/07/01/synthethic-biology-researcher-announce-creation-spud-cells/?utm_campaign=rss",
     "source": "STAT News",
@@ -78,30 +86,6 @@
     "category": "industry",
     "date": "2026-07-01T08:30:00.000Z",
     "summary": "Demand for alcohol is declining. The industry is fighting harder and more creatively than ever against limits — and winning."
-  },
-  {
-    "title": "Circular RNA guides exon skipping in DMD",
-    "link": "https://www.nature.com/articles/d41573-026-00115-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-01T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Growth in clinical research capability in China and impact on the pharmaceutical sector",
-    "link": "https://www.nature.com/articles/d41573-026-00113-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-01T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "R&amp;D productivity trends for biopharma companies in Asia and emerging markets",
-    "link": "https://www.nature.com/articles/d41573-026-00114-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-01T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
@@ -224,14 +208,6 @@
     "summary": "“This administrative logic is hopelessly out of touch with the empirical reality of American health care,” writes David S. Shapiro."
   },
   {
-    "title": "STAT+: The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk",
-    "link": "https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T08:30:00.000Z",
-    "summary": "The Trump administration's grand bargain with drugmakers isn't working out as planned."
-  },
-  {
     "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing",
     "source": "FDA Press Releases",
@@ -254,46 +230,6 @@
     "category": "industry",
     "date": "2026-06-29T11:00:00.000Z",
     "summary": "The biotechnology sector’s upswing accelerated in the first half. Positive results from anticipated trials in lung cancer, Alzheimer’s and multiple autoimmune conditions could add to the momentum."
-  },
-  {
-    "title": "CRISPR strategy tackles bacterial toxin",
-    "link": "https://www.nature.com/articles/d41573-026-00112-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Pulsatile FXR agonism",
-    "link": "https://www.nature.com/articles/d41573-026-00108-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Inflammatory bowel disease-on-a-chip",
-    "link": "https://www.nature.com/articles/d41573-026-00110-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Designing GPCR-targeted miniproteins",
-    "link": "https://www.nature.com/articles/d41573-026-00109-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "p38α inhibition restores axonal transport",
-    "link": "https://www.nature.com/articles/d41573-026-00111-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-06-29T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA accepts Replimune filing; Merck KGaA drops $11B on life sciences services",
