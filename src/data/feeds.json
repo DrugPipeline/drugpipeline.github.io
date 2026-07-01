@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
+    "link": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-06-30T22:48:28.000Z",
+    "summary": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?"
+  },
+  {
+    "title": "FDA Approves New Treatment That Uses Donor Immune Cells to Prevent Serious Complications in Blood Cancer Patients",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-06-30T21:29:30.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved TREGZI, the first regulatory T (Treg) cell-based immunotherapy for improving chronic graft-versus-host disease (GVHD)-free survival in adult…"
+  },
+  {
+    "title": "Ipsen’s $450M blood cancer drug; FDA selects first cohort for “pre-check” pilot program",
+    "link": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-30T20:57:00.000Z",
+    "summary": "The planned acquisition of Kartos Therapeutics would hand Ipsen a late-stage asset for myelofibrosis. Elsewhere, Sobi hit a regulatory setback and BeOne unveiled more positive Brukinsa data."
+  },
+  {
     "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
     "link": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/?utm_campaign=rss",
     "source": "STAT News",
@@ -46,6 +70,14 @@
     "category": "industry",
     "date": "2026-06-30T14:00:00.000Z",
     "summary": "The NIH All of Us Research Program has secured thousands of electronic medical records through an innovative use of patient data-sharing networks"
+  },
+  {
+    "title": "Top FDA gene and cell therapy regulator to step down",
+    "link": "https://www.biopharmadive.com/news/top-fda-gene-cell-therapy-regulator-step-down/824093/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-30T13:48:27.000Z",
+    "summary": "Following Vijay Kumar’s exit, acting CBER Director Karim Mikhail will also oversee a review office that has become a battleground for debates on FDA flexibility."
   },
   {
     "title": "STAT+: Investors double down on Bain-backed startup",
@@ -104,7 +136,7 @@
     "summary": "“There are better ways for schools to protect student athletes,” writes Katherine Hofmann."
   },
   {
-    "title": "STAT+: How the Trump administration derailed alcohol addiction research and prevention",
+    "title": "STAT+: Even with MAHA, Trump administration has gone soft on alcohol",
     "link": "https://www.statnews.com/2026/06/30/maha-trump-ignores-alcohol-risk-deadliest-drug-part-6/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -174,14 +206,6 @@
     "category": "industry",
     "date": "2026-06-29T16:51:35.000Z",
     "summary": "The panel will soon consider whether to relax restrictions on certain peptides."
-  },
-  {
-    "title": "STAT+: Talawar bets bispecific approach can shake up eczema market",
-    "link": "https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-29T13:52:48.000Z",
-    "summary": "Moderna still bullish on mRNA, Ipsen's acquisition of Kartos, and more biotech news from The Readout"
   },
   {
     "title": "Theravance, after clinical setbacks, agrees to $929M buyout",
@@ -278,22 +302,6 @@
     "category": "regulatory",
     "date": "2026-06-26T12:58:49.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a proposed rule that, if finalized, would help protect the public health of Americans, including youth, by strengthening the agency’s ability to…"
-  },
-  {
-    "title": "Remix to go public in reverse merger with once high-flying Passage Bio",
-    "link": "https://www.biopharmadive.com/news/passage-bio-remix-reverse-merger-gene-therapy-wilson/823775/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-25T14:55:08.000Z",
-    "summary": "The transaction marks the latest turn in the fortunes of Passage Bio, one of the companies started by gene therapy pioneer Jim Wilson."
-  },
-  {
-    "title": "Antares gets $105M from Novartis for new cancer drugs",
-    "link": "https://www.biopharmadive.com/news/novartis-antares-deal-cancer-drugs/823761/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-25T14:10:13.000Z",
-    "summary": "Adam Friedman, CEO of the Scorpion Therapeutics spinout, said the deal helps both companies accelerate research \"faster than either of us could alone.\""
   },
   {
     "title": "Time to peak sales: how long is the climb?",
