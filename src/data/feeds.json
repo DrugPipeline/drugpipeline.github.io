@@ -1,6 +1,38 @@
 [
   {
-    "title": "STAT+: A ‘historic’ FDA clearance raises the question: Is LLM the interface? Or the decision-maker?",
+    "title": "STAT+: Pharmalittle: We’re reading about a court win for Amgen, Novo seeking supplier discounts, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T13:25:04.000Z",
+    "summary": "U.S. judge blocked a Colorado state panel from placing a cap on the price of Amgen's blockbuster drug Enbrel"
+  },
+  {
+    "title": "STAT+: U.S. judge blocks Colorado’s first-of-its-kind price cap on an Amgen drug",
+    "link": "https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T12:54:40.000Z",
+    "summary": "A federal judge blocked a Colorado state panel from placing a cap on the price of Enbrel, a blockbuster drug sold by Amgen"
+  },
+  {
+    "title": "STAT+: More frequent, more intense, and longer heat waves pose health risks for Americans",
+    "link": "https://www.statnews.com/2026/07/02/health-news-frequent-intense-heat-waves-pose-health-risks-for-americans/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T11:24:59.000Z",
+    "summary": "The presidential fitness test is back, surprising new data on the health risks of obesity, and more Morning Rounds news"
+  },
+  {
+    "title": "STAT+: Halfway into the year, biotech is booming",
+    "link": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T10:30:00.000Z",
+    "summary": "The biotech stock rally that began in April 2025 has not stopped, and if anything, has accelerated."
+  },
+  {
+    "title": "STAT+: A ‘historic’ FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
     "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -144,14 +176,6 @@
     "summary": "Here is STAT’s biotech scorecard, our regular ledger of stock-moving biotech events, for the third quarter."
   },
   {
-    "title": "STAT+: Booze schmooze: The alcohol industry, frazzled by headwinds, wields its power behind the scenes",
-    "link": "https://www.statnews.com/2026/07/01/alcohol-lobby-immense-power-explored-deadliest-drug-part-7/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T08:30:00.000Z",
-    "summary": "Demand for alcohol is declining. The industry is fighting harder and more creatively than ever against limits — and winning."
-  },
-  {
     "title": "Circular RNA guides exon skipping in DMD",
     "link": "https://www.nature.com/articles/d41573-026-00115-4",
     "source": "Nature Reviews Drug Discovery",
@@ -176,14 +200,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: AI company Anthropic announces it will begin developing drugs of its own",
-    "link": "https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T22:48:28.000Z",
-    "summary": "AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?"
-  },
-  {
     "title": "FDA Approves New Treatment That Uses Donor Immune Cells to Prevent Serious Complications in Blood Cancer Patients",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-treatment-uses-donor-immune-cells-prevent-serious-complications-blood-cancer",
     "source": "FDA Press Releases",
@@ -198,22 +214,6 @@
     "category": "industry",
     "date": "2026-06-30T20:57:00.000Z",
     "summary": "The planned acquisition of Kartos Therapeutics would hand Ipsen a late-stage asset for myelofibrosis. Elsewhere, Sobi hit a regulatory setback and BeOne unveiled more positive Brukinsa data."
-  },
-  {
-    "title": "Republican Tom Kean Jr. reveals depression diagnosis after his four-month absence from Congress",
-    "link": "https://www.statnews.com/2026/06/30/republican-tom-kean-jr-reveals-depression-after-absence-from-congress/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T19:40:01.000Z",
-    "summary": "Depression, the New Jersey congressman said, “is physical, it is emotional, and until you experience it yourself, it is difficult to fully understand how powerful this illness can be.”"
-  },
-  {
-    "title": "STAT+: Anthropic releases Claude Science, a product aimed at researchers, the pharma industry",
-    "link": "https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T17:00:00.000Z",
-    "summary": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies."
   },
   {
     "title": "Viridian may have edge over Amgen in eye drug showdown, analysts argue",
