@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: A ‘historic’ FDA clearance raises the question: Is LLM the interface? Or the decision-maker?",
+    "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T08:30:00.000Z",
+    "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor."
+  },
+  {
+    "title": "The new presidential fitness test is a positive step, not the solution, experts say",
+    "link": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T08:30:00.000Z",
+    "summary": "Physical activity needs to be fun to keep kids engaged. And the test risks embarrassing them, instead."
+  },
+  {
+    "title": "STAT+: A year after distressed buyout, what’s become of Bluebird Bio?",
+    "link": "https://www.statnews.com/2026/07/02/genetix-david-meek-bluebird-bio-turnaround-effort/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T08:30:00.000Z",
+    "summary": "Bluebird Bio was a dark biotech morality tale when David Meek bought it. He says the new company, Genetix, is already making money."
+  },
+  {
+    "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’s guidance wrong",
+    "link": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T08:30:00.000Z",
+    "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says."
+  },
+  {
+    "title": "Opinion: CDC leadership continues to try manufacture a scientific debate on vaccines where none exists",
+    "link": "https://www.statnews.com/2026/07/02/measuring-vaccine-effectiveness-test-negative-design-cdc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T08:30:00.000Z",
+    "summary": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists, writes Ben Lopman."
+  },
+  {
+    "title": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe",
+    "link": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T08:30:00.000Z",
+    "summary": "The share of young people using AI chatbots for mental health advice rose more than 40% in a single year, researcher writes."
+  },
+  {
     "title": "Statins and blood pressure drugs changing health risks of obesity, study suggests",
     "link": "https://www.statnews.com/2026/07/01/lancet-obesity-blood-pressure-cholesterol-study/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,14 +216,6 @@
     "summary": "Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies."
   },
   {
-    "title": "Marburg outbreak is reported in Uganda, threatening to complicate Ebola response in region",
-    "link": "https://www.statnews.com/2026/06/30/marburg-virus-cases-ugandan-ebola-outbreak-zone/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T15:58:19.000Z",
-    "summary": "Sources confirm to STAT that Marburg cases have been detected in western Uganda, adding another viral hemorrhagic fever outbreak in central Africa."
-  },
-  {
     "title": "Viridian may have edge over Amgen in eye drug showdown, analysts argue",
     "link": "https://www.biopharmadive.com/news/thyroid-eye-disease-market-expands-approval-lumvoa-viridian/824069/",
     "source": "BioPharma Dive",
@@ -192,52 +232,12 @@
     "summary": "The company, which was built by Bain Capital, has now raised more than $426 million in its quest to advance a portfolio of Bristol Myers drugs."
   },
   {
-    "title": "STAT+: All of Us tests a new approach to collect real-world data for research",
-    "link": "https://www.statnews.com/2026/06/30/nih-all-of-us-program-taps-ehr-records-fill-data-gaps/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T14:00:00.000Z",
-    "summary": "The NIH All of Us Research Program has secured thousands of electronic medical records through an innovative use of patient data-sharing networks"
-  },
-  {
     "title": "Top FDA gene and cell therapy regulator to step down",
     "link": "https://www.biopharmadive.com/news/top-fda-gene-cell-therapy-regulator-step-down/824093/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-06-30T13:48:27.000Z",
     "summary": "Following Vijay Kumar’s exit, acting CBER Director Karim Mikhail will also oversee a review office that has become a battleground for debates on FDA flexibility."
-  },
-  {
-    "title": "STAT+: Investors double down on Bain-backed startup",
-    "link": "https://www.statnews.com/2026/06/30/biotech-news-investors-double-down-on-bain-backed-capital/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T13:40:24.000Z",
-    "summary": "FDA's top gene therapy regulator steps down, Trump's plan to lower GLP-1 prices, and more biotech news"
-  },
-  {
-    "title": "STAT+: FDA digital leader hints at coming AI policy updates",
-    "link": "https://www.statnews.com/2026/06/30/health-tech-fda-digital-leader-hints-at-coming-ai-policy-updates/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T13:32:06.000Z",
-    "summary": "Today's health tech news includes virtual PT for a whole country, what the FDA is considering on AI policy, and more"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Chinese trial sites being probed, RFK Jr. and peptides, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/06/30/china-clinical-trials-probe-rfk-jr-peptides-compounders/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T13:31:20.000Z",
-    "summary": "U.S. lawmakers are investigating whether several large drugmakers have been involved ​in clinical trials in China that helped fuel its military capability"
-  },
-  {
-    "title": "Half of states sue over Medicaid work requirements",
-    "link": "https://www.statnews.com/2026/06/30/health-news-half-of-states-sue-over-medicaid-work-requirements/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-06-30T12:14:25.000Z",
-    "summary": "FDA peptide panelists, a new study on Covid and flu shots, and more health news from Morning Rounds"
   },
   {
     "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
