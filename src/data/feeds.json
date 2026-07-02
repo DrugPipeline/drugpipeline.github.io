@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Elevance sues government over $115 million tied to Medicare Advantage star ratings",
+    "link": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T18:34:05.000Z",
+    "summary": "The health insurer says CMS didn't calculate its star ratings appropriately."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/07/02/pharma-biotech-jobs-ladder-vertex-gilead-astrazeneca-lilly/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T17:32:09.000Z",
+    "summary": "Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we’ll share it with others."
+  },
+  {
+    "title": "STAT+: What does DeGette’s loss mean for pharma?",
+    "link": "https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T16:09:48.000Z",
+    "summary": "Colorado Democratic Rep. Diana DeGette, who lost her primary, was knowledgeable about biopharma, if not always a friend to the industry."
+  },
+  {
+    "title": "A PureTech startup banks $180M for a new IPF drug",
+    "link": "https://www.biopharmadive.com/news/celea-puretech-idiopathic-pulmonary-fibrosis-raise/824330/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-02T15:04:00.000Z",
+    "summary": "Celea, backed by investors such as RA Capital and Leaps by Bayer, is making what it says is an improved version of Roche's Esbriet."
+  },
+  {
+    "title": "Roche KRAS drug succeeds in head-to-head lung cancer study",
+    "link": "https://www.biopharmadive.com/news/roche-kras-lung-cancer-data-head-to-head/824344/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-02T14:19:39.000Z",
+    "summary": "The Phase 3 trial compared Roche’s divarasib with treatments sold by Amgen and Bristol Myers in patients with non-small cell lung cancer."
+  },
+  {
+    "title": "STAT+: Roche drug sets new standard for KRAS-driven lung cancer",
+    "link": "https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-02T14:13:27.000Z",
+    "summary": "Biotech's bull market, Vertex's gene therapy expansion, and more news from The Readout"
+  },
+  {
     "title": "STAT+: Pharmalittle: We’re reading about a court win for Amgen, Novo seeking supplier discounts, and more",
     "link": "https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/?utm_campaign=rss",
     "source": "STAT News",
@@ -64,7 +112,7 @@
     "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says."
   },
   {
-    "title": "Opinion: CDC leadership continues to try manufacture a scientific debate on vaccines where none exists",
+    "title": "Opinion: CDC leadership continues to try to manufacture a scientific debate on vaccines where none exists",
     "link": "https://www.statnews.com/2026/07/02/measuring-vaccine-effectiveness-test-negative-design-cdc/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -94,6 +142,14 @@
     "category": "regulatory",
     "date": "2026-07-01T21:29:41.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a supplemental approval for Casgevy (exagamglogene autotemcel) for patients aged 2 years and older with either sickle cell disease (SCD) with…"
+  },
+  {
+    "title": "BridgeBio gets funding for drug launch; United buys into cell therapy",
+    "link": "https://www.biopharmadive.com/news/bridgebio-united-thymmune-otsuka-fda-casgevy/824197/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-01T15:29:00.000Z",
+    "summary": "Elsewhere, Otsuka’s kidney drug hit the goal of a confirmatory trial and Vertex’s CRISPR sickle cell drug secured expanded approval."
   },
   {
     "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
@@ -136,44 +192,28 @@
     "summary": "Anthropic will begin developing drugs, BridgeBio pockets a billion, and more biotech news from The Readout"
   },
   {
+    "title": "5 FDA decisions to watch in the third quarter of 2026",
+    "link": "https://www.biopharmadive.com/news/fda-approval-decisions-watch-2026/808684/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-01T13:21:00.000Z",
+    "summary": "A group of coming decisions could provide important insights into how flexible the agency is willing to be under new leadership."
+  },
+  {
+    "title": "Abivax shares surge as worries subside over immune drug’s cancer risk",
+    "link": "https://www.biopharmadive.com/news/abivax-obefazimod-Phase3-safety-data-cancer-ulcerative-colitis/824196/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-01T13:18:03.000Z",
+    "summary": "According to Abivax, fresh data suggest malignancy rates in its trials were no higher than \"background\" ones for people with ulcerative colitis, clearing a key safety concern."
+  },
+  {
     "title": "FDA says Zyn can market its pouches as safer than cigarettes",
     "link": "https://www.statnews.com/2026/07/01/health-news-fda-says-zyn-can-market-pouches-as-safer-than-cigarettes/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-07-01T11:50:18.000Z",
     "summary": "The influence of the alcohol industry on policy, AI Claude for scientists, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: FDA approves Orca Bio’s T cell therapy for blood cancer patients",
-    "link": "https://www.statnews.com/2026/07/01/fda-approves-orca-bio-treatment-blood-cancer/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T11:38:17.000Z",
-    "summary": "The FDA approved a T-cell therapy from Orca Bio that reduces the risk of a debilitating immune reaction in patients with blood cancers undergoing stem cell transplants."
-  },
-  {
-    "title": "Opinion: What Ebola and Marburg are teaching us about the next pandemic",
-    "link": "https://www.statnews.com/2026/07/01/ebola-virus-outbreak-bundibugyo-marburg-testing-krutika-kuppalli/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T08:30:00.000Z",
-    "summary": "“What is urgently needed is a shift from pathogen-specific diagnostics toward pathogen-agnostic diagnostic systems,” write Krutika Kuppalli and Placide Mbala."
-  },
-  {
-    "title": "Opinion: Maryland Gov. Wes Moore: How to improve young men’s mental health",
-    "link": "https://www.statnews.com/2026/07/01/young-men-mental-health-loneliness-despair-maryland-wes-moore/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T08:30:00.000Z",
-    "summary": "“We need to stop treating our young men and boys as problems to be solved, and start treating them as people to be invested in,” writes Gov. Wes Moore."
-  },
-  {
-    "title": "STAT+: The biotech scorecard for the third quarter: 15 stock-moving events to watch",
-    "link": "https://www.statnews.com/2026/07/01/q3-biotech-scorecard-readouts-approval-decisions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T08:30:00.000Z",
-    "summary": "Here is STAT’s biotech scorecard, our regular ledger of stock-moving biotech events, for the third quarter."
   },
   {
     "title": "Circular RNA guides exon skipping in DMD",
@@ -224,6 +264,14 @@
     "summary": "The FDA, through a new approval, gave Viridian's drug a label that some on Wall Street believe makes it well-positioned to compete against Tepezza in the thyroid eye disease market."
   },
   {
+    "title": "These biotechs just landed big fundraising hauls. Here’s what they pitched to investors.",
+    "link": "https://www.biopharmadive.com/news/biotech-large-haul-fundraising-drug-pharma/824183/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-30T14:56:00.000Z",
+    "summary": "Biotechs aimed at eye diseases, autoimmune conditions and longevity medicine have pulled in some of the largest capital raises so far this year."
+  },
+  {
     "title": "Beeline ups its Series A round for immune drug work",
     "link": "https://www.biopharmadive.com/news/beeline-series-a-extension-bain-bristol-myers/824091/",
     "source": "BioPharma Dive",
@@ -232,36 +280,12 @@
     "summary": "The company, which was built by Bain Capital, has now raised more than $426 million in its quest to advance a portfolio of Bristol Myers drugs."
   },
   {
-    "title": "Top FDA gene and cell therapy regulator to step down",
-    "link": "https://www.biopharmadive.com/news/top-fda-gene-cell-therapy-regulator-step-down/824093/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-30T13:48:27.000Z",
-    "summary": "Following Vijay Kumar’s exit, acting CBER Director Karim Mikhail will also oversee a review office that has become a battleground for debates on FDA flexibility."
-  },
-  {
     "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-06-29T20:16:10.000Z",
     "summary": "FDA announces the selection of seven companies to participate in the FDA PreCheck Pilot Program, a new initiative designed to boost American global competitiveness, strengthen domestic drug…"
-  },
-  {
-    "title": "Theravance, after clinical setbacks, agrees to $929M buyout",
-    "link": "https://www.biopharmadive.com/news/theravance-clinical-setback-929-million-buyout/823952/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-29T12:42:10.000Z",
-    "summary": "The acquisition by royalty management company Zymeworks follows a \"strategic review\" triggered by the failure of a drug for a type of low blood pressure."
-  },
-  {
-    "title": "10 clinical trials to watch in the second half of 2026",
-    "link": "https://www.biopharmadive.com/news/biotech-pharma-clinical-trials-watch-2026/808255/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-29T11:00:00.000Z",
-    "summary": "The biotechnology sector’s upswing accelerated in the first half. Positive results from anticipated trials in lung cancer, Alzheimer’s and multiple autoimmune conditions could add to the momentum."
   },
   {
     "title": "CRISPR strategy tackles bacterial toxin",
@@ -302,30 +326,6 @@
     "category": "research",
     "date": "2026-06-29T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA accepts Replimune filing; Merck KGaA drops $11B on life sciences services",
-    "link": "https://www.biopharmadive.com/news/revolution-replimune-lilly-otsuka-definium-merck-biotech-news/823768/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-26T15:53:00.000Z",
-    "summary": "Replimune’s application is the latest example of changing attitudes at the FDA. Elsewhere, Revolution Medicines outlined more RAS-blocking data and a Definium stock offering brought in $800 million."
-  },
-  {
-    "title": "At BIO, tension over China biotech deal regulation looms",
-    "link": "https://www.biopharmadive.com/news/bio-2026-us-china-biotech-competition/823723/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-26T15:49:00.000Z",
-    "summary": "Biotech investors, executives and analysts worry that blanket bans on deals with Chinese companies could curb domestic entrepreneurs’ ambitions in the sector."
-  },
-  {
-    "title": "Alkermes’ incoming CEO has a plan to outplay Lilly and Takeda",
-    "link": "https://www.biopharmadive.com/news/alkermes-blair-jackson-narcolepsy-drug-orexin-ceo-succession/823893/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-26T13:46:44.000Z",
-    "summary": "Blair Jackson says the next 12 months may be the most important in Alkermes’ history, as the brain drugmaker races to join an “orexin” market that analysts see as a multibillion-dollar opportunity."
   },
   {
     "title": "FDA Proposes Rule That Would Help Hold Foreign Tobacco Product Manufacturers Accountable, Protect Public Health",
