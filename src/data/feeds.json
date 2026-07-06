@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Online GLP-1 prescriptions are often fast, easy — and low on clinical oversight",
+    "link": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T15:00:00.000Z",
+    "summary": "A new secret-shopper study found that GLP-1 prescriptions from telehealth sites aren't often backed by appropriate clinical care."
+  },
+  {
+    "title": "STAT+: Four major biotech updates to catch up on",
+    "link": "https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T13:37:50.000Z",
+    "summary": "Anthropic CEO talks drug discovery, Medicare proposes steep 340B drug payment cuts, and more biotech news"
+  },
+  {
+    "title": "Cancer, immune drugmakers dominate VC funding so far in 2026",
+    "link": "https://www.biopharmadive.com/news/cancer-immune-venture-funding-2026/824250/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-06T13:19:00.000Z",
+    "summary": "Drug developers focusing on either disease area made up more than 40% of the number of biotech companies and amount raised so far in 2026, per BioPharma Dive data."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T12:56:19.000Z",
+    "summary": "Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio"
+  },
+  {
+    "title": "The race for an Ebola therapy begins",
+    "link": "https://www.statnews.com/2026/07/06/health-news-race-for-an-ebola-therapy-begins/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T12:08:48.000Z",
+    "summary": "Male marathoners \"hit the wall,\" mental health in 2026, and more Morning Rounds news"
+  },
+  {
     "title": "STAT+: I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned",
     "link": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
     "source": "STAT News",
@@ -38,6 +78,14 @@
     "category": "industry",
     "date": "2026-07-06T08:00:00.000Z",
     "summary": "This year at Vidcon, I was struck by how much of the conference’s programming was dedicated to the mental health of content creators."
+  },
+  {
+    "title": "HuR degrader knocks down BRAF in cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00116-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-06T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
@@ -144,38 +192,6 @@
     "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor."
   },
   {
-    "title": "The new presidential fitness test is a positive step, not the solution, experts say",
-    "link": "https://www.statnews.com/2026/07/02/presidential-fitness-test-will-it-boost-physical-activity-youth/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T08:30:00.000Z",
-    "summary": "Physical activity needs to be fun to keep kids engaged. And the test risks embarrassing them, instead."
-  },
-  {
-    "title": "STAT+: A year after distressed buyout, what’s become of Bluebird Bio?",
-    "link": "https://www.statnews.com/2026/07/02/genetix-david-meek-bluebird-bio-turnaround-effort/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T08:30:00.000Z",
-    "summary": "Bluebird Bio was a dark biotech morality tale when David Meek bought it. He says the new company, Genetix, is already making money."
-  },
-  {
-    "title": "STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’s guidance wrong",
-    "link": "https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T08:30:00.000Z",
-    "summary": "Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says."
-  },
-  {
-    "title": "Opinion: CDC leadership continues to try to manufacture a scientific debate on vaccines where none exists",
-    "link": "https://www.statnews.com/2026/07/02/measuring-vaccine-effectiveness-test-negative-design-cdc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T08:30:00.000Z",
-    "summary": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists, writes Ben Lopman."
-  },
-  {
     "title": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
     "source": "FDA Press Releases",
@@ -270,14 +286,6 @@
     "category": "industry",
     "date": "2026-06-30T14:56:00.000Z",
     "summary": "Biotechs aimed at eye diseases, autoimmune conditions and longevity medicine have pulled in some of the largest capital raises so far this year."
-  },
-  {
-    "title": "Beeline ups its Series A round for immune drug work",
-    "link": "https://www.biopharmadive.com/news/beeline-series-a-extension-bain-bristol-myers/824091/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-30T14:22:12.000Z",
-    "summary": "The company, which was built by Bain Capital, has now raised more than $426 million in its quest to advance a portfolio of Bristol Myers drugs."
   },
   {
     "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
