@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned",
+    "link": "https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T08:30:00.000Z",
+    "summary": "Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now."
+  },
+  {
+    "title": "STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse",
+    "link": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T08:30:00.000Z",
+    "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI."
+  },
+  {
+    "title": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
+    "link": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T08:30:00.000Z",
+    "summary": "“The medical industry has spent enormous effort making more advanced tests but expended little effort learning how to use tests correctly,” writes Daniel Morgan."
+  },
+  {
+    "title": "Opinion: The smart way to regulate the peptide boom",
+    "link": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T08:30:00.000Z",
+    "summary": "“The FDA should pursue a structured, clinician-guided framework” on popular peptides, writes former surgeon general Jerome Adams."
+  },
+  {
+    "title": "What does content creation do to mental health?",
+    "link": "https://www.statnews.com/2026/07/06/vidcon-topic-mental-health-content-creators-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T08:00:00.000Z",
+    "summary": "This year at Vidcon, I was struck by how much of the conference’s programming was dedicated to the mental health of content creators."
+  },
+  {
     "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
     "link": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,22 +176,6 @@
     "summary": "CDC leadership continues to try manufacture a scientific debate on vaccines where none exists, writes Ben Lopman."
   },
   {
-    "title": "Opinion: Teens are turning to chatbots for mental health help. We need rules to keep them safe",
-    "link": "https://www.statnews.com/2026/07/02/teens-chatbots-mental-health-rules-bans/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T08:30:00.000Z",
-    "summary": "The share of young people using AI chatbots for mental health advice rose more than 40% in a single year, researcher writes."
-  },
-  {
-    "title": "Statins and blood pressure drugs changing health risks of obesity, study suggests",
-    "link": "https://www.statnews.com/2026/07/01/lancet-obesity-blood-pressure-cholesterol-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T22:30:00.000Z",
-    "summary": "New research shows obesity patients over 40 are managing blood pressure and cholesterol as well as healthy-weight peers, but younger adults remain at risk."
-  },
-  {
     "title": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
     "source": "FDA Press Releases",
@@ -168,36 +192,12 @@
     "summary": "Elsewhere, Otsuka’s kidney drug hit the goal of a confirmatory trial and Vertex’s CRISPR sickle cell drug secured expanded approval."
   },
   {
-    "title": "STAT+: The moment Anthropic convinced me it’s serious about science",
-    "link": "https://www.statnews.com/2026/07/01/anthropic-claude-science-convinced-me-its-serious-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T15:11:47.000Z",
-    "summary": "AI Prognosis: The release of Claude Science suggests big model makers are getting serious about real science, and not just flashy problems."
-  },
-  {
-    "title": "STAT+: Synthetic biology researchers think they’ve made a cell. Is it alive?",
-    "link": "https://www.statnews.com/2026/07/01/synthethic-biology-researcher-announce-creation-spud-cells/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T14:17:19.000Z",
-    "summary": "Researchers have created what they say may count as the first synthetic cell, and have started a public benefit corporation to share the technology with other scientists. It’s a piece…"
-  },
-  {
     "title": "Ipsen to buy Swiss biotech Memo Therapeutics in potential $800M deal",
     "link": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-01T13:51:27.000Z",
     "summary": "The purchase hands Ipsen an experimental medicine in late-stage testing for a virus that often affects kidney transplant patients."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Anthropic drug development goals, Trump drug plan snags, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/01/anthropic-drug-development-goals-trump-plan-hitting-snag/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-01T13:41:23.000Z",
-    "summary": "Anthropic announced the availability of Claude Science, which optimizes its large language model for use in scientific labs and by drugmakers"
   },
   {
     "title": "5 FDA decisions to watch in the third quarter of 2026",
