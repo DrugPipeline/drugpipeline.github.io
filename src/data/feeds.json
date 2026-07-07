@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: ‘Secret shopper’ study probes GLP-1 telehealth sites",
+    "link": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-07T13:47:51.000Z",
+    "summary": "In this edition of STAT Health Tech: A 'secret shopper' study of telehealth sites prescribing GLP-1s, news about Epic, Anthropic, and brain implants."
+  },
+  {
+    "title": "Vertex to acquire Crinetics in $10B foray into endocrine disease drugs",
+    "link": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-07T13:39:00.000Z",
+    "summary": "Vertex claimed the two drugs in the deal could eventually bring in more than $5 billion annually. Still, the high price it paid stirred debate among analysts and investors."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a $10 billion Vertex deal, the pace of FDA drug approvals, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-07T13:14:01.000Z",
+    "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder"
+  },
+  {
+    "title": "Ebola outbreak exposes a fractured outbreak response system",
+    "link": "https://www.statnews.com/2026/07/07/health-news-ebola-outbreak-exposes-a-fractured-outbreak-response-system/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-07T12:06:47.000Z",
+    "summary": "The costly threat to employer-based health care, Gen Z doctors, and more health news"
+  },
+  {
     "title": "5 takeaways from STAT’s series on the soaring cost of health insurance",
     "link": "https://www.statnews.com/2026/07/07/why-health-insurance-costs-so-much-out-of-pocket-series-key-takeaways/?utm_campaign=rss",
     "source": "STAT News",
@@ -78,6 +110,14 @@
     "category": "industry",
     "date": "2026-07-06T14:45:36.000Z",
     "summary": "The California drugmaker, which has collaborations in place with Biogen, Sanofi and Eli Lilly, could be the 14th biotech to go public in 2026."
+  },
+  {
+    "title": "Novartis to acquire ADC developer in a deal worth up to $1.5B",
+    "link": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-06T13:42:51.000Z",
+    "summary": "The deal hands over two ADCs with a different mechanism of action targeting cell growth, and marks Novartis' entry into ADC development."
   },
   {
     "title": "STAT+: Four major biotech updates to catch up on",
@@ -168,30 +208,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: Medicare takes another swing at 340B cuts to hospitals",
-    "link": "https://www.statnews.com/2026/07/02/medicare-hospital-payment-340b-drugs-cut/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T19:52:19.000Z",
-    "summary": "Reducing Medicare payments for 340B drugs is the latest proposal focused on the hotly debated drug discount program."
-  },
-  {
-    "title": "STAT+: Lawmakers urge HHS to force Eli Lilly to provide 340B drug discounts to hospitals",
-    "link": "https://www.statnews.com/pharmalot/2026/07/02/lawmakers-urge-lilly-to-provide-340b-drug-discounts-to-hospitals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T19:52:14.000Z",
-    "summary": "Lawmakers step into a dispute between Eli Lilly and hospitals about the 340b drug discount program."
-  },
-  {
-    "title": "STAT+: Elevance sues government over $115 million tied to Medicare Advantage star ratings",
-    "link": "https://www.statnews.com/2026/07/02/elevance-lawsuit-medicare-advantage-star-ratings-clover/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T18:34:05.000Z",
-    "summary": "The health insurer says CMS didn't calculate its star ratings appropriately."
-  },
-  {
     "title": "A PureTech startup banks $180M for a new IPF drug",
     "link": "https://www.biopharmadive.com/news/celea-puretech-idiopathic-pulmonary-fibrosis-raise/824330/",
     "source": "BioPharma Dive",
@@ -240,14 +256,6 @@
     "summary": "A group of coming decisions could provide important insights into how flexible the agency is willing to be under new leadership."
   },
   {
-    "title": "Abivax shares surge as worries subside over immune drug’s cancer risk",
-    "link": "https://www.biopharmadive.com/news/abivax-obefazimod-Phase3-safety-data-cancer-ulcerative-colitis/824196/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-01T13:18:03.000Z",
-    "summary": "According to Abivax, fresh data suggest malignancy rates in its trials were no higher than \"background\" ones for people with ulcerative colitis, clearing a key safety concern."
-  },
-  {
     "title": "Circular RNA guides exon skipping in DMD",
     "link": "https://www.nature.com/articles/d41573-026-00115-4",
     "source": "Nature Reviews Drug Discovery",
@@ -278,13 +286,5 @@
     "category": "regulatory",
     "date": "2026-06-30T21:29:30.000Z",
     "summary": "The U.S. Food and Drug Administration today approved TREGZI, the first regulatory T (Treg) cell-based immunotherapy for improving chronic graft-versus-host disease (GVHD)-free survival in adult…"
-  },
-  {
-    "title": "Ipsen’s $450M blood cancer drug; FDA selects first cohort for “pre-check” pilot program",
-    "link": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-06-30T20:57:00.000Z",
-    "summary": "The planned acquisition of Kartos Therapeutics would hand Ipsen a late-stage asset for myelofibrosis. Elsewhere, Sobi hit a regulatory setback and BeOne unveiled more positive Brukinsa data."
   }
 ]
