@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms",
+    "link": "https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T20:52:29.000Z",
+    "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said."
+  },
+  {
+    "title": "Obamacare rolls shrank dramatically in many states over the past year, new federal data shows",
+    "link": "https://www.statnews.com/2026/07/06/obamacare-rolls-shrank-dramatically-affordable-care-act-states/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-06T19:58:23.000Z",
+    "summary": "States across the country saw steep drops in the number of people covered by the Affordable Care Act over the past year, according to new federal data."
+  },
+  {
     "title": "STAT+: Online GLP-1 prescriptions are often fast, easy — and low on clinical oversight",
     "link": "https://www.statnews.com/2026/07/06/glp-1-telehealth-prescriptions-jama-yale-secret-shopper-study/?utm_campaign=rss",
     "source": "STAT News",
@@ -14,14 +30,6 @@
     "category": "industry",
     "date": "2026-07-06T14:45:36.000Z",
     "summary": "The California drugmaker, which has collaborations in place with Biogen, Sanofi and Eli Lilly, could be the 14th biotech to go public in 2026."
-  },
-  {
-    "title": "Novartis to acquire ADC developer in a deal worth up to $1.5B",
-    "link": "https://www.biopharmadive.com/news/novartis-acquire-adc-developer-myricx-deal-15b/824450/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-06T13:42:51.000Z",
-    "summary": "The deal hands over two ADCs with a different mechanism of action targeting cell growth, and marks Novartis' entry into ADC development."
   },
   {
     "title": "STAT+: Four major biotech updates to catch up on",
@@ -200,22 +208,6 @@
     "summary": "The presidential fitness test is back, surprising new data on the health risks of obesity, and more Morning Rounds news"
   },
   {
-    "title": "STAT+: Halfway into the year, biotech is booming",
-    "link": "https://www.statnews.com/2026/07/02/biotech-sector-booms-capricor-fda-meeting/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T10:30:00.000Z",
-    "summary": "The biotech stock rally that began in April 2025 has not stopped, and if anything, has accelerated."
-  },
-  {
-    "title": "STAT+: A ‘historic’ FDA clearance raises the question: Is the LLM an interface or the decision-maker?",
-    "link": "https://www.statnews.com/2026/07/02/fda-clearance-raises-questions-updoc-use-generative-ai-diabetes-treatment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-02T08:30:00.000Z",
-    "summary": "The newly cleared device is based around an app that helps a patient manage their diabetes using a treatment plan defined by their doctor."
-  },
-  {
     "title": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
     "source": "FDA Press Releases",
@@ -288,11 +280,11 @@
     "summary": "The U.S. Food and Drug Administration today approved TREGZI, the first regulatory T (Treg) cell-based immunotherapy for improving chronic graft-versus-host disease (GVHD)-free survival in adult…"
   },
   {
-    "title": "FDA Selects Seven Participants for PreCheck Pilot Program to Advance U.S. Drug Manufacturing",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-06-29T20:16:10.000Z",
-    "summary": "FDA announces the selection of seven companies to participate in the FDA PreCheck Pilot Program, a new initiative designed to boost American global competitiveness, strengthen domestic drug…"
+    "title": "Ipsen’s $450M blood cancer drug; FDA selects first cohort for “pre-check” pilot program",
+    "link": "https://www.biopharmadive.com/news/ipsen-kartos-acquisition-astrazeneca-beone-fda/823954/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-06-30T20:57:00.000Z",
+    "summary": "The planned acquisition of Kartos Therapeutics would hand Ipsen a late-stage asset for myelofibrosis. Elsewhere, Sobi hit a regulatory setback and BeOne unveiled more positive Brukinsa data."
   }
 ]
