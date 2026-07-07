@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
+    "link": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-07T16:44:36.000Z",
+    "summary": "The FDA approved a new medicine from the biotech company Vera Therapeutics for patients with a type of chronic autoimmune kidney disease."
+  },
+  {
+    "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
+    "link": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-07T16:17:00.000Z",
+    "summary": "The funding deal is a vote of confidence in the sales potential of multiple prospects in late-stage development — one of which MeiraGTx recently reacquired from J&J."
+  },
+  {
+    "title": "Kailera says obesity pill succeeds in late-stage trial in China",
+    "link": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-07T15:59:52.000Z",
+    "summary": "The drug spurred about 10% weight loss over 10 months, though that finding came alongside high rates of gastrointestinal side effects that “alarmed” one analyst."
+  },
+  {
+    "title": "STAT+: The crumbling employer-based health insurance system",
+    "link": "https://www.statnews.com/2026/07/07/health-policy-news-today-dc-diagnosis-newsletter-john-wilkerson/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-07T15:40:29.000Z",
+    "summary": "Today's D.C. Diagnosis newsletter covers maintaining diversity in drug trials and troubling trends in employer-based health insurance."
+  },
+  {
+    "title": "STAT+: Compass says depression drug has long-lasting benefits",
+    "link": "https://www.statnews.com/2026/07/07/biotech-news-compass-reports-depression-drug-has-long-lasting-benefits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-07T15:04:50.000Z",
+    "summary": "Vertex makes its largest-ever deal, skyrocketing health insurance costs, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: America’s employer health insurance is decaying",
+    "link": "https://www.statnews.com/2026/07/07/insurance-affordability-crisis-health-care-inc-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-07T14:58:06.000Z",
+    "summary": "STAT's Bob Herman examines the under-the-radar crisis brewing in employer-based health insurance."
+  },
+  {
     "title": "STAT+: ‘Secret shopper’ study probes GLP-1 telehealth sites",
     "link": "https://www.statnews.com/2026/07/07/secret-shopper-study-glp-1-telehealth-sites-health-tech/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,38 +216,6 @@
     "summary": "Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now."
   },
   {
-    "title": "STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse",
-    "link": "https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-06T08:30:00.000Z",
-    "summary": "Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI."
-  },
-  {
-    "title": "Opinion: Stopping doctors from ordering unnecessary diagnostic tests requires a structural fix",
-    "link": "https://www.statnews.com/2026/07/06/unnecessary-medical-tests-diagnostic-stewardship/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-06T08:30:00.000Z",
-    "summary": "“The medical industry has spent enormous effort making more advanced tests but expended little effort learning how to use tests correctly,” writes Daniel Morgan."
-  },
-  {
-    "title": "Opinion: The smart way to regulate the peptide boom",
-    "link": "https://www.statnews.com/2026/07/06/peptides-regulation-fda-middle-ground-ban/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-06T08:30:00.000Z",
-    "summary": "“The FDA should pursue a structured, clinician-guided framework” on popular peptides, writes former surgeon general Jerome Adams."
-  },
-  {
-    "title": "What does content creation do to mental health?",
-    "link": "https://www.statnews.com/2026/07/06/vidcon-topic-mental-health-content-creators-status-report-alex-hogan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-06T08:00:00.000Z",
-    "summary": "This year at Vidcon, I was struck by how much of the conference’s programming was dedicated to the mental health of content creators."
-  },
-  {
     "title": "HuR degrader knocks down BRAF in cancer",
     "link": "https://www.nature.com/articles/d41573-026-00116-3",
     "source": "Nature Reviews Drug Discovery",
@@ -238,22 +254,6 @@
     "category": "industry",
     "date": "2026-07-01T15:29:00.000Z",
     "summary": "Elsewhere, Otsuka’s kidney drug hit the goal of a confirmatory trial and Vertex’s CRISPR sickle cell drug secured expanded approval."
-  },
-  {
-    "title": "Ipsen to buy Swiss biotech Memo Therapeutics in potential $800M deal",
-    "link": "https://www.biopharmadive.com/news/ipsen-memo-acquisition-rare-disease-virus-deal/824207/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-01T13:51:27.000Z",
-    "summary": "The purchase hands Ipsen an experimental medicine in late-stage testing for a virus that often affects kidney transplant patients."
-  },
-  {
-    "title": "5 FDA decisions to watch in the third quarter of 2026",
-    "link": "https://www.biopharmadive.com/news/fda-approval-decisions-watch-2026/808684/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-01T13:21:00.000Z",
-    "summary": "A group of coming decisions could provide important insights into how flexible the agency is willing to be under new leadership."
   },
   {
     "title": "Circular RNA guides exon skipping in DMD",
