@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
+    "link": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-08T20:41:01.000Z",
+    "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely."
+  },
+  {
     "title": "STAT+: White House reviewing top contenders to lead FDA",
     "link": "https://www.statnews.com/2026/07/08/new-fda-commissioner-finalists-under-white-house-review/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,7 +16,7 @@
     "summary": "The White House is reviewing finalists for FDA commissioner, suggesting the highly anticipated decision may come soon."
   },
   {
-    "title": "STAT+: Brigham and Women’s Hospital nurses walk out, beginning largest nurses strike in Massachusetts history",
+    "title": "STAT+: Mass General Brigham, nurses called to talk at State House amid biggest nursing strike in Mass.",
     "link": "https://www.statnews.com/2026/07/08/brigham-and-womens-hospital-boston-nurses-strike-largest-massachusetts-history/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -128,30 +136,6 @@
     "summary": "Three tricky questions about using AI in dementia care."
   },
   {
-    "title": "FDA approves second IGF-1R-targeted antibody for thyroid eye disease",
-    "link": "https://www.nature.com/articles/d41573-026-00118-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA approves novel cell therapy made with haematopoietic stem cells, T<sub>regs</sub> and T cells",
-    "link": "https://www.nature.com/articles/d41573-026-00119-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "CAR T cell therapy for solid cancer scores first approval in China",
-    "link": "https://www.nature.com/articles/d41573-026-00117-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "STAT+: FDA approves Vera Therapeutics kidney disease treatment",
     "link": "https://www.statnews.com/2026/07/07/vera-therapeutics-kidney-disease-treatment-approval/?utm_campaign=rss",
     "source": "STAT News",
@@ -216,14 +200,6 @@
     "summary": "Vertex claimed the two drugs in the deal could eventually bring in more than $5 billion annually. Still, the high price it paid stirred debate among analysts and investors."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a $10 billion Vertex deal, the pace of FDA drug approvals, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-07T13:14:01.000Z",
-    "summary": "Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder"
-  },
-  {
     "title": "Vera Therapeutics wins FDA nod for closely watched kidney disease drug",
     "link": "https://www.biopharmadive.com/news/vera-fda-approve-trutakna-IgAN-kidney-disease-atacicept/824620/",
     "source": "BioPharma Dive",
@@ -262,21 +238,5 @@
     "category": "industry",
     "date": "2026-07-06T12:56:57.000Z",
     "summary": "As Greater Boston’s biotech industry sheds jobs, three unlikely regions are showing promise as up-and-coming hubs."
-  },
-  {
-    "title": "HuR degrader knocks down BRAF in cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00116-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA Approves First Gene Therapy for Young Children with Sickle Cell Disease",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-young-children-sickle-cell-disease",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-07-01T21:29:41.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued a supplemental approval for Casgevy (exagamglogene autotemcel) for patients aged 2 years and older with either sickle cell disease (SCD) with…"
   }
 ]
