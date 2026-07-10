@@ -1,5 +1,21 @@
 [
   {
+    "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
+    "link": "https://www.biopharmadive.com/news/roche-tominersen-rg6496-huntington-end-development/824844/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-09T20:53:00.000Z",
+    "summary": "The Swiss pharmaceutical giant told patient groups tominersen didn't delay disease progression in one trial, while a study of a second drug was scrapped because of a safety signal in animal testing."
+  },
+  {
+    "title": "Whistleblower takes on health insurance and FDA commissioner candidates",
+    "link": "https://www.statnews.com/2026/07/09/readout-loud-podcast-fda-commissioner-candidates-health-insurance-costs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-09T20:07:54.000Z",
+    "summary": "This week on \"The Readout LOUD\" podcast: Why does getting family health insurance through a job cost as much as buying a new car? And who might be the new…"
+  },
+  {
     "title": "GSK ends brain drug alliance with Alector",
     "link": "https://www.biopharmadive.com/news/gsk-alector-deal-end-terminate-brain-drugs-neuroscience/824815/",
     "source": "BioPharma Dive",
@@ -128,14 +144,6 @@
     "summary": "Over the past 25 years, I have treated thousands of medical cannabis patients with extremely few ill effects, one doctor writes."
   },
   {
-    "title": "Addressing challenges in treating rare tumours: the strategy of China’s National Cancer Center",
-    "link": "https://www.nature.com/articles/s41573-026-01484-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
     "link": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
     "source": "STAT News",
@@ -192,44 +200,12 @@
     "summary": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases, driven by rising medical costs as well as federal policy changes."
   },
   {
-    "title": "Transplants extended survival for patients whose stage 4 lung cancer hadn’t spread, study says",
-    "link": "https://www.statnews.com/2026/07/08/lung-transplant-advanced-cancer-study-results-ethics-jama/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-08T15:00:00.000Z",
-    "summary": "Lung cancer patients hadn't been seen as candidates for organ transplant. Now a study finds patients did well."
-  },
-  {
     "title": "Prime wins gene editing dispute; Saol claims latest post-Makary FDA reversal",
     "link": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-08T13:07:00.000Z",
     "summary": "An arbitration panel ruled Prime didn’t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for…"
-  },
-  {
-    "title": "FDA approves second IGF-1R-targeted antibody for thyroid eye disease",
-    "link": "https://www.nature.com/articles/d41573-026-00118-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA approves novel cell therapy made with haematopoietic stem cells, T<sub>regs</sub> and T cells",
-    "link": "https://www.nature.com/articles/d41573-026-00119-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "CAR T cell therapy for solid cancer scores first approval in China",
-    "link": "https://www.nature.com/articles/d41573-026-00117-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
@@ -262,21 +238,5 @@
     "category": "industry",
     "date": "2026-07-07T11:47:00.000Z",
     "summary": "The clearance marks another step forward in treatment for IgA nephropathy and sets up a commercial battle with Otsuka, which brought a similar medication to market last year."
-  },
-  {
-    "title": "Gene editing developer Scribe plots an IPO",
-    "link": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-listing/824469/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-06T14:45:36.000Z",
-    "summary": "The California drugmaker, which has collaborations in place with Biogen, Sanofi and Eli Lilly, could be the 14th biotech to go public in 2026."
-  },
-  {
-    "title": "HuR degrader knocks down BRAF in cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00116-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-06T00:00:00.000Z",
-    "summary": ""
   }
 ]
