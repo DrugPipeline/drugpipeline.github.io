@@ -1,5 +1,53 @@
 [
   {
+    "title": "GSK, Hansoh ADC extends survival in lung cancer study",
+    "link": "https://www.biopharmadive.com/news/gsk-hansoh-china-adc-ris-rez-lung-cancer-results/824931/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-10T15:42:00.000Z",
+    "summary": "GSK claimed the result was a first for an ADC aimed at the “B7-H3” protein, an increasingly popular target of late among cancer drugmakers."
+  },
+  {
+    "title": "STAT+: Roche ends Huntington’s gene-silencing programs",
+    "link": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-10T13:35:37.000Z",
+    "summary": "ARPA-H launches bespoke gene therapy push, Lilly and Novo to promote Bridge program, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about bigger drug discounts in Germany, drugmakers embracing secrecy, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/10/germany-seeks-bigger-drug-discounts-drugmakers-embracing-secrecy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-10T13:13:20.000Z",
+    "summary": "German lawmakers passed a bill that would more than double the discount on branded medicines drugmakers must provide the government"
+  },
+  {
+    "title": "FDA Proposes Rule to Modernize Drug Manufacturing Registration",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-modernize-drug-manufacturing-registration",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-07-10T13:07:06.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued a proposed rule that, if finalized, would create a streamlined registration pathway for distributed manufacturing establishments that operate as a…"
+  },
+  {
+    "title": "ARPA-H puts $160M into bespoke drug therapies; Biohaven switches up scientific leadership",
+    "link": "https://www.biopharmadive.com/news/biohaven-arpa-thrive-tarsus-ipsen-dysport-scipher/824825/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-10T12:04:00.000Z",
+    "summary": "The ARPA-H program could provide researchers with a roadmap to develop personalized gene editing drugs. Elsewhere, a Botox rival succeeded against migraines and two deals were struck."
+  },
+  {
+    "title": "FDA quietly pushes back deadline on electric shock ban",
+    "link": "https://www.statnews.com/2026/07/10/health-news-fda-quietly-pushes-back-deadline-on-electric-shock-ban/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-10T11:51:52.000Z",
+    "summary": "Massachusetts' biggest nursing strike ever, tackling the male loneliness epidemic, and other health news for Morning Rounds"
+  },
+  {
     "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
     "link": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
     "source": "STAT News",
@@ -22,6 +70,14 @@
     "category": "industry",
     "date": "2026-07-10T08:30:00.000Z",
     "summary": "“Solving the health crisis in the United States will require confronting things far harder than readjusting a fee schedule.”"
+  },
+  {
+    "title": "FDA new drug approvals in Q2 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00120-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-10T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
@@ -176,30 +232,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
-    "link": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-08T20:41:01.000Z",
-    "summary": "It's not clear what conditions may make the list, but outside experts are watching it closely."
-  },
-  {
-    "title": "STAT+: White House reviewing top contenders to lead FDA",
-    "link": "https://www.statnews.com/2026/07/08/new-fda-commissioner-finalists-under-white-house-review/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-08T18:51:54.000Z",
-    "summary": "The White House is reviewing finalists for FDA commissioner, suggesting the highly anticipated decision may come soon."
-  },
-  {
-    "title": "STAT+: Mass General Brigham, nurses called to talk at State House amid biggest nursing strike in Mass.",
-    "link": "https://www.statnews.com/2026/07/08/brigham-and-womens-hospital-boston-nurses-strike-largest-massachusetts-history/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-08T17:32:07.000Z",
-    "summary": "The Brigham, a nationally renowned Harvard teaching hospital, and MGB have have unsuccessfully been negotiating a new contract for months."
-  },
-  {
     "title": "AstraZeneca, GSK intensify China ties with Sino Biopharm deals",
     "link": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
     "source": "BioPharma Dive",
@@ -254,22 +286,6 @@
     "category": "industry",
     "date": "2026-07-07T15:59:52.000Z",
     "summary": "The drug spurred about 10% weight loss over 10 months, though that finding came alongside high rates of gastrointestinal side effects that “alarmed” one analyst."
-  },
-  {
-    "title": "Vertex to acquire Crinetics in $10B foray into endocrine disease drugs",
-    "link": "https://www.biopharmadive.com/news/vertex-crinetics-acquire-deal-palsonify-acromegaly/824545/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-07T13:39:00.000Z",
-    "summary": "Vertex claimed the two drugs in the deal could eventually bring in more than $5 billion annually. Still, the high price it paid stirred debate among analysts and investors."
-  },
-  {
-    "title": "Vera Therapeutics wins FDA nod for closely watched kidney disease drug",
-    "link": "https://www.biopharmadive.com/news/vera-fda-approve-trutakna-IgAN-kidney-disease-atacicept/824620/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-07T11:47:00.000Z",
-    "summary": "The clearance marks another step forward in treatment for IgA nephropathy and sets up a commercial battle with Otsuka, which brought a similar medication to market last year."
   },
   {
     "title": "HuR degrader knocks down BRAF in cancer",
