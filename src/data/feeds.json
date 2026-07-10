@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
+    "link": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-10T08:30:00.000Z",
+    "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting."
+  },
+  {
+    "title": "New York boys club has a time-tested recipe to protect members’ mental health",
+    "link": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-10T08:30:00.000Z",
+    "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many…"
+  },
+  {
+    "title": "Opinion: The primary care crisis paradox",
+    "link": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-10T08:30:00.000Z",
+    "summary": "“Solving the health crisis in the United States will require confronting things far harder than readjusting a fee schedule.”"
+  },
+  {
     "title": "Roche scraps two Ionis-partnered Huntington’s drugs",
     "link": "https://www.biopharmadive.com/news/roche-tominersen-rg6496-huntington-end-development/824844/",
     "source": "BioPharma Dive",
@@ -144,6 +168,14 @@
     "summary": "Over the past 25 years, I have treated thousands of medical cannabis patients with extremely few ill effects, one doctor writes."
   },
   {
+    "title": "Addressing challenges in treating rare tumours: the strategy of China’s National Cancer Center",
+    "link": "https://www.nature.com/articles/s41573-026-01484-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: RFK Jr. plans to create list of injuries caused by Covid-19 vaccines",
     "link": "https://www.statnews.com/2026/07/08/hhs-to-propose-covid-19-countermeasures-injury-table/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,22 +200,6 @@
     "summary": "The Brigham, a nationally renowned Harvard teaching hospital, and MGB have have unsuccessfully been negotiating a new contract for months."
   },
   {
-    "title": "STAT+: In private meeting, Trump officials push to onshore generic drugmaking",
-    "link": "https://www.statnews.com/2026/07/08/trump-officials-want-to-make-generic-medicines-in-the-us/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-08T16:44:30.000Z",
-    "summary": "Marco Rubio, RFK Jr., and Chris Klomp are urging industry leaders to make more medicines in the U.S."
-  },
-  {
-    "title": "Bryan Johnson’s chronic disease is notoriously difficult to diagnose",
-    "link": "https://www.statnews.com/2026/07/08/bryan-johnson-autoimmune-gastritis-diagnosis-explained/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-08T16:13:21.000Z",
-    "summary": "Why longevity entrepreneur Bryan Johnson’s chronic disease is notoriously difficult to diagnose."
-  },
-  {
     "title": "AstraZeneca, GSK intensify China ties with Sino Biopharm deals",
     "link": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
     "source": "BioPharma Dive",
@@ -192,20 +208,36 @@
     "summary": "The U.K. drugmakers added to a series of recent tie-ups with Chinese counterparts amid broader scrutiny of such transactions in the U.S."
   },
   {
-    "title": "Affordable Care Act insurers want more premium increases as enrollment sags",
-    "link": "https://www.statnews.com/2026/07/08/affordable-care-act-insurers-premium-increases-enrollment-dips/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-08T15:31:21.000Z",
-    "summary": "For the second year in a row, many Affordable Care Act insurers are proposing double-digit premium increases, driven by rising medical costs as well as federal policy changes."
-  },
-  {
     "title": "Prime wins gene editing dispute; Saol claims latest post-Makary FDA reversal",
     "link": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-08T13:07:00.000Z",
     "summary": "An arbitration panel ruled Prime didn’t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for…"
+  },
+  {
+    "title": "FDA approves second IGF-1R-targeted antibody for thyroid eye disease",
+    "link": "https://www.nature.com/articles/d41573-026-00118-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-08T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "FDA approves novel cell therapy made with haematopoietic stem cells, T<sub>regs</sub> and T cells",
+    "link": "https://www.nature.com/articles/d41573-026-00119-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-08T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "CAR T cell therapy for solid cancer scores first approval in China",
+    "link": "https://www.nature.com/articles/d41573-026-00117-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-08T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
@@ -238,5 +270,13 @@
     "category": "industry",
     "date": "2026-07-07T11:47:00.000Z",
     "summary": "The clearance marks another step forward in treatment for IgA nephropathy and sets up a commercial battle with Otsuka, which brought a similar medication to market last year."
+  },
+  {
+    "title": "HuR degrader knocks down BRAF in cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00116-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-06T00:00:00.000Z",
+    "summary": ""
   }
 ]
