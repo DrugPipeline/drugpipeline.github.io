@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: All eyes on data on Biogen’s tau therapy",
+    "link": "https://www.statnews.com/2026/07/13/biotech-news-all-eyes-on-biogen-tau-therapy-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-13T13:40:08.000Z",
+    "summary": "The year of daraxonrasib, a wearable for a myeloma drug, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an RFK Jr. push against psychiatric meds, a Sanofi blood cancer drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/13/rfk-push-against-ssri-antidepressants-sanofi-blood-cancer-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-13T13:08:34.000Z",
+    "summary": "U.S. health secretary Robert F. Kennedy Jr. is pressing forward with his effort to help Americans stop taking SSRI antidepressants"
+  },
+  {
+    "title": "Caregivers brace for pay cuts, and maybe homelessness",
+    "link": "https://www.statnews.com/2026/07/13/health-news-caregivers-brace-for-pay-cuts-maybe-homelessness/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-13T11:46:24.000Z",
+    "summary": "A game-changer in pancreatic cancer, a vaccine skeptical HHS nom, and more health news from Morning Rounds"
+  },
+  {
+    "title": "Biotech startup funding gap widens despite rebound in VC investment",
+    "link": "https://www.biopharmadive.com/news/biotech-venture-capital-funding-2026-first-half/824881/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-13T10:47:00.000Z",
+    "summary": "Though funding totals represented the highest first-half sum since the start of 2022, industry watchers are concerned that small startups are being left behind."
+  },
+  {
     "title": "STAT+: HHS presses ahead with effort to curb antidepressant use",
     "link": "https://www.statnews.com/2026/07/13/hhs-ssri-deprescribing-experts-gather-clinical-withdrawal-guidance/?utm_campaign=rss",
     "source": "STAT News",
@@ -192,30 +224,6 @@
     "summary": "Three top contenders to run the FDA are under review by the White House"
   },
   {
-    "title": "STAT+: Prime wins Beam arbitration, clearing path to clinic",
-    "link": "https://www.statnews.com/2026/07/09/biotech-news-prime-wins-beam-arbitration-clearing-path-to-clinic/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-09T14:05:21.000Z",
-    "summary": "AstraZeneca, Ionis report major trial failure, White House pushes for American drug manufacturing, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about FDA commissioner contenders, a heart drug failure, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/09/fda-commissioner-contenders-reviewed-astrazeneca-ionis-heart-drug-failed/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-09T13:18:02.000Z",
-    "summary": "The White House is reviewing a list of three top contenders for the FDA commissioner post"
-  },
-  {
-    "title": "STAT+: OpenEvidence backs study that finds it beats LLMs",
-    "link": "https://www.statnews.com/2026/07/09/openevidence-backs-study-that-finds-it-beats-llms-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-09T13:05:54.000Z",
-    "summary": "In this edition of STAT Health Tech: Dueling research pitting OpenEvidence against general purpose LLMs, use of Dexcom's CGM in children, and more."
-  },
-  {
     "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
     "link": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
     "source": "BioPharma Dive",
@@ -278,13 +286,5 @@
     "category": "research",
     "date": "2026-07-08T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Oberland pours up to $400M into MeiraGTx eye gene therapies",
-    "link": "https://www.biopharmadive.com/news/meiragtx-oberland-royalty-financing-eye-gene-therapy/824567/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-07T16:17:00.000Z",
-    "summary": "The funding deal is a vote of confidence in the sales potential of multiple prospects in late-stage development — one of which MeiraGTx recently reacquired from J&J."
   }
 ]
