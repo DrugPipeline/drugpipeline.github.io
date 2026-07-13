@@ -1,5 +1,53 @@
 [
   {
+    "title": "Freenome colorectal cancer test data improve on earlier results",
+    "link": "https://www.biopharmadive.com/news/freenome-colorectal-cancer-test-data-improve-on-earlier-results/825085/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-13T18:35:00.000Z",
+    "summary": "The new study results could make Abbott, which has an agreement with Freenome to market the blood-based test, the dominant player in colorectal cancer screening, Evercore ISI analysts said."
+  },
+  {
+    "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
+    "link": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-13T16:49:15.000Z",
+    "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures."
+  },
+  {
+    "title": "Q32 bounces back to claim study success for alopecia drug",
+    "link": "https://www.biopharmadive.com/news/q32-bempikibart-alopecia-areata-signal-study-results/825045/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-13T16:03:00.000Z",
+    "summary": "Nearly two years after clinical setbacks cratered Q32’s stock price, new results showed hair growth improvements that surpassed investors’ expectations."
+  },
+  {
+    "title": "Agenus surges on study pivot; Apnimed lines up an IPO",
+    "link": "https://www.biopharmadive.com/news/agenus-surges-on-study-pivot-apnimed-lines-up-an-ipo/825023/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-13T15:46:02.000Z",
+    "summary": "Agenus is financially abandoning an ongoing study in late-line colorectal cancer. Elsewhere, an ebola vaccine began human testing and an important Bristol Myers medicine got an FDA decision date."
+  },
+  {
+    "title": "STAT+: UnitedHealth’s questionable review, and more MA stars lawsuits",
+    "link": "https://www.statnews.com/2026/07/13/unitedhealth-housecalls-audit-report-medicare-advantage-stars-lawsuits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-13T15:29:05.000Z",
+    "summary": "UnitedHealth touts a new home care audit, and more health insurers sue CMS over Medicare Advantage quality ratings."
+  },
+  {
+    "title": "Martha Lillard, last U.S. polio patient using iron lung, dies at 78 in Oklahoma",
+    "link": "https://www.statnews.com/2026/07/13/martha-lillard-last-us-polio-patient-iron-lung-dies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-13T14:36:41.000Z",
+    "summary": "Martha Lillard, last U.S. polio patient using iron lung, has died at 78 in Oklahoma."
+  },
+  {
     "title": "STAT+: All eyes on data on Biogen’s tau therapy",
     "link": "https://www.statnews.com/2026/07/13/biotech-news-all-eyes-on-biogen-tau-therapy-data/?utm_campaign=rss",
     "source": "STAT News",
@@ -70,6 +118,14 @@
     "category": "industry",
     "date": "2026-07-13T08:30:00.000Z",
     "summary": "It’s time to solve the case of the missing pathologist."
+  },
+  {
+    "title": "Design, simulate, refine: simulation-guided clinical trials for accelerated drug development",
+    "link": "https://www.nature.com/articles/s41573-026-01481-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-13T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
@@ -200,30 +256,6 @@
     "summary": "Clinical setbacks derailed what was once a potentially $2.2 billion deal that marked GSK's return to neuroscience."
   },
   {
-    "title": "Outbreak of diarrhea-causing parasite grows to more than 1,000 cases",
-    "link": "https://www.statnews.com/2026/07/09/cyclospora-outbreak-faq-diarrhea-causing-parasite/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-09T15:01:27.000Z",
-    "summary": "An outbreak of diarrhea-causing parasite has grown to more than 1,000 cases, making it one of the nation’s largest such outbreaks in years."
-  },
-  {
-    "title": "STAT+: ARPA-H launches $160 million effort to develop custom gene editing drugs",
-    "link": "https://www.statnews.com/2026/07/09/arpa-h-160-million-custom-gene-editing-funding-rare-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-09T15:00:00.000Z",
-    "summary": "An ARPA-H program to jump-start custom gene editing treatments was delayed by a change in administrations. Now seven labs will get sizable grants."
-  },
-  {
-    "title": "STAT+: FDA finalists under review",
-    "link": "https://www.statnews.com/2026/07/09/fda-commissioner-finalists-under-review-obamacare-premiums-surge-again/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-09T14:50:49.000Z",
-    "summary": "Three top contenders to run the FDA are under review by the White House"
-  },
-  {
     "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
     "link": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
     "source": "BioPharma Dive",
@@ -232,36 +264,12 @@
     "summary": "U.S. clinical trials continue to lose ground to China, but is Operation Trialblazer enough to help America catch up?"
   },
   {
-    "title": "AstraZeneca, Ionis drug fails big heart disease study in major setback",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-ttr-cardiomyopathy-study-results-failure/824799/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-09T11:54:00.000Z",
-    "summary": "Eplontersen’s failure in transthyretin-mediated amyloidosis cardiomyopathy caught Wall Street analysts by surprise and boosted the outlook of rival drugs from Alnylam and BridgeBio Pharma."
-  },
-  {
     "title": "Addressing challenges in treating rare tumours: the strategy of China’s National Cancer Center",
     "link": "https://www.nature.com/articles/s41573-026-01484-6",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-07-09T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "AstraZeneca, GSK intensify China ties with Sino Biopharm deals",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-gsk-china-biotech-deals-sinopharm/824679/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-08T15:58:00.000Z",
-    "summary": "The U.K. drugmakers added to a series of recent tie-ups with Chinese counterparts amid broader scrutiny of such transactions in the U.S."
-  },
-  {
-    "title": "Prime wins gene editing dispute; Saol claims latest post-Makary FDA reversal",
-    "link": "https://www.biopharmadive.com/news/prime-beam-aatd-saol-fda-ema-daraxonrasib-cyllene/824574/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-08T13:07:00.000Z",
-    "summary": "An arbitration panel ruled Prime didn’t breach a deal with Beam by developing a rare disease treatment. Elsewhere, European regulators are using a pancreatic cancer drug to test a new framework for…"
   },
   {
     "title": "FDA approves second IGF-1R-targeted antibody for thyroid eye disease",
