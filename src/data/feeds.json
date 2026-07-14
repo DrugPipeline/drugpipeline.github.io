@@ -1,5 +1,77 @@
 [
   {
+    "title": "The risk of refusing a newborn’s vitamin K shot",
+    "link": "https://www.statnews.com/2026/07/14/healeth-news-the-risk-of-refusing-a-newborn-vitamin-k-shot/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T13:39:24.000Z",
+    "summary": "Health care workers on strike at Ebola treatment center, how to tackle the U.S. alcohol epidemic, and more Morning Rounds news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a battle between Lilly and Teva, psychedelic drugs, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/14/lilly-teva-court-battle-psychedelic-drugs-guidance-finalized/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T13:16:40.000Z",
+    "summary": "A U.S. appeals court revived a Teva Pharmaceuticals lawsuit accusing Eli Lilly of breaching ​an agreement allowing Teva to market a generic ‌version of Forteo"
+  },
+  {
+    "title": "STAT+: Biogen Alzheimer’s drug slowed decline at rates on par with approved therapies, study shows",
+    "link": "https://www.statnews.com/2026/07/14/biogen-alzheimers-tau-diranersen-trial-results-ionis-aaic/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T13:15:00.000Z",
+    "summary": "An experimental Alzheimer's drug from Biogen, one with a novel approach, slowed decline at comparable rates as approved drugs in a mid-stage study."
+  },
+  {
+    "title": "Biogen data highlight promise, questions surrounding tau-targeting Alzheimer’s drugs",
+    "link": "https://www.biopharmadive.com/news/biogen-alzheimers-diranersen-aaic-celia-results-tau/825145/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-14T13:15:00.000Z",
+    "summary": "The study provides the clearest evidence yet that medicines like BIIB080 might improve cognition, but leaves unclear why higher doses didn’t perform better."
+  },
+  {
+    "title": "FDA authorized Zyn nicotine pouches without knowing what they were made of, says former agency scientist",
+    "link": "https://www.statnews.com/2026/07/14/zyn-nicotine-pouches-fda-approval-microplastic-risk/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T09:30:00.000Z",
+    "summary": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety"
+  },
+  {
+    "title": "STAT+: Drug metabolism AI competition results show that bigger may not always be better",
+    "link": "https://www.statnews.com/2026/07/14/openadmet-ai-drug-metabolism-prediction-inductive-bio/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T08:30:00.000Z",
+    "summary": "The results of a recent AI competition show that better data trumps bigger models when it comes to predicting properties of drug candidates."
+  },
+  {
+    "title": "12 ideas for tackling the U.S. alcohol epidemic",
+    "link": "https://www.statnews.com/2026/07/14/alcohol-health-issues-deadliest-drug-series-final-installment-solutions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T08:30:00.000Z",
+    "summary": "The U.S. can save lives from excess alcohol use without taking drastic measures. Here are 12 steps that can help."
+  },
+  {
+    "title": "STAT+: 10 charts that explain America’s hidden alcohol epidemic",
+    "link": "https://www.statnews.com/2026/07/14/alcohol-impact-health-data-deep-dive-deadliest-drug-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T08:30:00.000Z",
+    "summary": "America's hidden alcohol epidemic — the toll, emerging risks, shifting usage, and economic stakes — broken down in 10 charts."
+  },
+  {
+    "title": "Opinion: It looks like your doctor and talks like your doctor. But it’s not your doctor",
+    "link": "https://www.statnews.com/2026/07/14/deepfakes-ai-generated-medicine-misinformation-regulation-video/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T08:30:00.000Z",
+    "summary": "Deepfakes undermine the credibility that makes digital care — from telehealth visits to patient portals — possible."
+  },
+  {
     "title": "STAT+: AIDS activists slam Biden R&D deal with Gilead over HIV prevention drug patents",
     "link": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,14 +208,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: Tau in the spotlight at Alzheimer’s conference",
-    "link": "https://www.statnews.com/2026/07/12/aaic-in-30-alzheimers-treaatments-focus-on-tau-blood-brain-barrier/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-12T20:01:45.000Z",
-    "summary": "From STAT's AAIC in 30 newsletter: Researchers focus on tau, and progress on crossing the blood-brain barrier."
-  },
-  {
     "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
     "link": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
     "source": "BioPharma Dive",
@@ -152,36 +216,12 @@
     "summary": "This podcast explores how clinical trial supplies move from early planning to global delivery, ensuring investigational medicines reach patients safely and on time."
   },
   {
-    "title": "Nominee for key federal health role has a history of questioning vaccines",
-    "link": "https://www.statnews.com/2026/07/10/sean-kaufman-hhs-nominee-past-statements-question-vaccine-safety/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-10T19:27:36.000Z",
-    "summary": "Sean Kaufman's views on vaccines may put him at odds with Sen. Bill Cassidy during next week's confirmation hearing."
-  },
-  {
     "title": "GSK, Hansoh ADC extends survival in lung cancer study",
     "link": "https://www.biopharmadive.com/news/gsk-hansoh-china-adc-ris-rez-lung-cancer-results/824931/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-10T15:42:00.000Z",
     "summary": "GSK claimed the result was a first for an ADC aimed at the “B7-H3” protein, an increasingly popular target of late among cancer drugmakers."
-  },
-  {
-    "title": "STAT+: Roche ends Huntington’s gene-silencing programs",
-    "link": "https://www.statnews.com/2026/07/10/biotech-news-roche-ends-huntingtons-gene-silencing-program/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-10T13:35:37.000Z",
-    "summary": "ARPA-H launches bespoke gene therapy push, Lilly and Novo to promote Bridge program, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about bigger drug discounts in Germany, drugmakers embracing secrecy, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/10/germany-seeks-bigger-drug-discounts-drugmakers-embracing-secrecy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-10T13:13:20.000Z",
-    "summary": "German lawmakers passed a bill that would more than double the discount on branded medicines drugmakers must provide the government"
   },
   {
     "title": "FDA Proposes Rule to Modernize Drug Manufacturing Registration",
@@ -198,38 +238,6 @@
     "category": "industry",
     "date": "2026-07-10T12:04:00.000Z",
     "summary": "The ARPA-H program could provide researchers with a roadmap to develop personalized gene editing drugs. Elsewhere, a Botox rival succeeded against migraines and two deals were struck."
-  },
-  {
-    "title": "FDA quietly pushes back deadline on electric shock ban",
-    "link": "https://www.statnews.com/2026/07/10/health-news-fda-quietly-pushes-back-deadline-on-electric-shock-ban/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-10T11:51:52.000Z",
-    "summary": "Massachusetts' biggest nursing strike ever, tackling the male loneliness epidemic, and other health news for Morning Rounds"
-  },
-  {
-    "title": "STAT+: How a Boston doctor built a following as a ‘loud and unafraid’ voice in the Trump era",
-    "link": "https://www.statnews.com/2026/07/10/jeremy-faust-inside-medicine-trump-era/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-10T08:30:00.000Z",
-    "summary": "Jeremy Faust saves lives in the ER and breaks stories with his Inside Medicine newsletter. He’s also testing the bounds of news reporting."
-  },
-  {
-    "title": "New York boys club has a time-tested recipe to protect members’ mental health",
-    "link": "https://www.statnews.com/2026/07/10/bcny-approach-boys-mental-health-connection-belonging-mentors/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-10T08:30:00.000Z",
-    "summary": "At a time when attention is deservedly being turned to the mental health crisis in boys, the Boys' Club of New York is a shelter from the storm for many…"
-  },
-  {
-    "title": "Opinion: The primary care crisis paradox",
-    "link": "https://www.statnews.com/2026/07/10/primary-care-data-pcps-health-care-crisis-investment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-10T08:30:00.000Z",
-    "summary": "“Solving the health crisis in the United States will require confronting things far harder than readjusting a fee schedule.”"
   },
   {
     "title": "FDA new drug approvals in Q2 2026",
@@ -254,14 +262,6 @@
     "category": "industry",
     "date": "2026-07-09T15:45:00.000Z",
     "summary": "Clinical setbacks derailed what was once a potentially $2.2 billion deal that marked GSK's return to neuroscience."
-  },
-  {
-    "title": "HHS plan to speed drug research won’t remove ‘self-inflicted’ delays",
-    "link": "https://www.biopharmadive.com/news/hhss-plan-speed-drug-rd-pharma-ai-drug/824759/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-09T12:40:00.000Z",
-    "summary": "U.S. clinical trials continue to lose ground to China, but is Operation Trialblazer enough to help America catch up?"
   },
   {
     "title": "Addressing challenges in treating rare tumours: the strategy of China’s National Cancer Center",
