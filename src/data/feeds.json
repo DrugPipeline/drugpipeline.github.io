@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about a Biogen Alzheimer’s drug, skyrocketing 340B drug sales, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/15/biogen-alzheimer-drug-skyrocketing-340b-drug-sales/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T13:06:40.000Z",
+    "summary": "An Alzheimer’s drug from Biogen slowed cognitive decline in a mid-stage trial at roughly comparable rates as approved medicines"
+  },
+  {
+    "title": "What to know about the parasitic diarrhea outbreak",
+    "link": "https://www.statnews.com/2026/07/15/health-news-what-to-know-about-cyclosporiasis-parasitic-diarrhea/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T11:58:15.000Z",
+    "summary": "Fallout from the end of ACA subsidies, the FDA CBER acting director \"on planet Earth,\" and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Medicare Advantage insurers face new bipartisan scrutiny over AI and care denials",
+    "link": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T09:00:00.000Z",
+    "summary": "Blumenthal, Hawley press UnitedHealth, Humana, CVS for documents related to using AI to deny or delay care."
+  },
+  {
+    "title": "Flood of comments on White House grantmaking overhaul is largely negative, analysis shows",
+    "link": "https://www.statnews.com/2026/07/15/trump-omb-grant-funding-proposal-comments-95-percent-opposed/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T08:30:00.000Z",
+    "summary": "An analysis of public comments on a White House proposal to change the way federal contracts and grants are doled out shows widespread opposition"
+  },
+  {
+    "title": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health",
+    "link": "https://www.statnews.com/2026/07/15/swing-therapeutics-acquired-by-xr-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T08:30:00.000Z",
+    "summary": "Swing Therapeutics, developer of a digital treatment for fibromyalgia, has been acquired by medical virtual reality company XR Health."
+  },
+  {
+    "title": "Opinion: Why we still don’t know what foods are the source of the cyclospora outbreak",
+    "link": "https://www.statnews.com/2026/07/15/why-cyclospora-source-remains-unknown-epidemiologist-explains/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T08:30:00.000Z",
+    "summary": "“You cannot thin a system, defer the tools that would speed it up, and then wonder why the public is left guessing,” writes epidemiologist Katrine Wallace."
+  },
+  {
+    "title": "STAT+: A new biotech startup tries to tackle obesity, but not in the way you might expect",
+    "link": "https://www.statnews.com/2026/07/15/mwyngil-therapeutics-weight-loss-drugs-startup/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T08:30:00.000Z",
+    "summary": "A new startup is making a bold move in the world of obesity drug development: It’s not working with the GLP-1 target that has taken the world by storm."
+  },
+  {
+    "title": "STAT+: Under a new leader, the FDA’s biologics center moves to steady itself after stormy chapter",
+    "link": "https://www.statnews.com/2026/07/15/fda-cber-acting-director-karim-mikhail-return-normal-vinay-prasad/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-15T08:30:00.000Z",
+    "summary": "After his predecessor's turbulent tenure, Karim Mikhail is working to restore staff morale and revisit controversial rejections."
+  },
+  {
     "title": "STAT+: FTC settles lawsuit with CVS Caremark over charges it manipulated insulin prices, impeded access",
     "link": "https://www.statnews.com/pharmalot/2026/07/14/ftc-settles-lawsuit-cvs-caremark-insulin-prices-access/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,60 +200,12 @@
     "summary": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety"
   },
   {
-    "title": "STAT+: Drug metabolism AI competition results show that bigger may not always be better",
-    "link": "https://www.statnews.com/2026/07/14/openadmet-ai-drug-metabolism-prediction-inductive-bio/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-14T08:30:00.000Z",
-    "summary": "The results of a recent AI competition show that better data trumps bigger models when it comes to predicting properties of drug candidates."
-  },
-  {
-    "title": "12 ideas for tackling the U.S. alcohol epidemic",
-    "link": "https://www.statnews.com/2026/07/14/alcohol-health-issues-deadliest-drug-series-final-installment-solutions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-14T08:30:00.000Z",
-    "summary": "The U.S. can save lives from excess alcohol use without taking drastic measures. Here are 12 steps that can help."
-  },
-  {
-    "title": "STAT+: 10 charts that explain America’s hidden alcohol epidemic",
-    "link": "https://www.statnews.com/2026/07/14/alcohol-impact-health-data-deep-dive-deadliest-drug-series/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-14T08:30:00.000Z",
-    "summary": "America's hidden alcohol epidemic — the toll, emerging risks, shifting usage, and economic stakes — broken down in 10 charts."
-  },
-  {
-    "title": "Opinion: It looks like your doctor and talks like your doctor. But it’s not your doctor",
-    "link": "https://www.statnews.com/2026/07/14/deepfakes-ai-generated-medicine-misinformation-regulation-video/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-14T08:30:00.000Z",
-    "summary": "Deepfakes undermine the credibility that makes digital care — from telehealth visits to patient portals — possible."
-  },
-  {
-    "title": "STAT+: AIDS activists slam Biden R&D deal with Gilead over HIV prevention drug patents",
-    "link": "https://www.statnews.com/pharmalot/2026/07/13/aids-activists-slam-biden-deal-with-gilead-over-hiv-prevention-patents/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-13T20:58:46.000Z",
-    "summary": "A group of AIDS activists obtained an R&D pact at the heart of a settlement between the U.S. government and Gilead Sciences over patents for HIV prevention."
-  },
-  {
     "title": "Freenome colorectal cancer test data improve on earlier results",
     "link": "https://www.biopharmadive.com/news/freenome-colorectal-cancer-test-data-improve-on-earlier-results/825085/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-13T18:35:00.000Z",
     "summary": "The new study results could make Abbott, which has an agreement with Freenome to market the blood-based test, the dominant player in colorectal cancer screening, Evercore ISI analysts said."
-  },
-  {
-    "title": "STAT+: Dementia study replicates promising outcomes following risk-reduction strategies",
-    "link": "https://www.statnews.com/2026/07/13/aaic-in-30-alzheimers-treaatments-dementia-day-2-conference/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-13T16:49:15.000Z",
-    "summary": "A dementia prevention trial praised as a \"landmark\" effort further demonstrated the promise of structured programs tailored to local cultures."
   },
   {
     "title": "Q32 bounces back to claim study success for alopecia drug",
@@ -208,28 +224,20 @@
     "summary": "Agenus is financially abandoning an ongoing study in late-line colorectal cancer. Elsewhere, an ebola vaccine began human testing and an important Bristol Myers medicine got an FDA decision date."
   },
   {
-    "title": "STAT+: UnitedHealth’s questionable review, and more MA stars lawsuits",
-    "link": "https://www.statnews.com/2026/07/13/unitedhealth-housecalls-audit-report-medicare-advantage-stars-lawsuits/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-13T15:29:05.000Z",
-    "summary": "UnitedHealth touts a new home care audit, and more health insurers sue CMS over Medicare Advantage quality ratings."
-  },
-  {
-    "title": "Martha Lillard, last U.S. polio patient using iron lung, dies at 78 in Oklahoma",
-    "link": "https://www.statnews.com/2026/07/13/martha-lillard-last-us-polio-patient-iron-lung-dies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-13T14:36:41.000Z",
-    "summary": "Martha Lillard, last U.S. polio patient using iron lung, has died at 78 in Oklahoma."
-  },
-  {
     "title": "Biotech startup funding gap widens despite rebound in VC investment",
     "link": "https://www.biopharmadive.com/news/biotech-venture-capital-funding-2026-first-half/824881/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-13T10:47:00.000Z",
     "summary": "Though funding totals represented the highest first-half sum since the start of 2022, industry watchers are concerned that small startups are being left behind."
+  },
+  {
+    "title": "Design, simulate, refine: simulation-guided clinical trials for accelerated drug development",
+    "link": "https://www.nature.com/articles/s41573-026-01481-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-13T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
@@ -246,5 +254,21 @@
     "category": "regulatory",
     "date": "2026-07-10T13:07:06.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a proposed rule that, if finalized, would create a streamlined registration pathway for distributed manufacturing establishments that operate as a…"
+  },
+  {
+    "title": "FDA new drug approvals in Q2 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00120-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-10T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Addressing challenges in treating rare tumours: the strategy of China’s National Cancer Center",
+    "link": "https://www.nature.com/articles/s41573-026-01484-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-09T00:00:00.000Z",
+    "summary": ""
   }
 ]
