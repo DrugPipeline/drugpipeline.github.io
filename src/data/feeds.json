@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: FTC settles lawsuit with CVS Caremark over charges it manipulated insulin prices, impeded access",
+    "link": "https://www.statnews.com/pharmalot/2026/07/14/ftc-settles-lawsuit-cvs-caremark-insulin-prices-access/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T20:55:49.000Z",
+    "summary": "The FTC settled a lawsuit against CVS Caremark over allegations that the company artificially inflated the price of insulin and impeded access to the diabetes treatment."
+  },
+  {
+    "title": "CVS Caremark reaches settlement with FTC over insulin suit",
+    "link": "https://www.biopharmadive.com/news/cvs-caremark-ftc-settlement-insulin-suit/825248/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-14T20:49:00.000Z",
+    "summary": "Terms of the deal announced Tuesday are very similar to those the FTC reached with Express Scripts earlier this year, including requiring the PBM to stop preferring higher cost versions of drugs on…"
+  },
+  {
+    "title": "STAT+: Sales from controversial U.S. drug discount program rose to $100 billion last year",
+    "link": "https://www.statnews.com/pharmalot/2026/07/14/sales-from-controversial-drug-discount-program-rose-to-100-billion-last-year/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-14T19:57:23.000Z",
+    "summary": "Prescription drugs purchased under a controversial government discount program amounted to $100 billion in 2025, a 22.8% increase from the previous year."
+  },
+  {
     "title": "As cyclospora illnesses surge to a record, Michigan officials eye lettuce as a possible cause",
     "link": "https://www.statnews.com/2026/07/14/cyclosporiasis-outbreak-cases-top-previous-record-4700-cases/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,22 +224,6 @@
     "summary": "Martha Lillard, last U.S. polio patient using iron lung, has died at 78 in Oklahoma."
   },
   {
-    "title": "STAT+: All eyes on data on Biogen’s tau therapy",
-    "link": "https://www.statnews.com/2026/07/13/biotech-news-all-eyes-on-biogen-tau-therapy-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-13T13:40:08.000Z",
-    "summary": "The year of daraxonrasib, a wearable for a myeloma drug, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an RFK Jr. push against psychiatric meds, a Sanofi blood cancer drug, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/13/rfk-push-against-ssri-antidepressants-sanofi-blood-cancer-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-13T13:08:34.000Z",
-    "summary": "U.S. health secretary Robert F. Kennedy Jr. is pressing forward with his effort to help Americans stop taking SSRI antidepressants"
-  },
-  {
     "title": "Biotech startup funding gap widens despite rebound in VC investment",
     "link": "https://www.biopharmadive.com/news/biotech-venture-capital-funding-2026-first-half/824881/",
     "source": "BioPharma Dive",
@@ -240,14 +248,6 @@
     "summary": "This podcast explores how clinical trial supplies move from early planning to global delivery, ensuring investigational medicines reach patients safely and on time."
   },
   {
-    "title": "GSK, Hansoh ADC extends survival in lung cancer study",
-    "link": "https://www.biopharmadive.com/news/gsk-hansoh-china-adc-ris-rez-lung-cancer-results/824931/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-10T15:42:00.000Z",
-    "summary": "GSK claimed the result was a first for an ADC aimed at the “B7-H3” protein, an increasingly popular target of late among cancer drugmakers."
-  },
-  {
     "title": "FDA Proposes Rule to Modernize Drug Manufacturing Registration",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-modernize-drug-manufacturing-registration",
     "source": "FDA Press Releases",
@@ -269,30 +269,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-07-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA approves second IGF-1R-targeted antibody for thyroid eye disease",
-    "link": "https://www.nature.com/articles/d41573-026-00118-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA approves novel cell therapy made with haematopoietic stem cells, T<sub>regs</sub> and T cells",
-    "link": "https://www.nature.com/articles/d41573-026-00119-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "CAR T cell therapy for solid cancer scores first approval in China",
-    "link": "https://www.nature.com/articles/d41573-026-00117-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-08T00:00:00.000Z",
     "summary": ""
   }
 ]
