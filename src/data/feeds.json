@@ -1,7 +1,87 @@
 [
   {
+    "title": "Merck wins first approval of a PCSK9 cholesterol pill",
+    "link": "https://www.biopharmadive.com/news/merck-lipfrendra-enlicitide-fda-approve-voucher-pcsk9/825377/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-16T13:22:00.000Z",
+    "summary": "The speedy clearance of Lipfendra is an important milestone for Merck and the result of a controversial voucher program put in place by former commissioner Marty Makary."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Kalshi bets on clinical trials, a Merck cholesterol pill, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/16/kalshi-bets-on-clinical-trials-merck-cholesterol-pill/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T13:14:44.000Z",
+    "summary": "Kalshi, one of the world’s largest prediction market exchanges, plans to take bets on clinical trials and regulatory approvals"
+  },
+  {
+    "title": "STAT+: FDA approves Merck’s oral PCSK9 drug, a first",
+    "link": "https://www.statnews.com/2026/07/16/biotech-news-fda-approves-merck-oral-pcsk9-drug-in-a-first/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T13:04:36.000Z",
+    "summary": "Kalshi allows bets on clinical trial outcomes, Eli Lilly buys a psychedelic medicine, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Kalshi comes for biopharma, with prediction markets for clinical trials and FDA approvals",
+    "link": "https://www.statnews.com/2026/07/16/kalshi-new-offering-prediction-market-clinical-trials-fda-approvals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T12:00:00.000Z",
+    "summary": "Prediction markets have permeated the worlds of sports, politics, and reality television shows. Now, the biopharma industry could be next."
+  },
+  {
+    "title": "STAT+: Eli Lilly to acquire psychedelics-focused biotech AtaiBeckley",
+    "link": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T11:28:27.000Z",
+    "summary": "Eli Lilly is buying the psychedelics-focused biotech AtaiBeckley for $2.8 billion upfront, a move that will expand its neuroscience pipeline."
+  },
+  {
+    "title": "STAT+: Spring forward forever? Another daylight saving debate arrives in Congress",
+    "link": "https://www.statnews.com/2026/07/16/health-news-another-daylight-savings-debate-arrives-in-congress/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T11:09:27.000Z",
+    "summary": "Trump's pandemic preparedness nominee testifies, the \"fang-to-pharmacy\" pipeline, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Amylyx nears pivotal endocrine drug study readout",
+    "link": "https://www.statnews.com/2026/07/16/amylyx-bph-avexitide-biogen-diranersen-agios/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T10:30:00.000Z",
+    "summary": "Amylyx Pharmaceuticals will soon read out results from a study evaluating a new treatment for a rare endocrine disorder, a pivotal moment for patients and the company."
+  },
+  {
+    "title": "STAT+: CMS signals intent to revamp how it pays for clinical software and AI",
+    "link": "https://www.statnews.com/2026/07/16/cms-to-revamp-payments-for-clinical-software-ai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T08:30:00.000Z",
+    "summary": "CMS wants to build a standardized payment structure for clinical software and AI that factors in their impact on patient outcomes."
+  },
+  {
+    "title": "Opinion: Medicaid and SNAP cuts are exacerbating the intertwined problems of hunger and mental illness",
+    "link": "https://www.statnews.com/2026/07/16/snap-cuts-mental-illness-hunger-psychiatric-emergency/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T08:30:00.000Z",
+    "summary": "“No one built a psychiatric unit to solve hunger,” writes clinical dietician Cole Hanson. But patients come anyway."
+  },
+  {
+    "title": "Opinion: The growing fang-to-pharmacy pipeline",
+    "link": "https://www.statnews.com/2026/07/16/glp-1-weight-loss-drugs-gila-monster-venom-pharmaceuticals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T08:30:00.000Z",
+    "summary": "“Some of the most powerful medicines we will ever find are already here, carried in the fangs, stingers, and saliva of creatures we’ve been taught to fear,” writes Steve Midway."
+  },
+  {
     "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
-    "link": "https://www.statnews.com/2026/07/15/lindsay-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
+    "link": "https://www.statnews.com/2026/07/15/lindsey-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-07-15T23:02:48.000Z",
@@ -80,7 +160,7 @@
     "summary": "Glenmark Pharmaceuticals agreed to pay $29.6 million to settle price-fixing allegations in a long-running battle with dozens of states."
   },
   {
-    "title": "Celcuity gains FDA approval for closely-watched breast cancer drug",
+    "title": "Celcuity gains FDA approval for closely watched breast cancer drug",
     "link": "https://www.biopharmadive.com/news/celcuity-fda-approve-revtorpyk-breast-cancer/825280/",
     "source": "BioPharma Dive",
     "category": "industry",
@@ -120,84 +200,12 @@
     "summary": "FDA's new CBER chief promises normalcy, an weight loss drug without GLP-1s, and more biotech news from The Readout"
   },
   {
-    "title": "Deaths from coronary artery disease have fallen, but more progress is within reach",
-    "link": "https://www.statnews.com/2026/07/15/coronary-artery-disease-progress-prevention-jama-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T15:00:00.000Z",
-    "summary": "Managing risk factors is the key to further progress in reducing deaths from coronary artery disease, a new study finds."
-  },
-  {
-    "title": "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths",
-    "link": "https://www.statnews.com/2026/07/15/ebola-outbreak-congo-2000-cases-health-workers-strike/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T13:58:00.000Z",
-    "summary": "The number of confirmed cases of Ebola in Congo has reached 2,011, including 754 deaths, making it the the fastest-growing outbreak on record, authorities say."
-  },
-  {
     "title": "J&J dips despite upbeat outlook; AstraZeneca, Spero cut China deals",
     "link": "https://www.biopharmadive.com/news/jnj-earnings-astrazeneca-spero-china-chai-advancell-summit/825208/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-15T13:18:00.000Z",
     "summary": "J&J’s shares ticked down as oncology sales missed expectations. Elsewhere, AstraZeneca bet $600 million on a lung cancer drug and a pair of biotechs snagged two of the year’s top venture rounds."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Biogen Alzheimer’s drug, skyrocketing 340B drug sales, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/15/biogen-alzheimer-drug-skyrocketing-340b-drug-sales/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T13:06:40.000Z",
-    "summary": "An Alzheimer’s drug from Biogen slowed cognitive decline in a mid-stage trial at roughly comparable rates as approved medicines"
-  },
-  {
-    "title": "What to know about the parasitic diarrhea outbreak",
-    "link": "https://www.statnews.com/2026/07/15/health-news-what-to-know-about-cyclosporiasis-parasitic-diarrhea/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T11:58:15.000Z",
-    "summary": "Fallout from the end of ACA subsidies, the FDA CBER acting director \"on planet Earth,\" and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Medicare Advantage insurers face new bipartisan scrutiny over AI and care denials",
-    "link": "https://www.statnews.com/2026/07/15/medicare-advantage-ai-care-denials-probe-blumenthal-hawley/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T09:00:00.000Z",
-    "summary": "Blumenthal, Hawley press UnitedHealth, Humana, CVS for documents related to using AI to deny or delay care."
-  },
-  {
-    "title": "Flood of comments on White House grantmaking overhaul is largely negative, analysis shows",
-    "link": "https://www.statnews.com/2026/07/15/trump-omb-grant-funding-proposal-comments-95-percent-opposed/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T08:30:00.000Z",
-    "summary": "An analysis of public comments on a White House proposal to change the way federal contracts and grants are doled out shows widespread opposition"
-  },
-  {
-    "title": "STAT+: Swing Therapeutics acquired by medical VR platform XR Health",
-    "link": "https://www.statnews.com/2026/07/15/swing-therapeutics-acquired-by-xr-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T08:30:00.000Z",
-    "summary": "Swing Therapeutics, developer of a digital treatment for fibromyalgia, has been acquired by medical virtual reality company XR Health."
-  },
-  {
-    "title": "Opinion: Why we still don’t know what foods are the source of the cyclospora outbreak",
-    "link": "https://www.statnews.com/2026/07/15/why-cyclospora-source-remains-unknown-epidemiologist-explains/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T08:30:00.000Z",
-    "summary": "“You cannot thin a system, defer the tools that would speed it up, and then wonder why the public is left guessing,” writes epidemiologist Katrine Wallace."
-  },
-  {
-    "title": "STAT+: A new biotech startup tries to tackle obesity, but not in the way you might expect",
-    "link": "https://www.statnews.com/2026/07/15/mwyngil-therapeutics-weight-loss-drugs-startup/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T08:30:00.000Z",
-    "summary": "A new startup is making a bold move in the world of obesity drug development: It’s not working with the GLP-1 target that has taken the world by storm."
   },
   {
     "title": "CVS Caremark reaches settlement with FTC over insulin suit",
@@ -238,14 +246,6 @@
     "category": "industry",
     "date": "2026-07-14T13:15:00.000Z",
     "summary": "The study provides the clearest evidence yet that medicines like BIIB080 might improve cognition, but leaves unclear why higher doses didn’t perform better."
-  },
-  {
-    "title": "Freenome colorectal cancer test data improve on earlier results",
-    "link": "https://www.biopharmadive.com/news/freenome-colorectal-cancer-test-data-improve-on-earlier-results/825085/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-13T18:35:00.000Z",
-    "summary": "The new study results could make Abbott, which has an agreement with Freenome to market the blood-based test, the dominant player in colorectal cancer screening, Evercore ISI analysts said."
   },
   {
     "title": "Design, simulate, refine: simulation-guided clinical trials for accelerated drug development",
