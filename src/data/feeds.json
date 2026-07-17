@@ -1,5 +1,61 @@
 [
   {
+    "title": "Quitting smoking is hard. A Medicare change may push doctors to give more help",
+    "link": "https://www.statnews.com/2026/07/17/medicare-smoking-cessation-reimbursement-increase/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-17T16:05:04.000Z",
+    "summary": "Physicians who offer counseling on quitting cigarettes and alcohol during patient visits would get a 19% increase in reimbursement under a proposed Medicare change."
+  },
+  {
+    "title": "Jasper gets a lifeline in merger with immune drugmaker Kira",
+    "link": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-17T15:54:50.000Z",
+    "summary": "The acquisition, which involves a concurrent licensing deal with startup Mirador, gives Jasper a chance to rebound from setbacks that have wiped out most of its market value."
+  },
+  {
+    "title": "FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol in Adults with High Cholesterol",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-07-17T15:01:17.000Z",
+    "summary": "The U.S. Food and Drug Administration approved Lipfendra (enlicitide), the first oral inhibitor of proprotein convertase subtilisin/kexin type 9 (PCSK9), as an adjunct to diet and exercise to reduce…"
+  },
+  {
+    "title": "Lettuce at Taco Bell in five states confirmed as a source of diarrhea-causing parasite",
+    "link": "https://www.statnews.com/2026/07/17/cyclosporiasis-outbreak-traced-taylor-farms-lettuce-taco-bell/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-17T14:52:38.000Z",
+    "summary": "Health officials have identified lettuce from Mexico served at Taco Bell locations across five U.S. states as a source of the outbreak of diarrhea-causing parasite cyclospora."
+  },
+  {
+    "title": "STAT+: The end for GSK’s chronic cough treatment",
+    "link": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-17T14:40:12.000Z",
+    "summary": "Sonothera's ultrasound gene therapy delivery, a new Alzheimer's drug controversy, and more biotech news from The Readout"
+  },
+  {
+    "title": "Arbutus, Sanofi escalate mRNA patent fights; InnoCare’s TYK2 contender advances",
+    "link": "https://www.biopharmadive.com/news/arbutus-sanofi-mrna-insmed-innocare-tyk2-chai-argenx/825420/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-17T14:07:25.000Z",
+    "summary": "The new lawsuits add to a web of legal disputes over technology involved in COVID vaccines. Elsewhere, a prolific AI biotech inked another deal and Insmed strengthened support for a closely watched…"
+  },
+  {
+    "title": "GSK shelves cough drug acquired in $2B deal",
+    "link": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-17T13:21:40.000Z",
+    "summary": "Mixed Phase 3 data for camlipixant prompted the British pharma to cease development, making the drug the third from its class to fail."
+  },
+  {
     "title": "STAT+: Up and down the ladder: The latest comings and goings",
     "link": "https://www.statnews.com/pharmalot/2026/07/17/up-down-ladder-jobs-comings-goings/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,30 +224,6 @@
     "summary": "Kalshi allows bets on clinical trial outcomes, Eli Lilly buys a psychedelic medicine, and more biotech news from The Readout"
   },
   {
-    "title": "STAT+: Kalshi comes for biopharma, with prediction markets for clinical trials and FDA approvals",
-    "link": "https://www.statnews.com/2026/07/16/kalshi-new-offering-prediction-market-clinical-trials-fda-approvals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-16T12:00:00.000Z",
-    "summary": "Prediction markets have permeated the worlds of sports, politics, and reality television shows. Now, the biopharma industry could be next."
-  },
-  {
-    "title": "STAT+: Eli Lilly to acquire psychedelics-focused biotech AtaiBeckley",
-    "link": "https://www.statnews.com/2026/07/16/eli-lilly-acquire-ataibeckley-psychedelics-depression/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-16T11:28:27.000Z",
-    "summary": "Eli Lilly is buying the psychedelics-focused biotech AtaiBeckley for $2.8 billion upfront, a move that will expand its neuroscience pipeline."
-  },
-  {
-    "title": "STAT+: Spring forward forever? Another daylight saving debate arrives in Congress",
-    "link": "https://www.statnews.com/2026/07/16/health-news-another-daylight-savings-debate-arrives-in-congress/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-16T11:09:27.000Z",
-    "summary": "Trump's pandemic preparedness nominee testifies, the \"fang-to-pharmacy\" pipeline, and more health news from Morning Rounds"
-  },
-  {
     "title": "Brain-shuttle biologics chart new paths across the blood–brain barrier",
     "link": "https://www.nature.com/articles/d41573-026-00121-6",
     "source": "Nature Reviews Drug Discovery",
@@ -230,30 +262,6 @@
     "category": "industry",
     "date": "2026-07-15T15:34:00.000Z",
     "summary": "The two startups are the third and fourth, respectively, to outline offerings this month and aim to capitalize on momentum that’s already yielded several big-ticket IPOs."
-  },
-  {
-    "title": "J&J dips despite upbeat outlook; AstraZeneca, Spero cut China deals",
-    "link": "https://www.biopharmadive.com/news/jnj-earnings-astrazeneca-spero-china-chai-advancell-summit/825208/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-15T13:18:00.000Z",
-    "summary": "J&J’s shares ticked down as oncology sales missed expectations. Elsewhere, AstraZeneca bet $600 million on a lung cancer drug and a pair of biotechs snagged two of the year’s top venture rounds."
-  },
-  {
-    "title": "CVS Caremark reaches settlement with FTC over insulin suit",
-    "link": "https://www.biopharmadive.com/news/cvs-caremark-ftc-settlement-insulin-suit/825248/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-14T20:49:00.000Z",
-    "summary": "Terms of the deal announced Tuesday are very similar to those the FTC reached with Express Scripts earlier this year, including requiring the PBM to stop preferring higher cost versions of drugs on…"
-  },
-  {
-    "title": "Judge orders Apple Tree partner to forfeit oversight of venture fund",
-    "link": "https://www.biopharmadive.com/news/apple-tree-partners-cayman-ruling-seth-harrison-startups/825172/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-14T16:20:00.000Z",
-    "summary": "The ruling from a Cayman Islands court adds a new wrinkle to an ongoing legal dispute that’s already resulted in a bankruptcy filing — and a bid by general partner Seth Harrison for the firm’s…"
   },
   {
     "title": "Design, simulate, refine: simulation-guided clinical trials for accelerated drug development",
