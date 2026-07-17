@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: Fresh turmoil roils American Diabetes Association following controversy at conference",
+    "link": "https://www.statnews.com/2026/07/16/american-diabetes-association-annual-conference-controversy-continues/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T21:38:04.000Z",
+    "summary": "Turmoil at the ADA has taken a fresh turn, with leaders blocking editors at its flagship journal from publishing pieces detailing a controversy at the group’s annual meeting."
+  },
+  {
+    "title": "Predicting biotech clinical trials and a new Alzheimer’s drug controversy",
+    "link": "https://www.statnews.com/2026/07/16/readout-loud-podcast-predicting-clinical-trials-biogen-alzheimers-tau/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-16T20:06:43.000Z",
+    "summary": "This week on \"The Readout LOUD\" podcast: a new Alzheimer's drug controversy and prediction markets for clinical trials and FDA drug reviews. Listen now."
+  },
+  {
     "title": "STAT+: GOP blocks effort to end Medicare test of AI prior authorization",
     "link": "https://www.statnews.com/2026/07/16/medicare-ai-prior-authorization-pilot-wiser-senate-vote/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,14 +160,6 @@
     "summary": "“Some of the most powerful medicines we will ever find are already here, carried in the fangs, stingers, and saliva of creatures we’ve been taught to fear,” writes Steve Midway."
   },
   {
-    "title": "Brain-shuttle biologics chart new paths across the blood–brain barrier",
-    "link": "https://www.nature.com/articles/d41573-026-00121-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-16T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Graham’s death from aortic dissection raises questions about preventing the rare disorder",
     "link": "https://www.statnews.com/2026/07/15/lindsey-graham-death-aortic-dissection-risk-prediction-warning-signs/?utm_campaign=rss",
     "source": "STAT News",
@@ -182,22 +190,6 @@
     "category": "industry",
     "date": "2026-07-15T18:17:51.000Z",
     "summary": "A new study claims to have uncovered how Epstein-Barr virus launches immune responses seen in people with multiple sclerosis."
-  },
-  {
-    "title": "STAT+: Improvements in Alzheimer’s testing could make diagnostics more accessible, informative",
-    "link": "https://www.statnews.com/2026/07/15/aaic-in-30-alzheimers-treaatments-dementia-conference-diagnostics-treatments/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T18:08:44.000Z",
-    "summary": "Alzheimer's research is moving in new directions, finding ways to make testing much more accessible, and offering more nuanced results."
-  },
-  {
-    "title": "Cassidy grills Trump nominee on  past vaccine comments in heated exchange",
-    "link": "https://www.statnews.com/2026/07/15/bill-cassidy-sean-kaufman-confirmation-clash-mrna-hepatitis-b-vaccines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-15T17:56:52.000Z",
-    "summary": "Sean Kaufman, Trump's pick for a key pandemic preparedness role, has questioned vaccines and criticized the CDC."
   },
   {
     "title": "Celcuity gains FDA approval for closely watched breast cancer drug",
@@ -256,27 +248,11 @@
     "summary": "Set to go public via a reverse merger, Avere has licensed from a prolific Chinese drugmaker rights to a potential threat to medicines like Skyrizi and Icotyde."
   },
   {
-    "title": "Design, simulate, refine: simulation-guided clinical trials for accelerated drug development",
-    "link": "https://www.nature.com/articles/s41573-026-01481-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-13T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Proposes Rule to Modernize Drug Manufacturing Registration",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-proposes-rule-modernize-drug-manufacturing-registration",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-07-10T13:07:06.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a proposed rule that, if finalized, would create a streamlined registration pathway for distributed manufacturing establishments that operate as a…"
-  },
-  {
-    "title": "FDA new drug approvals in Q2 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00120-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-10T00:00:00.000Z",
-    "summary": ""
   }
 ]
