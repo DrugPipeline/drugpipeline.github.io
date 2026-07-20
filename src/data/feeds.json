@@ -1,5 +1,37 @@
 [
   {
+    "title": "Opinion: It’s time to treat pandemics as threats to national security",
+    "link": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-20T08:30:00.000Z",
+    "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone."
+  },
+  {
+    "title": "STAT+: State audit of Medicaid records points to methods used by PBMs to obscure drug costs",
+    "link": "https://www.statnews.com/pharmalot/2026/07/20/iowa-medicaid-pbm-audit-circumvention-spread-pricing-ban/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-20T08:30:00.000Z",
+    "summary": "An audit of state Medicaid records revealed how PBMs are using complicated tactics for handling prescription drug claims that ultimately overcharge taxpayers."
+  },
+  {
+    "title": "STAT+: Telemedicine company touted by Novo Nordisk stressed profits over patient safety, ex-workers say",
+    "link": "https://www.statnews.com/2026/07/20/lifemd-weight-loss-drugs-novo-nordisk-telemedicine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-20T08:30:00.000Z",
+    "summary": "LifeMD, a popular telehealth company, has been accused by former employees of pressing clinicians to mete out prescriptions more rapidly without sufficient screening and follow-up."
+  },
+  {
+    "title": "Opinion: My husband’s suicide shows there’s something very wrong with the U.S. insurance industry",
+    "link": "https://www.statnews.com/2026/07/20/psychiatric-insurance-coverage-suicide-denial-personal-essay/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-20T08:30:00.000Z",
+    "summary": "“My love for Randy and my professional experience were not enough to save him,” a physician writes about her husband’s suicide."
+  },
+  {
     "title": "Opinion: Beware the unintended consequences of testosterone screening for military servicemembers",
     "link": "https://www.statnews.com/2026/07/18/military-testosterone-screening-supplements/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,30 +200,6 @@
     "summary": "The Trump administration is testing the use of AI in Medicare to approve some medical services."
   },
   {
-    "title": "STAT+: Despite earnings celebration, UnitedHealth signals more financial pain for employers",
-    "link": "https://www.statnews.com/2026/07/16/unitedhealth-employer-insurance-costs-medical-spending/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-16T17:34:01.000Z",
-    "summary": "Insurance giant UnitedHealth signals the cost of providing workers with health insurance will climb even higher."
-  },
-  {
-    "title": "Pete Hegseth’s announcement of annual testosterone screenings for service members divides medical experts",
-    "link": "https://www.statnews.com/2026/07/16/hegseth-testosterone-testing-proposal-reactions-range-promising-crazy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-16T17:20:31.000Z",
-    "summary": "Medical experts are divided on Defense Secretary Pete Hegseth’s announcement that U.S. service members will undergo annual testosterone screenings."
-  },
-  {
-    "title": "WHO: Uganda is silent on updates following disclosure of Marburg outbreak",
-    "link": "https://www.statnews.com/2026/07/16/world-health-organization-wants-marburg-virus-update-from-uganda/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-16T16:22:07.000Z",
-    "summary": "The government of Uganda has gone quiet on an outbreak of the deadly Marburg virus that it reported late last month, the WHO acknowledged."
-  },
-  {
     "title": "Lilly to buy AtaiBeckley for $2.8B, further validating psychedelics",
     "link": "https://www.biopharmadive.com/news/lilly-ataibeckley-psychedelics-acquisition-deal-mebufotenin-depression/825425/",
     "source": "BioPharma Dive",
@@ -208,28 +216,12 @@
     "summary": "The Phase 2 data exceeded expectations, lifting company shares as high as nearly $130 apiece and building the case for what may be the first pill specifically approved for female pattern hair loss."
   },
   {
-    "title": "STAT+: Brain implant restores the sensation of touch in a person with quadriplegia",
-    "link": "https://www.statnews.com/2026/07/16/brain-computer-interface-implant-restores-sensation-double-neural-bypass/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-16T15:00:00.000Z",
-    "summary": "A brain-computer interface helped restore movement and sensation in a 48-year old man with quadriplegia, researchers say."
-  },
-  {
     "title": "Merck wins first approval of a PCSK9 cholesterol pill",
     "link": "https://www.biopharmadive.com/news/merck-lipfrendra-enlicitide-fda-approve-voucher-pcsk9/825377/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-16T13:22:00.000Z",
     "summary": "The speedy clearance of Lipfendra is an important milestone for Merck and the result of a controversial voucher program put in place by former FDA commissioner Marty Makary."
-  },
-  {
-    "title": "Brain-shuttle biologics chart new paths across the blood–brain barrier",
-    "link": "https://www.nature.com/articles/d41573-026-00121-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-16T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Issues Emergency Use Authorization for Drug for Short-Term Prevention of New World Screwworm in Horses",
