@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Rare disease drugmakers try to avoid Trump price cuts",
+    "link": "https://www.statnews.com/2026/07/21/rare-disease-drugmakers-avoid-trump-price-cuts-pbm-state-laws-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-21T18:17:34.000Z",
+    "summary": "Plus, GOP voters want a crackdown on health care fraud, and how PBMs are skirting state laws."
+  },
+  {
+    "title": "Agios scraps sickle cell drug",
+    "link": "https://www.biopharmadive.com/news/agios-sickle-cell-drug-development-end-tebapivat/825756/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-21T16:07:00.000Z",
+    "summary": "The study failure costs Agios a chance to one-up Novo Nordisk and represents yet another setback in a disease that’s frustrated drugmakers of late."
+  },
+  {
+    "title": "Novo sues Lilly, alleging ‘misleading’ advertising of obesity drugs",
+    "link": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-obesity-drug-glp1-marketing/825772/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-21T15:45:00.000Z",
+    "summary": "The lawsuit follows a cease-and-desist request and argues Lilly is using “deceptive” ads to claim its GLP-1 products are broadly superior to Novo’s medicines. Lilly countered that its campaign is…"
+  },
+  {
+    "title": "Opinion: Pete Hegseth, ‘The Odyssey,’ and the testosterone myth",
+    "link": "https://www.statnews.com/2026/07/21/connection-between-odyssey-military-tesosterone-screening/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-21T15:15:44.000Z",
+    "summary": "The poet didn’t say “sing to me, Muse, of a man with optimized endocrine panels,\" writes urologist Elizabeth Dray."
+  },
+  {
+    "title": "Novartis climbs on upbeat drug sales as key readouts loom",
+    "link": "https://www.biopharmadive.com/news/novartis-earnings-2q-2026-drug-sales/825746/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-21T14:53:00.000Z",
+    "summary": "A return to quarterly sales growth boosted shares higher on Tuesday, though a handful of coming study results will have a bigger impact on the company’s long-term outlook."
+  },
+  {
+    "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
+    "link": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-21T14:24:32.000Z",
+    "summary": "The administration is shifting some funding to states, but community groups are set to lose out."
+  },
+  {
     "title": "Is there an exodus underway at Epic?",
     "link": "https://www.statnews.com/2026/07/21/is-there-an-exodus-underway-at-epic-health-tech/?utm_campaign=rss",
     "source": "STAT News",
@@ -96,8 +144,8 @@
     "summary": "The FDA said Monday it is still focused on lettuce from Taylor Farms as the source of a multistate outbreak of a diarrhea-causing parasite, despite a faulty test result."
   },
   {
-    "title": "Tempus to buy cancer test-maker Personalis for $1.5B",
-    "link": "https://www.biopharmadive.com/news/tempus-to-buy-cancer-test-maker-personalis-for-15b/825698/",
+    "title": "Tempus to acquire cancer test maker Personalis for $1.5B",
+    "link": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-20T18:38:34.000Z",
@@ -168,30 +216,6 @@
     "summary": "Bristol Myers Squibb is the third drugmaker in nine months to announce it is building the largest AI supercomputer in the life sciences industry."
   },
   {
-    "title": "Opinion: It’s time to treat pandemics as threats to national security",
-    "link": "https://www.statnews.com/2026/07/20/pandemics-national-security-threats/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-20T08:30:00.000Z",
-    "summary": "“Pandemics should be viewed and combated as threats to national security,” write David Blumenthal and James A. Morone."
-  },
-  {
-    "title": "STAT+: State audit of Medicaid records points to methods used by PBMs to obscure drug costs",
-    "link": "https://www.statnews.com/pharmalot/2026/07/20/iowa-medicaid-pbm-audit-circumvention-spread-pricing-ban/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-20T08:30:00.000Z",
-    "summary": "An audit of state Medicaid records revealed how PBMs are using complicated tactics for handling prescription drug claims that ultimately overcharge taxpayers."
-  },
-  {
-    "title": "STAT+: Telemedicine company touted by Novo Nordisk stressed profits over patient safety, ex-workers say",
-    "link": "https://www.statnews.com/2026/07/20/lifemd-weight-loss-drugs-novo-nordisk-telemedicine/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-20T08:30:00.000Z",
-    "summary": "LifeMD, a popular telehealth company, has been accused by former employees of pressing clinicians to mete out prescriptions more rapidly without sufficient screening and follow-up."
-  },
-  {
     "title": "The changing face of UK academic drug screening in the past decade",
     "link": "https://www.nature.com/articles/s41573-026-01482-8",
     "source": "Nature Reviews Drug Discovery",
@@ -230,30 +254,6 @@
     "category": "industry",
     "date": "2026-07-17T13:29:00.000Z",
     "summary": "Despite an FDA crackdown, numerous pharma lawsuits and possible safety risks, nearly 1 in 5 patients are still taking cheaper weight-loss alternatives."
-  },
-  {
-    "title": "GSK shelves cough drug acquired in $2B deal",
-    "link": "https://www.biopharmadive.com/news/gsk-camlipixant-cough-drug-shelved/825530/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-17T13:21:40.000Z",
-    "summary": "Mixed Phase 3 data for camlipixant prompted the British pharma to cease development, making the drug the third from its class to fail."
-  },
-  {
-    "title": "How well are AI-discovered drugs faring in the clinic?",
-    "link": "https://www.biopharmadive.com/news/ai-drug-discovery-insilico-recursion-verge/825367/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-17T13:00:00.000Z",
-    "summary": "Some of the industry’s most closely-watched AI drugs could provide insight into the success of technology-assisted development."
-  },
-  {
-    "title": "Lilly to buy AtaiBeckley for $2.8B, further validating psychedelics",
-    "link": "https://www.biopharmadive.com/news/lilly-ataibeckley-psychedelics-acquisition-deal-mebufotenin-depression/825425/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-16T16:19:00.000Z",
-    "summary": "The latest in a prolific streak of buyouts by Lilly is the strongest sign yet that large pharmaceutical companies may finally be embracing a long-dismissed field of research."
   },
   {
     "title": "Brain-shuttle biologics chart new paths across the blood–brain barrier",
