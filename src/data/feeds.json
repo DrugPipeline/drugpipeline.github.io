@@ -1,5 +1,61 @@
 [
   {
+    "title": "FDA Announces First Participant Selected for TEMPO for Digital Health Devices Pilot",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-announces-first-participant-selected-tempo-digital-health-devices-pilot",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-07-22T17:57:57.000Z",
+    "summary": "The U.S. Food and Drug Administration today announced the first manufacturer selected for the Technology-Enabled Meaningful Patient Outcomes (TEMPO) for Digital Health Devices Pilot."
+  },
+  {
+    "title": "Opinion: What Argentina’s World Cup loss should teach American hospitals",
+    "link": "https://www.statnews.com/2026/07/22/world-cup-argentina-loss-hospitals-lessons/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-22T16:25:44.000Z",
+    "summary": "“Hospitals often make Argentina’s mistake: We confuse continuity with progress,” writes physician, hospital administrator, and bioethicist Basel Tarab."
+  },
+  {
+    "title": "Arrowhead hits ‘best-case scenario’ with latest results for fat-lowering drug",
+    "link": "https://www.biopharmadive.com/news/arrowhead-plozasiran-results-triglyceride-severe-data-trials/825909/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-22T16:01:00.000Z",
+    "summary": "To analysts, the drug’s apparent safety and effects on both triglyceride levels and pancreatitis cases should make it competitive with a rival Ionis therapy."
+  },
+  {
+    "title": "Trump threatens tariffs on imported generic drugs",
+    "link": "https://www.biopharmadive.com/news/trump-tariffs-generic-drugs-pharmaceuticals-impact/825879/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-22T14:59:00.000Z",
+    "summary": "While the possibility of levies on branded pharmaceuticals have had a limited impact on drugmaker revenues, tariffs of up to 200% on copycat medicines could — depending on the specifics — prove more…"
+  },
+  {
+    "title": "Congo’s Ebola outbreak has killed over 1,000 people",
+    "link": "https://www.statnews.com/2026/07/22/congo-ebola-outbreak-1000-deaths/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-22T14:52:30.000Z",
+    "summary": "At least 999 people have died from the Ebola outbreak in Congo, a grim toll in what’s already been declared the fastest Ebola outbreak in history."
+  },
+  {
+    "title": "STAT+: Pharma tries to tamp down broad China restrictions",
+    "link": "https://www.statnews.com/2026/07/22/biotech-news-pharma-tries-to-tamp-down-broad-china-restrictions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-22T14:18:47.000Z",
+    "summary": "AI-focused VC firm raises $800M, Merck's new cholesterol pill, and more biotech news from The Readout"
+  },
+  {
+    "title": "Summit counters PD-1/VEGF skeptics; Celldex drug fails skin disease study",
+    "link": "https://www.biopharmadive.com/news/summit-ivonescimab-celldex-gilead-merck-hiv-kaveri-jupiter/825817/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-22T13:33:00.000Z",
+    "summary": "A new analysis could address some doubts investors have had about ivonescimab, one analyst said. Elsewhere, Gilead and Merck debuted data for a once-weekly HIV tablet and a new pyschedelics…"
+  },
+  {
     "title": "STAT+: Pharmalittle: We’re reading about Trump’s plan for tariffs on generics, a Merck and Gilead HIV pill, and more",
     "link": "https://www.statnews.com/pharmalot/2026/07/22/trump-plans-tariffs-on-generics-merck-gilead-hiv-pill/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,30 +240,6 @@
     "summary": "Ambient scribe developer Nabla said Brian Manning will be the Paris-based company's new CEO as it looks to grow in a highly competitive market."
   },
   {
-    "title": "STAT+: Novo Nordisk sues Eli Lilly over GLP-1 drug ads it calls ‘deceptive’",
-    "link": "https://www.statnews.com/pharmalot/2026/07/21/novo-nordisk-sues-eli-lilly-glp1-drug-ads/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T11:35:00.000Z",
-    "summary": "Novo Nordisk sued Eli Lilly for allegedly running a “deceptive” ad campaign that uses “outdated clinical trials” to make its obesity and diabetes drugs appear more effective."
-  },
-  {
-    "title": "A renewed push from the right against abortion pills",
-    "link": "https://www.statnews.com/2026/07/21/biotech-news-a-renewed-push-from-the-right-against-abortion-pills/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T11:34:38.000Z",
-    "summary": "The latest on cyclospora, THC sodas at the grocery store, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Makers of rare disease drugs seek exemption from Trump’s price-cut pilots",
-    "link": "https://www.statnews.com/2026/07/21/rare-disease-coalition-orphan-drug-exemption-medicare-pilot-price-programs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T08:30:00.000Z",
-    "summary": "A coalition of biotech firms is lobbying to exclude orphan drugs from new federal pilot programs aimed at lowering Medicare drug costs."
-  },
-  {
     "title": "Tempus to acquire cancer test maker Personalis for $1.5B",
     "link": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
     "source": "BioPharma Dive",
@@ -224,36 +256,12 @@
     "summary": "The Westlake-founded company specializes in non-opioid drugs that target sodium ion channels, and is now adding to what’s already been a busy month for the biotech IPO queue."
   },
   {
-    "title": "Bristol Myers to build ‘powerful’ AI factory; Samsung Biologics bids for peptide maker",
-    "link": "https://www.biopharmadive.com/news/bristol-myers-nvidia-samsung-polypeptide-apitegromab-fabhalta-dimerix/825619/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-20T12:54:00.000Z",
-    "summary": "Bristol Myers is the third pharmaceutical company to recently seek Nvidia’s help building a large AI data center. Elsewhere, a Novartis kidney drug gained a leg up on competitors."
-  },
-  {
-    "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
-    "link": "https://www.biopharmadive.com/spons/podcast-from-protocol-to-patient-inside-clinical-supply-with-almac-clini/815692/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-20T12:00:00.000Z",
-    "summary": "This podcast explores how clinical trial supplies move from early planning to global delivery, ensuring investigational medicines reach patients safely and on time."
-  },
-  {
     "title": "The changing face of UK academic drug screening in the past decade",
     "link": "https://www.nature.com/articles/s41573-026-01482-8",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-07-20T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Jasper gets a lifeline in merger with immune drugmaker Kira",
-    "link": "https://www.biopharmadive.com/news/jasper-kira-merger-mirador-immune-drugs/825533/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-17T15:54:50.000Z",
-    "summary": "The acquisition, which involves a concurrent licensing deal with startup Mirador, gives Jasper a chance to rebound from setbacks that have wiped out most of its market value."
   },
   {
     "title": "FDA Approves First Oral PCSK9 Inhibitor to Lower LDL Cholesterol in Adults with High Cholesterol",
