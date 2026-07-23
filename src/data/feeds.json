@@ -1,5 +1,93 @@
 [
   {
+    "title": "STAT+: Trump administration quietly picks Timothy Westlake to lead mental health agency",
+    "link": "https://www.statnews.com/2026/07/23/trump-nominates-timothy-westlake-samhsa/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T13:55:51.000Z",
+    "summary": "Timothy Westlake, an emergency doctor nominated to head SAMHSA, has been active in addiction policy in Wisconsin."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Lilly obesity drug data, a push for FDA to ban DTC ads, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/23/lilly-obesity-drug-data-fda-asked-to-ban-dtc-ads/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T13:21:05.000Z",
+    "summary": "A study of Lilly's retatrutide weight loss drug in people with heart disease did not answer a crucial question — whether it reduces cardiovascular risk"
+  },
+  {
+    "title": "STAT+: HHS to convene experts on standards for clinical AI",
+    "link": "https://www.statnews.com/2026/07/23/hhs-convenes-experts-on-clinical-ai-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T13:06:12.000Z",
+    "summary": "In this edition of STAT Health Tech: HHS is inviting experts to shape policy on clinical AI, Whoop's new CMO, news about brain implants, and more."
+  },
+  {
+    "title": "STAT+: FDA is urged by advocacy group to ban DTC prescription drug ads",
+    "link": "https://www.statnews.com/pharmalot/2026/07/23/fda-urged-by-advocacy-group-to-ban-dtc-prescription-drug-ads/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T13:00:00.000Z",
+    "summary": "A leading advocacy group petitioned the FDA to ban direct-to-consumer advertising of prescription medicines."
+  },
+  {
+    "title": "Expect a clash at today’s FDA peptide panel",
+    "link": "https://www.statnews.com/2026/07/23/health-news-expect-a-clash-at-today-fda-peptide-panel/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T11:34:25.000Z",
+    "summary": "The service members who refused the Covid vaccine, the fastest-growing Ebola outbreak in history, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: New data on Eli Lilly’s ‘triple-G’ drug leave open questions on heart benefit",
+    "link": "https://www.statnews.com/2026/07/23/new-data-on-eli-lilly-triple-g-drug-retatrutide-leave-open-questions-on-heart-benefit/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T10:45:00.000Z",
+    "summary": "On analyses that looked at major cardiovascular events, those taking retatrutide did not have a significant lower risk of death, heart attack, or stroke."
+  },
+  {
+    "title": "Filing of bipartisan Senate bill boosts momentum for office of men’s health",
+    "link": "https://www.statnews.com/2026/07/23/federal-office-mens-health-bipartisan-bill-filed-momentum-grows/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T10:00:00.000Z",
+    "summary": "Mirroring the bipartisan bill introduced in the House, the measure would require a study from the GAO on the state of men’s health in the U.S. to be presented within…"
+  },
+  {
+    "title": "STAT+: FDA staff and peptide enthusiasts set to clash at advisory panel",
+    "link": "https://www.statnews.com/2026/07/23/fda-advisory-panel-peptide-safety-compounding-pharmacies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T08:30:00.000Z",
+    "summary": "FDA advisers are set to consider whether allowing compounding pharmacies to offer largely unproven peptides is a safer bet than the gray-market versions now in use."
+  },
+  {
+    "title": "Opinion: Good riddance to bundled ‘global’ maternal care billing",
+    "link": "https://www.statnews.com/2026/07/23/global-maternity-care-billing-acog-explains/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T08:30:00.000Z",
+    "summary": "New maternal billing codes should create a transparent system where both patients and clinicians can thrive, ACOG writes."
+  },
+  {
+    "title": "Opinion: New billing codes likely to raise maternity care costs",
+    "link": "https://www.statnews.com/2026/07/23/global-billing-maternity-care-mistake/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T08:30:00.000Z",
+    "summary": "“This change is likely to lead to only modest increases in total medical expenses. However, it coincides with many other factors raising health insurance premiums,” writes Jeff Levin-Scherz."
+  },
+  {
+    "title": "STAT+: Trump promised redemption for troops who refused Covid shots. A year later, many are still waiting",
+    "link": "https://www.statnews.com/2026/07/23/veterans-face-long-covid-vaccine-reinstatement-process/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-23T08:30:00.000Z",
+    "summary": "Veterans who want to rejoin the military are often bogged down in bureaucratic red tape."
+  },
+  {
     "title": "STAT+: What is a ‘world model’? Nabla’s Alex LeBrun explains",
     "link": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,54 +224,6 @@
     "summary": "At least 78 AHRQ grants worth $200 million have been affected by \"non-award\" notices; it's estimated those grants had $109.2 million in funding remaining."
   },
   {
-    "title": "Opinion: STAT+: I’m a cardiologist. I’m not sure the new cholesterol drug enlicitide is a game-changer",
-    "link": "https://www.statnews.com/2026/07/22/lipfendra-enlicitide-merck-cholesterol-barriers/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-22T08:30:00.000Z",
-    "summary": "“In truth, I don’t anticipate prescribing patterns changing immediately,” cardiologist Vishal Khetpal writes of the new cholesterol drug Lipfendra."
-  },
-  {
-    "title": "Opinion: STAT+: Hospitals’ AI may be drifting. Who’s watching?",
-    "link": "https://www.statnews.com/2026/07/22/hospital-ai-systems-ceo-leadership-accountability-governance/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-22T08:30:00.000Z",
-    "summary": "Senior leaders must treat AI governance as their own daily job, not something the technology committee handles quarterly, write Peter Pronovost, Justin Norden, and Kedar Mate."
-  },
-  {
-    "title": "As Maui recovers from devastating fires, a study offers vision for new rural health model",
-    "link": "https://www.statnews.com/2026/07/22/maui-wildfire-exposure-study-health-impacts-lahaina-hawaii/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-22T08:30:00.000Z",
-    "summary": "A study of the long-term health impact of the Lahaina wildfires is inspiring a new model for disaster recovery and support."
-  },
-  {
-    "title": "STAT+: More workers hate their jobs, but keep them for the health insurance",
-    "link": "https://www.statnews.com/2026/07/22/gallup-poll-24-percent-workers-job-lock-keep-job-health-insurance/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-22T04:01:00.000Z",
-    "summary": "A new survey reveals 24% of U.S. workers stay in unwanted jobs to keep health insurance. Experts call it 'job lock.'"
-  },
-  {
-    "title": "Trump administration says it’s deferring $1B in Medicaid payments to California and Minnesota",
-    "link": "https://www.statnews.com/2026/07/21/medicaid-payments-1-billion-deferred-california-minnesota/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T20:10:43.000Z",
-    "summary": "The Trump administration said it was deferring more than $1 billion in Medicaid payments to Minnesota and California because of “suspected fraud and noncompliance.”"
-  },
-  {
-    "title": "STAT+: Rare disease drugmakers try to avoid Trump price cuts",
-    "link": "https://www.statnews.com/2026/07/21/rare-disease-drugmakers-avoid-trump-price-cuts-pbm-state-laws-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T18:17:34.000Z",
-    "summary": "Plus, GOP voters want a crackdown on health care fraud, and how PBMs are skirting state laws."
-  },
-  {
     "title": "Agios scraps sickle cell drug",
     "link": "https://www.biopharmadive.com/news/agios-sickle-cell-drug-development-end-tebapivat/825756/",
     "source": "BioPharma Dive",
@@ -200,14 +240,6 @@
     "summary": "The lawsuit follows a cease-and-desist request and argues Lilly is using “deceptive” ads to claim its GLP-1 products are broadly superior to Novo’s medicines. Lilly countered that its campaign is…"
   },
   {
-    "title": "Opinion: Pete Hegseth, ‘The Odyssey,’ and the testosterone myth",
-    "link": "https://www.statnews.com/2026/07/21/connection-between-odyssey-military-tesosterone-screening/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T15:15:44.000Z",
-    "summary": "The poet didn’t say “sing to me, Muse, of a man with optimized endocrine panels,\" writes urologist Elizabeth Dray."
-  },
-  {
     "title": "Dimension restocks with $800M to capitalize on AI’s ‘rapid ascent’",
     "link": "https://www.biopharmadive.com/news/dimension-biotech-startups-third-fund-tech-ai/825748/",
     "source": "BioPharma Dive",
@@ -222,38 +254,6 @@
     "category": "industry",
     "date": "2026-07-21T14:53:00.000Z",
     "summary": "A return to quarterly sales growth boosted shares higher on Tuesday, though a handful of coming study results will have a bigger impact on the company’s long-term outlook."
-  },
-  {
-    "title": "STAT+: Advocates say federal funding is being cut from groups fighting HIV",
-    "link": "https://www.statnews.com/2026/07/21/hiv-aids-prevention-advocates-fear-deep-cuts-cdc-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T14:24:32.000Z",
-    "summary": "The administration is shifting some funding to states, but community groups are set to lose out."
-  },
-  {
-    "title": "Is there an exodus underway at Epic?",
-    "link": "https://www.statnews.com/2026/07/21/is-there-an-exodus-underway-at-epic-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T13:43:43.000Z",
-    "summary": "In this edition of STAT Health Tech: executive departures at Epic Systems, new CEO takes over at Nabla, and more health tech news."
-  },
-  {
-    "title": "STAT+: Broad Institute, partners unveil new initiative to develop gene therapies for rare diseases",
-    "link": "https://www.statnews.com/2026/07/21/center-for-therapeutic-genetics-rare-disease-gene-therapies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T13:37:33.000Z",
-    "summary": "The Broad Institute, Boston Children’s Hospital, and Maine’s Jackson Laboratory announced a collaboration to develop rare disease gene therapies."
-  },
-  {
-    "title": "STAT+: Anthropic deepens work with rare disease drugs",
-    "link": "https://www.statnews.com/2026/07/21/biotech-news-anthropic-deepens-work-with-rare-disease-drugs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T13:36:20.000Z",
-    "summary": "Novo Nordisk sues Eli Lilly over GLP-1s, Medicare pricing plans, and more biotech news from The Readout"
   },
   {
     "title": "The changing face of UK academic drug screening in the past decade",
