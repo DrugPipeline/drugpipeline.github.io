@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: What is a ‘world model’? Nabla’s Alex LeBrun explains",
+    "link": "https://www.statnews.com/2026/07/22/what-is-a-world-model-nabla-alex-lebrun-explains-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-22T21:22:07.000Z",
+    "summary": "In this edition of AI Prognosis, Brittany Trang talks to Alex LeBrun, AI scribe company Nabla's executive chairman, about an alternative to LLMs"
+  },
+  {
+    "title": "New study supports testing of Merck’s Ebola vaccine in DRC outbreak",
+    "link": "https://www.statnews.com/2026/07/22/new-study-supports-testing-of-mercks-ebola-vaccine-in-drc-outbreak/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-22T21:00:00.000Z",
+    "summary": "New data supports the idea that Merck’s Ebola vaccine Ervebo, licensed to target the Zaire species of ebolaviruses, could also offer some protection against another."
+  },
+  {
+    "title": "Vertex was sole bidder in high-premium Crinetics acquisition",
+    "link": "https://www.biopharmadive.com/news/vertex-crinetics-acquisition-deal-bidder-process/825952/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-22T20:48:00.000Z",
+    "summary": "Analysts expect new details on the lead-up to the deal “are likely to reignite” investor scrutiny that Vertex overpaid in what’s poised to be its largest-ever transaction."
+  },
+  {
+    "title": "GSK lung cancer drug gets speedy approval following $10.6B deal",
+    "link": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-22T20:30:00.000Z",
+    "summary": "The clearance is GSK’s first for a lung cancer medicine and the latest step forward in a yearslong push by the British drugmaker into oncology."
+  },
+  {
     "title": "FDA Announces First Participant Selected for TEMPO for Digital Health Devices Pilot",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-announces-first-participant-selected-tempo-digital-health-devices-pilot",
     "source": "FDA Press Releases",
@@ -224,38 +256,6 @@
     "summary": "Novo Nordisk sues Eli Lilly over GLP-1s, Medicare pricing plans, and more biotech news from The Readout"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about Novo suing Lilly over ‘deceptive’ ads, a fugitive’s secret life in biotech, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/21/novo-sues-lilly-alleging-deceptive-ads-fugitive-secret-life-in-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T13:08:39.000Z",
-    "summary": "Novo Nordisk sued Eli Lilly for allegedly running “deceptive” ads to make its obesity and diabetes drugs appear more effective"
-  },
-  {
-    "title": "STAT+: Nabla’s new CEO on plan to gain market share in a competitive AI scribe environment",
-    "link": "https://www.statnews.com/2026/07/21/ai-scribe-nabla-new-ceo-plan-gain-marketshare/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-21T12:00:00.000Z",
-    "summary": "Ambient scribe developer Nabla said Brian Manning will be the Paris-based company's new CEO as it looks to grow in a highly competitive market."
-  },
-  {
-    "title": "Tempus to acquire cancer test maker Personalis for $1.5B",
-    "link": "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-20T18:38:34.000Z",
-    "summary": "Tempus AI’s planned acquisition follows recent interest in blood-based cancer tests across the medtech industry."
-  },
-  {
-    "title": "Pain drugmaker Latigo outlines plans to go public",
-    "link": "https://www.biopharmadive.com/news/latigo-ipo-pain-drug-ion-channel-nasdaq-ltgo/825660/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-20T15:57:00.000Z",
-    "summary": "The Westlake-founded company specializes in non-opioid drugs that target sodium ion channels, and is now adding to what’s already been a busy month for the biotech IPO queue."
-  },
-  {
     "title": "The changing face of UK academic drug screening in the past decade",
     "link": "https://www.nature.com/articles/s41573-026-01482-8",
     "source": "Nature Reviews Drug Discovery",
@@ -270,21 +270,5 @@
     "category": "regulatory",
     "date": "2026-07-17T15:01:17.000Z",
     "summary": "The U.S. Food and Drug Administration approved Lipfendra (enlicitide), the first oral inhibitor of proprotein convertase subtilisin/kexin type 9 (PCSK9), as an adjunct to diet and exercise to reduce…"
-  },
-  {
-    "title": "Brain-shuttle biologics chart new paths across the blood–brain barrier",
-    "link": "https://www.nature.com/articles/d41573-026-00121-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-16T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA Issues Emergency Use Authorization for Drug for Short-Term Prevention of New World Screwworm in Horses",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-short-term-prevention-new-world-screwworm-horses",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-07-15T21:04:45.000Z",
-    "summary": "The FDA today issued an Emergency Use Authorization (EUA) for Ivermectin Liquid for Horses (ivermectin oral solution) for the short-term prevention of New World screwworm (NWS) infestations (myiasis)…"
   }
 ]
