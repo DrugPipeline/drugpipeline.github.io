@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Pharma’s drug spending deflection",
+    "link": "https://www.statnews.com/2026/07/27/prescription-drug-spending-no-surprises-act-arbitration-costs-health-care-inc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-27T18:13:14.000Z",
+    "summary": "Job lock, surging prescription drug costs, No Surprises Act update, and more from STAT's Health Care Inc."
+  },
+  {
+    "title": "MapLight dives despite positive data for schizophrenia drug",
+    "link": "https://www.biopharmadive.com/news/maplight-schizophrenia-results-stock-biotech-trial-data/826216/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-27T16:12:00.000Z",
+    "summary": "Shares fell more than 66% Monday morning, which analysts suspect is due to investors seeing the data as not competitive with Bristol Myers' Cobenfy."
+  },
+  {
+    "title": "Argenx to acquire Forte in $2.2B deal for ‘differentiated’ immune drug",
+    "link": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-27T15:46:00.000Z",
+    "summary": "The deal gives Argenx a drug prospect aimed at the protein target CD122, an approach that’s recently gained traction among multiple developers."
+  },
+  {
+    "title": "FDA scientists question Capricor data; Legend CEO steps down",
+    "link": "https://www.biopharmadive.com/news/legend-ceo-astrazeneca-adc-outlook-lytenava-simtriyo/826211/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-27T15:00:00.000Z",
+    "summary": "Capricor shares lost much of their value ahead of a high-stakes advisory committee meeting. Elsewhere, Ying Huang’s resignation extended a stock slide for Legend and AstraZeneca disclosed more…"
+  },
+  {
+    "title": "Sarepta, in search of a turnaround, taps ex-AbbVie exec Severino as CEO",
+    "link": "https://www.biopharmadive.com/news/sarepta-mike-severino-ceo-change-doug-ingram/826219/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-27T14:16:00.000Z",
+    "summary": "Most recently the leader of buzzy startup Tessera Therapeutics, Severino will look to improve the fortunes of a company facing emerging competition and declining sales for its prized gene therapy…"
+  },
+  {
     "title": "STAT+: Sarepta names Michael Severino, former Tessera CEO, as new chief executive",
     "link": "https://www.statnews.com/2026/07/27/sarepta-therapeutics-michael-severino-doug-ingram-duchenne-muscular-dystrophy/?utm_campaign=rss",
     "source": "STAT News",
@@ -38,6 +78,14 @@
     "category": "industry",
     "date": "2026-07-27T12:00:00.000Z",
     "summary": "Oak Hill Bio, a new company backed by RA Capital and other investors, will take on Ultragenyx and Ionis in developing an Angelman syndrome medicine."
+  },
+  {
+    "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
+    "link": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-27T12:00:00.000Z",
+    "summary": "This podcast explores how leading Alzheimer’s experts are working to bridge the gap between clinical trial design and frontline care."
   },
   {
     "title": "[Podcast] From Protocol to Patient: Inside Clinical Supply with Almac Clinical Services",
@@ -184,14 +232,6 @@
     "summary": "Unexpected alliances among Republicans and Democrats were on display over a bill meant to rein in ultra-processed foods."
   },
   {
-    "title": "Opinion: The U.S. pharmaceutical supply chain problem is not about China",
-    "link": "https://www.statnews.com/2026/07/24/pharmaceutical-supply-chain-resilience-china/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-24T08:30:00.000Z",
-    "summary": "The national security framing of the discussion around pharmaceutical supply chain vulnerabilities is a distraction, writes Pooja Yerramilli."
-  },
-  {
     "title": "Scribe secures $129M in a rare gene editing IPO",
     "link": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
     "source": "BioPharma Dive",
@@ -200,60 +240,12 @@
     "summary": "The startup is the first gene editing company to price an IPO in more than two years, though it banked far less than most other biotechs that have gone public in 2026."
   },
   {
-    "title": "FDA panel endorses broader use of certain peptides",
-    "link": "https://www.biopharmadive.com/news/fda-peptides-advisory-committee-vote-bpc-kpv-tb-mots/826062/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-24T00:50:00.000Z",
-    "summary": "In a victory for Robert F. Kennedy Jr.’s “MAHA” agenda, panelists narrowly recommended broader use of six of the seven peptides up for consideration despite a lack of substantive evidence supporting…"
-  },
-  {
-    "title": "Targeting T follicular helper cells for lifelong health",
-    "link": "https://www.nature.com/articles/s41573-026-01495-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-24T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Lilly, with new data, to seek FDA approval of obesity drug retatrutide",
-    "link": "https://www.biopharmadive.com/news/lilly-retatrutide-fda-application-obesity-drug-results/825987/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-23T15:41:35.000Z",
-    "summary": "The new findings position Lilly to file an application for the highly anticipated medicine, but also leave some questions about the additive benefits a “triple-G” drug has on heart health."
-  },
-  {
-    "title": "Vertex was sole bidder in high-premium Crinetics acquisition",
-    "link": "https://www.biopharmadive.com/news/vertex-crinetics-acquisition-deal-bidder-process/825952/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-22T20:48:00.000Z",
-    "summary": "Analysts expect new details on the lead-up to the deal “are likely to reignite” investor scrutiny that Vertex overpaid in what’s poised to be its largest-ever transaction."
-  },
-  {
-    "title": "GSK lung cancer drug gets speedy approval following $10.6B deal",
-    "link": "https://www.biopharmadive.com/news/gsk-nuvalent-jideytro-fda-approve-ros1-lung-cancer/825967/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-22T20:30:00.000Z",
-    "summary": "The clearance is GSK’s first for a lung cancer medicine and the latest step forward in a yearslong push by the British drugmaker into oncology."
-  },
-  {
     "title": "FDA Announces First Participant Selected for TEMPO for Digital Health Devices Pilot",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-announces-first-participant-selected-tempo-digital-health-devices-pilot",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-07-22T17:57:57.000Z",
     "summary": "The U.S. Food and Drug Administration today announced the first manufacturer selected for the Technology-Enabled Meaningful Patient Outcomes (TEMPO) for Digital Health Devices Pilot."
-  },
-  {
-    "title": "Arrowhead hits ‘best-case scenario’ with latest results for fat-lowering drug",
-    "link": "https://www.biopharmadive.com/news/arrowhead-plozasiran-results-triglyceride-severe-data-trials/825909/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-22T16:01:00.000Z",
-    "summary": "To analysts, the drug’s apparent safety and effects on both triglyceride levels and pancreatitis cases should make it competitive with a rival Ionis therapy."
   },
   {
     "title": "FDA Takes Further Steps to Remove Outdated Authorizations for Color Additives in Food",
