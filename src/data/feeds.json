@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: HIV resurgence is feared as global funding to combat the disease falls 18%",
+    "link": "https://www.statnews.com/pharmalot/2026/07/27/hiv-resurgence-is-feared-as-global-fund-to-combat-the-disease-falls-18-percent/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-27T20:45:59.000Z",
+    "summary": "The world risks a resurgence of the HIV epidemic after international financing to combat the disease suffered a “profound shock” last year, according to a new report from UNAIDS."
+  },
+  {
     "title": "STAT+: Pharma’s drug spending deflection",
     "link": "https://www.statnews.com/2026/07/27/prescription-drug-spending-no-surprises-act-arbitration-costs-health-care-inc/?utm_campaign=rss",
     "source": "STAT News",
@@ -224,20 +232,20 @@
     "summary": "The Trump administration released its blueprint for U.S. science, calling for shifting hundreds of billions of research dollars from universities to industry."
   },
   {
-    "title": "Senate advances MAHA-friendly bill for food warning labels and junk food ad bans",
-    "link": "https://www.statnews.com/2026/07/24/ultraprocessed-food-warning-label-bill-clears-senate-committee-bipartisan-vote/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-24T08:30:00.000Z",
-    "summary": "Unexpected alliances among Republicans and Democrats were on display over a bill meant to rein in ultra-processed foods."
-  },
-  {
     "title": "Scribe secures $129M in a rare gene editing IPO",
     "link": "https://www.biopharmadive.com/news/scribe-ipo-price-gene-editing-biotech-pcsk9-lpa/825933/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-24T01:18:00.000Z",
     "summary": "The startup is the first gene editing company to price an IPO in more than two years, though it banked far less than most other biotechs that have gone public in 2026."
+  },
+  {
+    "title": "Targeting T follicular helper cells for lifelong health",
+    "link": "https://www.nature.com/articles/s41573-026-01495-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-24T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Announces First Participant Selected for TEMPO for Digital Health Devices Pilot",
