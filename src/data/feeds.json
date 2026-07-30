@@ -1,5 +1,37 @@
 [
   {
+    "title": "NSF testing new Ph.D. model giving trainees academic and industry experience",
+    "link": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-29T21:36:13.000Z",
+    "summary": "Students working in fields eligible for NSF funding will be able to participate, including chemistry, engineering, and basic life science research that doesn’t deal directly with the treatment of…"
+  },
+  {
+    "title": "Capricor Duchenne cell therapy voted down by FDA panel",
+    "link": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-29T21:31:00.000Z",
+    "summary": "At a contentious meeting with possible implications for other rare disease drugmakers, outside experts ultimately determined that Capricor didn't prove deramiocel's benefits in Duchenne-related…"
+  },
+  {
+    "title": "MapLight CEO on what investors missed in the biotech’s schizophrenia data",
+    "link": "https://www.biopharmadive.com/news/maplight-ceo-kroeger-schizophrenia-drug-trial-data-investors/826530/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-29T21:22:00.000Z",
+    "summary": "Though positive, mid-stage study results erased about two-thirds of the biotech's market value this week. But Christopher Kroeger sees MapLight's drug as competitive based on the \"totality of data.\""
+  },
+  {
+    "title": "STAT+: Latigo reports mid-stage success for would-be rival to Vertex’s pain drug Journavx",
+    "link": "https://www.statnews.com/2026/07/29/latigo-phase-2-results-non-opioid-pain-reliever-ltg-001/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-29T21:00:00.000Z",
+    "summary": "Latigo Biotherapeutics published positive data for an acute-pain drug meant to rival a Vertex medicine already on the market"
+  },
+  {
     "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
     "link": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss",
     "source": "STAT News",
@@ -88,7 +120,7 @@
     "summary": "Fauci's testimony, visa time limits for research students, and more health news from Morning Rounds"
   },
   {
-    "title": "STAT+: FDA expert committee reviews Capricor Therapeutics’ Duchenne drug",
+    "title": "STAT+: FDA expert panel recommends against approval of Capricor’s Duchenne drug",
     "link": "https://www.statnews.com/2026/07/29/capricor-therapeutics-deramiocel-fda-review-meeting-live-blog/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -192,14 +224,6 @@
     "summary": "The FDA said a Capricor stem cell treatment for Duchenne muscular dystrophy did not meet a Phase 3 trial's objectives — contrary to company claims"
   },
   {
-    "title": "STAT+: Three questions with Whoop’s new CMO",
-    "link": "https://www.statnews.com/2026/07/28/three-questions-with-whoops-new-cmo-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-28T13:22:35.000Z",
-    "summary": "In this edition of STAT Health Tech: A chat with Whoop's new chief medical officer, an update on CMS health tech initiative, and more."
-  },
-  {
     "title": "The FDA was all in on AI. Will that change?",
     "link": "https://www.biopharmadive.com/news/AI-guidance-in-question-FDA/826217/",
     "source": "BioPharma Dive",
@@ -216,14 +240,6 @@
     "summary": "Claris Bio has appointed veteran CEO Stephen Brady to lead advanced development of what it hopes to be the first drug therapy for a blinding condition called limbal stem cell deficiency."
   },
   {
-    "title": "Anthony Fauci’s pandemic-era diary entries",
-    "link": "https://www.statnews.com/2026/07/28/health-news-anthony-fauci-pandemic-era-diary-entries-hearing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-28T11:57:15.000Z",
-    "summary": "New data on American substance use, concerns of a global HIV resurgence, and more health news from Morning Rounds"
-  },
-  {
     "title": "Prostaglandin E2 drives cancer-associated cachexia",
     "link": "https://www.nature.com/articles/d41573-026-00122-5",
     "source": "Nature Reviews Drug Discovery",
@@ -238,22 +254,6 @@
     "category": "industry",
     "date": "2026-07-27T16:12:00.000Z",
     "summary": "Shares fell more than 66% Monday morning, which analysts suspect is due to investors seeing the data as not competitive with Bristol Myers' Cobenfy."
-  },
-  {
-    "title": "Argenx to acquire Forte in $2.2B deal for ‘differentiated’ immune drug",
-    "link": "https://www.biopharmadive.com/news/argenx-acquire-forte-biosciences-immune-drug-CD122/826221/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-27T15:46:00.000Z",
-    "summary": "The deal gives Argenx a drug prospect aimed at the protein target CD122, an approach that’s recently gained traction among multiple developers."
-  },
-  {
-    "title": "FDA scientists question Capricor data; Legend CEO steps down",
-    "link": "https://www.biopharmadive.com/news/legend-ceo-astrazeneca-adc-outlook-lytenava-simtriyo/826211/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-27T15:00:00.000Z",
-    "summary": "Capricor shares lost much of their value ahead of a high-stakes advisory committee meeting. Elsewhere, Ying Huang’s resignation extended a stock slide for Legend and AstraZeneca disclosed more…"
   },
   {
     "title": "Targeting T follicular helper cells for lifelong health",
