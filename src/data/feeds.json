@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
+    "link": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-31T17:02:27.000Z",
+    "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals."
+  },
+  {
+    "title": "Novo setback casts doubt on a new way to treat heart disease",
+    "link": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-31T16:11:00.000Z",
+    "summary": "Ziltivekimab's failure in a key trial hurt spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation."
+  },
+  {
+    "title": "Sanofi to ‘rebuild trust’ with Regeneron; Apnimed adds to string of ‘upsized’ biotech IPOs",
+    "link": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-31T15:06:47.000Z",
+    "summary": "Sanofi wants to broaden the company’s productive partnership with Regeneron, its CEOs said. Elsewhere, Bristol Myers delayed two anticipated study readouts and a Shionogi-backed startup went public."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/07/31/up-and-down-the-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-31T14:47:59.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
     "title": "STAT+: Pharmalittle: We’re reading about a Novo setback, support for Replimune’s melanoma drug, and more",
     "link": "https://www.statnews.com/pharmalot/2026/07/31/novo-setback-fda-panel-endorses-replimune-melanoma-drug/?utm_campaign=rss",
     "source": "STAT News",
@@ -192,14 +224,6 @@
     "summary": ""
   },
   {
-    "title": "NSF testing new Ph.D. model giving trainees academic and industry experience",
-    "link": "https://www.statnews.com/2026/07/29/hybrid-academia-industry-phd-program-announced-uidp/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-29T21:36:13.000Z",
-    "summary": "Students working in fields eligible for NSF funding will be able to participate, including chemistry, engineering, and basic life science research that doesn’t deal directly with the treatment of…"
-  },
-  {
     "title": "Capricor Duchenne cell therapy voted down by FDA panel",
     "link": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
     "source": "BioPharma Dive",
@@ -214,14 +238,6 @@
     "category": "industry",
     "date": "2026-07-29T21:22:00.000Z",
     "summary": "Though positive, mid-stage study results erased about two-thirds of the biotech's market value this week. But Christopher Kroeger sees MapLight's drug as competitive based on the \"totality of data.\""
-  },
-  {
-    "title": "STAT+: Latigo reports mid-stage success for would-be rival to Vertex’s pain drug Journavx",
-    "link": "https://www.statnews.com/2026/07/29/latigo-phase-2-results-non-opioid-pain-reliever-ltg-001/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-29T21:00:00.000Z",
-    "summary": "Latigo Biotherapeutics published positive data for an acute-pain drug meant to rival a Vertex medicine already on the market"
   },
   {
     "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
@@ -246,22 +262,6 @@
     "category": "industry",
     "date": "2026-07-29T15:40:00.000Z",
     "summary": "The deal adds to a growing streak of partnerships involving new types of T cell engagers and gives Vertex another chance to broaden a business still reliant on cystic fibrosis medicines."
-  },
-  {
-    "title": "Earnings roundup: Biogen’s ‘resiliency,’ AstraZeneca’s growth pitch and GSK’s oncology push",
-    "link": "https://www.biopharmadive.com/news/biogen-astrazeneca-gsk-2q26-earnings-analysis/826386/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-29T15:13:00.000Z",
-    "summary": "Better-than-expected sales helped Biogen regain the support of investors, while AstraZeneca and GSK worked to convince Wall Street that they can hit ambitious revenue targets."
-  },
-  {
-    "title": "FDA reviewers criticize Replimune drug; ProMIS climbs on Alzheimer’s data",
-    "link": "https://www.biopharmadive.com/news/fda-reviewers-criticize-replimune-drug-promis-climbs-on-alzheimers-data/826349/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-29T15:00:00.000Z",
-    "summary": "Replimune shares plummeted 40% on concerns FDA scientists are still skeptical of its melanoma drug. Elsewhere, investors had a muted reaction to a first-of-its-kind study result."
   },
   {
     "title": "Prostaglandin E2 drives cancer-associated cachexia",
