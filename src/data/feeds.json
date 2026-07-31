@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about a Novo setback, support for Replimune’s melanoma drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/07/31/novo-setback-fda-panel-endorses-replimune-melanoma-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-31T13:28:17.000Z",
+    "summary": "An FDA advisory panel recommended use of an experimental Replimune treatment for advanced melanoma that the agency has rejected twice"
+  },
+  {
+    "title": "STAT+: Novo Nordisk inflammation-targeting drug misses mark in heart disease study",
+    "link": "https://www.statnews.com/2026/07/31/novo-nordisk-inflammation-heart-disease-ziltivekimab/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-31T12:32:46.000Z",
+    "summary": "A Novo Nordisk drug missed the mark in a heart disease study, raising questions about targeting inflammation to prevent cardiovascular complications."
+  },
+  {
+    "title": "Federal government could improve infectious disease monitoring, says federal government",
+    "link": "https://www.statnews.com/2026/07/31/health-news-federal-government-infectious-disease-monitoring-issues/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-07-31T12:28:22.000Z",
+    "summary": "The new CDC director nominee moves to the full Senate vote, Medicaid work requirements will not be delayed, and more health news"
+  },
+  {
     "title": "Opinion: We once praised the American Diabetes Association’s courage. How things have changed",
     "link": "https://www.statnews.com/2026/07/31/american-diabetes-association-ada-police-apology-independence/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,14 +224,6 @@
     "summary": "Latigo Biotherapeutics published positive data for an acute-pain drug meant to rival a Vertex medicine already on the market"
   },
   {
-    "title": "STAT+: Hims misled consumers and violated their privacy, FTC alleges in a lawsuit",
-    "link": "https://www.statnews.com/2026/07/29/ftc-lawsuit-hims-alleging-deceptive-business-practices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-29T18:45:33.000Z",
-    "summary": "The U.S. Federal Trade Commission sued telehealth company Hims & Hers alleging business practices that agency says misled consumers."
-  },
-  {
     "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
     "source": "FDA Press Releases",
@@ -246,22 +262,6 @@
     "category": "industry",
     "date": "2026-07-29T15:00:00.000Z",
     "summary": "Replimune shares plummeted 40% on concerns FDA scientists are still skeptical of its melanoma drug. Elsewhere, investors had a muted reaction to a first-of-its-kind study result."
-  },
-  {
-    "title": "STAT+: End of Medicare drug subsidy gives Democrats new attack line on rising out-of-pocket costs",
-    "link": "https://www.statnews.com/2026/07/29/trump-medicare-subsidy-cuts-part-d-premium-change/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-29T14:58:30.000Z",
-    "summary": "The White House decision to end a Medicare drug subsidy plays into Democratic arguments ahead of the midterms."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a fugitive who became a biotech exec, a hospital suing Lilly, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/29/fugitive-who-became-biotech-exec-hospital-sues-lilly/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-29T13:36:01.000Z",
-    "summary": "The discovery that a fugitive had been working under an alias in the biotech industry prompted a question: How did he evade scrutiny for two decades?"
   },
   {
     "title": "Prostaglandin E2 drives cancer-associated cachexia",
