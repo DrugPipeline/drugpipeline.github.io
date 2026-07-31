@@ -1,5 +1,21 @@
 [
   {
+    "title": "Replimune melanoma drug wins support of FDA panel",
+    "link": "https://www.biopharmadive.com/news/replimune-rp1-fda-vote-advisory-committee-melanoma-drug/826619/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-30T21:25:00.000Z",
+    "summary": "The positive vote came despite persistent concerns from FDA scientists and positions the company to bounce back from two earlier rejections."
+  },
+  {
+    "title": "Alnylam plunges as earnings deliver ‘one-two punch’",
+    "link": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-30T20:12:00.000Z",
+    "summary": "The RNA-focused biotech shed 30% of its market value — or close to $12 billion — amid growing investor concerns about its main drug business."
+  },
+  {
     "title": "Capricor’s data clash and a fugitive in the C-suite",
     "link": "https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss",
     "source": "STAT News",
@@ -64,7 +80,7 @@
     "summary": "Medicaid work rules, FTC sues Hims, and more health news from Morning Rounds"
   },
   {
-    "title": "STAT+: Tracking the FDA expert review of Replimune’s melanoma treatment",
+    "title": "STAT+: FDA expert committee votes in favor of Replimune’s melanoma treatment",
     "link": "https://www.statnews.com/2026/07/30/replimune-melanoma-drug-rp1-fda-expert-meeting-live-blog/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -102,6 +118,22 @@
     "category": "industry",
     "date": "2026-07-30T04:05:00.000Z",
     "summary": "Studies tied to Red Bull helped block warning labels about drinking alcohol along with energy drinks. Independent studies report risks in mixing the two."
+  },
+  {
+    "title": "Small molecules stop β-arrestins",
+    "link": "https://www.nature.com/articles/d41573-026-00124-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-30T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Oral macrocyclic PCSK9 inhibitor secures FDA approval",
+    "link": "https://www.nature.com/articles/d41573-026-00123-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-30T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "NSF testing new Ph.D. model giving trainees academic and industry experience",
@@ -232,19 +264,11 @@
     "summary": "STAT is live-blogging an FDA meeting on Capricor Therapeutics’ treatment for Duchenne muscular dystrophy, which has been the subject of a contentious regulatory review."
   },
   {
-    "title": "GSK prepares for patent cliff with $2.5B cost-cutting plan",
-    "link": "https://www.biopharmadive.com/news/gsk-restructuring-layoffs-cost-cuts-2q26-earnings/826351/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-28T16:02:00.000Z",
-    "summary": "The pharma hasn’t yet revealed what kind of job cuts might be involved in the plan, which will help it absorb the coming loss of patents important to its HIV drug franchise."
-  },
-  {
-    "title": "An eye drug biotech banks $118M and stocks its executive suite",
-    "link": "https://www.biopharmadive.com/news/claris-series-b-limbal-stem-cell-deficiency/826263/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-28T12:00:00.000Z",
-    "summary": "Claris Bio has appointed veteran CEO Stephen Brady to lead advanced development of what it hopes to be the first drug therapy for a blinding condition called limbal stem cell deficiency."
+    "title": "Prostaglandin E2 drives cancer-associated cachexia",
+    "link": "https://www.nature.com/articles/d41573-026-00122-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-07-28T00:00:00.000Z",
+    "summary": ""
   }
 ]
