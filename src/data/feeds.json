@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Is there a pharma mega-merger in the making?",
+    "link": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T13:18:23.000Z",
+    "summary": "Moderna's imminent FDA vaccine decision, TCGX launches $400M Asia biotech fund, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca-Bristol merger talks, a revised 340B plan, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/03/astrazeneca-bristol-merger-talks-340b-rebate-plan-revised/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T13:11:09.000Z",
+    "summary": "AstraZeneca stock fell as investors balked at reports of merger talks with Bristol Myers Squibb about forming one of ​the world's biggest drugmakers"
+  },
+  {
+    "title": "New York’s assisted-dying law moves forward",
+    "link": "https://www.statnews.com/2026/08/03/health-news-new-york-assisted-dying-law-moves-forward/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T12:58:15.000Z",
+    "summary": "Medicaid work requirements in effect in Nebraska, AI scribes in med school, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Sandoz to pay $478.5 million to settle price-fixing allegations in long-running battle with states",
+    "link": "https://www.statnews.com/pharmalot/2026/08/03/sandoz-to-settle-price-fixing-allegations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T12:12:51.000Z",
+    "summary": "Sandoz agreed to pay $478.5 million to settle allegations that the company engaged in a conspiracy to artificially inflate and manipulate prices."
+  },
+  {
+    "title": "STAT+: BioNTech names Guido Oelkers its new CEO",
+    "link": "https://www.statnews.com/2026/08/03/biontech-ceo-guido-oelkers-ugur-sahin-replacement/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T11:25:39.000Z",
+    "summary": "Guido Oelkers will take over as the new CEO of BioNTech, replacing company cofounder Ugur Sahin."
+  },
+  {
     "title": "STAT+: Are AI scribes useful tools in medical education, or a crutch that imperils learning?",
     "link": "https://www.statnews.com/2026/08/03/ai-scribes-medical-education-learning-tool-cognitive-crutch/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,7 +48,7 @@
     "summary": "Educators want future physicians to be fluent in AI scribes, but they worry what off-loading clinical notes to AI could do to learning."
   },
   {
-    "title": "Heart transplants fail if patients get too weak. New program tries inpatient prehab",
+    "title": "Heart transplant candidates fail if they get too weak. New program tries inpatient prehab",
     "link": "https://www.statnews.com/2026/08/03/heart-transplant-prehabilitation-cardiologist-discusses-innovative-project/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -48,6 +88,14 @@
     "summary": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forgo the drug."
   },
   {
+    "title": "Trump administration tries again to institute rebates in 340B",
+    "link": "https://www.biopharmadive.com/news/the-trump-administration-tries-again-340b-rebates/826766/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-31T19:10:00.000Z",
+    "summary": "The Health Resources and Services Administration is again pushing to include rebates in the drug discount program after a failed attempt earlier this year. Hospitals railed against the announcement,…"
+  },
+  {
     "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
     "link": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
     "source": "STAT News",
@@ -61,7 +109,15 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-31T16:11:00.000Z",
-    "summary": "Ziltivekimab's failure in a key trial hurt spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation."
+    "summary": "Ziltivekimab's failure in a key trial spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation."
+  },
+  {
+    "title": "Resilience and Lilly invest $750M to boost Cincinnati drug production",
+    "link": "https://www.biopharmadive.com/news/resilience-lilly-invest-750m-scale-cincinnati-production-injectable/826729/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-07-31T15:45:00.000Z",
+    "summary": "The expansion will create 400 jobs dedicated to making GLP-1 injectables across Resilience’s contract manufacturing facilities."
   },
   {
     "title": "Sanofi to ‘rebuild trust’ with Regeneron; Apnimed adds to string of ‘upsized’ biotech IPOs",
@@ -152,14 +208,6 @@
     "summary": "The RNA-focused biotech shed 30% of its market value — or close to $12 billion — amid growing investor concerns about its main drug business."
   },
   {
-    "title": "Capricor’s data clash and a fugitive in the C-suite",
-    "link": "https://www.statnews.com/2026/07/30/capricor-duchenne-replimune-melanoma-fugitive-biotech-readout-loud-podcast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-30T19:03:12.000Z",
-    "summary": "Is the FDA taking inconsistent approaches to Duchenne drugs? And how will a new batch of drug executives shake up their companies? Find out on the latest episode of \"The…"
-  },
-  {
     "title": "FTC sues Hims & Hers over alleged privacy violations, deceptive billing practices",
     "link": "https://www.biopharmadive.com/news/ftc-sues-hims-hers-alleged-privacy-violations-deceptive-billing/826612/",
     "source": "BioPharma Dive",
@@ -174,38 +222,6 @@
     "category": "industry",
     "date": "2026-07-30T15:52:00.000Z",
     "summary": "The deal with the buzzy Flagship Pioneering-backed startup makes J&J the latest large drugmaker to bet that the technology might be able to treat autoimmune conditions."
-  },
-  {
-    "title": "Key Senate panel backs Trump’s picks for CDC, pandemic preparedness",
-    "link": "https://www.statnews.com/2026/07/30/senate-panel-backs-confirmation-health-nominees-schwartz-cdc-kaufman-aspr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-30T14:17:10.000Z",
-    "summary": "In win for RFK Jr., Senate committee sends nominations of Erica Schwartz for CDC director and Sean Kaufman for ASPR to full Senate."
-  },
-  {
-    "title": "Judge denies states’ motion to postpone Medicaid work requirement",
-    "link": "https://www.statnews.com/2026/07/30/medicaid-work-requirements-judge-declines-states-request-injunction/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-30T13:45:55.000Z",
-    "summary": "Federal judge denied 26 states’ request to postpone the implementation of Medicaid work requirements announced in June."
-  },
-  {
-    "title": "STAT+: Rising oil prices can boost the cost of some medicines. One expert says it’s time to lower reliance on fossil fuels",
-    "link": "https://www.statnews.com/pharmalot/2026/07/30/rising-oil-prices-cost-of-medicines-fosil-fuels/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-30T13:22:30.000Z",
-    "summary": "Unitaid found the rising price of oil could boost the cost of a widely used HIV medicine it reviewed in a detailed analysis."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an FDA panel nixing a Duchenne drug, FTC suing Hims & Hers, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/07/30/fda-panel-nixes-duchenne-drug-ftc-sues-hims-and-hers/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-30T13:08:40.000Z",
-    "summary": "An FDA advisory panel concluded clinical data for a Capricor treatment for Duchenne muscular dystrophy did not provide “substantial evidence” of efficacy"
   },
   {
     "title": "Small molecules stop β-arrestins",
@@ -246,22 +262,6 @@
     "category": "regulatory",
     "date": "2026-07-29T16:10:31.000Z",
     "summary": "FDA today licensed Ezplaz Freeze Dried Plasma (FDP), making it the first freeze-dried plasma product licensed for use in the United States. Ezplaz is intended for transfusion in adult patients who…"
-  },
-  {
-    "title": "Caldera, Vidya add to recent flurry of biotech mergers",
-    "link": "https://www.biopharmadive.com/news/caldera-vidya-public-biotech-reverse-merger-deal/826462/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-29T16:07:00.000Z",
-    "summary": "The startups are part of a surge of young companies equipped with advanced drug prospects and quickly pivoting to the public markets."
-  },
-  {
-    "title": "AbCellera, Vertex partner on next-gen T-cell engagers",
-    "link": "https://www.biopharmadive.com/news/abcellera-vertex-partnership-next-gen-t-cell-engagers/826471/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-29T15:40:00.000Z",
-    "summary": "The deal adds to a growing streak of partnerships involving new types of T cell engagers and gives Vertex another chance to broaden a business still reliant on cystic fibrosis medicines."
   },
   {
     "title": "Prostaglandin E2 drives cancer-associated cachexia",
