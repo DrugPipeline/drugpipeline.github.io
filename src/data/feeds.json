@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
+    "link": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T17:27:38.000Z",
+    "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access."
+  },
+  {
+    "title": "Michigan reports first two U.S. deaths in outbreak of cyclospora",
+    "link": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T16:59:11.000Z",
+    "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced."
+  },
+  {
+    "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-03T16:12:00.000Z",
+    "summary": "In fact, the former lost tens of billions of dollars in market value following reports of a tie-up between the pharmaceutical giants."
+  },
+  {
+    "title": "BioNTech taps Sobi executive Oelkers as its next CEO",
+    "link": "https://www.biopharmadive.com/news/biontech-ceo-guido-oelkers-sobi-ugur-sahin/826805/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-03T15:49:00.000Z",
+    "summary": "Guido Oelkers will guide BioNTech’s ongoing transition into an oncology-focused biotech, while co-founder and longtime leader Ugur Sahin prepares to join a fledgling mRNA startup."
+  },
+  {
+    "title": "STAT+: Medicare eliminates key pathways used by ‘breakthrough’ devices for extra payments",
+    "link": "https://www.statnews.com/2026/08/03/cms-fda-breakthrough-devices-payment-pathways-eliminated/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-03T15:41:43.000Z",
+    "summary": "Medicare is removing flexibilities that have allowed \"breakthrough\" medical devices to leapfrog qualifications for extra payments."
+  },
+  {
+    "title": "Supernus, Individor merge to beef up brain drug portfolio",
+    "link": "https://www.biopharmadive.com/news/supernus-individor-merger-brain-drugs/826822/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-03T14:02:30.000Z",
+    "summary": "The transaction combines two companies marketing nearly a dozen neurological drugs that bring in steady, but not blockbuster sales for conditions such as opioid use disorder and Parkinson's."
+  },
+  {
     "title": "STAT+: Is there a pharma mega-merger in the making?",
     "link": "https://www.statnews.com/2026/08/03/biotech-news-is-there-a-pharma-mega-merger-coming-astrazeneca-bms/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,30 +216,6 @@
     "summary": "“The ADA is no longer what we’d call a profile in courage,” write Adam Marcus and Ivan Oransky of Retraction Watch."
   },
   {
-    "title": "Opinion: Limb girdle muscular dystrophy patients face a maddening reality",
-    "link": "https://www.statnews.com/2026/07/31/fda-platform-designation-hold-limb-girdle-muscular-dystrophy-lgmd/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-31T08:30:00.000Z",
-    "summary": "“Too often, regulatory tools authorized to speed patient access to breakthrough treatments are being used in ways that even prevent approval,” writes Kat Bryant Knudson."
-  },
-  {
-    "title": "Opinion: What a recent op-ed got wrong about our Covid study",
-    "link": "https://www.statnews.com/2026/07/31/letter-to-editor-covid-non-pharmaceutical-interventions-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-31T08:30:00.000Z",
-    "summary": "“The appropriate counter to Covid revisionism is careful, rigorous, and honest assessment of the U.S. response.”"
-  },
-  {
-    "title": "Syphilis spreads while researchers contend with federal constraints and a drug shortage",
-    "link": "https://www.statnews.com/2026/07/31/syphilis-drug-shortage-case-study-san-diego-patient-researcher-advocate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-31T08:30:00.000Z",
-    "summary": "At the San Diego-Tijuana border, syphilis spreads while researchers contend with federal constraints and a drug shortage."
-  },
-  {
     "title": "Replimune melanoma drug wins support of FDA panel",
     "link": "https://www.biopharmadive.com/news/replimune-rp1-fda-vote-advisory-committee-melanoma-drug/826619/",
     "source": "BioPharma Dive",
@@ -216,14 +240,6 @@
     "summary": "Regulators say the telehealth company illegally shared patients’ health data with advertisers and misled its customers. Hims & Hers hit back, calling the claims “baseless.”"
   },
   {
-    "title": "J&J nabs option to buy ‘in vivo’ CAR-T maker Sail for nearly $2.6B",
-    "link": "https://www.biopharmadive.com/news/johnson-johnson-sail-option-acquire-in-vivo-car-t/826589/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-30T15:52:00.000Z",
-    "summary": "The deal with the buzzy Flagship Pioneering-backed startup makes J&J the latest large drugmaker to bet that the technology might be able to treat autoimmune conditions."
-  },
-  {
     "title": "Small molecules stop β-arrestins",
     "link": "https://www.nature.com/articles/d41573-026-00124-3",
     "source": "Nature Reviews Drug Discovery",
@@ -238,22 +254,6 @@
     "category": "research",
     "date": "2026-07-30T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Capricor Duchenne cell therapy voted down by FDA panel",
-    "link": "https://www.biopharmadive.com/news/capricor-fda-vote-deramiocel-duchenne-cardiomyopathy/826465/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-29T21:31:00.000Z",
-    "summary": "At a contentious meeting with possible implications for other rare disease drugmakers, outside experts ultimately determined that Capricor didn't prove deramiocel's benefits in Duchenne-related…"
-  },
-  {
-    "title": "MapLight CEO on what investors missed in the biotech’s schizophrenia data",
-    "link": "https://www.biopharmadive.com/news/maplight-ceo-kroeger-schizophrenia-drug-trial-data-investors/826530/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-29T21:22:00.000Z",
-    "summary": "Though positive, mid-stage study results erased about two-thirds of the biotech's market value this week. But Christopher Kroeger sees MapLight's drug as competitive based on the \"totality of data.\""
   },
   {
     "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
