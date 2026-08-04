@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: Are AI scribes medical devices? UK regulator weighs in.",
+    "link": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-04T13:23:31.000Z",
+    "summary": "In this edition of STAT Health Tech: UK regulator on AI scribes, CMS eliminates key payment pathways for 'breakthrough' devices, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Lilly access program, a Gilead court victory, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/04/lilly-expands-retatrutide-access-program-gilead-court-victory/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-04T13:11:34.000Z",
+    "summary": "Eli Lilly confirmed that it will allow more patients to apply for early access to retatrutide, an unapproved obesity drug"
+  },
+  {
+    "title": "Trans federal employees sue over revoked health coverage",
+    "link": "https://www.statnews.com/2026/08/04/health-news-trans-federal-employees-sue-over-revoked-coverage/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-04T12:30:13.000Z",
+    "summary": "Expanded retatrutide access, the cost of the 2025 measles outbreak, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: The latest orphan drug exemptions may not be warranted, analysis finds",
+    "link": "https://www.statnews.com/pharmalot/2026/08/04/latest-orphan-drug-exemptions-may-not-be-warranted-analysis-finds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-04T12:05:01.000Z",
+    "summary": "A new analysis questions the wisdom of a controversial provision in federal law that exempts so-called orphan drugs from Medicare pricing negotiations."
+  },
+  {
     "title": "STAT+: Kennedy and Oz call Medicaid cuts ‘myths.’ It’s more complicated than that",
     "link": "https://www.statnews.com/2026/08/04/rfk-medicaid-cuts-myth-analysis/?utm_campaign=rss",
     "source": "STAT News",
@@ -32,6 +64,46 @@
     "summary": "“It is no longer possible to ask the FDA to keep pace with software development by doing the same reviews faster,” writes Dana Goldman."
   },
   {
+    "title": "Designing small-molecule binding proteins",
+    "link": "https://www.nature.com/articles/d41573-026-00129-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Optimizing translation of therapeutic mRNAs",
+    "link": "https://www.nature.com/articles/d41573-026-00131-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting tumour-associated macrophages",
+    "link": "https://www.nature.com/articles/d41573-026-00127-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Gene megacluster produces synergistic antibiotics",
+    "link": "https://www.nature.com/articles/d41573-026-00128-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Phage therapy for Crohn’s disease",
+    "link": "https://www.nature.com/articles/d41573-026-00126-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case",
     "link": "https://www.statnews.com/pharmalot/2026/08/03/california-supreme-court-sides-with-gilead-in-duty-to-innovate-case/?utm_campaign=rss",
     "source": "STAT News",
@@ -61,7 +133,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-03T16:12:00.000Z",
-    "summary": "In fact, the former lost tens of billions of dollars in market value following reports of a tie-up between the pharmaceutical giants."
+    "summary": "In fact, the former lost tens of billions of dollars in market value following reports of a potential tie-up between the pharmaceutical giants."
   },
   {
     "title": "BioNTech taps Sobi executive Oelkers as its next CEO",
@@ -152,44 +224,12 @@
     "summary": "“Losing the ability to speak has taught me how quickly society conflates physical dependence with diminished personhood,” writes Dr. Christopher Campos."
   },
   {
-    "title": "Opinion: We lead the Federation of State Medical Boards. Here’s what we think about licensing AI to practice medicine",
-    "link": "https://www.statnews.com/2026/08/03/ai-doctors-licensing-state-medical-boards/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-03T08:30:00.000Z",
-    "summary": "The leaders of the Federation of State Medical Boards weigh in on the question of licensing AI to practice medicine."
-  },
-  {
-    "title": "STAT+: Senate measure would block Trump plan to politicize federal grants, for now",
-    "link": "https://www.statnews.com/2026/08/02/senate-would-block-white-house-control-over-research-grants/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-02T23:55:12.000Z",
-    "summary": "A White House proposal to subject research grants to political scrutiny meets at least a temporary roadblock in the Senate."
-  },
-  {
-    "title": "STAT+: Michigan Supreme Court ruling allows probe into Lilly insulin pricing",
-    "link": "https://www.statnews.com/pharmalot/2026/08/02/michigan-supreme-court-ruling-allows-probe-into-lilly-insulin-pricing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-02T18:14:14.000Z",
-    "summary": "Lilly was accused of charging “grossly” excessive prices for different insulin products that forced some patients to ration or forgo the drug."
-  },
-  {
     "title": "Trump administration tries again to institute rebates in 340B",
     "link": "https://www.biopharmadive.com/news/the-trump-administration-tries-again-340b-rebates/826766/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-07-31T19:10:00.000Z",
     "summary": "The Health Resources and Services Administration is again pushing to include rebates in the drug discount program after a failed attempt earlier this year. Hospitals railed against the announcement,…"
-  },
-  {
-    "title": "STAT+: Trump administration revises rebate pilot for 340B drug discount program, angering hospitals",
-    "link": "https://www.statnews.com/pharmalot/2026/07/31/trump-administration-revises-rebate-pilot-drug-discount-program-hospitals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-07-31T17:02:27.000Z",
-    "summary": "The Trump administration is revising its rebate pilot for the 340B drug discount program, angering hospitals."
   },
   {
     "title": "Novo setback casts doubt on a new way to treat heart disease",
