@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Moderna launches early trial of Ebola mRNA vaccine",
+    "link": "https://www.statnews.com/2026/08/05/biotech-news-moderna-launches-early-ebola-mrna-vaccine-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-05T13:32:45.000Z",
+    "summary": "Novo and Lilly earnings are out, Aurora Therapeutics slashing staff, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Why Schrödinger CEO Ramy Farid changed how he’s thinking about AI",
+    "link": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-05T13:29:59.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: Why Schrödinger CEO Ramy Farid is rethinking AI, Recursion's neuron map, and more health AI news."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Medicare pilot and orphan drugs, Pfizer cutbacks, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/05/medicare-pilot-orphan-drugs-pfizer-cutbacks/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-05T13:26:46.000Z",
+    "summary": "In today's Pharmalittle newsletter, a Medicare pilot and orphan drugs, Pfizer cutbacks, and more."
+  },
+  {
+    "title": "A COPD drug from China draws $115M in venture funding",
+    "link": "https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-05T12:00:00.000Z",
+    "summary": "Expedition Therapeutics, which has raised nearly $300 million to date, is studying a drug it believes to have notable advantages over other COPD treatments either in development or on the market."
+  },
+  {
+    "title": "The main therapy used for children with autism faces changes under Medicaid",
+    "link": "https://www.statnews.com/2026/08/05/health-news-aba-therapy-for-children-with-autism-faces-changes-under-medicaid/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-05T11:55:27.000Z",
+    "summary": "Quid-pro-quo vaping policies, ebola vaccine efforts, and more health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: Exemption of rare disease therapies in drug-pricing pilots would wipe out huge savings, analysis finds",
     "link": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/?utm_campaign=rss",
     "source": "STAT News",
@@ -38,6 +78,14 @@
     "category": "industry",
     "date": "2026-08-05T08:30:00.000Z",
     "summary": "Films and documentaries about assisted dying can narrow the frame of debate, write Anna Magdalena Elsner and Vanessa Rampton."
+  },
+  {
+    "title": "Expanding the molecular glue target space",
+    "link": "https://www.nature.com/articles/d41573-026-00132-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-05T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
@@ -192,30 +240,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: California Supreme Court sides with Gilead in ‘duty’ to innovate case",
-    "link": "https://www.statnews.com/pharmalot/2026/08/03/california-supreme-court-sides-with-gilead-in-duty-to-innovate-case/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-03T20:56:25.000Z",
-    "summary": "The California Supreme Court sided with Gilead Sciences in a closely watched case over whether the company had a \"duty\" to innovate."
-  },
-  {
-    "title": "STAT+: Eli Lilly to allow more patients to apply for special access to unapproved obesity drug",
-    "link": "https://www.statnews.com/2026/08/03/eli-lilly-retatrutide-mystery-patient-doctors-seek-same-access-their-patients/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-03T17:27:38.000Z",
-    "summary": "Doctors are asking how to get retatrutide for their patients, after Eli Lilly gave one man early access."
-  },
-  {
-    "title": "Michigan reports the first 2 U.S. deaths related to a diarrhea-causing parasite",
-    "link": "https://www.statnews.com/2026/08/03/cyclospora-outbreak-two-fatalities-reported-michigan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-03T16:59:11.000Z",
-    "summary": "Two people have died in the cyclospora outbreak in Michigan in the first confirmed deaths in the U.S. related to the microscopic parasite, state health officials announced."
-  },
-  {
     "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
     "link": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
     "source": "BioPharma Dive",
@@ -230,14 +254,6 @@
     "category": "industry",
     "date": "2026-08-03T15:49:00.000Z",
     "summary": "Guido Oelkers will guide BioNTech’s ongoing transition into an oncology-focused biotech, while co-founder and longtime leader Ugur Sahin prepares to join a fledgling mRNA startup."
-  },
-  {
-    "title": "STAT+: Medicare eliminates key pathways used by ‘breakthrough’ devices for extra payments",
-    "link": "https://www.statnews.com/2026/08/03/cms-fda-breakthrough-devices-payment-pathways-eliminated/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-03T15:41:43.000Z",
-    "summary": "Medicare is removing flexibilities that have allowed \"breakthrough\" medical devices to leapfrog qualifications for extra payments."
   },
   {
     "title": "Supernus, Indivior merge to beef up brain drug portfolio",
@@ -270,14 +286,6 @@
     "category": "industry",
     "date": "2026-07-31T15:45:00.000Z",
     "summary": "The expansion will create 400 jobs dedicated to making GLP-1 injectables across Resilience’s contract manufacturing facilities."
-  },
-  {
-    "title": "Sanofi to ‘rebuild trust’ with Regeneron; Apnimed adds to string of ‘upsized’ biotech IPOs",
-    "link": "https://www.biopharmadive.com/news/sanofi-bristol-myers-apnimed-relation-therapeutics/826559/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-31T15:06:47.000Z",
-    "summary": "Sanofi wants to broaden the company’s productive partnership with Regeneron, its CEOs said. Elsewhere, Bristol Myers delayed two anticipated study readouts and a Shionogi-backed startup went public."
   },
   {
     "title": "Small molecules stop β-arrestins",
