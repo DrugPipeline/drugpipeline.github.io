@@ -1,5 +1,53 @@
 [
   {
+    "title": "Erica Schwartz confirmed as CDC director, filling nearly yearlong vacancy",
+    "link": "https://www.statnews.com/2026/08/05/senate-confirms-dr-erica-schwartz-new-cdc-director/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-05T19:08:33.000Z",
+    "summary": "Now confirmed, Erica Schwartz is the third CDC nominee since Trump took office for his second term."
+  },
+  {
+    "title": "STAT+: Could poop pills be the next treatment for food allergies?",
+    "link": "https://www.statnews.com/2026/08/05/fecal-microbiome-transplant-for-peanut-food-allergy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-05T18:10:02.000Z",
+    "summary": "Some participants in a small trial showed improved tolerance to peanuts after fecal microbiome transplant."
+  },
+  {
+    "title": "STAT+: Once again, child dies in gene-editing trial in China, rekindling debate on transparency and safety",
+    "link": "https://www.statnews.com/2026/08/05/china-clinical-trial-fatality-safety-questions-investigator-led-studies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-05T17:46:55.000Z",
+    "summary": "With a second delayed report of a child's death in China, criticism is rising of a looser form of clinical trial. One expert: what \"bothers me is the lack of…"
+  },
+  {
+    "title": "Attovia adds to biotech IPO momentum with $289M offering",
+    "link": "https://www.biopharmadive.com/news/attovia-biotech-ipo-price-eczema-pruritis-drugs/827061/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-05T16:05:25.000Z",
+    "summary": "The startup is the 12th drug company to bank at least $250 million in an IPO this year, nearly matching totals last seen during the sector’s pandemic peak, according to BioPharma Dive data."
+  },
+  {
+    "title": "Lilly climbs, Novo falls as obesity drug battle intensifies",
+    "link": "https://www.biopharmadive.com/news/lilly-novo-earnings-2q-2026-wegovy-pill-foundayo-obesity/827027/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-05T15:22:00.000Z",
+    "summary": "A research disappointment and a miss on Wegovy pill sales hurt Novo, while Lilly’s injectable franchise once again surpassed analyst expectations."
+  },
+  {
+    "title": "Earnings roundup: Gilead’s ‘uncertain’ future, Pfizer’s crossroads and Merck’s PCSK9 launch",
+    "link": "https://www.biopharmadive.com/news/pfizer-merck-gilead-earnings-2q-2026-analysis/827029/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-05T15:00:00.000Z",
+    "summary": "Some analysts see warning signs in crucial drug launches from Gilead and Merck, while an important trial readout could change Pfizer’s growth trajectory."
+  },
+  {
     "title": "STAT+: Moderna launches early trial of Ebola mRNA vaccine",
     "link": "https://www.statnews.com/2026/08/05/biotech-news-moderna-launches-early-ebola-mrna-vaccine-trial/?utm_campaign=rss",
     "source": "STAT News",
@@ -78,14 +126,6 @@
     "category": "industry",
     "date": "2026-08-05T08:30:00.000Z",
     "summary": "Films and documentaries about assisted dying can narrow the frame of debate, write Anna Magdalena Elsner and Vanessa Rampton."
-  },
-  {
-    "title": "Expanding the molecular glue target space",
-    "link": "https://www.nature.com/articles/d41573-026-00132-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-05T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
@@ -176,70 +216,6 @@
     "summary": "Kennedy and Oz say Medicaid isn't being cut. But state Medicaid directors say new policies are likely to cause many people to lose coverage."
   },
   {
-    "title": "STAT+: As Trump administration pushes court-ordered mental health care, a new report raises questions",
-    "link": "https://www.statnews.com/2026/08/04/new-report-questions-new-york-program-court-ordered-mental-healthcare/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T08:30:00.000Z",
-    "summary": "A study of New York’s court-ordered care for people with serious mental health conditions adds to the research on this type of involuntary care."
-  },
-  {
-    "title": "Opinion: How Josée became one of the 7.9% of Québécois who die by assisted suicide",
-    "link": "https://www.statnews.com/2026/08/04/assisted-suicide-medical-aid-in-dying-quebec-mental-illness-suffering/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T08:30:00.000Z",
-    "summary": "“In focusing on medical aid in dying solely as an end, we’ve missed out on the life that was lived,” writes physician Sai Rajagopal."
-  },
-  {
-    "title": "Opinion: I’m using not-FDA-approved software to manage my diabetes. I’ve never felt better",
-    "link": "https://www.statnews.com/2026/08/04/diabetes-open-source-software-fda-approval/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T08:30:00.000Z",
-    "summary": "“It is no longer possible to ask the FDA to keep pace with software development by doing the same reviews faster,” writes Dana Goldman."
-  },
-  {
-    "title": "Designing small-molecule binding proteins",
-    "link": "https://www.nature.com/articles/d41573-026-00129-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Optimizing translation of therapeutic mRNAs",
-    "link": "https://www.nature.com/articles/d41573-026-00131-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Targeting tumour-associated macrophages",
-    "link": "https://www.nature.com/articles/d41573-026-00127-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Gene megacluster produces synergistic antibiotics",
-    "link": "https://www.nature.com/articles/d41573-026-00128-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Phage therapy for Crohn’s disease",
-    "link": "https://www.nature.com/articles/d41573-026-00126-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
     "link": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
     "source": "BioPharma Dive",
@@ -262,53 +238,5 @@
     "category": "industry",
     "date": "2026-08-03T14:02:30.000Z",
     "summary": "The transaction combines two companies marketing nearly a dozen neurological drugs that bring in steady, but not blockbuster sales for conditions such as opioid use disorder and Parkinson's."
-  },
-  {
-    "title": "Trump administration tries again to institute rebates in 340B",
-    "link": "https://www.biopharmadive.com/news/the-trump-administration-tries-again-340b-rebates/826766/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-31T19:10:00.000Z",
-    "summary": "The Health Resources and Services Administration is again pushing to include rebates in the drug discount program after a failed attempt earlier this year. Hospitals railed against the announcement,…"
-  },
-  {
-    "title": "Novo setback casts doubt on a new way to treat heart disease",
-    "link": "https://www.biopharmadive.com/news/novo-nordik-ziltivekimab-zeus-study-results-corvidia/826695/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-31T16:11:00.000Z",
-    "summary": "Ziltivekimab's failure in a key trial spurred share sell-offs for Novo and other biotechs, as it suggested trouble for different cardiovascular drugs that also target inflammation."
-  },
-  {
-    "title": "Resilience and Lilly invest $750M to boost Cincinnati drug production",
-    "link": "https://www.biopharmadive.com/news/resilience-lilly-invest-750m-scale-cincinnati-production-injectable/826729/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-07-31T15:45:00.000Z",
-    "summary": "The expansion will create 400 jobs dedicated to making GLP-1 injectables across Resilience’s contract manufacturing facilities."
-  },
-  {
-    "title": "Small molecules stop β-arrestins",
-    "link": "https://www.nature.com/articles/d41573-026-00124-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-30T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Oral macrocyclic PCSK9 inhibitor secures FDA approval",
-    "link": "https://www.nature.com/articles/d41573-026-00123-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-07-30T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA Licenses First-Ever Freeze-Dried Plasma Product in the U.S.",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-licenses-first-ever-freeze-dried-plasma-product-us",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-07-29T16:10:31.000Z",
-    "summary": "FDA today licensed Ezplaz Freeze Dried Plasma (FDP), making it the first freeze-dried plasma product licensed for use in the United States. Ezplaz is intended for transfusion in adult patients who…"
   }
 ]
