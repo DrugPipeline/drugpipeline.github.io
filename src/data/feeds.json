@@ -1,5 +1,101 @@
 [
   {
+    "title": "STAT+: Two FDA approvals — a new drug and a new vaccine",
+    "link": "https://www.statnews.com/2026/08/06/biotech-news-two-fda-approvals-a-new-drug-and-a-new-vaccine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T13:49:23.000Z",
+    "summary": "Takeda's narcolepsy drug approved, the first mRNA flu shot approved, and more biotech updates from The Readout"
+  },
+  {
+    "title": "U.S. moves to shut a Kentucky organ donation group, citing safety failures",
+    "link": "https://www.statnews.com/2026/08/06/us-to-shut-kentucky-organ-donation-group-safety-concerns/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T13:47:31.000Z",
+    "summary": "The U.S. moves to shut a Kentucky organ donation group that's been accused of continuing plans for organ retrieval from some patients who unexpectedly showed signs of life."
+  },
+  {
+    "title": "Opinion: The U.S. needs a 9/11 Commission-style independent body to investigate Covid response",
+    "link": "https://www.statnews.com/2026/08/06/covid-accountability-9-11-style-commission-needed-not-fauci-bashing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T13:38:24.000Z",
+    "summary": "“A transparent evaluation of Covid would separate what happened from competing political narratives and help us improve for the future,” writes IDSA President Ronald Nahass."
+  },
+  {
+    "title": "With $263M, LifeMine unearths a new drug for organ transplants",
+    "link": "https://www.biopharmadive.com/news/lifemine-organ-transplant-rejection-drug-greg-verdine-financing/827145/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-06T13:17:00.000Z",
+    "summary": "Led by serial biotech entrepreneur Greg Verdine, the startup mined fungi genomes to find a safer alternative to the drugs widely used to prevent the body from rejecting transplanted organs."
+  },
+  {
+    "title": "Senate committee votes along party lines to hold Fauci in contempt of Congress",
+    "link": "https://www.statnews.com/2026/08/06/anthony-fauci-fifth-amendment-rand-paul-seeks-criminal-contempt/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T13:12:35.000Z",
+    "summary": "A Senate committee has voted to hold Anthony Fauci in contempt of Congress after he declined to answer questions about his role in the Covid pandemic."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Moderna’s flu shot, a death in a gene-editing trial in China, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/06/moderna-flu-shot-gene-editing-trial-death-pharmalittle-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T13:03:26.000Z",
+    "summary": "In today's Pharmalittle newsletter: Moderna's mRNA flu shot approved, a death reported in a gene-editing trial in China, and more."
+  },
+  {
+    "title": "STAT+: Medicare pushes ACCESS but doesn’t tell patients what providers offer it",
+    "link": "https://www.statnews.com/2026/08/06/cms-medicare-pilot-access-patient-info-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T12:54:43.000Z",
+    "summary": "In this edition: Progress report on ACCESS, Medicare's chronic care pilot, and health regulators courting industry on AI regulation."
+  },
+  {
+    "title": "Opinion: One year since Kennedy canceled mRNA vaccine projects, science shows how wrong he was",
+    "link": "https://www.statnews.com/2026/08/06/mflusiva-fda-mrna-flu-vaccine-rfk-jr/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T12:10:18.000Z",
+    "summary": "“The United States invented this platform and is the only country walking away from it,” Jeff Coller writes of mRNA vaccines."
+  },
+  {
+    "title": "Covid can reactivate dormant viruses, according to study",
+    "link": "https://www.statnews.com/2026/08/06/health-news-covid-can-reactivate-dormant-viruses-study-finds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T11:55:38.000Z",
+    "summary": "A CDC director officially confirmed, Moderna's mRNA flu shot approved, and other health news from Morning Rounds"
+  },
+  {
+    "title": "FDA approves Moderna’s mRNA flu vaccine",
+    "link": "https://www.biopharmadive.com/news/moderna-fda-approve-mflusiva-seasonal-influenza/826864/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-06T11:10:00.000Z",
+    "summary": "The clearance paves the way for the first preventive flu shot based on mRNA technology and completes a dramatic regulatory turnaround."
+  },
+  {
+    "title": "STAT+: A scientist-turned-biotech executive is notching some wins, and enjoying it",
+    "link": "https://www.statnews.com/2026/08/06/greg-verdine-lifemine-parabilis-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T10:30:00.000Z",
+    "summary": "Scientist-turned-biotech executive Greg Verdine is having a very good year."
+  },
+  {
+    "title": "STAT+: Biotech’s next big bet: A Tenax study of a heart failure treatment",
+    "link": "https://www.statnews.com/2026/08/06/tenax-study-heart-failure-preview/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T10:30:00.000Z",
+    "summary": "Tenax Therapeutics will soon report results from a Phase 3 study that is one of the biggest binary biotech stock events remaining in the sector this year."
+  },
+  {
     "title": "Opinion: What my colleagues and I will look for as we assess U.S. measles elimination status",
     "link": "https://www.statnews.com/2026/08/06/measles-elimination-status-2026-paho/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,7 +104,7 @@
     "summary": "Noel T. Brewer and colleagues will soon decide whether the U.S. has maintained its elimination status. Here’s what they’re looking at."
   },
   {
-    "title": "Opinion: Stop asking if AI is good for medicine",
+    "title": "Opinion: STAT+: Stop asking if AI is good for medicine",
     "link": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -120,14 +216,6 @@
     "summary": "In this edition of STAT's AI Prognosis: Why Schrödinger CEO Ramy Farid is rethinking AI, Recursion's neuron map, and more health AI news."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a Medicare pilot and orphan drugs, Pfizer cutbacks, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/05/medicare-pilot-orphan-drugs-pfizer-cutbacks/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T13:26:46.000Z",
-    "summary": "In today's Pharmalittle newsletter, a Medicare pilot and orphan drugs, Pfizer cutbacks, and more."
-  },
-  {
     "title": "A COPD drug from China draws $115M in venture funding",
     "link": "https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/",
     "source": "BioPharma Dive",
@@ -136,76 +224,12 @@
     "summary": "Expedition Therapeutics, which has raised nearly $300 million to date, is studying a drug it believes to have notable advantages over other COPD treatments either in development or on the market."
   },
   {
-    "title": "The main therapy used for children with autism faces changes under Medicaid",
-    "link": "https://www.statnews.com/2026/08/05/health-news-aba-therapy-for-children-with-autism-faces-changes-under-medicaid/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T11:55:27.000Z",
-    "summary": "Quid-pro-quo vaping policies, ebola vaccine efforts, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Exemption of rare disease therapies in drug-pricing pilots would wipe out huge savings, analysis finds",
-    "link": "https://www.statnews.com/2026/08/05/cms-drug-pricing-pilot-programs-rare-disease-drugs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T08:30:00.000Z",
-    "summary": "Excluding rare disease therapies from a Medicare pilot program to lower drug prices would wipe out much of the savings from retail drugs, according to new research."
-  },
-  {
-    "title": "STAT+: Senate inquiry suggests Trump administration softened kratom and tobacco policies in quid pro quo",
-    "link": "https://www.statnews.com/2026/08/05/senator-ron-wyden-investigation-kennedy-flavored-vapes-kratom/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T08:30:00.000Z",
-    "summary": "The Senate investigation includes RFK Jr. as well as the heads of Reynolds American and kratom company Botanic Tonics, asking for written responses and documentation by Aug. 31."
-  },
-  {
-    "title": "MRI is standard for diagnosing prostate cancer in most western countries. But most U.S. men don’t get them",
-    "link": "https://www.statnews.com/2026/08/05/prostate-cancer-screening-biopsy-vs-mri-debate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T08:30:00.000Z",
-    "summary": "Pre-biopsy MRI is standard outside the U.S., but the latest data show such scans were done in only about a third of U.S. prostate cancer cases in 2022."
-  },
-  {
-    "title": "Opinion: Tear down the wall between M.D. and D.O. education",
-    "link": "https://www.statnews.com/2026/08/05/md-vs-do-medical-education-merge/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T08:30:00.000Z",
-    "summary": "Having separate systems for M.D.s and D.O.s “is historical inertia dressed as educational diversity,” write physicians Abigail MacKenzie and Vijay Rajput."
-  },
-  {
-    "title": "Opinion: Something is missing from movies about medical aid in dying",
-    "link": "https://www.statnews.com/2026/08/05/new-york-medical-aid-dying-assisted-suicide-room-next-door-movies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T08:30:00.000Z",
-    "summary": "Films and documentaries about assisted dying can narrow the frame of debate, write Anna Magdalena Elsner and Vanessa Rampton."
-  },
-  {
     "title": "Expanding the molecular glue target space",
     "link": "https://www.nature.com/articles/d41573-026-00132-3",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-08-05T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
-    "link": "https://www.statnews.com/2026/08/04/ebola-1700-deaths-eastern-congo-fastest-growing-outbreak/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T19:10:48.000Z",
-    "summary": "Ebola has killed more than 1,700 people in eastern Congo in what has become the fastest-growing outbreak of the disease."
-  },
-  {
-    "title": "STAT+: Startup promising to scale custom CRISPR therapies abruptly scraps plans",
-    "link": "https://www.statnews.com/2026/08/04/aurora-therapeutics-ends-program-baby-kj-treatments-beam-therapeutics-jennifer-doudna/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T17:04:10.000Z",
-    "summary": "The FDA, while promising flexibility in approving Baby KJ-type gene editing, still has set standards difficult for a small startup to meet."
   },
   {
     "title": "Vertex’s biggest overhang: a rival 50 times smaller",
@@ -222,14 +246,6 @@
     "category": "industry",
     "date": "2026-08-04T15:55:00.000Z",
     "summary": "Hatched three years ago, the restructuring is now expected to deliver $1 billion in new cost reductions and save Pfizer another $1.5 billion by streamlining drug production."
-  },
-  {
-    "title": "STAT+: Three biotechs with three news updates",
-    "link": "https://www.statnews.com/2026/08/04/biotech-news-gilead-wins-case-that-scrutinized-pace-of-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T15:54:53.000Z",
-    "summary": "Gilead wins case over its HIV medicine, Eli Lilly to expand retatrutide access, and more biotech news"
   },
   {
     "title": "J&J pharma leader to retire; Krystal slumps on gene therapy miss",
@@ -278,21 +294,5 @@
     "category": "research",
     "date": "2026-08-04T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-bristol-myers-acquisition-rumors-deal-megamerger/826843/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-03T16:12:00.000Z",
-    "summary": "In fact, the former lost tens of billions of dollars in market value following reports of a potential tie-up between the pharmaceutical giants."
-  },
-  {
-    "title": "BioNTech taps Sobi executive Oelkers as its next CEO",
-    "link": "https://www.biopharmadive.com/news/biontech-ceo-guido-oelkers-sobi-ugur-sahin/826805/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-03T15:49:00.000Z",
-    "summary": "Guido Oelkers will guide BioNTech’s ongoing transition into an oncology-focused biotech, while co-founder and longtime leader Ugur Sahin prepares to join a fledgling mRNA startup."
   }
 ]
