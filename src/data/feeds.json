@@ -1,11 +1,35 @@
 [
   {
+    "title": "Opinion: What my colleagues and I will look for as we assess U.S. measles elimination status",
+    "link": "https://www.statnews.com/2026/08/06/measles-elimination-status-2026-paho/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T08:30:00.000Z",
+    "summary": "Noel T. Brewer and colleagues will soon decide whether the U.S. has maintained its elimination status. Here’s what they’re looking at."
+  },
+  {
+    "title": "Opinion: Stop asking if AI is good for medicine",
+    "link": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T08:30:00.000Z",
+    "summary": "Overgeneralizations about AI can slow down the adoption of tools that work."
+  },
+  {
     "title": "FDA approves Moderna’s mRNA flu vaccine, the first to use the technology",
     "link": "https://www.statnews.com/2026/08/05/fda-approves-moderna-mflusiva-first-mrna-flu-vaccine/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-08-06T02:18:37.000Z",
     "summary": "The FDA has approved Moderna’s influenza vaccine, the first licensed flu shot made using messenger RNA technology."
+  },
+  {
+    "title": "Cardiac drug developer Braveheart banks more than $382M in IPO",
+    "link": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-06T00:01:00.000Z",
+    "summary": "Braveheart is one of five biotechnology firms that made plans to price an IPO this week, bringing in total what could ultimately be more than $1 billion from public investors."
   },
   {
     "title": "STAT+: Takeda’s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments",
@@ -160,6 +184,14 @@
     "summary": "Films and documentaries about assisted dying can narrow the frame of debate, write Anna Magdalena Elsner and Vanessa Rampton."
   },
   {
+    "title": "Expanding the molecular glue target space",
+    "link": "https://www.nature.com/articles/d41573-026-00132-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-05T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
     "link": "https://www.statnews.com/2026/08/04/ebola-1700-deaths-eastern-congo-fastest-growing-outbreak/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,20 +240,44 @@
     "summary": "Jennifer Taubert will step down after a lengthy run leading J&J’s pharmaceutical business. Elsewhere, pricing issues hampered what Wall Street analysts view as an otherwise strong gene therapy launch."
   },
   {
-    "title": "STAT+: Are AI scribes medical devices? U.K. regulator weighs in",
-    "link": "https://www.statnews.com/2026/08/04/ai-scribes-medical-devices-uk-regulator-view-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T13:23:31.000Z",
-    "summary": "In this edition of STAT Health Tech: UK regulator on AI scribes, CMS eliminates key payment pathways for 'breakthrough' devices, and more."
+    "title": "Designing small-molecule binding proteins",
+    "link": "https://www.nature.com/articles/d41573-026-00129-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a Lilly access program, a Gilead court victory, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/04/lilly-expands-retatrutide-access-program-gilead-court-victory/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-04T13:11:34.000Z",
-    "summary": "Eli Lilly confirmed that it will allow more patients to apply for early access to retatrutide, an unapproved obesity drug"
+    "title": "Optimizing translation of therapeutic mRNAs",
+    "link": "https://www.nature.com/articles/d41573-026-00131-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting tumour-associated macrophages",
+    "link": "https://www.nature.com/articles/d41573-026-00127-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Gene megacluster produces synergistic antibiotics",
+    "link": "https://www.nature.com/articles/d41573-026-00128-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Phage therapy for Crohn’s disease",
+    "link": "https://www.nature.com/articles/d41573-026-00126-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled.",
@@ -238,13 +294,5 @@
     "category": "industry",
     "date": "2026-08-03T15:49:00.000Z",
     "summary": "Guido Oelkers will guide BioNTech’s ongoing transition into an oncology-focused biotech, while co-founder and longtime leader Ugur Sahin prepares to join a fledgling mRNA startup."
-  },
-  {
-    "title": "Supernus, Indivior merge to beef up brain drug portfolio",
-    "link": "https://www.biopharmadive.com/news/supernus-individor-merger-brain-drugs/826822/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-03T14:02:30.000Z",
-    "summary": "The transaction combines two companies marketing nearly a dozen neurological drugs that bring in steady, but not blockbuster sales for conditions such as opioid use disorder and Parkinson's."
   }
 ]
