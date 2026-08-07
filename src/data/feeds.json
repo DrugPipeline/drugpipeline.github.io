@@ -1,5 +1,53 @@
 [
   {
+    "title": "Opinion: Fauci doesn’t have the answers on Covid’s origins. China does",
+    "link": "https://www.statnews.com/2026/08/07/fauci-contempt-congress-covid-origins-china/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-07T17:33:09.000Z",
+    "summary": "“To blame Fauci for not solving the origin of Covid-19 makes as much sense as blaming a detective in Washington, D.C., for not solving a murder in Wuhan,” writes David…"
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/08/07/up-and-down-ladder-latest-comings-and-goings-jobs-pharma-biotech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-07T16:38:27.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "STAT+: NIH plans to block international researchers on visas from accessing key funding avenue",
+    "link": "https://www.statnews.com/2026/08/07/nih-k99-pathways-independence-awards-scientists-on-visas-barred/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-07T16:31:41.000Z",
+    "summary": "The NIH plans to close the door on one of the few pathways available to international students on visas to forge a career in biomedical research in the U.S."
+  },
+  {
+    "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
+    "link": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-07T14:02:00.000Z",
+    "summary": "Early indicators from a compassionate use plan led analysts to hike projections for daraxonrasib. Elsewhere, Intellia believes it’s answered a key safety question and Arrowhead moved to catch a rival."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Replimune’s melanoma drug, a Medicare policy change, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/07/replimune-melanoma-drug-medicare-policy-change/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-07T13:18:05.000Z",
+    "summary": "Eli Lilly and Novo Nordisk convinced a federal judge to toss an antitrust lawsuit by a compound pharmacy"
+  },
+  {
+    "title": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-prevent-new-world-screwworm-multiple-species-including",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-07T13:00:09.000Z",
+    "summary": "FDA today issued an Emergency Use Authorization (EUA) for CLiK Extra (dicyclanil topical suspension) wound spray for application on or around wounds for the prevention of New World screwworm (NWS)…"
+  },
+  {
     "title": "Is the biotech capital of the world moving?",
     "link": "https://www.statnews.com/2026/08/07/biotech-news-boston-kendall-square-losing-ground-in-sf/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,38 +248,6 @@
     "summary": "The clearance paves the way for the first preventive flu shot based on mRNA technology and completes a dramatic regulatory turnaround."
   },
   {
-    "title": "STAT+: A scientist-turned-biotech executive is notching some wins, and enjoying it",
-    "link": "https://www.statnews.com/2026/08/06/greg-verdine-lifemine-parabilis-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-06T10:30:00.000Z",
-    "summary": "Scientist-turned-biotech executive Greg Verdine is having a very good year."
-  },
-  {
-    "title": "STAT+: Biotech’s next big bet: A Tenax study of a heart failure treatment",
-    "link": "https://www.statnews.com/2026/08/06/tenax-study-heart-failure-preview/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-06T10:30:00.000Z",
-    "summary": "Tenax Therapeutics will soon report results from a Phase 3 study that is one of the biggest binary biotech stock events remaining in the sector this year."
-  },
-  {
-    "title": "Opinion: What my colleagues and I will look for as we assess U.S. measles elimination status",
-    "link": "https://www.statnews.com/2026/08/06/measles-elimination-status-2026-paho/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-06T08:30:00.000Z",
-    "summary": "Noel T. Brewer and colleagues will soon decide whether the U.S. has maintained its elimination status. Here’s what they’re looking at."
-  },
-  {
-    "title": "Opinion: STAT+: Stop asking if AI is good for medicine",
-    "link": "https://www.statnews.com/2026/08/06/ai-health-care-skepticism-advances-nature-medicine-scribe-sepsis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-06T08:30:00.000Z",
-    "summary": "Overgeneralizations about AI can slow down the adoption of tools that work."
-  },
-  {
     "title": "Cardiac drug developer Braveheart banks more than $382M in IPO",
     "link": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
     "source": "BioPharma Dive",
@@ -270,14 +286,6 @@
     "category": "industry",
     "date": "2026-08-05T16:05:25.000Z",
     "summary": "The startup is the 12th drug company to bank at least $250 million in an IPO this year, nearly matching totals last seen during the sector’s pandemic peak, according to BioPharma Dive data."
-  },
-  {
-    "title": "Lilly climbs, Novo falls as obesity drug battle intensifies",
-    "link": "https://www.biopharmadive.com/news/lilly-novo-earnings-2q-2026-wegovy-pill-foundayo-obesity/827027/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-05T15:22:00.000Z",
-    "summary": "A research disappointment and a miss on Wegovy pill sales hurt Novo, while Lilly’s injectable franchise once again surpassed analyst expectations."
   },
   {
     "title": "Expanding the molecular glue target space",
