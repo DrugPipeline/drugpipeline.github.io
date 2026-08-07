@@ -1,5 +1,69 @@
 [
   {
+    "title": "Replimune rebounds to win FDA approval of melanoma drug",
+    "link": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-06T21:00:00.000Z",
+    "summary": "The accelerated clearance follows two earlier rejections and the support of an advisory panel that disputed the arguments of FDA scientists."
+  },
+  {
+    "title": "STAT+: FDA approves Replimune melanoma drug previously rejected twice",
+    "link": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T19:59:28.000Z",
+    "summary": "The FDA approved Replimune’s treatment for advanced melanoma, dealing the company and patient advocates a big win after a tumultuous saga."
+  },
+  {
+    "title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-06T19:56:59.000Z",
+    "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Tudriqev (vusolimogene oderparepvec-wtpg), a genetically modified oncolytic viral therapy for the treatment of advanced,…"
+  },
+  {
+    "title": "STAT+: Medicare quietly gave blockbuster AbbVie drug seven extra years before price negotiations, advocacy group asserts",
+    "link": "https://www.statnews.com/pharmalot/2026/08/06/medicare-gave-blockbuster-abbvie-drug-seven-extra-years-before-price-negotiations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T19:00:00.000Z",
+    "summary": "A little-noticed government policy shift caused a seven-year delay in choosing a costly medicine for Medicare price negotiations, an advocacy group says."
+  },
+  {
+    "title": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M",
+    "link": "https://www.biopharmadive.com/news/alkeus-tarsus-acquire-stargardt-drug-startup-boger/827243/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-06T18:07:00.000Z",
+    "summary": "Alkeus brought to late-stage testing a Stargardt disease therapy that former executive chairman and Vertex founder Josh Boger once called, “if it works, the most perfect drug I’ve ever seen.”"
+  },
+  {
+    "title": "Takeda approval ushers in new wave of sleep drugs",
+    "link": "https://www.biopharmadive.com/news/takeda-fda-sleep-drug-approval-orexin-orzeyful-narcolepsy/827190/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-06T16:08:48.000Z",
+    "summary": "An FDA nod mostly clears the way for Orzeyful to enter, by Wall Street estimates, a multibillion-dollar market for drugs that boost “orexin” proteins."
+  },
+  {
+    "title": "Erica Schwartz confirmed as next CDC director",
+    "link": "https://www.biopharmadive.com/news/erica-schwartz-cdc-director-senate-confirm-vaccines-rfk/827188/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-06T15:12:00.000Z",
+    "summary": "Schwartz will step into an agency that has been without a permanent leader for almost a year amid RFK Jr.’s tumultuous tenure as HHS chief."
+  },
+  {
+    "title": "STAT+: Study reveals new role for tau, a top target for Alzheimer’s drug development",
+    "link": "https://www.statnews.com/2026/08/06/research-finds-how-tau-targets-cells-structure-alzheimers-drug-development/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-06T15:00:00.000Z",
+    "summary": "The protein tau is top target for Alzheimer’s drug development, and a new study bolsters those efforts by describing a previously unknown role that tau plays in neurodegeneration."
+  },
+  {
     "title": "STAT+: Two FDA approvals — a new drug and a new vaccine",
     "link": "https://www.statnews.com/2026/08/06/biotech-news-two-fda-approvals-a-new-drug-and-a-new-vaccine/?utm_campaign=rss",
     "source": "STAT News",
@@ -125,7 +189,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-06T00:01:00.000Z",
-    "summary": "Braveheart is one of five biotechnology firms that made plans to price an IPO this week, bringing in total what could ultimately be more than $1 billion from public investors."
+    "summary": "Braveheart is one of five biotechnology firms that made plans to price an IPO this week. They could collectively raise more than $1 billion from public investors."
   },
   {
     "title": "STAT+: Takeda’s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments",
@@ -168,14 +232,6 @@
     "summary": "Some participants in a small trial showed improved tolerance to peanuts after fecal microbiome transplant."
   },
   {
-    "title": "STAT+: Once again, child dies in gene-editing trial in China, rekindling debate on transparency and safety",
-    "link": "https://www.statnews.com/2026/08/05/china-clinical-trial-fatality-safety-questions-investigator-led-studies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T17:46:55.000Z",
-    "summary": "With a second delayed report of a child's death in China, criticism is rising of a looser form of clinical trial. One expert: what \"bothers me is the lack of…"
-  },
-  {
     "title": "Attovia adds to biotech IPO momentum with $289M offering",
     "link": "https://www.biopharmadive.com/news/attovia-biotech-ipo-price-eczema-pruritis-drugs/827061/",
     "source": "BioPharma Dive",
@@ -198,101 +254,5 @@
     "category": "industry",
     "date": "2026-08-05T15:00:00.000Z",
     "summary": "Some analysts see warning signs in crucial drug launches from Gilead and Merck, while an important trial readout could change Pfizer’s growth trajectory."
-  },
-  {
-    "title": "STAT+: Moderna launches early trial of Ebola mRNA vaccine",
-    "link": "https://www.statnews.com/2026/08/05/biotech-news-moderna-launches-early-ebola-mrna-vaccine-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T13:32:45.000Z",
-    "summary": "Novo and Lilly earnings are out, Aurora Therapeutics slashing staff, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Why Schrödinger CEO Ramy Farid changed how he’s thinking about AI",
-    "link": "https://www.statnews.com/2026/08/05/they-changed-their-minds-on-ai-whos-next-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-05T13:29:59.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: Why Schrödinger CEO Ramy Farid is rethinking AI, Recursion's neuron map, and more health AI news."
-  },
-  {
-    "title": "A COPD drug from China draws $115M in venture funding",
-    "link": "https://www.biopharmadive.com/news/expedition-therapeutics-series-b-dpp1-copd-general-atlantic/826874/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-05T12:00:00.000Z",
-    "summary": "Expedition Therapeutics, which has raised nearly $300 million to date, is studying a drug it believes to have notable advantages over other COPD treatments either in development or on the market."
-  },
-  {
-    "title": "Expanding the molecular glue target space",
-    "link": "https://www.nature.com/articles/d41573-026-00132-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-05T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Vertex’s biggest overhang: a rival 50 times smaller",
-    "link": "https://www.biopharmadive.com/news/vertex-2q-2026-earnings-sionna-cystic-fibrosis-competition/826957/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-04T16:19:00.000Z",
-    "summary": "Despite another strong earnings report, analysts warned that upcoming cystic fibrosis data from Sionna Therapeutics \"looms large\" over Vertex."
-  },
-  {
-    "title": "Pfizer expands multibillion-dollar cost-cutting plan",
-    "link": "https://www.biopharmadive.com/news/pfizer-cost-cuts-savings-2q-2026-earnings/826930/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-04T15:55:00.000Z",
-    "summary": "Hatched three years ago, the restructuring is now expected to deliver $1 billion in new cost reductions and save Pfizer another $1.5 billion by streamlining drug production."
-  },
-  {
-    "title": "J&J pharma leader to retire; Krystal slumps on gene therapy miss",
-    "link": "https://www.biopharmadive.com/news/johnson-taubert-krystal-vyjuvek-merck-prometheus-pathos-pluvicto/826859/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-04T14:20:00.000Z",
-    "summary": "Jennifer Taubert will step down after a lengthy run leading J&J’s pharmaceutical business. Elsewhere, pricing issues hampered what Wall Street analysts view as an otherwise strong gene therapy launch."
-  },
-  {
-    "title": "Designing small-molecule binding proteins",
-    "link": "https://www.nature.com/articles/d41573-026-00129-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Optimizing translation of therapeutic mRNAs",
-    "link": "https://www.nature.com/articles/d41573-026-00131-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Targeting tumour-associated macrophages",
-    "link": "https://www.nature.com/articles/d41573-026-00127-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Gene megacluster produces synergistic antibiotics",
-    "link": "https://www.nature.com/articles/d41573-026-00128-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Phage therapy for Crohn’s disease",
-    "link": "https://www.nature.com/articles/d41573-026-00126-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
   }
 ]
