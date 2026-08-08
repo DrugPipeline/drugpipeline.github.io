@@ -96,6 +96,14 @@
     "summary": "Boston, with its rising costs, high taxes, and business climate, is losing ground to rivals across the country, sometimes even in biotech."
   },
   {
+    "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
+    "link": "https://www.nature.com/articles/s41573-026-01496-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-07T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Replimune rebounds to win FDA approval of melanoma drug",
     "link": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/",
     "source": "BioPharma Dive",
@@ -248,6 +256,22 @@
     "summary": "Braveheart is one of five biotechnology firms that made plans to price an IPO this week. They could collectively raise more than $1 billion from public investors."
   },
   {
+    "title": "Lilly spends US$2.8 billion on psychedelic drugs for mental health",
+    "link": "https://www.nature.com/articles/d41573-026-00134-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-06T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "First dual BAFF and APRIL inhibitor nabs FDA approval",
+    "link": "https://www.nature.com/articles/d41573-026-00133-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-06T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
     "source": "FDA Press Releases",
@@ -262,5 +286,45 @@
     "category": "industry",
     "date": "2026-08-05T16:05:25.000Z",
     "summary": "The startup is the 12th drug company to bank at least $250 million in an IPO this year, nearly matching totals last seen during the sector’s pandemic peak, according to BioPharma Dive data."
+  },
+  {
+    "title": "Expanding the molecular glue target space",
+    "link": "https://www.nature.com/articles/d41573-026-00132-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-05T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Designing small-molecule binding proteins",
+    "link": "https://www.nature.com/articles/d41573-026-00129-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Optimizing translation of therapeutic mRNAs",
+    "link": "https://www.nature.com/articles/d41573-026-00131-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting tumour-associated macrophages",
+    "link": "https://www.nature.com/articles/d41573-026-00127-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Gene megacluster produces synergistic antibiotics",
+    "link": "https://www.nature.com/articles/d41573-026-00128-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": ""
   }
 ]
