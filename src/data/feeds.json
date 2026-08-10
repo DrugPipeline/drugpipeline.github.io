@@ -1,5 +1,69 @@
 [
   {
+    "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
+    "link": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-10T16:22:59.000Z",
+    "summary": "Sionna’s medicine didn’t have a meaningful additive impact when combined with Vertex’s top-selling Trikafta, surprising analysts and collapsing company shares."
+  },
+  {
+    "title": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
+    "link": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-10T15:36:00.000Z",
+    "summary": "Actio Biosciences, which will receive $820 million up front in the deal, adds to a major upswing in private biotech buyouts seen throughout this year."
+  },
+  {
+    "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
+    "link": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-10T15:11:07.000Z",
+    "summary": "The FDA has rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis."
+  },
+  {
+    "title": "FDA to require notice of additives in food supply for the first time",
+    "link": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-10T15:00:00.000Z",
+    "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews."
+  },
+  {
+    "title": "STAT+: Ban prior auth? And hospitals cut jobs",
+    "link": "https://www.statnews.com/2026/08/10/advocate-ban-prior-authorization-340b-limits-impact-on-hospitals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-10T14:52:16.000Z",
+    "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions."
+  },
+  {
+    "title": "STAT+: FDA panel to weigh Grail’s Galleri test",
+    "link": "https://www.statnews.com/2026/08/10/biotech-news-fda-panel-to-weigh-grail-galleri-test/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-10T14:48:07.000Z",
+    "summary": "China reins in its biotech innovation engine, radiopharma boom meets unexpected hurdles, and more news from The Readout"
+  },
+  {
+    "title": "Scribe’s Benjamin Oakes on a rare IPO and bringing CRISPR to the masses",
+    "link": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-10T14:25:05.000Z",
+    "summary": "The CEO spoke with BioPharma Dive about convincing investors to buy into the first gene editing IPO in more than two years."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Sanofi drug shortage, a Jazz Pharma deal, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-10T13:24:23.000Z",
+    "summary": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease after the FDA warned the company over manufacturing issues"
+  },
+  {
     "title": "STAT+: Sionna’s experimental cystic fibrosis pill falls flat in mid-stage trial",
     "link": "https://www.statnews.com/2026/08/10/sionna-cystic-fibrosis-trial-failures-sion719-vertex-trikaft/?utm_campaign=rss",
     "source": "STAT News",
@@ -41,7 +105,7 @@
   },
   {
     "title": "Opinion: We prepared for Ebola — but not this Ebola",
-    "link": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundiugyo-diagnostics-therapeutics/?utm_campaign=rss",
+    "link": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-08-10T08:30:00.000Z",
@@ -62,6 +126,14 @@
     "category": "industry",
     "date": "2026-08-10T08:30:00.000Z",
     "summary": "Experts ask: How can we better reach out to people facing Medicaid renewal deadlines and support them through the paperwork requirements?"
+  },
+  {
+    "title": "Orexin receptor agonist secures landmark narcolepsy approval",
+    "link": "https://www.nature.com/articles/d41573-026-00135-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-10T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
@@ -102,6 +174,14 @@
     "category": "industry",
     "date": "2026-08-07T14:02:00.000Z",
     "summary": "Early indicators from a compassionate use plan led analysts to hike projections for daraxonrasib. Elsewhere, Intellia believes it’s answered a key safety question and Arrowhead moved to catch a rival."
+  },
+  {
+    "title": "Why Big Pharma is chasing the industry’s most-powerful supercomputer",
+    "link": "https://www.biopharmadive.com/news/big-pharma-nvidia-ai-supercomputer-drug-research/827406/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-07T13:57:00.000Z",
+    "summary": "Bristol Myers Squibb is the latest major drugmaker to tap Nvidia for more computing power, betting that larger models and AI agents can speed drug discovery."
   },
   {
     "title": "STAT+: Pharmalittle: We’re reading about Replimune’s melanoma drug, a Medicare policy change, and more",
@@ -152,22 +232,6 @@
     "summary": "“AI is not the villain here; it is a mirror,” reflecting the diminishment of physician judgment, writes former surgeon Frances Mei Hardin."
   },
   {
-    "title": "Opinion: I was in my office when bullets hit the CDC. A year later, the agency remains under attack",
-    "link": "https://www.statnews.com/2026/08/07/cdc-shooting-anniversary-public-health-threats/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-07T08:30:00.000Z",
-    "summary": "“It was briefly more dangerous to sit at a desk in Atlanta than to chase a hemorrhagic fever in the field,” writes Daniel Jernigan."
-  },
-  {
-    "title": "STAT+: He grew up near Boston, went to Harvard, and worked at MIT. Why did he found his startup in California?",
-    "link": "https://www.statnews.com/2026/08/07/why-did-this-boston-entrepreneur-found-his-biotech-startup-in-california/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-07T08:30:00.000Z",
-    "summary": "Boston, with its rising costs, high taxes, and business climate, is losing ground to rivals across the country, sometimes even in biotech."
-  },
-  {
     "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
     "link": "https://www.nature.com/articles/s41573-026-01496-2",
     "source": "Nature Reviews Drug Discovery",
@@ -184,28 +248,12 @@
     "summary": "The accelerated clearance follows two earlier rejections and the support of an advisory panel that disputed the arguments of FDA scientists."
   },
   {
-    "title": "STAT+: FDA approves Replimune melanoma drug previously rejected twice",
-    "link": "https://www.statnews.com/2026/08/06/replimune-melanoma-drug-rp1-fda-approves-phase-3-confirmatory-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-06T19:59:28.000Z",
-    "summary": "The FDA approved Replimune’s treatment for advanced melanoma, dealing the company and patient advocates a big win after a tumultuous saga."
-  },
-  {
     "title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-06T19:56:59.000Z",
     "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Tudriqev (vusolimogene oderparepvec-wtpg), a genetically modified oncolytic viral therapy for the treatment of advanced,…"
-  },
-  {
-    "title": "STAT+: Medicare quietly gave blockbuster AbbVie drug seven extra years before price negotiations, advocacy group asserts",
-    "link": "https://www.statnews.com/pharmalot/2026/08/06/medicare-gave-blockbuster-abbvie-drug-seven-extra-years-before-price-negotiations/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-06T19:00:00.000Z",
-    "summary": "A little-noticed government policy shift caused a seven-year delay in choosing a costly medicine for Medicare price negotiations, an advocacy group says."
   },
   {
     "title": "Alkeus, an unorthodox eye drug startup, acquired by Tarsus for up to $800M",
@@ -222,46 +270,6 @@
     "category": "industry",
     "date": "2026-08-06T16:08:48.000Z",
     "summary": "An FDA nod mostly clears the way for Orzeyful to enter, by Wall Street estimates, a multibillion-dollar market for drugs that boost “orexin” proteins."
-  },
-  {
-    "title": "Erica Schwartz confirmed as next CDC director",
-    "link": "https://www.biopharmadive.com/news/erica-schwartz-cdc-director-senate-confirm-vaccines-rfk/827188/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-06T15:12:00.000Z",
-    "summary": "Schwartz will step into an agency that has been without a permanent leader for almost a year amid RFK Jr.’s tumultuous tenure as HHS chief."
-  },
-  {
-    "title": "STAT+: Study reveals new role for tau, a top target for Alzheimer’s drug development",
-    "link": "https://www.statnews.com/2026/08/06/research-finds-how-tau-targets-cells-structure-alzheimers-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-06T15:00:00.000Z",
-    "summary": "The protein tau is top target for Alzheimer’s drug development, and a new study bolsters those efforts by describing a previously unknown role that tau plays in neurodegeneration."
-  },
-  {
-    "title": "With $263M, LifeMine unearths a new drug for organ transplants",
-    "link": "https://www.biopharmadive.com/news/lifemine-organ-transplant-rejection-drug-greg-verdine-financing/827145/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-06T13:17:00.000Z",
-    "summary": "Led by serial biotech entrepreneur Greg Verdine, the startup mined fungi genomes to find a safer alternative to the drugs widely used to prevent the body from rejecting transplanted organs."
-  },
-  {
-    "title": "FDA approves Moderna’s mRNA flu vaccine",
-    "link": "https://www.biopharmadive.com/news/moderna-fda-approve-mflusiva-seasonal-influenza/826864/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-06T11:10:00.000Z",
-    "summary": "The clearance paves the way for the first preventive flu shot based on mRNA technology and completes a dramatic regulatory turnaround."
-  },
-  {
-    "title": "Cardiac drug developer Braveheart banks more than $382M in IPO",
-    "link": "https://www.biopharmadive.com/news/braveheart-cardiac-drugs-ipo-pricing/826973/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-06T00:01:00.000Z",
-    "summary": "Braveheart is one of five biotechnology firms that made plans to price an IPO this week. They could collectively raise more than $1 billion from public investors."
   },
   {
     "title": "Lilly spends US$2.8 billion on psychedelic drugs for mental health",
@@ -314,14 +322,6 @@
   {
     "title": "Targeting tumour-associated macrophages",
     "link": "https://www.nature.com/articles/d41573-026-00127-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Gene megacluster produces synergistic antibiotics",
-    "link": "https://www.nature.com/articles/d41573-026-00128-z",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-08-04T00:00:00.000Z",
