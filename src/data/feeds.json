@@ -1,6 +1,70 @@
 [
   {
-    "title": "STAT+: Skylar Bio kicks off new gene therapy trial for deafness",
+    "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
+    "link": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T16:57:34.000Z",
+    "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board."
+  },
+  {
+    "title": "Opinion: Trump says his executive order should restore trust in vaccines. It does the exact opposite",
+    "link": "https://www.statnews.com/2026/08/11/trump-executive-order-vaccines-undecided-parents-trust/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T16:46:06.000Z",
+    "summary": "The White House says Trump’s recent executive order is aimed at restoring trust in vaccines. It will do the opposite, writes an epidemiologist."
+  },
+  {
+    "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
+    "link": "https://www.biopharmadive.com/news/k2-ying-huang-biotech-startup-mpm-china-drugs/827544/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-11T16:12:00.000Z",
+    "summary": "Ying Huang is now running K2 Therapeutics, which has licensed multiple prospects from China-based biotechs and is searching for more “high-potential” medicines."
+  },
+  {
+    "title": "How we know that splitting up the MMR vaccine could be dangerous",
+    "link": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T14:28:57.000Z",
+    "summary": "It's no mystery. History tells us that President Trump’s executive order calling for the MMR to be split into separate shots could do real harm."
+  },
+  {
+    "title": "STAT+: Trump’s vaccine pivot overshadows food rule",
+    "link": "https://www.statnews.com/2026/08/11/trump-vaccine-policy-pivot-overshadows-fda-gras-food-rule-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T14:19:47.000Z",
+    "summary": "Trump is turning the focus back to controversial vaccine policy, overshadowing a new move on food additives."
+  },
+  {
+    "title": "Chasing Dupixent, a biotech aims to make better antibody drugs for eczema",
+    "link": "https://www.biopharmadive.com/news/infinimmune-atopic-dermatitis-series-a-financing-dupixent/827504/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-11T13:40:00.000Z",
+    "summary": "Infinimmune, a California startup, is developing treatments it claims might last longer and be more effective than existing atopic dermatitis medications."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA rejection, 340B court battles, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/11/fda-rejects-radiopharmaceutical-340b-court-battles/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T13:27:20.000Z",
+    "summary": "The FDA rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis"
+  },
+  {
+    "title": "STAT+: A RAPID proposal for breakthrough coverage, and nurses push back on AI",
+    "link": "https://www.statnews.com/2026/08/11/cms-rapid-breakthrough-device-coverage-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T13:15:49.000Z",
+    "summary": "In this edition of STAT Health Tech: Details from CMS and FDA on the RAPID pathway for breakthrough devices, and nurses push back on AI."
+  },
+  {
+    "title": "STAT+: Skylark Bio kicks off new gene therapy trial for deafness",
     "link": "https://www.statnews.com/2026/08/11/skylark-bio-gjb2-otoferlin-gene-therapies-for-deafness/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -14,6 +78,14 @@
     "category": "industry",
     "date": "2026-08-11T12:00:00.000Z",
     "summary": "The startup has completed enrollment of an early-stage study testing a first-of-its-kind treatment for facioscapulohumeral muscular dystrophy, a disease targeted by many other drugmakers."
+  },
+  {
+    "title": "Trump signs order seeking to upend childhood vaccine schedule",
+    "link": "https://www.biopharmadive.com/news/trump-executive-order-childhood-vaccine-schedule-autism/827510/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-11T11:43:00.000Z",
+    "summary": "The executive order — which wasn’t accompanied by any new scientific evidence — aims to split the MMR vaccine into three separate shots and revives the administration’s attempt to slim down the…"
   },
   {
     "title": "Vaderis hauls in $152M to test an AKT-targeting drug",
@@ -152,52 +224,12 @@
     "summary": "A Tenax Therapeutics drug designed to treat a type of heart failure associated with high blood pressure in the lungs failed in a closely watched study."
   },
   {
-    "title": "STAT+: Silence Therapeutics aims at Takeda with new data in rare blood cancer",
-    "link": "https://www.statnews.com/2026/08/10/silence-polycythemia-vera-trial-results-divesiran-takeda-rusfertide/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T11:31:00.000Z",
-    "summary": "A rare blood cancer drug from Silence Therapeutics showed strong results in a trial, potentially setting it up to compete with a Takeda medicine."
-  },
-  {
     "title": "Regulatory operations: The overlooked half of submission readiness",
     "link": "https://www.biopharmadive.com/spons/regulatory-operations-the-overlooked-half-of-submission-readiness/826683/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-10T09:00:00.000Z",
     "summary": "Submission readiness extends beyond content. Early regulatory operations planning supports a compliant, high-quality application."
-  },
-  {
-    "title": "STAT+: China tightens the reins on clinical trials, even as the U.S. looks for ways to replicate its rival’s speed",
-    "link": "https://www.statnews.com/2026/08/10/china-biotech-new-scrutiny-investigator-initiated-trials/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T08:30:00.000Z",
-    "summary": "China has tightened regulations on investigator-initiated trials, with consequences not just for Chinese researchers but some Americans, too."
-  },
-  {
-    "title": "Opinion: We prepared for Ebola — but not this Ebola",
-    "link": "https://www.statnews.com/2026/08/10/ebola-outbreak-zaire-ebolavirus-bundibugyo-diagnostics-therapeutics/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T08:30:00.000Z",
-    "summary": "“Preparedness cannot mean optimizing every investment for yesterday's epidemic,” write Krutika Kuppalli and Placide Mbala."
-  },
-  {
-    "title": "STAT+: The promise of radiopharmaceuticals smacks into safety concerns",
-    "link": "https://www.statnews.com/2026/08/10/radiopharmaceuticals-clinical-trials-progress-setbacks/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T08:30:00.000Z",
-    "summary": "Despite excitement over the potential of radiopharmaceuticals as cancer treatments, drug developers are hitting new hurdles."
-  },
-  {
-    "title": "Opinion: How should states reach out to Medicaid enrollees affected by changes? Our research gives a hint",
-    "link": "https://www.statnews.com/2026/08/10/medicaid-work-requirement-changes-states-contact/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T08:30:00.000Z",
-    "summary": "Experts ask: How can we better reach out to people facing Medicaid renewal deadlines and support them through the paperwork requirements?"
   },
   {
     "title": "Orexin receptor agonist secures landmark narcolepsy approval",
@@ -208,28 +240,12 @@
     "summary": ""
   },
   {
-    "title": "STAT+: A shortage of two Sanofi medicines for Pompe disease rattles patients",
-    "link": "https://www.statnews.com/pharmalot/2026/08/09/sanofi-pompe-disease-drug-shortage-myozyme-nexviazyme/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-09T23:16:45.000Z",
-    "summary": "Sanofi is experiencing shortages of two medicines for Pompe disease, alarming patient groups."
-  },
-  {
     "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
     "link": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-07T14:02:00.000Z",
     "summary": "Early indicators from a compassionate use plan led analysts to hike projections for daraxonrasib. Elsewhere, Intellia believes it’s answered a key safety question and Arrowhead moved to catch a rival."
-  },
-  {
-    "title": "Why Big Pharma is chasing the industry’s most-powerful supercomputer",
-    "link": "https://www.biopharmadive.com/news/big-pharma-nvidia-ai-supercomputer-drug-research/827406/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-07T13:57:00.000Z",
-    "summary": "Bristol Myers Squibb is the latest major drugmaker to tap Nvidia for more computing power, betting that larger models and AI agents can speed drug discovery."
   },
   {
     "title": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
@@ -240,28 +256,12 @@
     "summary": "FDA today issued an Emergency Use Authorization (EUA) for CLiK Extra (dicyclanil topical suspension) wound spray for application on or around wounds for the prevention of New World screwworm (NWS)…"
   },
   {
-    "title": "Latigo IPO raises nearly $350M for pain drug development",
-    "link": "https://www.biopharmadive.com/news/latigo-ipo-public-biotech-pain-drug-nasdaq/827300/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-07T12:00:00.000Z",
-    "summary": "The company could rival Vertex and Lilly in the burgeoning market for non-opioid, ion-channel-blocking pain drugs. Its offering also adds to a recent and significant uptick in large biotech IPOs."
-  },
-  {
     "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
     "link": "https://www.nature.com/articles/s41573-026-01496-2",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-08-07T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Replimune rebounds to win FDA approval of melanoma drug",
-    "link": "https://www.biopharmadive.com/news/replimune-tudriqev-fda-approve-melanoma-rp1/827226/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-06T21:00:00.000Z",
-    "summary": "The accelerated clearance follows two earlier rejections and the support of an advisory panel that disputed the arguments of FDA scientists."
   },
   {
     "title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
