@@ -1,5 +1,21 @@
 [
   {
+    "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
+    "link": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T22:30:00.000Z",
+    "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds."
+  },
+  {
+    "title": "Medicaid will stop paying for some gender-affirming care for transgender minors",
+    "link": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-11T22:18:55.000Z",
+    "summary": "The Trump administration plans to end federal funding for some care for transgender minors."
+  },
+  {
     "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
     "link": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,36 +224,12 @@
     "summary": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease after the FDA warned the company over manufacturing issues"
   },
   {
-    "title": "STAT+: Sionna’s experimental cystic fibrosis pill falls flat in mid-stage trial",
-    "link": "https://www.statnews.com/2026/08/10/sionna-cystic-fibrosis-trial-failures-sion719-vertex-trikaft/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T12:03:17.000Z",
-    "summary": "A pill from Sionna Therapeutics provided no added benefit when combined with Vertex's cystic fibrosis blockbuster Trikafta, a blow to the biotech."
-  },
-  {
-    "title": "STAT+: Heart failure drug from Tenax Therapeutics fails in pivotal study",
-    "link": "https://www.statnews.com/2026/08/10/tenax-heart-failure-drug-trail-failure-levosimendan-ph-hfpef/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T11:38:20.000Z",
-    "summary": "A Tenax Therapeutics drug designed to treat a type of heart failure associated with high blood pressure in the lungs failed in a closely watched study."
-  },
-  {
     "title": "Regulatory operations: The overlooked half of submission readiness",
     "link": "https://www.biopharmadive.com/spons/regulatory-operations-the-overlooked-half-of-submission-readiness/826683/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-10T09:00:00.000Z",
     "summary": "Submission readiness extends beyond content. Early regulatory operations planning supports a compliant, high-quality application."
-  },
-  {
-    "title": "Orexin receptor agonist secures landmark narcolepsy approval",
-    "link": "https://www.nature.com/articles/d41573-026-00135-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-10T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
@@ -256,14 +248,6 @@
     "summary": "FDA today issued an Emergency Use Authorization (EUA) for CLiK Extra (dicyclanil topical suspension) wound spray for application on or around wounds for the prevention of New World screwworm (NWS)…"
   },
   {
-    "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
-    "link": "https://www.nature.com/articles/s41573-026-01496-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-07T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
     "source": "FDA Press Releases",
@@ -272,35 +256,11 @@
     "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Tudriqev (vusolimogene oderparepvec-wtpg), a genetically modified oncolytic viral therapy for the treatment of advanced,…"
   },
   {
-    "title": "Lilly spends US$2.8 billion on psychedelic drugs for mental health",
-    "link": "https://www.nature.com/articles/d41573-026-00134-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "First dual BAFF and APRIL inhibitor nabs FDA approval",
-    "link": "https://www.nature.com/articles/d41573-026-00133-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-05T19:42:58.000Z",
     "summary": "The FDA approved Orzeyful (oveporexton) tablets for the treatment of narcolepsy type 1 in adults."
-  },
-  {
-    "title": "Expanding the molecular glue target space",
-    "link": "https://www.nature.com/articles/d41573-026-00132-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-05T00:00:00.000Z",
-    "summary": ""
   }
 ]
