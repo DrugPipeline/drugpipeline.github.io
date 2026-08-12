@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: The secret AI-startup project I’ve been working on the last six months",
+    "link": "https://www.statnews.com/2026/08/12/the-secret-startup-project-ive-been-working-on-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T12:09:15.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: The messy reality of hastily developing and selling AI tools to clinics, and other health AI news."
+  },
+  {
+    "title": "STAT+: Definium Therapeutics says its LSD therapy eased anxiety in late-stage trial",
+    "link": "https://www.statnews.com/2026/08/12/definium-lsd-treatment-anxiety-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T12:01:16.000Z",
+    "summary": "Definium Therapeutics said that its LSD therapy significantly helped patients with generalized anxiety disorder in the first of two large trials."
+  },
+  {
+    "title": "STAT+: Biotech company co-founded by top autoimmune researcher lays out plans with antibody therapies",
+    "link": "https://www.statnews.com/2026/08/12/boulevard-bio-georg-schett-antibody-therapies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T10:30:00.000Z",
+    "summary": "German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment. Now he's co-founding his own company."
+  },
+  {
+    "title": "Boulevard starts up with $65M to pursue targeted autoimmune drugs",
+    "link": "https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-12T10:30:00.000Z",
+    "summary": "Co-founded by pioneering researcher Georg Schett and ex-Sanofi CSO Frank Nestle, the startup is advancing a trio of multifaceted antibodies with the potential to treat several immune diseases."
+  },
+  {
+    "title": "STAT+: Neurocrine Biosciences rare disease drug possibly tied to safety issues, experts say",
+    "link": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T08:30:00.000Z",
+    "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say."
+  },
+  {
+    "title": "Opinion: Climate change is making people with chronic illness even sicker",
+    "link": "https://www.statnews.com/2026/08/12/climate-change-chronic-disease-heat-smoke-arthritis-lupus-pots/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T08:30:00.000Z",
+    "summary": "“What research can definitively tell us is that climate change is here, and it’s already making people sick,” writes Lorraine Boissoneault."
+  },
+  {
+    "title": "STAT+: Inside a $7 billion Silicon Valley startup’s mad dash to automate the business of health care",
+    "link": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T08:30:00.000Z",
+    "summary": "Commure wants to automate health care's administrative tasks with AI. An inside look at the messy realities of the startup's ambitious quest."
+  },
+  {
+    "title": "Oncolytic virus nabs FDA approval",
+    "link": "https://www.nature.com/articles/d41573-026-00136-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-12T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
     "link": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,14 +216,6 @@
     "summary": "As institutional review boards face pressure from companies and ethicists, North Star Review Board offers a nonprofit model as more independent."
   },
   {
-    "title": "Trump returns to controversial vaccine policy with order questioning childhood schedule",
-    "link": "https://www.statnews.com/2026/08/10/trump-return-to-vaccine-policy-executive-order/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T19:29:51.000Z",
-    "summary": "The Trump administration, which had recently avoided public discussions of vaccine policy because of concern around the political repercussions, is changing course."
-  },
-  {
     "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
     "link": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
     "source": "BioPharma Dive",
@@ -176,52 +232,12 @@
     "summary": "Actio Biosciences, which will receive $820 million up front in the deal, adds to a major upswing in private biotech buyouts seen throughout this year."
   },
   {
-    "title": "STAT+: In surprise decision, FDA rejects radiopharma therapy expected to rival Novartis treatment",
-    "link": "https://www.statnews.com/2026/08/10/itm-radiopharma-fda-rejection/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T15:11:07.000Z",
-    "summary": "The FDA has rejected a radiopharmaceutical therapy because of manufacturing issues, halting what would have been a competitor for Novartis."
-  },
-  {
-    "title": "FDA to require notice of additives in food supply for the first time",
-    "link": "https://www.statnews.com/2026/08/10/rfk-jr-proposal-fda-gras-rule-generally-recognized-as-safe/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T15:00:00.000Z",
-    "summary": "RFK Jr. is claiming a win with a new proposal on the food industry's GRAS loophole; nutrition advocates give mixed reviews."
-  },
-  {
-    "title": "STAT+: Ban prior auth? And hospitals cut jobs",
-    "link": "https://www.statnews.com/2026/08/10/advocate-ban-prior-authorization-340b-limits-impact-on-hospitals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T14:52:16.000Z",
-    "summary": "We examine a call to reform how health insurers do business, and a look at the impact of 340B restrictions."
-  },
-  {
-    "title": "STAT+: FDA panel to weigh Grail’s Galleri test",
-    "link": "https://www.statnews.com/2026/08/10/biotech-news-fda-panel-to-weigh-grail-galleri-test/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T14:48:07.000Z",
-    "summary": "China reins in its biotech innovation engine, radiopharma boom meets unexpected hurdles, and more news from The Readout"
-  },
-  {
     "title": "Scribe’s Benjamin Oakes on a rare IPO and bringing CRISPR to the masses",
     "link": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-10T14:25:05.000Z",
     "summary": "The CEO spoke with BioPharma Dive about convincing investors to buy into the first gene editing IPO in more than two years."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Sanofi drug shortage, a Jazz Pharma deal, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/10/sanofi-drug-shortage-jazz-pharma-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-10T13:24:23.000Z",
-    "summary": "Sanofi is experiencing shortages of two medicines used to treat Pompe disease after the FDA warned the company over manufacturing issues"
   },
   {
     "title": "Regulatory operations: The overlooked half of submission readiness",
@@ -238,14 +254,6 @@
     "category": "research",
     "date": "2026-08-10T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "‘Significant’ demand for Revolution drug; Intellia pinpoints liver toxicity culprit",
-    "link": "https://www.biopharmadive.com/news/daraxonrasib-compassionate-use-intellia-arrowhead-cspc-vedanta/827186/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-07T14:02:00.000Z",
-    "summary": "Early indicators from a compassionate use plan led analysts to hike projections for daraxonrasib. Elsewhere, Intellia believes it’s answered a key safety question and Arrowhead moved to catch a rival."
   },
   {
     "title": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
