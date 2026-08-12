@@ -1,5 +1,61 @@
 [
   {
+    "title": "WHO says Trump’s latest vaccine policy order is misguided",
+    "link": "https://www.statnews.com/2026/08/12/trump-vaccine-executive-order-critiqued-by-tedros-who/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T18:03:06.000Z",
+    "summary": "The White House's order attempting to overhaul the vaccine schedule could subject children to more needles and more disease risk, world health leaders say."
+  },
+  {
+    "title": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide",
+    "link": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-12T15:19:00.000Z",
+    "summary": "Ahead of an approval filing, the drugmaker is amping up a fight against sellers who claim to offer versions of its highly anticipated “triple-G” weight loss medicine."
+  },
+  {
+    "title": "STAT+: Cancer patients face longer wait times to begin treatment, according to new study",
+    "link": "https://www.statnews.com/2026/08/12/cancer-patients-face-longer-wait-times-for-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T15:00:00.000Z",
+    "summary": "“Across every cancer we studied, patients are waiting longer today than they were a decade ago.”"
+  },
+  {
+    "title": "Opinion: The Lindsay Clancy case shows the limits of postpartum psychiatry",
+    "link": "https://www.statnews.com/2026/08/12/lindsay-clancy-postpartum-psychosis-diagnosis-treatment-limits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T14:51:09.000Z",
+    "summary": "“Our understanding and treatment of postpartum psychiatric illnesses remain profoundly inadequate,” experts write."
+  },
+  {
+    "title": "Psychedelics developer Definium scores more positive data for LSD pill",
+    "link": "https://www.biopharmadive.com/news/definium-lsd-psychedelics-trial-results-gad-anxiety/827669/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-12T14:33:00.000Z",
+    "summary": "Results from a late-stage study focused on generalized anxiety disorder were a “clean win” to analysts, who believe Definium has a drug with multibillion-dollar sales potential."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Lilly ‘black market’ lawsuits, pushback over Trump vaccine plan, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/12/lilly-black-market-lawsuits-trump-vaccine-plan-pushback/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-12T13:22:37.000Z",
+    "summary": "Eli Lilly filed six lawsuits against U.S. companies it accuses of illegally selling black-market versions of its experimental obesity drug retatrutide"
+  },
+  {
+    "title": "Silence cashes in on ‘differentiated’ data; UK reaffirms support for childhood vaccines",
+    "link": "https://www.biopharmadive.com/news/silence-divesiran-vaccines-itm-crl-abcellera-biomarin/827400/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-12T13:11:00.000Z",
+    "summary": "Some analysts believe Silence’s polycythemia vera drug could be superior to a closely watched Takeda medicine. Elsewhere, the FDA spurned a radiopharmaceutical and AbCellera shares climbed to levels…"
+  },
+  {
     "title": "STAT+: The secret AI-startup project I’ve been working on the last six months",
     "link": "https://www.statnews.com/2026/08/12/the-secret-startup-project-ive-been-working-on-ai-prognosis/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,68 +240,12 @@
     "summary": "Biotech companies don’t hide or obfuscate strong data."
   },
   {
-    "title": "STAT+: Nurses seek a seat at the table as they fight expanding clinical AI",
-    "link": "https://www.statnews.com/2026/08/11/nurses-seek-involvement-clinical-ai-decisions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T08:30:00.000Z",
-    "summary": "Nurses, who make up the largest part of the health care workforce, say clinical artificial intelligence poses a threat to their jobs, and patients."
-  },
-  {
-    "title": "Opinion: Burdensome Medicare GLP-1 program may keep patients from accessing $50 per month weight loss drugs",
-    "link": "https://www.statnews.com/2026/08/11/medicare-weight-loss-drugs-glp-1s-bridge-program-primary-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T08:30:00.000Z",
-    "summary": "Medicare’s new weight loss drug program “risks creating barriers at precisely the moment when confidence in broader GLP‑1 coverage is most needed,” writes Jeffrey Millstein."
-  },
-  {
-    "title": "Opinion: The new geography of abortion care",
-    "link": "https://www.statnews.com/2026/08/11/abortion-post-dobbs-clinic-hotline-advice/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T08:30:00.000Z",
-    "summary": "Even before Dobbs, patients had “begun reorganizing abortion care outside traditional health care settings,” writes Jennifer Karlin."
-  },
-  {
-    "title": "IRBs have a problem. Can North Star’s nonprofit model save it?",
-    "link": "https://www.statnews.com/2026/08/11/north-star-review-founders-advocate-nonprofit-approach-institutional-oversight/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T08:30:00.000Z",
-    "summary": "As institutional review boards face pressure from companies and ethicists, North Star Review Board offers a nonprofit model as more independent."
-  },
-  {
     "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
     "link": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-10T16:22:59.000Z",
     "summary": "Sionna’s medicine didn’t have a meaningful additive impact when combined with Vertex’s top-selling Trikafta, surprising analysts and collapsing company shares."
-  },
-  {
-    "title": "Jazz to buy rare epilepsy drugmaker in potentially $1.3B deal",
-    "link": "https://www.biopharmadive.com/news/jazz-actio-acquisition-deal-rare-neurological-epilepsy/827409/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-10T15:36:00.000Z",
-    "summary": "Actio Biosciences, which will receive $820 million up front in the deal, adds to a major upswing in private biotech buyouts seen throughout this year."
-  },
-  {
-    "title": "Scribe’s Benjamin Oakes on a rare IPO and bringing CRISPR to the masses",
-    "link": "https://www.biopharmadive.com/news/scribe-gene-editing-ipo-benjamin-oakes-epigenetic-pcsk9/827432/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-10T14:25:05.000Z",
-    "summary": "The CEO spoke with BioPharma Dive about convincing investors to buy into the first gene editing IPO in more than two years."
-  },
-  {
-    "title": "Regulatory operations: The overlooked half of submission readiness",
-    "link": "https://www.biopharmadive.com/spons/regulatory-operations-the-overlooked-half-of-submission-readiness/826683/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-10T09:00:00.000Z",
-    "summary": "Submission readiness extends beyond content. Early regulatory operations planning supports a compliant, high-quality application."
   },
   {
     "title": "Orexin receptor agonist secures landmark narcolepsy approval",
