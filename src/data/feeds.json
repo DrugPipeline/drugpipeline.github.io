@@ -1,5 +1,53 @@
 [
   {
+    "title": "FDA Issues Emergency Use Authorization for Drug to Treat New World Screwworm in Dogs and Puppies",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-treat-new-world-screwworm-dogs-and-puppies",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-13T17:02:58.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Simparica TRIO (sarolaner, moxidectin, and pyrantel chewable tablets) for the treatment of New World…"
+  },
+  {
+    "title": "New Taiho, Cullian data heats up lung cancer drug battle",
+    "link": "https://www.biopharmadive.com/news/taiho-cullinan-zipalertinib-egfr-exon20-lung-cancer-results/827785/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-13T16:05:00.000Z",
+    "summary": "The findings position their drug, zipalertinib, as a threat to multiple approved medicines — while setting a bar for others in testing."
+  },
+  {
+    "title": "PTC takes a chance on Sangamo’s Fabry disease gene therapy",
+    "link": "https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-13T15:10:00.000Z",
+    "summary": "Wall Street analysts view the deal as a risky, high-reward bet on a treatment that’s nearing a possible regulatory approval and could be superior to existing medications."
+  },
+  {
+    "title": "STAT+: Eli Lilly targets booming black market for retatrutide",
+    "link": "https://www.statnews.com/2026/08/13/biotech-news-eli-lilly-targets-booming-retatrutide-black-market/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T14:46:37.000Z",
+    "summary": "Khartis raises oral immunology funds, Neurocrine drug safety concerns, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Kennedy heads west, slams Becerra",
+    "link": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T14:37:18.000Z",
+    "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about California insulin sales, a Moderna patent battle, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/13/california-insulin-sales-moderna-patent-battle/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T13:19:42.000Z",
+    "summary": "Seven months after the launch of its own low-cost insulin brand, California has distributed more than 120,000 five-pen packs of insulin glargine priced at $55 each"
+  },
+  {
     "title": "STAT+: An investigation into Commure, and  Medicare’s new-tech incentives for AI devices",
     "link": "https://www.statnews.com/2026/08/13/commure-investigation-medicare-tech-incentives-health-tech/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,22 +208,6 @@
     "summary": "In this edition of STAT's AI Prognosis: The messy reality of hastily developing and selling AI tools to clinics, and other health AI news."
   },
   {
-    "title": "STAT+: Definium Therapeutics says its LSD therapy eased anxiety in late-stage trial",
-    "link": "https://www.statnews.com/2026/08/12/definium-lsd-treatment-anxiety-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-12T12:01:16.000Z",
-    "summary": "Definium Therapeutics said that its LSD therapy significantly helped patients with generalized anxiety disorder in the first of two large trials."
-  },
-  {
-    "title": "STAT+: Biotech company co-founded by top autoimmune researcher lays out plans with antibody therapies",
-    "link": "https://www.statnews.com/2026/08/12/boulevard-bio-georg-schett-antibody-therapies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-12T10:30:00.000Z",
-    "summary": "German researcher Georg Schett has made a name for himself as a pioneer in autoimmune disease treatment. Now he's co-founding his own company."
-  },
-  {
     "title": "Boulevard starts up with $65M to pursue targeted autoimmune drugs",
     "link": "https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/",
     "source": "BioPharma Dive",
@@ -184,12 +216,12 @@
     "summary": "Co-founded by pioneering researcher Georg Schett and ex-Sanofi CSO Frank Nestle, the startup is advancing a trio of multifaceted antibodies with the potential to treat several immune diseases."
   },
   {
-    "title": "STAT+: Neurocrine Biosciences rare disease drug possibly tied to safety issues, experts say",
-    "link": "https://www.statnews.com/2026/08/12/neurocrine-biosciences-vykat-prader-willi/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-12T08:30:00.000Z",
-    "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say."
+    "title": "Oncolytic virus nabs FDA approval",
+    "link": "https://www.nature.com/articles/d41573-026-00136-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-12T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
@@ -224,20 +256,12 @@
     "summary": "The executive order — which wasn’t accompanied by any new scientific evidence — aims to split the MMR vaccine into three separate shots and revives the administration’s attempt to slim down the…"
   },
   {
-    "title": "Vaderis hauls in $152M to test an AKT-targeting drug",
-    "link": "https://www.biopharmadive.com/news/vaderis-series-b-engasertib-hht-akt-inhibitor/827466/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-11T11:00:00.000Z",
-    "summary": "The startup is one of at least a few young companies zeroing in on the rare bleeding disorder, hereditary hemorrhagic telangiectasia, with a more precise AKT blocker."
-  },
-  {
-    "title": "Sionna cystic fibrosis drug fails key trial, removing threat to Vertex",
-    "link": "https://www.biopharmadive.com/news/sionna-cystic-fibrosis-drug-study-results-vertex-trikafta/827431/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-10T16:22:59.000Z",
-    "summary": "Sionna’s medicine didn’t have a meaningful additive impact when combined with Vertex’s top-selling Trikafta, surprising analysts and collapsing company shares."
+    "title": "Orexin receptor agonist secures landmark narcolepsy approval",
+    "link": "https://www.nature.com/articles/d41573-026-00135-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-10T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
@@ -246,6 +270,14 @@
     "category": "regulatory",
     "date": "2026-08-07T13:00:09.000Z",
     "summary": "FDA today issued an Emergency Use Authorization (EUA) for CLiK Extra (dicyclanil topical suspension) wound spray for application on or around wounds for the prevention of New World screwworm (NWS)…"
+  },
+  {
+    "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
+    "link": "https://www.nature.com/articles/s41573-026-01496-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-07T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
