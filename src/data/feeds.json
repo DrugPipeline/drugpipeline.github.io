@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: An investigation into Commure, and  Medicare’s new-tech incentives for AI devices",
+    "link": "https://www.statnews.com/2026/08/13/commure-investigation-medicare-tech-incentives-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T12:29:26.000Z",
+    "summary": "In this edition of STAT Health Tech: a deep dive into General Catalyst-backed Commure, and Medicare's tech incentives for AI devices."
+  },
+  {
+    "title": "STAT+: Neurocrine Biosciences and the delicate balance of benefit and risk",
+    "link": "https://www.statnews.com/2026/08/13/neurocrine-biosciences-vykat-prader-willi-2/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T10:30:00.000Z",
+    "summary": "When it comes to rare disease treatments, patients often confront a difficult risk-benefit calculus. Such is the case with a therapy from Neurocrine Biosciences."
+  },
+  {
+    "title": "STAT+: What patients actually think about ‘minimally invasive’ brain implants",
+    "link": "https://www.statnews.com/2026/08/13/patient-perspectives-on-brain-implants-for-depression/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T08:30:00.000Z",
+    "summary": "A new study polled people with treatment-resistant depression about what matters to them when it comes to brain implants for mental health."
+  },
+  {
+    "title": "STAT+: What Medicare incentives for AI-based devices mean for tech companies — and hospitals",
+    "link": "https://www.statnews.com/2026/08/13/how-medicare-cms-pays-ntap-for-new-ai-medical-devices/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T08:30:00.000Z",
+    "summary": "As Medicare pays hospitals when they use newly-authorized AI devices, researchers say those payments could incentivize overuse."
+  },
+  {
+    "title": "Opinion: I’ve seen what life is like without vaccines. Americans need to understand what they save us from",
+    "link": "https://www.statnews.com/2026/08/13/trump-vaccine-executive-order-mmr-separate-shots-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T08:30:00.000Z",
+    "summary": "“The ability to prevent a deadly infectious disease is an extraordinary privilege,” writes infectious disease physician Krutika Kuppalli."
+  },
+  {
+    "title": "Opinion: How to disrupt the health misinformation business model",
+    "link": "https://www.statnews.com/2026/08/13/statin-misinformation-medicine-scams-online-regulation-fact-checks/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T08:30:00.000Z",
+    "summary": "One way to fight medical misinformation: make it easier for people to understand when they are being manipulated, write Paul Martin Jensen and Avi Tuschman."
+  },
+  {
+    "title": "STAT+: As young people increasingly get cancer, new fertility options are changing their futures",
+    "link": "https://www.statnews.com/2026/08/13/young-people-cancer-new-fertility-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T08:30:00.000Z",
+    "summary": "New technologies, cancer doctors, and reproductive specialists are working to give more patients a chance to have children post-treatment."
+  },
+  {
+    "title": "STAT+: Newsom promotes affordable insulin, but California’s generic label is off to a slow start",
+    "link": "https://www.statnews.com/2026/08/13/newsom-california-generic-insulin-calrx-availability-slow-to-reach-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T08:30:00.000Z",
+    "summary": "Gov. Gavin Newsom is focused on making health care affordable, but his CalRx insulin has been slow to reach patients."
+  },
+  {
     "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
     "link": "https://www.statnews.com/2026/08/12/ebola-who-drc-ebola-vaccine-trial/?utm_campaign=rss",
     "source": "STAT News",
@@ -128,76 +192,12 @@
     "summary": "A newly approved drug for Prader-Willi syndrome, a rare disease that causes an insatiable desire to eat, may be tied to a series of patient deaths, experts say."
   },
   {
-    "title": "Opinion: Climate change is making people with chronic illness even sicker",
-    "link": "https://www.statnews.com/2026/08/12/climate-change-chronic-disease-heat-smoke-arthritis-lupus-pots/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-12T08:30:00.000Z",
-    "summary": "“What research can definitively tell us is that climate change is here, and it’s already making people sick,” writes Lorraine Boissoneault."
-  },
-  {
-    "title": "STAT+: Inside a $7 billion Silicon Valley startup’s mad dash to automate the business of health care",
-    "link": "https://www.statnews.com/2026/08/12/inside-commure-athelas-mad-dash-automate-health-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-12T08:30:00.000Z",
-    "summary": "Commure wants to automate health care's administrative tasks with AI. An inside look at the messy realities of the startup's ambitious quest."
-  },
-  {
-    "title": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths",
-    "link": "https://www.statnews.com/2026/08/11/stop-statins-age-75-lancet-study-suggests-safe-healthy-adults/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T22:30:00.000Z",
-    "summary": "Stopping statins in people over 75 at low risk for heart disease didn’t increase deaths, a new study finds."
-  },
-  {
-    "title": "Medicaid will stop paying for some gender-affirming care for transgender minors",
-    "link": "https://www.statnews.com/2026/08/11/medicaid-to-end-funding-gender-affirming-care-transgender-youth/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T22:18:55.000Z",
-    "summary": "The Trump administration plans to end federal funding for some care for transgender minors."
-  },
-  {
-    "title": "STAT+: Trump is counting on the health care industry to remake vaccines. It’s pushing back instead",
-    "link": "https://www.statnews.com/2026/08/11/health-care-pharma-industry-pushes-back-trump-vaccine-policy-changes/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T16:57:34.000Z",
-    "summary": "Trump wants to change how American kids are vaccinated, but doctors and the pharma industry aren't on board."
-  },
-  {
-    "title": "Opinion: Trump says his executive order should restore trust in vaccines. It does the exact opposite",
-    "link": "https://www.statnews.com/2026/08/11/trump-executive-order-vaccines-undecided-parents-trust/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T16:46:06.000Z",
-    "summary": "The White House says Trump’s recent executive order is aimed at restoring trust in vaccines. It will do the opposite, writes an epidemiologist."
-  },
-  {
     "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
     "link": "https://www.biopharmadive.com/news/k2-ying-huang-biotech-startup-mpm-china-drugs/827544/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-11T16:12:00.000Z",
     "summary": "Ying Huang is now running K2 Therapeutics, which has licensed multiple prospects from China-based biotechs and is searching for more “high-potential” medicines."
-  },
-  {
-    "title": "How we know that splitting up the MMR vaccine could be dangerous",
-    "link": "https://www.statnews.com/2026/08/11/how-we-know-splitting-up-mmr-vaccine-could-be-dangerous/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T14:28:57.000Z",
-    "summary": "It's no mystery. History tells us that President Trump’s executive order calling for the MMR to be split into separate shots could do real harm."
-  },
-  {
-    "title": "STAT+: Trump’s vaccine pivot overshadows food rule",
-    "link": "https://www.statnews.com/2026/08/11/trump-vaccine-policy-pivot-overshadows-fda-gras-food-rule-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-11T14:19:47.000Z",
-    "summary": "Trump is turning the focus back to controversial vaccine policy, overshadowing a new move on food additives."
   },
   {
     "title": "Chasing Dupixent, a biotech aims to make better antibody drugs for eczema",
