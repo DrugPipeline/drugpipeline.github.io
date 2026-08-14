@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Commure terminates payments under its customer referral programs tied to AI products",
+    "link": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-13T21:49:09.000Z",
+    "summary": "Commure, which develops and sells AI products to clinics, has terminated a program that paid for referrals to new customers."
+  },
+  {
     "title": "FDA Issues Emergency Use Authorization for Drug to Treat New World Screwworm in Dogs and Puppies",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-treat-new-world-screwworm-dogs-and-puppies",
     "source": "FDA Press Releases",
@@ -200,28 +208,12 @@
     "summary": "Some analysts believe Silence’s polycythemia vera drug could be superior to a closely watched Takeda medicine. Elsewhere, the FDA spurned a radiopharmaceutical and AbCellera shares climbed to levels…"
   },
   {
-    "title": "STAT+: The secret AI-startup project I’ve been working on the last six months",
-    "link": "https://www.statnews.com/2026/08/12/the-secret-startup-project-ive-been-working-on-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-12T12:09:15.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: The messy reality of hastily developing and selling AI tools to clinics, and other health AI news."
-  },
-  {
     "title": "Boulevard starts up with $65M to pursue targeted autoimmune drugs",
     "link": "https://www.biopharmadive.com/news/boulevard-immune-drugs-igan-georg-schett/827583/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-12T10:30:00.000Z",
     "summary": "Co-founded by pioneering researcher Georg Schett and ex-Sanofi CSO Frank Nestle, the startup is advancing a trio of multifaceted antibodies with the potential to treat several immune diseases."
-  },
-  {
-    "title": "Oncolytic virus nabs FDA approval",
-    "link": "https://www.nature.com/articles/d41573-026-00136-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-12T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
@@ -256,35 +248,11 @@
     "summary": "The executive order — which wasn’t accompanied by any new scientific evidence — aims to split the MMR vaccine into three separate shots and revives the administration’s attempt to slim down the…"
   },
   {
-    "title": "Orexin receptor agonist secures landmark narcolepsy approval",
-    "link": "https://www.nature.com/articles/d41573-026-00135-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-10T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-prevent-new-world-screwworm-multiple-species-including",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-07T13:00:09.000Z",
     "summary": "FDA today issued an Emergency Use Authorization (EUA) for CLiK Extra (dicyclanil topical suspension) wound spray for application on or around wounds for the prevention of New World screwworm (NWS)…"
-  },
-  {
-    "title": "Artificial intelligence in drug discovery — what it is, where we stand and the path forward",
-    "link": "https://www.nature.com/articles/s41573-026-01496-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-07T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA Approves New Engineered Viral Immunotherapy for Patients with Treatment-Resistant Advanced Melanoma",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-new-engineered-viral-immunotherapy-patients-treatment-resistant-advanced-melanoma",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-06T19:56:59.000Z",
-    "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Tudriqev (vusolimogene oderparepvec-wtpg), a genetically modified oncolytic viral therapy for the treatment of advanced,…"
   }
 ]
