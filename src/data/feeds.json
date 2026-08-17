@@ -1,5 +1,53 @@
 [
   {
+    "title": "Everything the Trump administration did on health care last week",
+    "link": "https://www.statnews.com/2026/08/17/health-news-everything-the-trump-administration-did-on-health-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T12:03:57.000Z",
+    "summary": "An executive order remaking the federal vaccine agenda, Epic's antitrust lawsuits, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
+    "link": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T08:30:00.000Z",
+    "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics."
+  },
+  {
+    "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
+    "link": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T08:30:00.000Z",
+    "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities."
+  },
+  {
+    "title": "STAT+: Epic confronts unprecedented challenges as it prepares to address customers and unveil road map",
+    "link": "https://www.statnews.com/2026/08/17/ugm-epic-confronts-challenges-succession-ai-strategy-antitrust/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T08:30:00.000Z",
+    "summary": "Epic, whose software is used by the majority of American hospitals, faces unprecedented challenges ahead of its annual User Group Meeting."
+  },
+  {
+    "title": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide",
+    "link": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T08:30:00.000Z",
+    "summary": "“North Carolina proved that pragmatism can beat partisanship,” write Mandy Cohen and Kody Kinsley."
+  },
+  {
+    "title": "Opinion: Paid paternity leave is pediatric preventive care",
+    "link": "https://www.statnews.com/2026/08/17/paid-paternity-leave-baby-help-pediatricians/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T08:30:00.000Z",
+    "summary": "“A growing body of evidence shows that fathers make unique, independent contributions to children's health and development,” writes pediatrician Nishant Pandya."
+  },
+  {
     "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
     "link": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,54 +208,6 @@
     "summary": "Wall Street analysts view the deal as a risky, high-reward bet on a treatment that’s nearing a possible regulatory approval and could be superior to existing medications."
   },
   {
-    "title": "STAT+: Eli Lilly targets booming black market for retatrutide",
-    "link": "https://www.statnews.com/2026/08/13/biotech-news-eli-lilly-targets-booming-retatrutide-black-market/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-13T14:46:37.000Z",
-    "summary": "Khartis raises oral immunology funds, Neurocrine drug safety concerns, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Kennedy heads west, slams Becerra",
-    "link": "https://www.statnews.com/2026/08/13/rfk-california-tour-hhs-addiction-treatment-plan-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-13T14:37:18.000Z",
-    "summary": "The health secretary headed to California to lay out the government's new approach to addiction treatment."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about California insulin sales, a Moderna patent battle, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/13/california-insulin-sales-moderna-patent-battle/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-13T13:19:42.000Z",
-    "summary": "Seven months after the launch of its own low-cost insulin brand, California has distributed more than 120,000 five-pen packs of insulin glargine priced at $55 each"
-  },
-  {
-    "title": "STAT+: An investigation into Commure, and  Medicare’s new-tech incentives for AI devices",
-    "link": "https://www.statnews.com/2026/08/13/commure-investigation-medicare-tech-incentives-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-13T12:29:26.000Z",
-    "summary": "In this edition of STAT Health Tech: a deep dive into General Catalyst-backed Commure, and Medicare's tech incentives for AI devices."
-  },
-  {
-    "title": "STAT+: Neurocrine Biosciences and the delicate balance of benefit and risk",
-    "link": "https://www.statnews.com/2026/08/13/neurocrine-biosciences-vykat-prader-willi-2/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-13T10:30:00.000Z",
-    "summary": "When it comes to rare disease treatments, patients often confront a difficult risk-benefit calculus. Such is the case with a therapy from Neurocrine Biosciences."
-  },
-  {
-    "title": "STAT+: What patients actually think about ‘minimally invasive’ brain implants",
-    "link": "https://www.statnews.com/2026/08/13/patient-perspectives-on-brain-implants-for-depression/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-13T08:30:00.000Z",
-    "summary": "A new study polled people with treatment-resistant depression about what matters to them when it comes to brain implants for mental health."
-  },
-  {
     "title": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide",
     "link": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
     "source": "BioPharma Dive",
@@ -238,6 +238,14 @@
     "category": "industry",
     "date": "2026-08-12T10:30:00.000Z",
     "summary": "Co-founded by pioneering researcher Georg Schett and ex-Sanofi CSO Frank Nestle, the startup is advancing a trio of multifaceted antibodies with the potential to treat several immune diseases."
+  },
+  {
+    "title": "Oncolytic virus nabs FDA approval",
+    "link": "https://www.nature.com/articles/d41573-026-00136-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-12T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Ex-Legend CEO takes helm at biotech startup scouring the globe for drugs",
