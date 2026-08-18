@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
+    "link": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T19:23:54.000Z",
+    "summary": "Sanofi, one of the Massachusetts' largest pharmaceutical employers, will lay off more than 200 workers there a year after acquiring Blueprint Medicines."
+  },
+  {
+    "title": "STAT+: Eyepoint study results for vision treatment disappoint, but company still sees promise",
+    "link": "https://www.statnews.com/2026/08/17/eyepoint-duravyu-wet-amd-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-17T18:45:42.000Z",
+    "summary": "Eyepoint said patients given its experimental treatment for wet AMD failed to maintain vision with less frequent injections compared to a standard treatment."
+  },
+  {
     "title": "Argenx jumps on Phase 3 data for blockbuster Vyvgart",
     "link": "https://www.biopharmadive.com/news/argenx-phase-3-data-vyvgart-IMNM-DM/828025/",
     "source": "BioPharma Dive",
@@ -13,7 +29,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-17T15:31:00.000Z",
-    "summary": "Though its drug missed the key goal of a wet AMD study, EyePoint, as well as analysts, still see a path toward approval. Investors may be harder to win over, however."
+    "summary": "Though its drug missed the key goal of a wet AMD study, EyePoint — as well as analysts — see a path toward approval. Investors may be harder to win over, however."
   },
   {
     "title": "AstraZeneca scraps Phase 3 trial of new bispecific in lung cancer",
@@ -200,22 +216,6 @@
     "summary": "New government funding from Pennsylvania to Kansas City is strengthening biotech hubs — but experts say money alone won’t determine where pharma builds next."
   },
   {
-    "title": "How will legal challenges fare against CMS rule on gender-affirming care?",
-    "link": "https://www.statnews.com/2026/08/14/cms-transgender-care-rule-how-will-legal-challenges-fare/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T08:30:00.000Z",
-    "summary": "A CMS rule finalized this week may prove more difficult to challenge than previous Trump administration actions to end transgender care for young people."
-  },
-  {
-    "title": "Opinion: MAHA and insurance companies both want to treat human bodies like cars",
-    "link": "https://www.statnews.com/2026/08/14/health-insurance-companies-maha-surveillance/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T08:30:00.000Z",
-    "summary": "“If the short history of telematics in the auto insurance taught us anything, it’s to be skeptical of any promises attached to shareable surveillance data.”"
-  },
-  {
     "title": "FDA Issues Emergency Use Authorization for Drug to Treat New World Screwworm in Dogs and Puppies",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-treat-new-world-screwworm-dogs-and-puppies",
     "source": "FDA Press Releases",
@@ -246,5 +246,13 @@
     "category": "industry",
     "date": "2026-08-12T15:19:00.000Z",
     "summary": "Ahead of an approval filing, the drugmaker is amping up a fight against sellers who claim to offer versions of its highly anticipated “triple-G” weight loss medicine."
+  },
+  {
+    "title": "Oncolytic virus nabs FDA approval",
+    "link": "https://www.nature.com/articles/d41573-026-00136-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-12T00:00:00.000Z",
+    "summary": ""
   }
 ]
