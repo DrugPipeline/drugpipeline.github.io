@@ -1,5 +1,61 @@
 [
   {
+    "title": "Amylyx’s bet on a GLP-1 blocker pays off",
+    "link": "https://www.biopharmadive.com/news/amylyx-glp1-avexitide-clinical-trial-results-blood-sugar/828099/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-18T11:02:00.000Z",
+    "summary": "A late-stage trial found the drug, which Amylyx bought for cheap in a bankruptcy auction, was effective at regulating blood sugar in patients who’d just undergone bariatric surgery."
+  },
+  {
+    "title": "STAT+: Amylyx endocrine drug succeeds in pivotal study",
+    "link": "https://www.statnews.com/2026/08/18/amylyx-endocrine-drug-succeeds-in-pivotal-study-avexitide-bariatric-surgery-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T11:01:00.000Z",
+    "summary": "In a Phase 3 trial of people with post-bariatric hypoglycemia, those taking the drug, avexitide, experienced a 55% reduction in the rate of serious low blood sugar events compared with…"
+  },
+  {
+    "title": "STAT+: A pill that mimics exercise? Early results on drug designed to maintain both weight loss and muscle mass",
+    "link": "https://www.statnews.com/2026/08/18/enveda-pill-mimics-exercise-phase-one-trial-leptin-weight-loss-maintenance/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T10:00:00.000Z",
+    "summary": "Colorado biotech Enveda reports preliminary results on a drug to help people maintain weight loss after GLP-1 use. Just don't call it exercise in a pill."
+  },
+  {
+    "title": "STAT+: Doritos as farm-to-table snacks? Big Food, under duress, gets creative",
+    "link": "https://www.statnews.com/2026/08/18/farm-to-table-doritos-ultra-processed-food-ad-campaign-healthwashing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T08:30:00.000Z",
+    "summary": "Doritos in the classic nacho cheese flavor have 27 ingredients, including not just familiar ones but also a number of additives and preservatives."
+  },
+  {
+    "title": "Opinion: 8 steps to making surrogacy more ethical for everyone involved",
+    "link": "https://www.statnews.com/2026/08/18/mckenna-west-surrogacy-laws-ethics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T08:30:00.000Z",
+    "summary": "“Everything about the West case shows how miserably surrogacy has been managed in America,” writes Arthur Caplan."
+  },
+  {
+    "title": "Opinion: In parts of the world, antibiotic overuse isn’t the problem — underuse is",
+    "link": "https://www.statnews.com/2026/08/18/antibiotic-underuse-overuse-resistance-aware/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T08:30:00.000Z",
+    "summary": "“Like climate change, antimicrobial resistance is a global challenge, but its causes and consequences are unevenly distributed,” writes GARDP’s Peter Beyer."
+  },
+  {
+    "title": "STAT+: How health care costs are undermining America’s public-sector employers",
+    "link": "https://www.statnews.com/2026/08/18/public-sector-employees-health-care-costs-out-of-pocket-series-part-4/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T08:30:00.000Z",
+    "summary": "Politicians are contemplating raising taxes and cutting benefits as the cost of health care for government workers surges."
+  },
+  {
     "title": "STAT+: Sanofi to lay off 229 workers in Mass., a year after $9.1B Blueprint Medicines acquisition",
     "link": "https://www.statnews.com/2026/08/17/sanofi-layoffs-mass-blueprint-medicines/?utm_campaign=rss",
     "source": "STAT News",
@@ -29,7 +85,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-17T15:31:00.000Z",
-    "summary": "Though its drug missed the key goal of a wet AMD study, EyePoint, as well as analysts, still see a path toward approval. Investors may be harder to win over, however."
+    "summary": "Though its drug missed the key goal of a wet AMD study, EyePoint — as well as analysts — see a path toward approval. Investors may be harder to win over, however."
   },
   {
     "title": "AstraZeneca scraps Phase 3 trial of new bispecific in lung cancer",
@@ -144,22 +200,6 @@
     "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You’re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person…"
   },
   {
-    "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO",
-    "link": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T16:30:39.000Z",
-    "summary": "In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/08/14/up-down-ladder-latest-comings-goings-jobs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T16:20:43.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
     "title": "Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene",
     "link": "https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/",
     "source": "BioPharma Dive",
@@ -168,44 +208,12 @@
     "summary": "The clearance of Zenbexus is the first for a group of protein-degrading “CELMoD” medicines that could help Bristol Myers rejuvenate a key drug franchise."
   },
   {
-    "title": "STAT+: PBMs agree to display TrumpRx drug prices",
-    "link": "https://www.statnews.com/2026/08/14/biotech-news-pbms-agree-to-display-trumprx-drug-prices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T15:55:13.000Z",
-    "summary": "Bristol's Zenbexus wins accelerated approval, Novartis wins UK patent fight over Entresto, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a lawsuit over lab tests for meds, a Bristol myeloma drug, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/14/lab-tests-lawsuit-bristol-multiple-myeloma-drug-approved/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T14:00:17.000Z",
-    "summary": "The FDA approved a Bristol oral treatment for advanced multiple myeloma, marking the debut of a new class of medicine for the blood cancer"
-  },
-  {
     "title": "Capricor shares spike on CEO comments; Cytokinetics sues Bristol Myers",
     "link": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-14T13:28:00.000Z",
     "summary": "The FDA is “willing to review” an updated submission for Capricor’s Duchenne cell therapy, its CEO said. Elsewhere, a heart drug battle spilled into court and Rigel priced the first “Protac” medicine."
-  },
-  {
-    "title": "STAT+: Drug-testing lab that has sparked controversy sues group that develops drug standards over criticism",
-    "link": "https://www.statnews.com/pharmalot/2026/08/14/controversial-lab-sues-usp-for-disparaging-its-testing-methods/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T13:23:06.000Z",
-    "summary": "A lab that tussled with regulators over impurities found in widely used medicines has accused U.S. Pharmacopeia of making false and misleading remarks about its methods."
-  },
-  {
-    "title": "STAT+: FDA approves Bristol multiple myeloma treatment, marking debut of novel drug class",
-    "link": "https://www.statnews.com/2026/08/14/fda-approves-bristol-multiple-myeloma-drug-zenbexus/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T12:03:41.000Z",
-    "summary": "The FDA approved a treatment for advanced multiple myeloma made by Bristol Myers Squibb, marking the debut of a new class of drugs for the blood cancer."
   },
   {
     "title": "Biotech initiatives pick up as more regions race to become hubs",
@@ -238,14 +246,6 @@
     "category": "industry",
     "date": "2026-08-13T15:10:00.000Z",
     "summary": "Wall Street analysts view the deal as a risky, high-reward bet on a treatment that’s nearing a possible regulatory approval and could be superior to existing medications."
-  },
-  {
-    "title": "Lilly files six lawsuits in bid to shut down ‘black market’ for retatrutide",
-    "link": "https://www.biopharmadive.com/news/lilly-lawsuit-retatrutide-black-market-obesity-drug/827659/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-12T15:19:00.000Z",
-    "summary": "Ahead of an approval filing, the drugmaker is amping up a fight against sellers who claim to offer versions of its highly anticipated “triple-G” weight loss medicine."
   },
   {
     "title": "Oncolytic virus nabs FDA approval",
