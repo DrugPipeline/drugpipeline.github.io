@@ -1,5 +1,85 @@
 [
   {
+    "title": "STAT+: Real-world psilocybin data suggest need for close monitoring",
+    "link": "https://www.statnews.com/2026/08/18/biotech-news-real-world-psilocybin-data-suggest-need-for-close-monitoring/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T18:07:48.000Z",
+    "summary": "Amylyx reports success in a pivotal trial, biopharma A-listers join a pain-blocking device company board, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Leaders of Mass General, Dana-Farber among hospital execs who got big raises in 2024",
+    "link": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T17:26:28.000Z",
+    "summary": "Top executives of major health systems got substantial raises, even as their hospitals grappled with plenty of challenges."
+  },
+  {
+    "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
+    "link": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-18T15:50:00.000Z",
+    "summary": "The Alesta buyout helps restock BioMarin's pipeline with an asset it says could “reach our largest addressable patient population,” joining other muscle and skeletal disease treatments in development."
+  },
+  {
+    "title": "AstraZeneca scores in lung cancer; Sandoz inks a China deal",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-18T15:13:00.000Z",
+    "summary": "A combination of AstraZeneca’s Tagrisso and Hutchmed’s Orpathys extended survival for some lung cancer patients. Elsewhere, MapLight floated the idea of partnering on its autism drug."
+  },
+  {
+    "title": "Leo Pharma buys rare skin disease drug in $435M deal",
+    "link": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-18T14:38:00.000Z",
+    "summary": "Tanabe Pharma has already asked the FDA to approve the medicine for two conditions that cause severe reactions to sunlight."
+  },
+  {
+    "title": "STAT+: Government workers feel the squeeze on health care",
+    "link": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T14:36:41.000Z",
+    "summary": "Municipalities are struggling with the cost of health insurance for their workers, and states are facing a major decision on Medicaid drug coverage."
+  },
+  {
+    "title": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-18T14:10:03.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued a discussion paper on considerations for the regulation of generative artificial intelligence (GenAI)-enabled medical devices, seeking feedback from…"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a setback for Eyepoint, a win for Amylyx, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/18/eyepoint-blindness-treatment-setback-amylyx-avexitide-win/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T13:25:37.000Z",
+    "summary": "Eyepoint disclosed that a Phase 3 trial of its experimental treatment for a common cause of age-related blindness fell short of its primary goal"
+  },
+  {
+    "title": "Kindergarten vaccine exemptions are climbing",
+    "link": "https://www.statnews.com/2026/08/18/health-news-kindergarten-vaccine-exemptions-are-climbing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T13:02:37.000Z",
+    "summary": "Doritos as \"real\" \"food,\" public-sector health care in trouble, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Prominent AI startup rolls out virtual cell model in race to speed up science",
+    "link": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T13:00:00.000Z",
+    "summary": "A prominent AI startup has rolled out a virtual cell model, advancing the race to speed up science."
+  },
+  {
     "title": "Amylyx’s bet on a GLP-1 blocker pays off",
     "link": "https://www.biopharmadive.com/news/amylyx-glp1-avexitide-clinical-trial-results-blood-sugar/828099/",
     "source": "BioPharma Dive",
@@ -152,54 +232,6 @@
     "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities."
   },
   {
-    "title": "STAT+: Epic confronts unprecedented challenges as it prepares to address customers and unveil road map",
-    "link": "https://www.statnews.com/2026/08/17/ugm-epic-confronts-challenges-succession-ai-strategy-antitrust/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T08:30:00.000Z",
-    "summary": "Epic, whose software is used by the majority of American hospitals, faces unprecedented challenges ahead of its annual User Group Meeting."
-  },
-  {
-    "title": "Opinion: We proved bipartisan health care reform works in North Carolina. Let’s bring it nationwide",
-    "link": "https://www.statnews.com/2026/08/17/healthy-opportunities-pilots-hop-program-north-carolina-medicaid-social-services/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T08:30:00.000Z",
-    "summary": "“North Carolina proved that pragmatism can beat partisanship,” write Mandy Cohen and Kody Kinsley."
-  },
-  {
-    "title": "Opinion: Paid paternity leave is pediatric preventive care",
-    "link": "https://www.statnews.com/2026/08/17/paid-paternity-leave-baby-help-pediatricians/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T08:30:00.000Z",
-    "summary": "“A growing body of evidence shows that fathers make unique, independent contributions to children's health and development,” writes pediatrician Nishant Pandya."
-  },
-  {
-    "title": "STAT+: State laws may be curbing private equity takeovers of physician group",
-    "link": "https://www.statnews.com/2026/08/17/private-equity-50-percent-drop-physician-practice-management-deals-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T04:01:00.000Z",
-    "summary": "Private equity deals for practice management firms are declining sharply."
-  },
-  {
-    "title": "STAT+: Epic’s alleged anticompetitive practices under scrutiny from federal, state investigators",
-    "link": "https://www.statnews.com/2026/08/14/epic-systems-ftc-review-nda-use-possible-anticompetitive-practices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T21:00:08.000Z",
-    "summary": "Epic Systems is the subject of a broad inquiry into its business practices, people who were contacted by FTC investigators told STAT."
-  },
-  {
-    "title": "Opinion: AAP president: How pediatricians are navigating federal leaders’ fearmongering on vaccines",
-    "link": "https://www.statnews.com/2026/08/14/vaccine-executive-order-policy-aap-president/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-14T18:34:30.000Z",
-    "summary": "Every parent experiences a unique mix of emotions when caring for a newborn baby. You’re filled with an overwhelming sense of pride, love, and awe for this tiny, precious person…"
-  },
-  {
     "title": "Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene",
     "link": "https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/",
     "source": "BioPharma Dive",
@@ -216,36 +248,12 @@
     "summary": "The FDA is “willing to review” an updated submission for Capricor’s Duchenne cell therapy, its CEO said. Elsewhere, a heart drug battle spilled into court and Rigel priced the first “Protac” medicine."
   },
   {
-    "title": "Biotech initiatives pick up as more regions race to become hubs",
-    "link": "https://www.biopharmadive.com/news/biotech-hub-race-investments-new-york-kansas-city-pennsylvania-central-virginia/827835/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-14T11:00:00.000Z",
-    "summary": "New government funding from Pennsylvania to Kansas City is strengthening biotech hubs — but experts say money alone won’t determine where pharma builds next."
-  },
-  {
     "title": "FDA Issues Emergency Use Authorization for Drug to Treat New World Screwworm in Dogs and Puppies",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-treat-new-world-screwworm-dogs-and-puppies",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-13T17:02:58.000Z",
     "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Simparica TRIO (sarolaner, moxidectin, and pyrantel chewable tablets) for the treatment of New World…"
-  },
-  {
-    "title": "New Taiho, Cullinan data heats up lung cancer drug battle",
-    "link": "https://www.biopharmadive.com/news/taiho-cullinan-zipalertinib-egfr-exon20-lung-cancer-results/827785/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-13T16:05:00.000Z",
-    "summary": "The findings position their drug, zipalertinib, as a threat to multiple approved medicines — while setting a bar for others in testing."
-  },
-  {
-    "title": "PTC takes a chance on Sangamo’s Fabry disease gene therapy",
-    "link": "https://www.biopharmadive.com/news/ptc-sangamo-fabry-gene-therapy-bankruptcy-sale-lilly/827767/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-13T15:10:00.000Z",
-    "summary": "Wall Street analysts view the deal as a risky, high-reward bet on a treatment that’s nearing a possible regulatory approval and could be superior to existing medications."
   },
   {
     "title": "Oncolytic virus nabs FDA approval",
