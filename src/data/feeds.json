@@ -1,5 +1,69 @@
 [
   {
+    "title": "Trust in science: A new STAT initiative",
+    "link": "https://www.statnews.com/2026/08/19/trust-in-science-a-new-stat-initiative/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-19T17:19:33.000Z",
+    "summary": "Dear Readers, When we launched STAT more than a decade ago, our mission statement promised that we would deliver \"trusted, tough-minded journalism.'' Little did we know that trust would be…"
+  },
+  {
+    "title": "STAT+: Experts scrutinize Huidagene’s disclosures after patient death",
+    "link": "https://www.statnews.com/2026/08/19/biotech-news-experts-scrutinize-huidagene-disclosures-after-patient-death/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-19T17:09:00.000Z",
+    "summary": "Merck and Moderna's mRNA cancer vaccine, an expected nominee to lead the FDA, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Regeneron drug for disease that causes dangerous bone growth earns FDA approval",
+    "link": "https://www.statnews.com/2026/08/19/regeneron-fop-garetosmab-fda-approval-pasatru/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-19T17:02:11.000Z",
+    "summary": "A Regeneron drug that treats an ultra-rare disease that causes bone to form where it's not meant to be has won approval."
+  },
+  {
+    "title": "FDA Authorizes First-Of-Its-Kind Robotic Blood Draw Device",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-its-kind-robotic-blood-draw-device",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-19T16:48:13.000Z",
+    "summary": "The U.S. Food and Drug Administration today authorized the Aletta, the first standalone robotic device that can draw blood from a patient’s arm without hands-on operator intervention."
+  },
+  {
+    "title": "Trump reportedly plans to tap policy aide Overton to lead FDA",
+    "link": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-19T15:30:00.000Z",
+    "summary": "Heidi Overton, a medical doctor and veteran of the America First think tank, currently serves as deputy director of the White House Domestic Policy Council."
+  },
+  {
+    "title": "STAT+: American Cancer Society cancels alcohol industry fundraiser",
+    "link": "https://www.statnews.com/2026/08/19/cancer-society-cancels-alcohol-industry-gala-fundraiser-deadliest-drug-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-19T15:18:01.000Z",
+    "summary": "The American Cancer Society had an optics problem: its annual Wine and Spirits Industry's Gala. It decided to do something about it."
+  },
+  {
+    "title": "STAT+: Brain organoids, kept alive more than five years, matured like human brains",
+    "link": "https://www.statnews.com/2026/08/19/brain-organoids-alive-5-years-neuroscience-research-harvard/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-19T15:00:00.000Z",
+    "summary": "Brain organoids kept alive more than five years continued to develop and mature, and showed molecular and genetic signatures like those of human brains."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an FDA commish nominee, mRNA cancer vaccine results, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/19/fda-commissioner-nominee-overton-merck-moderna-cancer-vaccine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-19T13:23:14.000Z",
+    "summary": "President Trump is expected to nominate Heidi Overton, White House deputy director of domestic policy, to serve as the next FDA commissioner"
+  },
+  {
     "title": "Dissecting Chinese trial strategy in wake of deaths",
     "link": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,22 +176,6 @@
     "summary": "In its effort to lower drug prices, the White House has declared \"promises made, promises kept.\" That's a narrative that doesn't reflect the full story."
   },
   {
-    "title": "STAT+: Real-world psilocybin data suggest need for close monitoring",
-    "link": "https://www.statnews.com/2026/08/18/biotech-news-real-world-psilocybin-data-suggest-need-for-close-monitoring/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T18:07:48.000Z",
-    "summary": "Amylyx reports success in a pivotal trial, biopharma A-listers join a pain-blocking device company board, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Leaders of Mass General, Dana-Farber among hospital execs who got big raises in 2024",
-    "link": "https://www.statnews.com/2026/08/18/massachusetts-hospital-ceo-compensation-2024/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T17:26:28.000Z",
-    "summary": "Top executives of major health systems got substantial raises, even as their hospitals grappled with plenty of challenges."
-  },
-  {
     "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
     "link": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
     "source": "BioPharma Dive",
@@ -152,44 +200,12 @@
     "summary": "Tanabe Pharma has already asked the FDA to approve the medicine for two conditions that cause severe reactions to sunlight."
   },
   {
-    "title": "STAT+: Government workers feel the squeeze on health care",
-    "link": "https://www.statnews.com/2026/08/18/health-care-costs-surge-for-cities-counties-generous-model-deadline-for-states/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T14:36:41.000Z",
-    "summary": "Municipalities are struggling with the cost of health insurance for their workers, and states are facing a major decision on Medicaid drug coverage."
-  },
-  {
     "title": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-18T14:10:03.000Z",
     "summary": "The U.S. Food and Drug Administration today issued a discussion paper on considerations for the regulation of generative artificial intelligence (GenAI)-enabled medical devices, seeking feedback from…"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a setback for Eyepoint, a win for Amylyx, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/18/eyepoint-blindness-treatment-setback-amylyx-avexitide-win/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T13:25:37.000Z",
-    "summary": "Eyepoint disclosed that a Phase 3 trial of its experimental treatment for a common cause of age-related blindness fell short of its primary goal"
-  },
-  {
-    "title": "Kindergarten vaccine exemptions are climbing",
-    "link": "https://www.statnews.com/2026/08/18/health-news-kindergarten-vaccine-exemptions-are-climbing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T13:02:37.000Z",
-    "summary": "Doritos as \"real\" \"food,\" public-sector health care in trouble, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Prominent AI startup rolls out virtual cell model in race to speed up science",
-    "link": "https://www.statnews.com/2026/08/18/david-baker-genbio-ai-new-virtual-model-unveiled-aido-cell/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T13:00:00.000Z",
-    "summary": "A prominent AI startup has rolled out a virtual cell model, advancing the race to speed up science."
   },
   {
     "title": "Amylyx’s bet on a GLP-1 blocker pays off",
@@ -232,20 +248,12 @@
     "summary": "Fulcrum announced in June it would seek strategic alternatives after U.S. regulators expressed concern over the viability of its sickle cell drug."
   },
   {
-    "title": "Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene",
-    "link": "https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/",
+    "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
+    "link": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
     "source": "BioPharma Dive",
     "category": "industry",
-    "date": "2026-08-14T16:02:00.000Z",
-    "summary": "The clearance of Zenbexus is the first for a group of protein-degrading “CELMoD” medicines that could help Bristol Myers rejuvenate a key drug franchise."
-  },
-  {
-    "title": "Capricor shares spike on CEO comments; Cytokinetics sues Bristol Myers",
-    "link": "https://www.biopharmadive.com/news/capricor-fda-cytokinetics-lawsuit-valneva-indupro-rusfertide-veppanu/827770/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-14T13:28:00.000Z",
-    "summary": "The FDA is “willing to review” an updated submission for Capricor’s Duchenne cell therapy, its CEO said. Elsewhere, a heart drug battle spilled into court and Rigel priced the first “Protac” medicine."
+    "date": "2026-08-17T13:11:00.000Z",
+    "summary": "Strain selection timing and mRNA skepticism could limit the impact of Moderna’s game-changing mRNA flu shot."
   },
   {
     "title": "FDA Issues Emergency Use Authorization for Drug to Treat New World Screwworm in Dogs and Puppies",
