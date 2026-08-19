@@ -1,5 +1,37 @@
 [
   {
+    "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
+    "link": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T21:25:10.000Z",
+    "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests."
+  },
+  {
+    "title": "STAT+: Nonprofit health system raked in $1.1 billion this year from stake in medical billing firm",
+    "link": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T20:50:23.000Z",
+    "summary": "Private equity firms have taken a strong interest in revenue cycle management firms, such as Ensemble."
+  },
+  {
+    "title": "Trump administration sued over visa time limit that would affect grad students, postdocs",
+    "link": "https://www.statnews.com/2026/08/18/dhs-sued-over-visa-time-limit-for-foreign-students/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T19:54:04.000Z",
+    "summary": "DHS was sued Tuesday over a sweeping policy change that would limit how long foreign students and scholars can remain in the U.S."
+  },
+  {
+    "title": "STAT+: The White House declares ‘promises made, promises kept’ on lowering drug prices. Nice try",
+    "link": "https://www.statnews.com/2026/08/18/white-house-claims-drug-price-drop-examined-ed-silverman-pharmalot/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-18T18:42:00.000Z",
+    "summary": "In its effort to lower drug prices, the White House has declared \"promises made, promises kept.\" That's a narrative that doesn't reflect the full story."
+  },
+  {
     "title": "STAT+: Real-world psilocybin data suggest need for close monitoring",
     "link": "https://www.statnews.com/2026/08/18/biotech-news-real-world-psilocybin-data-suggest-need-for-close-monitoring/?utm_campaign=rss",
     "source": "STAT News",
@@ -128,7 +160,7 @@
     "summary": "“Like climate change, antimicrobial resistance is a global challenge, but its causes and consequences are unevenly distributed,” writes GARDP’s Peter Beyer."
   },
   {
-    "title": "STAT+: How health care costs are undermining America’s public-sector employers",
+    "title": "How health care costs are undermining America’s public-sector employers",
     "link": "https://www.statnews.com/2026/08/18/public-sector-employees-health-care-costs-out-of-pocket-series-part-4/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -200,38 +232,6 @@
     "summary": "Europe pulls Tavneos over trial integrity concerns, pricing concerns over AstraZeneca's hypertension drug, and more biotech news from The Readout"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca setback, falling U.S. drug prices, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/17/astrazeneca-lung-cancer-setback-falling-drug-prices/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T13:22:17.000Z",
-    "summary": "AstraZeneca is discontinuing a late-stage drug trial in patients with metastatic non-small cell lung cancer, extending a run of setbacks"
-  },
-  {
-    "title": "Everything the Trump administration did on health care last week",
-    "link": "https://www.statnews.com/2026/08/17/health-news-everything-the-trump-administration-did-on-health-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T12:03:57.000Z",
-    "summary": "An executive order remaking the federal vaccine agenda, Epic's antitrust lawsuits, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Kennedy’s split-screen week: Talk of vaccines in D.C., fraud and addiction out West",
-    "link": "https://www.statnews.com/2026/08/17/rfk-jr-california-tour-maha-messaging-fight-fraud-addiction/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T08:30:00.000Z",
-    "summary": "The California trip shows how Kennedy likes to focus on key MAHA themes, while avoiding some divisive topics."
-  },
-  {
-    "title": "STAT+: UnitedHealth faces IRS probe over potential tax avoidance",
-    "link": "https://www.statnews.com/2026/08/17/unitedhealth-irs-probe-audit-targets-foreign-subsidiary-transfers/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-17T08:30:00.000Z",
-    "summary": "The health insurer may face a significant increase in taxes, amid a dispute with federal authorities."
-  },
-  {
     "title": "Bristol Myers wins ‘milestone’ FDA approval of myeloma drug acquired from Celgene",
     "link": "https://www.biopharmadive.com/news/bristol-myers-zenbexus-fda-multiple-myeloma-celmod-celgene/827912/",
     "source": "BioPharma Dive",
@@ -254,13 +254,5 @@
     "category": "regulatory",
     "date": "2026-08-13T17:02:58.000Z",
     "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Simparica TRIO (sarolaner, moxidectin, and pyrantel chewable tablets) for the treatment of New World…"
-  },
-  {
-    "title": "Oncolytic virus nabs FDA approval",
-    "link": "https://www.nature.com/articles/d41573-026-00136-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-12T00:00:00.000Z",
-    "summary": ""
   }
 ]
