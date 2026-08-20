@@ -1,5 +1,61 @@
 [
   {
+    "title": "STAT+: One of the most consequential years for cancer treatment, ever",
+    "link": "https://www.statnews.com/2026/08/20/cancer-vaccine-merck-moderna-biotech-observations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T10:30:00.000Z",
+    "summary": "Between success with a pancreatic cancer drug and now success with an mRNA neoantigen vaccine, it has been a banner year for developing cancer therapies."
+  },
+  {
+    "title": "STAT+: Capricor Therapeutics’ Duchenne treatment is heading for an FDA rejection",
+    "link": "https://www.statnews.com/2026/08/20/capricor-therapeutics-duchenne-treatment-fda/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T10:30:00.000Z",
+    "summary": "Capricor Therapeutics is trying to stave off FDA rejection of its cell therapy for Duchenne muscular dystrophy."
+  },
+  {
+    "title": "STAT+: How health systems are embracing chatbots to query and summarize patient records",
+    "link": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T08:30:00.000Z",
+    "summary": "Several large health systems are rolling out AI chatbots to query patient records, because they can save time and increase diagnostic accuracy."
+  },
+  {
+    "title": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study",
+    "link": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T08:30:00.000Z",
+    "summary": "“Regulatory flexibility can be exercised in rare disease without sacrificing rigor,” writes Mindy Leffler, whose son has Duchenne muscular dystrophy."
+  },
+  {
+    "title": "Reduce protein to increase longevity? Nutrition experts say that’s a bad idea",
+    "link": "https://www.statnews.com/2026/08/20/reduce-protein-increase-longevity-bad-idea-nutrition-experts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T08:30:00.000Z",
+    "summary": "Reducing protein intake could increase human longevity, researchers recently suggested. That's a bad idea, for several reasons, experts say."
+  },
+  {
+    "title": "Can reclassifying muscle dysmorphia unlock better care for boys and men?",
+    "link": "https://www.statnews.com/2026/08/20/reclassify-muscle-dysmorphia-eating-disorder-uscf-expert-jason-nagata/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T08:30:00.000Z",
+    "summary": "Males make up about a third of the population struggling with eating disorders in the United States. While these conditions often start during the teen years, by some estimates, as…"
+  },
+  {
+    "title": "Opinion: The global health aid architecture is collapsing. The faith economy isn’t",
+    "link": "https://www.statnews.com/2026/08/20/global-health-humanitarian-relief-faith-based-organizations-trump/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T08:30:00.000Z",
+    "summary": "“Washington has rediscovered faith as a delivery mechanism. The bigger opportunity is faith as a source of capital,” writes Dr. Alaa Murabit."
+  },
+  {
     "title": "FDA Approves First Therapy for Patients aged 8 years and older with Glycogen Storage Disease Type Ia",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
     "source": "FDA Press Releases",
@@ -126,62 +182,6 @@
     "category": "industry",
     "date": "2026-08-19T08:30:00.000Z",
     "summary": "Experts question technical improvements Huidagene tried when using a Duchenne muscular dystrophy treatment strategy largely abandoned by U.S. companies."
-  },
-  {
-    "title": "Opinion: I’m a pediatrician. AI chatbots are grooming my patients",
-    "link": "https://www.statnews.com/2026/08/19/ai-chatbots-children-grooming-mental-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T08:30:00.000Z",
-    "summary": "“At present, the law does not recognize that child abuse is child abuse when it’s perpetrated by an algorithm operated by a corporation,” writes a pediatrician."
-  },
-  {
-    "title": "She grew up unvaccinated. Now she’s a leading voice for science — and empathy",
-    "link": "https://www.statnews.com/2026/08/19/science-communication-liz-marnik-vaccine-advocate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T08:30:00.000Z",
-    "summary": "Immunologist Liz Marnik, who grew up unvaccinated, says shaming people who distrust science will do nothing to improve vaccine acceptance."
-  },
-  {
-    "title": "Opinion: AI has created a shadow medical system",
-    "link": "https://www.statnews.com/2026/08/19/ai-doctor-outperforms-chatgpt-oura-quest-ro-hims-medical-system/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T08:30:00.000Z",
-    "summary": "Financial incentives – health care makes up nearly one-fifth of the American economy – have driven every major AI company into health care."
-  },
-  {
-    "title": "Physician group sues Trump administration over dietary guidelines process",
-    "link": "https://www.statnews.com/2026/08/19/physician-group-sues-trump-administration-over-dietary-guidelines-food-pyramid-hhs-usda/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T05:00:00.000Z",
-    "summary": "The suit, brought by a nonprofit that advocates for plant-based diets, claims HHS and the USDA used a “secret panel” of scientists to flip the food pyramid."
-  },
-  {
-    "title": "STAT+: Trump expected to pick White House adviser Heidi Overton to lead FDA",
-    "link": "https://www.statnews.com/2026/08/18/heidi-overton-fda-commissioner-nominee-white-house-adviser/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T01:18:25.000Z",
-    "summary": "Heidi Overton, a doctor and White House adviser, is expected to be President Trump's pick to lead the FDA."
-  },
-  {
-    "title": "Fauci adviser David Morens pleads guilty to avoiding records requests, conspiracy to defraud government",
-    "link": "https://www.statnews.com/2026/08/18/david-morens-guilty-plea-niaid-fauci-adviser/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T21:25:10.000Z",
-    "summary": "Morens said he had agreed to work to avoid public disclosures and to use his influence to advance a company's interests."
-  },
-  {
-    "title": "STAT+: Nonprofit health system raked in $1.1 billion this year from stake in medical billing firm",
-    "link": "https://www.statnews.com/2026/08/18/bon-secours-mercy-revenue-cycle-firm-ensemble-2026-payouts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-18T20:50:23.000Z",
-    "summary": "Private equity firms have taken a strong interest in revenue cycle management firms, such as Ensemble."
   },
   {
     "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
