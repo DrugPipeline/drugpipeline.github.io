@@ -1,5 +1,61 @@
 [
   {
+    "title": "Regeneron to challenge Ipsen as FDA clears bone disease drug",
+    "link": "https://www.biopharmadive.com/news/regeneron-pasatru-fda-approve-fibrodysplasia-ossificans-progressiva/828375/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-20T16:21:25.000Z",
+    "summary": "Pasatru’s approval sets up a market battle in a rare indication where the only available treatment has generated disappointing sales."
+  },
+  {
+    "title": "Cancer vaccine win restores Wall Street’s faith in Moderna",
+    "link": "https://www.biopharmadive.com/news/moderna-merck-intismeran-melanoma-vaccine-stock-reaction/828332/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-20T15:19:46.000Z",
+    "summary": "Moderna gained $45 billion in market value in a single day, a surge that brought the company’s stock to levels not seen since 2024 — and saddled it with expectations that may be tough to meet."
+  },
+  {
+    "title": "Ultragenyx, after setbacks, nabs first gene therapy approval",
+    "link": "https://www.biopharmadive.com/news/ultragenyx-fda-approve-genglycos-GSDIa-gene-therapy/828369/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-20T15:13:00.000Z",
+    "summary": "The clearance of Genglycos for a rare glycogen storage disease gives Ultragenyx a sellable voucher and momentum ahead of an eagerly anticipated study readout."
+  },
+  {
+    "title": "STAT+: How a Trump loyalist got the FDA nomination",
+    "link": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T14:38:32.000Z",
+    "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff."
+  },
+  {
+    "title": "STAT+: FDA approves Ultragenyx gene therapy",
+    "link": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T13:38:04.000Z",
+    "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout"
+  },
+  {
+    "title": "Contrasting legal decisions on gender-affirming care",
+    "link": "https://www.statnews.com/2026/08/20/health-news-contrasting-legal-decisions-on-gender-affirming-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T13:29:08.000Z",
+    "summary": "Heidi Overton's rise under Trump, inside a 5-year-old brain organoid, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Regeneron rare disease drug, an Ultragenyx gene therapy, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-20T13:01:05.000Z",
+    "summary": "A Regeneron drug for an ultra-rare disease that causes bone to grow where it shouldn't won U.S. regulatory approval, capping a three-decade effort"
+  },
+  {
     "title": "STAT+: One of the most consequential years for cancer treatment, ever",
     "link": "https://www.statnews.com/2026/08/20/cancer-vaccine-merck-moderna-biotech-observations/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,7 +168,7 @@
     "summary": "The U.S. Food and Drug Administration today authorized the Aletta, the first standalone robotic device that can draw blood from a patient’s arm without hands-on operator intervention."
   },
   {
-    "title": "Trump reportedly plans to tap policy aide Overton to lead FDA",
+    "title": "Trump nominates policy aide Overton to lead FDA",
     "link": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
     "source": "BioPharma Dive",
     "category": "industry",
@@ -144,44 +200,20 @@
     "summary": "President Trump is expected to nominate Heidi Overton, White House deputy director of domestic policy, to serve as the next FDA commissioner"
   },
   {
+    "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
+    "link": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-19T13:07:52.000Z",
+    "summary": "At an interim data check, investigators of a key trial found the individualized mRNA treatment kept disease from returning and stopped its spread, sparking a surge in Moderna shares."
+  },
+  {
     "title": "Dissecting Chinese trial strategy in wake of deaths",
     "link": "https://www.statnews.com/2026/08/19/health-news-dissecting-chinese-trial-strategy-in-wake-of-deaths/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-08-19T11:47:26.000Z",
     "summary": "Cancer \"vaccine\" successfully slowed melanoma, dissecting Chinese trial strategy in wake of deaths, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: What Epic did — and didn’t — say about AI at its annual meeting",
-    "link": "https://www.statnews.com/2026/08/19/ai-prognosis-what-epic-did-and-didnt-say-about-ai-at-its-annual-meeting/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T11:25:12.000Z",
-    "summary": "At Epic's annual meeting, the prevailing question behind closed doors is “What the heck is going on with Epic?”"
-  },
-  {
-    "title": "STAT+: Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
-    "link": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T10:45:00.000Z",
-    "summary": "A personalized mRNA cancer vaccine succeeded in a late-stage melanoma study, results that could herald a new, powerful approach in oncology."
-  },
-  {
-    "title": "Accrediting body considers changes to racism curriculum standards for public health schools",
-    "link": "https://www.statnews.com/2026/08/19/public-health-education-accrediting-body-ceph-walks-dei-tightrope/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T08:30:00.000Z",
-    "summary": "The accrediting group for schools of public health is weighing the removal of language that specifically requires programs to teach about structural bias and racism."
-  },
-  {
-    "title": "STAT+: In wake of boy’s death, gene editing experts dissect Huidagene’s decisions",
-    "link": "https://www.statnews.com/2026/08/19/huidagene-clinical-trial-deaths-experts-dissect-study-design/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-19T08:30:00.000Z",
-    "summary": "Experts question technical improvements Huidagene tried when using a Duchenne muscular dystrophy treatment strategy largely abandoned by U.S. companies."
   },
   {
     "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
@@ -230,45 +262,5 @@
     "category": "industry",
     "date": "2026-08-17T16:12:00.000Z",
     "summary": "The latest results give investors confidence in the drug's ability to be approved in another indication for which there are no approved treatments."
-  },
-  {
-    "title": "EyePoint plummets on pivotal data for main drug",
-    "link": "https://www.biopharmadive.com/news/eyepoint-trial-results-durayvu-wet-amd-stock/828022/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-17T15:31:00.000Z",
-    "summary": "Though its drug missed the key goal of a wet AMD study, EyePoint — as well as analysts — see a path toward approval. Investors may be harder to win over, however."
-  },
-  {
-    "title": "AstraZeneca scraps Phase 3 trial of new bispecific in lung cancer",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-discontinues-trial-volrustomig-lung-cancer/827999/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-17T15:13:00.000Z",
-    "summary": "An interim data check revealed that survival goals were likely to be missed by volrustomig, one in a list of new drugs the U.K. company is leaning on to meet an $80 billion sales goal."
-  },
-  {
-    "title": "Slate, Fulcrum to combine in reverse merger",
-    "link": "https://www.biopharmadive.com/news/slate-fulcrum-reverse-merger-migraine-anti-pacap/828007/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-17T14:23:40.000Z",
-    "summary": "Fulcrum announced in June it would seek strategic alternatives after U.S. regulators expressed concern over the viability of its sickle cell drug."
-  },
-  {
-    "title": "FDA nod is just the first hurdle for Moderna’s potential blockbuster flu vax",
-    "link": "https://www.biopharmadive.com/news/moderna-mrna-flu-vax-fda-nod-blockbuster-hurdles/828190/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-17T13:11:00.000Z",
-    "summary": "Strain selection timing and mRNA skepticism could limit the impact of Moderna’s game-changing mRNA flu shot."
-  },
-  {
-    "title": "FDA Issues Emergency Use Authorization for Drug to Treat New World Screwworm in Dogs and Puppies",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-treat-new-world-screwworm-dogs-and-puppies",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-13T17:02:58.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Simparica TRIO (sarolaner, moxidectin, and pyrantel chewable tablets) for the treatment of New World…"
   }
 ]
