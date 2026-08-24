@@ -1,11 +1,99 @@
 [
   {
+    "title": "FDA plans to regulate generative AI",
+    "link": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T12:45:56.000Z",
+    "summary": "New clues to RFK Jr.'s vaccine plans, a bottleneck for nurse practitioners, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: FDA pauses Regenxbio gene therapy trial again due to safety concerns",
+    "link": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T11:59:48.000Z",
+    "summary": "The FDA put a hold on a Regenxbio gene therapy trial again after new safety concerns emerged."
+  },
+  {
+    "title": "Pharma marketers need a share-of-answer strategy before AI spend",
+    "link": "https://www.biopharmadive.com/spons/pharma-marketers-need-a-share-of-answer-strategy-before-ai-spend/828227/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-24T09:00:00.000Z",
+    "summary": "AI is changing how HCPs seek answers. Pharma marketers need a new strategy."
+  },
+  {
+    "title": "STAT+: Inside Moderna and Merck’s cancer vaccine triumph",
+    "link": "https://www.statnews.com/2026/08/24/inside-moderna-and-merck-cancer-vaccine-triumph/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T08:30:00.000Z",
+    "summary": "Moderna and Merck's wild gambit on a cancer vaccine appears to have worked, despite big doubts, logistical challenges, and pandemic-era complications."
+  },
+  {
+    "title": "STAT+: Medicaid transgender care rule sets precedent that could restrict coverage of other drugs",
+    "link": "https://www.statnews.com/2026/08/24/transgender-care-ban-precedent-could-be-broadly-applied-medicaid-states/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T08:30:00.000Z",
+    "summary": "The legal theory used to restrict gender-affirming care for minors could be applied broadly, experts say."
+  },
+  {
+    "title": "STAT+: FDA digital health leader promises generative AI regulatory guidance is coming",
+    "link": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T08:30:00.000Z",
+    "summary": "FDA expects to issue guidance on policies regarding generative AI devices, according to Rick Abramson, the agency’s head of digital health policy."
+  },
+  {
+    "title": "Nurse practitioner trainees find themselves stymied by shortage of clinical mentors",
+    "link": "https://www.statnews.com/2026/08/24/nurse-practitioner-preceptor-shortage-clinical-placement-challenges/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T08:30:00.000Z",
+    "summary": "Nurse practitioner students face a preceptor shortage, often paying thousands to secure clinical supervision."
+  },
+  {
+    "title": "Opinion: Medicine stopped shaking hands. We should start again",
+    "link": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T08:30:00.000Z",
+    "summary": "A handshake takes only a few seconds but can make a major difference to a patient, an emergency physician writes."
+  },
+  {
+    "title": "Opinion: I’m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education",
+    "link": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T08:30:00.000Z",
+    "summary": "“It was only after retiring from mainstream medicine when I fully comprehended the callous limitations of our health care system,” writes Benjamin I. Lee."
+  },
+  {
     "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
     "link": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-08-24T05:00:00.000Z",
     "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said."
+  },
+  {
+    "title": "Towards precision psychiatry: initial foundations and future directions",
+    "link": "https://www.nature.com/articles/s41573-026-01509-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-24T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting CDKs in the RNAPII transcription cycle",
+    "link": "https://www.nature.com/articles/s41573-026-01517-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-24T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: HHS document offers new clues to Kennedy’s vaccine plans",
@@ -136,70 +224,6 @@
     "summary": "Heidi Overton's rise under Trump, inside a 5-year-old brain organoid, and other health news from Morning Rounds"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a Regeneron rare disease drug, an Ultragenyx gene therapy, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/20/regeneron-rare-disease-drug-utragenyx-gene-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T13:01:05.000Z",
-    "summary": "A Regeneron drug for an ultra-rare disease that causes bone to grow where it shouldn't won U.S. regulatory approval, capping a three-decade effort"
-  },
-  {
-    "title": "STAT+: One of the most consequential years for cancer treatment, ever",
-    "link": "https://www.statnews.com/2026/08/20/cancer-vaccine-merck-moderna-biotech-observations/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T10:30:00.000Z",
-    "summary": "Between success with a pancreatic cancer drug and now success with an mRNA neoantigen vaccine, it has been a banner year for developing cancer therapies."
-  },
-  {
-    "title": "STAT+: Capricor Therapeutics’ Duchenne treatment is heading for an FDA rejection",
-    "link": "https://www.statnews.com/2026/08/20/capricor-therapeutics-duchenne-treatment-fda/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T10:30:00.000Z",
-    "summary": "Capricor Therapeutics is trying to stave off FDA rejection of its cell therapy for Duchenne muscular dystrophy."
-  },
-  {
-    "title": "STAT+: How health systems are embracing chatbots to query and summarize patient records",
-    "link": "https://www.statnews.com/2026/08/20/health-systems-embrace-ai-chatbots-query-patient-records-ehr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T08:30:00.000Z",
-    "summary": "Several large health systems are rolling out AI chatbots to query patient records, because they can save time and increase diagnostic accuracy."
-  },
-  {
-    "title": "Opinion: Capricor’s Duchenne muscular dystrophy drug and the countless tiny decisions that can make or break a study",
-    "link": "https://www.statnews.com/2026/08/20/capricor-deramiocel-duchenne-muscular-dystrophy-rare-disease-studies-decisions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T08:30:00.000Z",
-    "summary": "“Regulatory flexibility can be exercised in rare disease without sacrificing rigor,” writes Mindy Leffler, whose son has Duchenne muscular dystrophy."
-  },
-  {
-    "title": "Reduce protein to increase longevity? Nutrition experts say that’s a bad idea",
-    "link": "https://www.statnews.com/2026/08/20/reduce-protein-increase-longevity-bad-idea-nutrition-experts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T08:30:00.000Z",
-    "summary": "Reducing protein intake could increase human longevity, researchers recently suggested. That's a bad idea, for several reasons, experts say."
-  },
-  {
-    "title": "Can reclassifying muscle dysmorphia unlock better care for boys and men?",
-    "link": "https://www.statnews.com/2026/08/20/reclassify-muscle-dysmorphia-eating-disorder-uscf-expert-jason-nagata/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T08:30:00.000Z",
-    "summary": "Males make up about a third of the population struggling with eating disorders in the United States. While these conditions often start during the teen years, by some estimates, as…"
-  },
-  {
-    "title": "Opinion: The global health aid architecture is collapsing. The faith economy isn’t",
-    "link": "https://www.statnews.com/2026/08/20/global-health-humanitarian-relief-faith-based-organizations-trump/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T08:30:00.000Z",
-    "summary": "“Washington has rediscovered faith as a delivery mechanism. The bigger opportunity is faith as a source of capital,” writes Dr. Alaa Murabit."
-  },
-  {
     "title": "FDA Approves First Therapy for Patients aged 8 years and older with Glycogen Storage Disease Type Ia",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
     "source": "FDA Press Releases",
@@ -246,14 +270,6 @@
     "category": "industry",
     "date": "2026-08-18T15:13:00.000Z",
     "summary": "A combination of AstraZeneca’s Tagrisso and Hutchmed’s Orpathys extended survival for some lung cancer patients. Elsewhere, MapLight floated the idea of partnering on its autism drug."
-  },
-  {
-    "title": "Leo Pharma buys rare skin disease drug in $435M deal",
-    "link": "https://www.biopharmadive.com/news/leo-pharma-buys-late-stage-skin-disease-drug-435m-deal/828150/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-18T14:38:00.000Z",
-    "summary": "Tanabe Pharma has already asked the FDA to approve the medicine for two conditions that cause severe reactions to sunlight."
   },
   {
     "title": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
