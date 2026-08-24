@@ -1,11 +1,75 @@
 [
   {
+    "title": "Safety concerns spur FDA to again halt testing of Regenxbio gene therapy",
+    "link": "https://www.biopharmadive.com/news/regenxbio-fda-hunter-syndrome-hold-mri-safety/828578/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-24T15:55:00.000Z",
+    "summary": "Investigators detected masses on the spines of five patients who received its Hunter syndrome treatment, leading to the program’s second clinical hold this year."
+  },
+  {
+    "title": "FDA extends review of Capricor cell therapy; Pain drug startup to go public",
+    "link": "https://www.biopharmadive.com/news/capricor-fda-gsk-hibsago-ambros-werewolf-united-ralinepag/828560/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-24T15:30:04.000Z",
+    "summary": "The agency is now reviewing an updated application for deramiocel with a “refined” indication. Elsewhere, a startup co-founded by Vivek Ramaswamy is taking a speedy path to the public markets."
+  },
+  {
+    "title": "Cellares, a cell therapy manufacturing specialist, to lay off 100 employees",
+    "link": "https://www.biopharmadive.com/news/cellares-layoffs-cell-therapy-manufacturing/828588/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-24T15:19:00.000Z",
+    "summary": "The restructuring comes after an unnamed \"large pharmaceutical customer\" terminated a contract with the company, Cellares CEO Fabian Gerlinghaus posted on LinkedIn."
+  },
+  {
+    "title": "STAT+: Lady Gaga and her fiancé launch a biotech startup",
+    "link": "https://www.statnews.com/2026/08/24/biotech-news-lady-gaga-and-her-fiance-launch-biotech-startup/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T14:57:29.000Z",
+    "summary": "FTC challenges Amgen's Enbrel patent strategy, the long, winding path for the Moderna-Merck cancer vaccine, and more biotech news"
+  },
+  {
+    "title": "STAT+: Public-sector purgatory, and a union-hospital fight",
+    "link": "https://www.statnews.com/2026/08/24/public-sector-workers-health-insurance-costs-hospital-union-battle/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T14:23:19.000Z",
+    "summary": "Aon, the big consulting and brokerage house, confirms 2027 is going to be brutal for job-based health care premiums. Aon’s chief actuary said in the news release: “Employers will need…"
+  },
+  {
+    "title": "Roche commits to lean-mass preservation with Hanmi obesity deal",
+    "link": "https://www.biopharmadive.com/news/roche-lean-mass-preservation-hanmi-obesity-deal/828579/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-24T13:47:31.000Z",
+    "summary": "For $190 million up front and as much as $2.3 billion overall, the Swiss drugmaker is building its portfolio with a shot that aims to spur weight loss but spare muscle tissue."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Medicaid obesity-drug coverage, a Regenxbio gene therapy, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/24/state-medicaid-obesity-drugs-regenxbio-gene-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-24T13:36:21.000Z",
+    "summary": "President Trump’s pledge to make pricey weight loss drugs widely available for low-income Americans through Medicaid is not panning out"
+  },
+  {
     "title": "FDA plans to regulate generative AI",
     "link": "https://www.statnews.com/2026/08/24/health-news-fda-plans-to-regulate-generative-ai/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-08-24T12:45:56.000Z",
     "summary": "New clues to RFK Jr.'s vaccine plans, a bottleneck for nurse practitioners, and more health news from Morning Rounds"
+  },
+  {
+    "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
+    "link": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-24T12:00:00.000Z",
+    "summary": "This podcast explores how leading Alzheimer’s experts are working to bridge the gap between clinical trial design and frontline care."
   },
   {
     "title": "STAT+: FDA pauses Regenxbio gene therapy trial again due to safety concerns",
@@ -78,22 +142,6 @@
     "category": "industry",
     "date": "2026-08-24T05:00:00.000Z",
     "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said."
-  },
-  {
-    "title": "Towards precision psychiatry: initial foundations and future directions",
-    "link": "https://www.nature.com/articles/s41573-026-01509-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-24T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Targeting CDKs in the RNAPII transcription cycle",
-    "link": "https://www.nature.com/articles/s41573-026-01517-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-24T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "STAT+: HHS document offers new clues to Kennedy’s vaccine plans",
@@ -192,38 +240,6 @@
     "summary": "Moderna gained $45 billion in market value in a single day, a surge that brought the company’s stock to levels not seen since 2024 — and saddled it with expectations that may be tough to meet."
   },
   {
-    "title": "Ultragenyx, after setbacks, nabs first gene therapy approval",
-    "link": "https://www.biopharmadive.com/news/ultragenyx-fda-approve-genglycos-GSDIa-gene-therapy/828369/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-20T15:13:00.000Z",
-    "summary": "The clearance of Genglycos for a rare glycogen storage disease gives Ultragenyx a sellable voucher and momentum ahead of an eagerly anticipated study readout."
-  },
-  {
-    "title": "STAT+: How a Trump loyalist got the FDA nomination",
-    "link": "https://www.statnews.com/2026/08/20/heidi-overton-fda-commissioner-nominee-erica-schwartz-cdc-speech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T14:38:32.000Z",
-    "summary": "What you need to know about Heidi Overton, and Erica Schwartz's first speech to CDC staff."
-  },
-  {
-    "title": "STAT+: FDA approves Ultragenyx gene therapy",
-    "link": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T13:38:04.000Z",
-    "summary": "Regeneron wins ultra-rare disease drug approval, a validating win for mRNA research, and more biotech news from The Readout"
-  },
-  {
-    "title": "Contrasting legal decisions on gender-affirming care",
-    "link": "https://www.statnews.com/2026/08/20/health-news-contrasting-legal-decisions-on-gender-affirming-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-20T13:29:08.000Z",
-    "summary": "Heidi Overton's rise under Trump, inside a 5-year-old brain organoid, and other health news from Morning Rounds"
-  },
-  {
     "title": "FDA Approves First Therapy for Patients aged 8 years and older with Glycogen Storage Disease Type Ia",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
     "source": "FDA Press Releases",
@@ -238,38 +254,6 @@
     "category": "regulatory",
     "date": "2026-08-19T16:48:13.000Z",
     "summary": "The U.S. Food and Drug Administration today authorized the Aletta, the first standalone robotic device that can draw blood from a patient’s arm without hands-on operator intervention."
-  },
-  {
-    "title": "Trump nominates policy aide Overton to lead FDA",
-    "link": "https://www.biopharmadive.com/news/overton-fda-commissioner-trump-white-house-appointment-plans/828264/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-19T15:30:00.000Z",
-    "summary": "Heidi Overton, a medical doctor and veteran of the America First think tank, currently serves as deputy director of the White House Domestic Policy Council."
-  },
-  {
-    "title": "Moderna and Merck cancer vaccine returns ‘landmark’ result in melanoma",
-    "link": "https://www.biopharmadive.com/news/moderna-merck-cancer-vaccine-landmark-result-melanoma/828238/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-19T13:07:52.000Z",
-    "summary": "At an interim data check, investigators of a key trial found the individualized mRNA treatment kept disease from returning and stopped its spread, sparking a surge in Moderna shares."
-  },
-  {
-    "title": "BioMarin acquires experimental drug for rare bone disorder in $275M deal",
-    "link": "https://www.biopharmadive.com/news/biomarin-alesta-deal-acquisition-rare-disease-muscle-skeleton/828133/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-18T15:50:00.000Z",
-    "summary": "The Alesta buyout helps restock BioMarin's pipeline with an asset it says could “reach our largest addressable patient population,” joining other muscle and skeletal disease treatments in development."
-  },
-  {
-    "title": "AstraZeneca scores in lung cancer; Sandoz inks a China deal",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-sandoz-china-bristol-myers-maplight/828058/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-18T15:13:00.000Z",
-    "summary": "A combination of AstraZeneca’s Tagrisso and Hutchmed’s Orpathys extended survival for some lung cancer patients. Elsewhere, MapLight floated the idea of partnering on its autism drug."
   },
   {
     "title": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
