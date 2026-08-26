@@ -1,5 +1,85 @@
 [
   {
+    "title": "New Jazz cancer drug approval could drive blockbuster sales",
+    "link": "https://www.biopharmadive.com/news/jazz-ziihera-fda-approve-gastroesophageal-adenocarcinoma/828747/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-25T21:21:00.000Z",
+    "summary": "Ziihera can now be used as an initial treatment for all HER2-positive gastroesophageal adenocarcinomas, dramatically expanding the drug’s market potential."
+  },
+  {
+    "title": "STAT+: Sword Health to acquire Headspace, according to filing",
+    "link": "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-25T20:46:14.000Z",
+    "summary": "Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing."
+  },
+  {
+    "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-25T18:21:22.000Z",
+    "summary": "The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes."
+  },
+  {
+    "title": "Roche, Eli Lilly get FDA nod for new Alzheimer’s blood test",
+    "link": "https://www.biopharmadive.com/news/roche-eli-lilly-get-fda-nod-for-new-alzheimers-blood-test/828720/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-25T16:41:00.000Z",
+    "summary": "Labcorp and Quest Diagnostics both plan to offer the test, which secured CE mark certification earlier this year."
+  },
+  {
+    "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
+    "link": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-25T16:02:24.000Z",
+    "summary": "Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year."
+  },
+  {
+    "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
+    "link": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-25T14:51:28.000Z",
+    "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage."
+  },
+  {
+    "title": "STAT+: After a years-long slump, Massachusetts biopharma sector has come roaring back in 2026",
+    "link": "https://www.statnews.com/2026/08/25/massachusetts-biotech-slump-then-turnaround/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-25T13:58:48.000Z",
+    "summary": "The number of people working in Massachusetts’ biotech sector fell last year, for the first time since at least 2002. But 2026 is looking up."
+  },
+  {
+    "title": "STAT+: FDA promises new AI guidance, and what happened at Epic’s UGM",
+    "link": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-25T13:44:43.000Z",
+    "summary": "In this edition of STAT Health Tech: FDA's plans for regulating generative AI-powered devices, and updates from EPIC's UGM."
+  },
+  {
+    "title": "STAT+: Turkish antitrust authorities probe Teva for allegedly gaming the patent system, disparaging rival drugs",
+    "link": "https://www.statnews.com/pharmalot/2026/08/25/turkish-authorities-probe-teva-gaming-patent-system-disparaging-rivals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-25T13:43:50.000Z",
+    "summary": "Turkish regulators are investigating Teva Pharmaceutical for allegedly manipulating the patent system and disparaging rival drugs."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-25T13:23:22.000Z",
+    "summary": "Democratic senators said RFK Jr.'s recent explanation of how he disposed of a financial stake in Gardasil litigation conflicts with his earlier answers"
+  },
+  {
     "title": "CDC releases latest life expectancy data",
     "link": "https://www.statnews.com/2026/08/25/health-news-cdc-releases-latest-life-expectancy-data/?utm_campaign=rss",
     "source": "STAT News",
@@ -29,7 +109,7 @@
     "source": "STAT News",
     "category": "industry",
     "date": "2026-08-25T08:30:00.000Z",
-    "summary": "New AI technology can help hospitals prevent the controlled substances from being stolen, or abused by staff, but those tools aren't foolproof."
+    "summary": "New AI technology can help hospitals prevent controlled substances from being stolen, or abused by staff, but those tools aren't foolproof."
   },
   {
     "title": "Opinion: Whale songs: the sounds of love and loss as heard by an OB-GYN",
@@ -168,46 +248,6 @@
     "summary": "The legal theory used to restrict gender-affirming care for minors could be applied broadly, experts say."
   },
   {
-    "title": "STAT+: FDA digital health leader promises generative AI regulatory guidance is coming",
-    "link": "https://www.statnews.com/2026/08/24/fda-rick-abramson-generative-ai-guidances-are-coming/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-24T08:30:00.000Z",
-    "summary": "FDA expects to issue guidance on policies regarding generative AI devices, according to Rick Abramson, the agency’s head of digital health policy."
-  },
-  {
-    "title": "Nurse practitioner trainees find themselves stymied by shortage of clinical mentors",
-    "link": "https://www.statnews.com/2026/08/24/nurse-practitioner-preceptor-shortage-clinical-placement-challenges/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-24T08:30:00.000Z",
-    "summary": "Nurse practitioner students face a preceptor shortage, often paying thousands to secure clinical supervision."
-  },
-  {
-    "title": "Opinion: Medicine stopped shaking hands. We should start again",
-    "link": "https://www.statnews.com/2026/08/24/doctors-hand-shakes-patients-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-24T08:30:00.000Z",
-    "summary": "A handshake takes only a few seconds but can make a major difference to a patient, an emergency physician writes."
-  },
-  {
-    "title": "Opinion: I’m a retired doctor. Volunteering at a community clinic gave me an entirely new medical education",
-    "link": "https://www.statnews.com/2026/08/24/retired-doctor-community-clinic-volunteering-education/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-24T08:30:00.000Z",
-    "summary": "“It was only after retiring from mainstream medicine when I fully comprehended the callous limitations of our health care system,” writes Benjamin I. Lee."
-  },
-  {
-    "title": "Americans bought 12% less soda under new SNAP restrictions, study says",
-    "link": "https://www.statnews.com/2026/08/24/snap-restrictions-12-percent-drop-soda-purchases/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-24T05:00:00.000Z",
-    "summary": "The drop in soda purchases is meaningful, but not enormous, one of the study's authors said."
-  },
-  {
     "title": "Towards precision psychiatry: initial foundations and future directions",
     "link": "https://www.nature.com/articles/s41573-026-01509-0",
     "source": "Nature Reviews Drug Discovery",
@@ -224,38 +264,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: HHS document offers new clues to Kennedy’s vaccine plans",
-    "link": "https://www.statnews.com/2026/08/21/rfi-reveals-possible-kennedy-strategy-vaccine-policy-changes/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-21T16:40:03.000Z",
-    "summary": "Kennedy asks for feedback on new vaccine recommendation categories, how shots are tested."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/08/21/up-down-ladder-latest-comings-goings-jobs-2/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-21T13:51:51.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "Shareholder pressures Capricor; Lilly dives deeper into vaccines",
-    "link": "https://www.biopharmadive.com/news/capricor-kaos-bristol-myers-chai-lilly-amplitude-kynexis/828284/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-21T13:30:00.000Z",
-    "summary": "Kaos Capital wants a “governance reset” to alter the Duchenne cell therapy maker’s strategic course. Elsewhere, Bristol Myers furthered efforts to build an “AI-powered” discovery engine."
-  },
-  {
-    "title": "How cost and perception could reshape the GLP-1 market",
-    "link": "https://www.biopharmadive.com/news/glp-1-market-cost-prescribing-preferences/828424/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-21T11:00:00.000Z",
-    "summary": "As Eli Lilly and Novo Nordisk race for share, surveys show affordability and prescribing preferences may help decide the winners."
-  },
-  {
     "title": "FDA Approves First Therapy for Patients aged 8 years and older with Glycogen Storage Disease Type Ia",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-therapy-patients-aged-8-years-and-older-glycogen-storage-disease-type-ia",
     "source": "FDA Press Releases",
@@ -270,13 +278,5 @@
     "category": "regulatory",
     "date": "2026-08-19T16:48:13.000Z",
     "summary": "The U.S. Food and Drug Administration today authorized the Aletta, the first standalone robotic device that can draw blood from a patient’s arm without hands-on operator intervention."
-  },
-  {
-    "title": "FDA Seeks Public Feedback to Inform Regulatory Approach for Generative AI-Enabled Medical Devices",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-feedback-inform-regulatory-approach-generative-ai-enabled-medical-devices",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-18T14:10:03.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued a discussion paper on considerations for the regulation of generative artificial intelligence (GenAI)-enabled medical devices, seeking feedback from…"
   }
 ]
