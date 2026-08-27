@@ -1,5 +1,173 @@
 [
   {
+    "title": "STAT+: FDA approves Roivant therapy for rare autoimmune disease",
+    "link": "https://www.statnews.com/2026/08/27/fda-approves-roivant-therapy-for-rare-autoimmune-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T19:47:01.000Z",
+    "summary": "The FDA approved a new medicine from Roivant and its subsidiary Priovant for the treatment of dermatomyositis, a rare autoimmune disease."
+  },
+  {
+    "title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-27T19:11:11.000Z",
+    "summary": "The U.S. Food and Drug Administration has approved Lisraya (brepocitinib) tablets for the treatment of dermatomyositis in adults."
+  },
+  {
+    "title": "STAT+: Former Stanford president releases emails to rebut fraud and cover-up allegations in new book",
+    "link": "https://www.statnews.com/2026/08/27/marc-tessier-lavigne-responds-theo-baker-book-misconduct-stanford-genentech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T17:27:49.000Z",
+    "summary": "Marc Tessier-Lavigne released new details from his research and travel in an attempt to refute allegations in a new book that he published fraudulent results."
+  },
+  {
+    "title": "STAT+: CMS plans launch event for ACCESS, the Medicare chronic care pilot",
+    "link": "https://www.statnews.com/2026/08/27/cms-plans-launch-event-access-medicare-pilot-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T17:21:14.000Z",
+    "summary": "In this edition of STAT Health Tech: CMS plans a launch event for Medicare chronic care pilot, and what the Meta settlement means for health AI."
+  },
+  {
+    "title": "FDA Issues Emergency Use Authorization for Generic Drug to Prevent New World Screwworm in Cattle",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-generic-drug-prevent-new-world-screwworm-cattle",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-27T16:55:38.000Z",
+    "summary": "FDA issues Emergency Use Authorization (EUA) for Bimectin (ivermectin) injection for the prevention of New World screwworm (NWS) infestations (myiasis) in cattle when administered within 24 hours of…"
+  },
+  {
+    "title": "Michael Polansky has a new, skin-focused biotech. Don’t call it a drug company.",
+    "link": "https://www.biopharmadive.com/news/outer-bio-skin-biotech-michael-polansky-cosmetics-pharma/828910/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-27T16:32:00.000Z",
+    "summary": "Though its data could be useful for pharmaceutical firms, Polansky’s latest entrepreneurial endeavor, Outer Bio, is serious about steering clear of road bumps that slow biotechs."
+  },
+  {
+    "title": "New data could widen use of AstraZeneca, Amgen immune disease drug",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-amgen-tezpire-eosinophilic-esophagitis-results/828946/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-27T15:58:00.000Z",
+    "summary": "Tezspire succeeded in a study in eosinophilic esophagitis, which could become the drug’s third approved indication and unlock what’s viewed as a blockbuster opportunity."
+  },
+  {
+    "title": "Revolution pancreatic cancer drug should quickly become a blockbuster, analysts say",
+    "link": "https://www.biopharmadive.com/news/revolution-rasonque-price-pancreatic-cancer-drug-launch-sales/828918/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-27T15:30:00.000Z",
+    "summary": "Rasonque’s $39,800 monthly list price surpassed Wall Street forecasts and led to rosier sales projections ahead of what one analyst described as a “historic” launch."
+  },
+  {
+    "title": "STAT+: Hospitals plot their response to funding cuts",
+    "link": "https://www.statnews.com/2026/08/27/hospitals-lobby-medicaid-cuts-rasonque-approved-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T15:26:50.000Z",
+    "summary": "Hospital prep a lobbying push, RFK Jr. faces more bad news on measles, and the cancer drug that helped Ben Sasse gets approved."
+  },
+  {
+    "title": "What’s in Merck and Moderna’s cancer vaccine algorithm?",
+    "link": "https://www.statnews.com/2026/08/27/biotech-news-whats-in-merck-and-modernas-cancer-vaccine-algorithm/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T14:49:21.000Z",
+    "summary": "A heart drug failure, RevMed's pancreatic cancer drug approved, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a pancreatic cancer drug approval, a Trump deal with biotechs, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/27/pancreatic-cancer-drug-approved-trump-deal-with-biotechs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T13:20:27.000Z",
+    "summary": "The FDA approved a life-extending treatment for advanced pancreatic cancer from Revolution Medicines that is the first to attack a genetic cause"
+  },
+  {
+    "title": "RFK Jr. said a Samoa trip had nothing to do with vaccines. New documents refute that",
+    "link": "https://www.statnews.com/2026/08/27/kennedy-samoa-trip-mmr-vaccine-new-documents/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T13:16:38.000Z",
+    "summary": "Health secretary Robert F. Kennedy Jr. said a Samoa trip had nothing to do with vaccines. New documents obtained by The Associated Press and The Guardian refute that testimony."
+  },
+  {
+    "title": "Decoding DEA action on kratom-related substances",
+    "link": "https://www.statnews.com/2026/08/27/health-news-decoding-dea-action-on-kratom-related-substance/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T13:01:06.000Z",
+    "summary": "RFK Jr. downplays measles threat, FDA approves pancreatic drug, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Cassidy criticizes FDA oversight of abortion pill manufacturers in new report",
+    "link": "https://www.statnews.com/2026/08/27/bill-cassidy-louisiana-senator-new-report-mifepristone-heidi-overton/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T13:00:00.000Z",
+    "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner."
+  },
+  {
+    "title": "STAT+: Alnylam’s heart drug troubles take center stage at a cardiology conference",
+    "link": "https://www.statnews.com/2026/08/27/alnylam-amvuttra-nucresiran-heart-drugs-esc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T10:30:00.000Z",
+    "summary": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals."
+  },
+  {
+    "title": "STAT+: The mystery of Moderna’s magic algorithm",
+    "link": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T08:30:00.000Z",
+    "summary": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm."
+  },
+  {
+    "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
+    "link": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T08:30:00.000Z",
+    "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear."
+  },
+  {
+    "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
+    "link": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T08:30:00.000Z",
+    "summary": "Inside health systems' efforts to mitigate massive funding cuts."
+  },
+  {
+    "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
+    "link": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T08:30:00.000Z",
+    "summary": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm."
+  },
+  {
+    "title": "Opinion: I studied Reddit forums on menopause — and found what doctors are missing",
+    "link": "https://www.statnews.com/2026/08/27/menopause-perimenopause-symptoms-reddit-clinical-data-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-27T08:30:00.000Z",
+    "summary": "“The menopause symptoms women are discussing online should become the questions researchers ask next,” writes researcher Yulin Hswen."
+  },
+  {
+    "title": "RevMed’s RAS inhibitor gains landmark FDA approval for pancreatic cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00145-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-27T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
     "link": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/?utm_campaign=rss",
     "source": "STAT News",
@@ -80,62 +248,6 @@
     "summary": "In this edition of STAT's AI Prognosis: A conversation with Insitro CEO Daphne Koller on artificial intelligence in drug discovery, and other health AI news."
   },
   {
-    "title": "Even at big companies, health care costs are increasing",
-    "link": "https://www.statnews.com/2026/08/26/health-news-even-at-big-companies-health-care-costs-increasing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T13:29:11.000Z",
-    "summary": "Two U.S. measles deaths, the profit motive for women's health, and more Morning Rounds news today"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a GSK shingles shot, U.S. employers dropping GLP-1 coverage, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/26/gsk-shingles-shot-us-employers-dropping-glp1-coverage/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T13:09:25.000Z",
-    "summary": "About 14% of employers in the U.S. have already or plan to drop coverage of GLP-1 drugs in 2027, as companies see ​rising health care costs"
-  },
-  {
-    "title": "Newer shingles vaccine linked to lower heart disease risk, ‘natural experiment’ shows",
-    "link": "https://www.statnews.com/2026/08/26/shingles-vaccine-shingrix-reduces-heart-disease-dementia-risk-oxford-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T09:00:00.000Z",
-    "summary": "Oxford researchers call shingles shot first vaccine protecting both heart and brain. Lower heart disease risk follows study showing reduced dementia risk."
-  },
-  {
-    "title": "STAT+: New treatments for common cardiovascular risk factor near the market, with billions at stake",
-    "link": "https://www.statnews.com/2026/08/26/lp-a-drugs-novartis-amgen-lilly-potential-heart-disease-blockbuster/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T08:30:00.000Z",
-    "summary": "High cholesterol can be managed with medicine, but high Lp(a) levels, another common cardiovascular risk, cannot. Drugmakers are hoping to change that."
-  },
-  {
-    "title": "STAT+: When it comes to women’s health, money talks",
-    "link": "https://www.statnews.com/2026/08/26/womens-health-reverse-pitch-profit-driven-approach-endometriosis-osteoporosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T08:30:00.000Z",
-    "summary": "Women's health experts suggest a 'reverse pitch' approach to endometriosis, osteoporosis, and autoimmune treatments, stressing the profit potential."
-  },
-  {
-    "title": "Opinion: Many post-Dobbs abortion fears have not come to pass. What does that mean for advocates?",
-    "link": "https://www.statnews.com/2026/08/26/dobbs-abortion-predictions-infant-mortality-data-freedom/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T08:30:00.000Z",
-    "summary": "Opposition to abortion restrictions should focus on values, not statistics, writes David N. Hackney, author of “Impossible Choices.”"
-  },
-  {
-    "title": "Opinion: Medical aid in dying and the burden of choosing to live",
-    "link": "https://www.statnews.com/2026/08/26/medical-aid-in-dying-new-york-choice-burden-philosophy-ethics/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T08:30:00.000Z",
-    "summary": "“Once medical aid in dying becomes available, the status quo changes,” writes Monika Piotrowska."
-  },
-  {
     "title": "Small molecule boosts Parkinson disease treatment",
     "link": "https://www.nature.com/articles/d41573-026-00139-w",
     "source": "Nature Reviews Drug Discovery",
@@ -150,14 +262,6 @@
     "category": "industry",
     "date": "2026-08-25T21:21:00.000Z",
     "summary": "Ziihera can now be used as an initial treatment for all HER2-positive gastroesophageal adenocarcinomas, dramatically expanding the drug’s market potential."
-  },
-  {
-    "title": "STAT+: Sword Health to acquire Headspace, according to filing",
-    "link": "https://www.statnews.com/2026/08/25/sword-health-to-acquire-headspace-per-regulatory-filing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T20:46:14.000Z",
-    "summary": "Sword Health, a digital health company, plans to acquire mental health services provider Headspace, according to a regulatory filing."
   },
   {
     "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
@@ -176,92 +280,12 @@
     "summary": "Labcorp and Quest Diagnostics both plan to offer the test, which secured CE mark certification earlier this year."
   },
   {
-    "title": "Pennsylvania reports first 2 measles deaths in the U.S. this year, both people unvaccinated",
-    "link": "https://www.statnews.com/2026/08/25/two-measles-deaths-reported-pennsylvania-residents-not-vaccinated/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T16:02:24.000Z",
-    "summary": "Two unvaccinated Pennsylvania residents have died from measles, state health officials said Tuesday, the first measles-related deaths in the U.S. this year."
-  },
-  {
-    "title": "STAT+: How Trump’s funding cuts are reshaping the health system",
-    "link": "https://www.statnews.com/2026/08/25/how-trumps-funding-cuts-are-reshaping-the-health-system/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T14:51:28.000Z",
-    "summary": "STAT examines Republicans’ health care funding cuts, mRNA science defeats politics, and Medicaid tries out a new way to deny drug coverage."
-  },
-  {
-    "title": "STAT+: After a years-long slump, Massachusetts biopharma sector has come roaring back in 2026",
-    "link": "https://www.statnews.com/2026/08/25/massachusetts-biotech-slump-then-turnaround/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T13:58:48.000Z",
-    "summary": "The number of people working in Massachusetts’ biotech sector fell last year, for the first time since at least 2002. But 2026 is looking up."
-  },
-  {
-    "title": "STAT+: FDA promises new AI guidance, and what happened at Epic’s UGM",
-    "link": "https://www.statnews.com/2026/08/25/fda-promises-new-ai-guidance-and-epic-ugm-updates/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T13:44:43.000Z",
-    "summary": "In this edition of STAT Health Tech: FDA's plans for regulating generative AI-powered devices, and updates from EPIC's UGM."
-  },
-  {
-    "title": "STAT+: Turkish antitrust authorities probe Teva for allegedly gaming the patent system, disparaging rival drugs",
-    "link": "https://www.statnews.com/pharmalot/2026/08/25/turkish-authorities-probe-teva-gaming-patent-system-disparaging-rivals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T13:43:50.000Z",
-    "summary": "Turkish regulators are investigating Teva Pharmaceutical for allegedly manipulating the patent system and disparaging rival drugs."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about RFK Jr. vaccine disclosures, a Merck loss over Medicare prices, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/25/rfk-vaccine-disclosure-merck-court-loss-over-medicare/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T13:23:22.000Z",
-    "summary": "Democratic senators said RFK Jr.'s recent explanation of how he disposed of a financial stake in Gardasil litigation conflicts with his earlier answers"
-  },
-  {
-    "title": "CDC releases latest life expectancy data",
-    "link": "https://www.statnews.com/2026/08/25/health-news-cdc-releases-latest-life-expectancy-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-25T12:04:42.000Z",
-    "summary": "Deleted public comments on White House proposals, how Trump cuts are reshaping rural health care, and more Morning Rounds news"
-  },
-  {
     "title": "Will a ‘reset’ reignite investment in women’s health startups?",
     "link": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-25T12:00:00.000Z",
     "summary": "After peaking in 2024, venture investments in startups involved in the space declined last year. But a broader adoption of AI and a widening definition of what constitutes women’s health could spur a…"
-  },
-  {
-    "title": "Young startups miss out on biotech venture funding rebound, MassBio says",
-    "link": "https://www.biopharmadive.com/news/massbio-industry-biotech-vc-ipo-funding-licensing/828621/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-25T04:01:00.000Z",
-    "summary": "A new report found that the sizes of seed rounds and Series A financings for Massachusetts biotech startups are going in opposite directions, as funding slows for young companies with the “riskiest…"
-  },
-  {
-    "title": "Safety concerns spur FDA to again halt testing of Regenxbio gene therapy",
-    "link": "https://www.biopharmadive.com/news/regenxbio-fda-hunter-syndrome-hold-mri-safety/828578/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-24T15:55:00.000Z",
-    "summary": "Investigators detected masses on the spines of five patients who received its Hunter syndrome treatment, leading to the program’s second clinical hold this year."
-  },
-  {
-    "title": "FDA extends review of Capricor cell therapy; Pain drug startup to go public",
-    "link": "https://www.biopharmadive.com/news/capricor-fda-gsk-hibsago-ambros-werewolf-united-ralinepag/828560/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-24T15:30:04.000Z",
-    "summary": "The agency is now reviewing an updated application for deramiocel with a “refined” indication. Elsewhere, a startup co-founded by Vivek Ramaswamy is taking a speedy path to the public markets."
   },
   {
     "title": "Towards precision psychiatry: initial foundations and future directions",
