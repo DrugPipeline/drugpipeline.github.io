@@ -1,5 +1,93 @@
 [
   {
+    "title": "Juul gets OK to sell updated vaping device with age-gating technology",
+    "link": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-28T19:51:56.000Z",
+    "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use."
+  },
+  {
+    "title": "Opinion: The unintended consequences of the Lindsay Clancy case",
+    "link": "https://www.statnews.com/2026/08/28/lindsay-clancy-postpartum-psychosis-reproductive-psychiatrists-liability/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-28T17:59:54.000Z",
+    "summary": "“We are concerned the [Lindsay] Clancy case could make psychiatrists more reluctant to treat mothers with mental illness,” write reproductive and forensic psychiatrists."
+  },
+  {
+    "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
+    "link": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-28T15:59:00.000Z",
+    "summary": "Moderna’s upsized note offering quickly followed a big win in a crucial study. Elsewhere, a biotech’s shares tumbled after study data were “inadvertently” published ahead of a medical meeting."
+  },
+  {
+    "title": "AstraZeneca, Ionis data spark debate about RNA drugs’ impact on deadly heart disease",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-nejm-cardio-ttransform-results/829057/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-28T14:58:00.000Z",
+    "summary": "Results published in NEJM raised questions about the benefits “silencer” medications provide on top of standard therapies for TTR cardiomyopathy and amplified investor pressure on Alnylam."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/08/28/up-down-ladder-latest-comings-goings-jobs-pharma-biotech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-28T14:34:39.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "This week in charts: Biotech’s rebound is undeniable",
+    "link": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-28T14:30:00.000Z",
+    "summary": "Not only is the XBI continuing to hover around a historic high, but drug companies can’t seem to get enough of both large IPOs and big-ticket M&A."
+  },
+  {
+    "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
+    "link": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-28T13:39:04.000Z",
+    "summary": "Roivant's autoimmune drug approval, Cytokinetics reports full data for heart condition treatment, and more biotech news"
+  },
+  {
+    "title": "At a federal autism advisory committee meeting, members double down on long-debunked theories",
+    "link": "https://www.statnews.com/2026/08/28/health-news-federal-autism-adcomm-doubles-down-on-debunked-theory/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-28T13:15:46.000Z",
+    "summary": "RFK Jr.'s vaccine questions in Samoa, former Stanford president rebuts fraud allegations, and more health news from Morning Rounds"
+  },
+  {
+    "title": "FDA green lights Priovant drug for rare skin disease",
+    "link": "https://www.biopharmadive.com/news/fda-priovant-pfizer-lisraya-brepocitinib-approved/829021/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-08-28T13:12:00.000Z",
+    "summary": "Lisraya’s clearance marks the first approval of a drug the Roivant subsidiary licensed from Pfizer and has since positioned against multiple rare inflammatory conditions."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca trial failure, a ‘monstrous’ conflict of interest, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/08/28/astrazeneca-trial-failure-monstrous-conflict-of-interest/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-28T13:04:02.000Z",
+    "summary": "Pharma news from the Pharmalot campus, brought to you by the Pharmalittle newsletter"
+  },
+  {
+    "title": "STAT+: Cytokinetics details trial win for what could be its next approval",
+    "link": "https://www.statnews.com/2026/08/28/cytokinetics-myqorzo-aficamten-nhcm-acacia-trial-success/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-08-28T10:15:29.000Z",
+    "summary": "It took Cytokinetics 27 years to win its first drug approval. With the results of a new trial, its second could come much faster."
+  },
+  {
     "title": "STAT+: In autopsy of failed heart disease study, AstraZeneca raises broader questions about silencer drugs",
     "link": "https://www.statnews.com/2026/08/28/astrazeneca-ionis-wainua-eplontersen-attr-cm-study-failure-bridgebio-alnylam/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,7 +96,7 @@
     "summary": "AstraZeneca detailed the surprise failure of a closely watched heart disease trial, a study with ripple effects for a competitive billion-dollar market."
   },
   {
-    "title": "STAT+: Vaccines take center stage at federal autism advisory committee",
+    "title": "Vaccines take center stage at federal autism advisory committee",
     "link": "https://www.statnews.com/2026/08/28/vaccines-autism-advisory-committee-strategic-plan-boost-research-funding/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -144,62 +232,6 @@
     "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner."
   },
   {
-    "title": "STAT+: Alnylam’s heart drug troubles take center stage at a cardiology conference",
-    "link": "https://www.statnews.com/2026/08/27/alnylam-amvuttra-nucresiran-heart-drugs-esc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-27T10:30:00.000Z",
-    "summary": "The European Society of Cardiology Congress that kicks off Friday in Munich will be a consequential meeting for Alnylam Pharmaceuticals."
-  },
-  {
-    "title": "STAT+: The mystery of Moderna’s magic algorithm",
-    "link": "https://www.statnews.com/2026/08/27/moderna-merck-cancer-vaccine-secret-ingredient-an-algorithm/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-27T08:30:00.000Z",
-    "summary": "A personalized cancer vaccine developed by Moderna and Merck may be a triumph of immunology and cancer biology. It might also be the triumph of an algorithm."
-  },
-  {
-    "title": "A state gave sheriffs 20% of its opioid settlement cash. We followed the money",
-    "link": "https://www.statnews.com/2026/08/27/opioid-settlement-funds-enforcement-or-treatment-louisiana-sheriff-investigation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-27T08:30:00.000Z",
-    "summary": "KFF Health News examines how sheriffs are spending opioid settlement money, finds they're spending millions on police gear."
-  },
-  {
-    "title": "Hospitals are plotting a long-shot push to roll back $1 trillion in Medicaid cuts",
-    "link": "https://www.statnews.com/2026/08/27/hospitals-lobby-reverse-medicaid-cuts-part-2-unraveled-series/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-27T08:30:00.000Z",
-    "summary": "Inside health systems' efforts to mitigate massive funding cuts."
-  },
-  {
-    "title": "Opinion: STAT+: A bill is supposed to protect U.S. biotech from Chinese competition. But there’s a loophole",
-    "link": "https://www.statnews.com/2026/08/27/binsa-biotech-china-eurowashing-geography-clinical-trials/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-27T08:30:00.000Z",
-    "summary": "“Biotech industry leaders must forge a new geographic path before heavy-handed legislation forces the issue,” write executives at Optimapharm."
-  },
-  {
-    "title": "Opinion: I studied Reddit forums on menopause — and found what doctors are missing",
-    "link": "https://www.statnews.com/2026/08/27/menopause-perimenopause-symptoms-reddit-clinical-data-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-27T08:30:00.000Z",
-    "summary": "“The menopause symptoms women are discussing online should become the questions researchers ask next,” writes researcher Yulin Hswen."
-  },
-  {
-    "title": "Kennedy posts vaccine misinformation, spars on social media amid measles deaths",
-    "link": "https://www.statnews.com/2026/08/26/kennedy-vaccine-comments-reaction-josh-shapiro-jerome-adams/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-26T18:17:16.000Z",
-    "summary": "Kennedy has blamed others for declining vaccination rates, and downplayed the dangers of measles."
-  },
-  {
     "title": "Revolution drug heralded as a pancreatic cancer breakthrough cleared by FDA",
     "link": "https://www.biopharmadive.com/news/revolution-daraxonrasib-rasonque-approval-fda-priority-review-voucher/828847/",
     "source": "BioPharma Dive",
@@ -232,43 +264,11 @@
     "summary": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced…"
   },
   {
-    "title": "Zepbound may cut healthcare costs, study says; Summit, Akeso drug hits in another China trial",
-    "link": "https://www.biopharmadive.com/news/zepbound-costs-ivonescimab-mckesson-sentivera-imaavy-bausch/828680/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-26T14:11:35.000Z",
-    "summary": "A real-world study suggests Zepbound use could reduce the rates of hospital stays and ER visits. Elsewhere, McKesson sprung for a multibillion-dollar deal and J&J nabbed a noteworthy approval."
-  },
-  {
-    "title": "New Jazz cancer drug approval could drive blockbuster sales",
-    "link": "https://www.biopharmadive.com/news/jazz-ziihera-fda-approve-gastroesophageal-adenocarcinoma/828747/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-25T21:21:00.000Z",
-    "summary": "Ziihera can now be used as an initial treatment for all HER2-positive gastroesophageal adenocarcinomas, dramatically expanding the drug’s market potential."
-  },
-  {
     "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-25T18:21:22.000Z",
     "summary": "The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes."
-  },
-  {
-    "title": "Roche, Eli Lilly get FDA nod for new Alzheimer’s blood test",
-    "link": "https://www.biopharmadive.com/news/roche-eli-lilly-get-fda-nod-for-new-alzheimers-blood-test/828720/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-25T16:41:00.000Z",
-    "summary": "Labcorp and Quest Diagnostics both plan to offer the test, which secured CE mark certification earlier this year."
-  },
-  {
-    "title": "Will a ‘reset’ reignite investment in women’s health startups?",
-    "link": "https://www.biopharmadive.com/news/womens-health-startups-venture-investment-svb-report/828632/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-25T12:00:00.000Z",
-    "summary": "After peaking in 2024, venture investments in startups involved in the space declined last year. But a broader adoption of AI and a widening definition of what constitutes women’s health could spur a…"
   }
 ]
