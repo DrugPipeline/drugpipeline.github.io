@@ -1,5 +1,13 @@
 [
   {
+    "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-08-28T21:22:41.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved Mimrylo (rusfertide), a new treatment for adults with polycythemia vera, a rare blood disorder that causes the body to make too many red blood…"
+  },
+  {
     "title": "Juul gets OK to sell updated vaping device with age-gating technology",
     "link": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
     "source": "STAT News",
@@ -120,6 +128,46 @@
     "summary": "How disease spreads and the risks and benefits of interventions are questions for science, not for ideology."
   },
   {
+    "title": "A metabolically activated molecular glue",
+    "link": "https://www.nature.com/articles/d41573-026-00143-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Viral protease-initiated pyroptosis",
+    "link": "https://www.nature.com/articles/d41573-026-00141-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Serotonin receptor agonist suppresses colorectal cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00144-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "CAR-T cell therapy for multiple sclerosis",
+    "link": "https://www.nature.com/articles/d41573-026-00142-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The landscape for in vivo CAR T cell therapies",
+    "link": "https://www.nature.com/articles/d41573-026-00140-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: FDA approves Roivant therapy for rare autoimmune disease",
     "link": "https://www.statnews.com/2026/08/27/fda-approves-roivant-therapy-for-rare-autoimmune-disease/?utm_campaign=rss",
     "source": "STAT News",
@@ -232,6 +280,14 @@
     "summary": "The report raises a high-profile issue for Heidi Overton as she faces confirmation as FDA commissioner."
   },
   {
+    "title": "RevMed’s RAS inhibitor gains landmark FDA approval for pancreatic cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00145-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-27T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Revolution drug heralded as a pancreatic cancer breakthrough cleared by FDA",
     "link": "https://www.biopharmadive.com/news/revolution-daraxonrasib-rasonque-approval-fda-priority-review-voucher/828847/",
     "source": "BioPharma Dive",
@@ -264,11 +320,27 @@
     "summary": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced…"
   },
   {
+    "title": "Small molecule boosts Parkinson disease treatment",
+    "link": "https://www.nature.com/articles/d41573-026-00139-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-25T18:21:22.000Z",
     "summary": "The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes."
+  },
+  {
+    "title": "Towards precision psychiatry: initial foundations and future directions",
+    "link": "https://www.nature.com/articles/s41573-026-01509-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-24T00:00:00.000Z",
+    "summary": ""
   }
 ]
