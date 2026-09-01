@@ -1,5 +1,69 @@
 [
   {
+    "title": "Novartis says MS pill succeeds in two large studies",
+    "link": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-01T15:58:00.000Z",
+    "summary": "Notably, Novartis revealed that remibrutinib wasn’t associated with the kind of liver-related side effects other BTK inhibitors like it have encountered."
+  },
+  {
+    "title": "Alumis’ TYK2 drug fails in key lupus study",
+    "link": "https://www.biopharmadive.com/news/alumis-lupus-tyk2-inhibitor-lumus-study-failure/829286/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-01T15:28:00.000Z",
+    "summary": "Though Alumis still sees a path forward in lupus, the result made its drug the latest TYK2 blocker to struggle in conditions beyond psoriasis and psoriatic arthritis."
+  },
+  {
+    "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
+    "link": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T14:51:22.000Z",
+    "summary": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing."
+  },
+  {
+    "title": "STAT+: Novartis gets multiple sclerosis win with BTK inhibitor",
+    "link": "https://www.statnews.com/2026/09/01/biotech-news-novartis-gets-multiple-sclerosis-win-with-btk-inhibitor/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T13:34:13.000Z",
+    "summary": "More Trump drug pricing deals, GSK speeds up development of mRNA flu vaccine, and other biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Novartis and Bristol pausing cell therapy trials, a $480K cancer drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/01/novartis-bristol-trials-paused-pancreatic-cancer-drug-price-pharmalittle-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T13:21:06.000Z",
+    "summary": "Novartis and Bristol Myers Squibb have paused multiple cell therapy trials, while $480,000 has now become a routine price for a cancer drug. Read the latest pharma headlines in today's…"
+  },
+  {
+    "title": "STAT+: FDA clears Stryker’s ‘surgical cockpit’ that uses Apple’s VR headset, Vision Pro",
+    "link": "https://www.statnews.com/2026/09/01/fda-stryker-surgical-cockpit-apple-vr-headset-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T13:10:20.000Z",
+    "summary": "In this edition of STAT Health Tech: Stryker deploys Apple's VR headset Vision Pro for a surgical use case, chatbots for loneliness, and more."
+  },
+  {
+    "title": "Paxlovid did not help long Covid, study finds",
+    "link": "https://www.statnews.com/2026/09/01/health-news-paxlovid-did-not-help-long-covid-study-finds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T13:08:31.000Z",
+    "summary": "New Trump drug pricing deals, weed edibles and driving research, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Will House delay Trump plan to politicize NIH grants?",
+    "link": "https://www.statnews.com/2026/09/01/house-spending-bill-vote-grant-rule-trump-mfn-deals-dc-diagnois/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T12:03:04.000Z",
+    "summary": "The federal spending bill has an important provision for researchers, and Trump announced more MFN deals with pharma firms."
+  },
+  {
     "title": "STAT+: NIH proposal to cap research grants draws mixed reception, agency says",
     "link": "https://www.statnews.com/2026/09/01/nih-grant-cap-proposal-researcher-feedback/?utm_campaign=rss",
     "source": "STAT News",
@@ -29,7 +93,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-31T21:38:00.000Z",
-    "summary": "Side effects observed in testing have led Novartis to halt development of rap-cel in multiple indications and Bristol Myers to voluntarily pause its zola-cel program."
+    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects led Bristol Myers to voluntarily pause its zola-cel program."
   },
   {
     "title": "New guidelines on migraine prevention reflect increasing options for patients",
@@ -40,7 +104,7 @@
     "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday."
   },
   {
-    "title": "Trump strikes nine more deals with drugmakers to lower prices",
+    "title": "STAT+: Trump strikes nine more deals with drugmakers to lower prices",
     "link": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -152,44 +216,12 @@
     "summary": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera."
   },
   {
-    "title": "STAT+: Alnylam defends heart disease drugs after failure of AstraZeneca’s Wainua",
-    "link": "https://www.statnews.com/2026/08/30/alnylam-attr-astrazeneca-wainua-attruby-heart-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-30T17:29:05.000Z",
-    "summary": "An AstraZeneca heart disease trial failure has put Alnylam under pressure. It's mounting a defense of its medicines."
-  },
-  {
-    "title": "STAT+: A Novartis drug cut inflammation. Can it improve heart outcomes?",
-    "link": "https://www.statnews.com/2026/08/29/novartis-pacibekitug-inflammation-il6-tourmaline-heart-disease/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-29T07:32:11.000Z",
-    "summary": "A newly acquired Novartis drug cut signs of inflammation. The test will be whether that can improve people's heart health."
-  },
-  {
     "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-28T21:22:41.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Mimrylo (rusfertide), a new treatment for adults with polycythemia vera, a rare blood disorder that causes the body to make too many red blood…"
-  },
-  {
-    "title": "Juul gets OK to sell updated vaping device with age-gating technology",
-    "link": "https://www.statnews.com/2026/08/28/juul-fda-clearance-updated-ecigarette-age-gating-technology/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-28T19:51:56.000Z",
-    "summary": "Juul has received FDA clearance to sell an updated version of its e-cigarette, which includes an optional age-verification system designed to prevent underage use."
-  },
-  {
-    "title": "Opinion: The unintended consequences of the Lindsay Clancy case",
-    "link": "https://www.statnews.com/2026/08/28/lindsay-clancy-postpartum-psychosis-reproductive-psychiatrists-liability/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-28T17:59:54.000Z",
-    "summary": "“We are concerned the [Lindsay] Clancy case could make psychiatrists more reluctant to treat mothers with mental illness,” write reproductive and forensic psychiatrists."
   },
   {
     "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
@@ -208,14 +240,6 @@
     "summary": "Results published in NEJM raised questions about the benefits “silencer” medications provide on top of standard therapies for TTR cardiomyopathy and amplified investor pressure on Alnylam."
   },
   {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/08/28/up-down-ladder-latest-comings-goings-jobs-pharma-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-28T14:34:39.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
     "title": "This week in charts: Biotech’s rebound is undeniable",
     "link": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
     "source": "BioPharma Dive",
@@ -224,20 +248,44 @@
     "summary": "Not only is the XBI continuing to hover around a historic high, but drug companies can’t seem to get enough of both large IPOs and big-ticket M&A."
   },
   {
-    "title": "STAT+: AstraZeneca and Ionis detail surprise failure of heart disease drug, with Alnylam closely watching",
-    "link": "https://www.statnews.com/2026/08/28/biotech-news-astrazeneca-ionis-detail-surprise-failure-of-heart-disease-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-28T13:39:04.000Z",
-    "summary": "Roivant's autoimmune drug approval, Cytokinetics reports full data for heart condition treatment, and more biotech news"
+    "title": "A metabolically activated molecular glue",
+    "link": "https://www.nature.com/articles/d41573-026-00143-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "FDA green lights Priovant drug for rare skin disease",
-    "link": "https://www.biopharmadive.com/news/fda-priovant-pfizer-lisraya-brepocitinib-approved/829021/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-28T13:12:00.000Z",
-    "summary": "Lisraya’s clearance marks the first approval of a drug the Roivant subsidiary licensed from Pfizer and has since positioned against multiple rare inflammatory conditions."
+    "title": "Viral protease-initiated pyroptosis",
+    "link": "https://www.nature.com/articles/d41573-026-00141-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Serotonin receptor agonist suppresses colorectal cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00144-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "CAR-T cell therapy for multiple sclerosis",
+    "link": "https://www.nature.com/articles/d41573-026-00142-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The landscape for in vivo CAR T cell therapies",
+    "link": "https://www.nature.com/articles/d41573-026-00140-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
@@ -256,12 +304,12 @@
     "summary": "FDA issues Emergency Use Authorization (EUA) for Bimectin (ivermectin) injection for the prevention of New World screwworm (NWS) infestations (myiasis) in cattle when administered within 24 hours of…"
   },
   {
-    "title": "Michael Polansky has a new, skin-focused biotech. Don’t call it a drug company.",
-    "link": "https://www.biopharmadive.com/news/outer-bio-skin-biotech-michael-polansky-cosmetics-pharma/828910/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-27T16:32:00.000Z",
-    "summary": "Though its data could be useful for pharmaceutical firms, Polansky’s latest entrepreneurial endeavor, Outer Bio, is serious about steering clear of road bumps that slow biotechs."
+    "title": "RevMed’s RAS inhibitor gains landmark FDA approval for pancreatic cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00145-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-27T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
@@ -270,6 +318,14 @@
     "category": "regulatory",
     "date": "2026-08-26T14:33:36.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced…"
+  },
+  {
+    "title": "Small molecule boosts Parkinson disease treatment",
+    "link": "https://www.nature.com/articles/d41573-026-00139-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-26T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
