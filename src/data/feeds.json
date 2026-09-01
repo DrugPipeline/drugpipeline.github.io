@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
+    "link": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T18:09:57.000Z",
+    "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants."
+  },
+  {
+    "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
+    "link": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T17:28:37.000Z",
+    "summary": "“The whole of my field has been flattened into a single lazy question: Did the health care system fail her?” writes Jennifer Okwerekwu."
+  },
+  {
+    "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
+    "link": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-01T16:14:00.000Z",
+    "summary": "Focused on Medicaid, the new pacts now involve more than just large pharmaceutical companies, but still aren’t expected to meaningfully impact drugmaker profits."
+  },
+  {
     "title": "Novartis says MS pill succeeds in two large studies",
     "link": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
     "source": "BioPharma Dive",
@@ -93,7 +117,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-31T21:38:00.000Z",
-    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects led Bristol Myers to voluntarily pause its zola-cel program."
+    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects pushed Bristol Myers to voluntarily pause its zola-cel…"
   },
   {
     "title": "New guidelines on migraine prevention reflect increasing options for patients",
@@ -200,22 +224,6 @@
     "summary": "With clinical success on a personalized mRNA vaccine for melanoma, experts are hoping for a more stable future for the technology in other areas."
   },
   {
-    "title": "STAT+: Cadre of radiopharmaceuticals experts pushes the bounds in cancer therapy",
-    "link": "https://www.statnews.com/2026/08/31/radiopharmaceuticals-dosing-pushing-bounds-cancer-treatment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T08:30:00.000Z",
-    "summary": "Researchers believe radiopharmaceuticals have great promise as cancer treatments. But are they using them too timidly?"
-  },
-  {
-    "title": "STAT+: FDA approves Protagonist and Takeda’s drug for rare blood cancer",
-    "link": "https://www.statnews.com/2026/08/30/fda-approves-mimrylo-takeda-protagonist-treatment-for-polycythemia-vera/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-30T18:30:18.000Z",
-    "summary": "Mimrylo, from Takeda and Protagonist, is a new kind of treatment for the blood cancer polycythemia vera."
-  },
-  {
     "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
     "source": "FDA Press Releases",
@@ -240,54 +248,6 @@
     "summary": "Results published in NEJM raised questions about the benefits “silencer” medications provide on top of standard therapies for TTR cardiomyopathy and amplified investor pressure on Alnylam."
   },
   {
-    "title": "This week in charts: Biotech’s rebound is undeniable",
-    "link": "https://www.biopharmadive.com/news/biotech-charts-biopharma-xbi-deals-mergers-ipos/828794/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-28T14:30:00.000Z",
-    "summary": "Not only is the XBI continuing to hover around a historic high, but drug companies can’t seem to get enough of both large IPOs and big-ticket M&A."
-  },
-  {
-    "title": "A metabolically activated molecular glue",
-    "link": "https://www.nature.com/articles/d41573-026-00143-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Viral protease-initiated pyroptosis",
-    "link": "https://www.nature.com/articles/d41573-026-00141-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Serotonin receptor agonist suppresses colorectal cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00144-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "CAR-T cell therapy for multiple sclerosis",
-    "link": "https://www.nature.com/articles/d41573-026-00142-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The landscape for in vivo CAR T cell therapies",
-    "link": "https://www.nature.com/articles/d41573-026-00140-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults",
     "source": "FDA Press Releases",
@@ -304,35 +264,11 @@
     "summary": "FDA issues Emergency Use Authorization (EUA) for Bimectin (ivermectin) injection for the prevention of New World screwworm (NWS) infestations (myiasis) in cattle when administered within 24 hours of…"
   },
   {
-    "title": "RevMed’s RAS inhibitor gains landmark FDA approval for pancreatic cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00145-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-27T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-26T14:33:36.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced…"
-  },
-  {
-    "title": "Small molecule boosts Parkinson disease treatment",
-    "link": "https://www.nature.com/articles/d41573-026-00139-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-26T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-25T18:21:22.000Z",
-    "summary": "The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes."
   }
 ]
