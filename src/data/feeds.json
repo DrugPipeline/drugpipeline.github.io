@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: NIH proposal to cap research grants draws mixed reception, agency says",
+    "link": "https://www.statnews.com/2026/09/01/nih-grant-cap-proposal-researcher-feedback/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T08:30:00.000Z",
+    "summary": "An NIH proposal to cap the number of research grants investigators can receive has drawn a mixed reception, the agency says."
+  },
+  {
+    "title": "Opinion: The Trump administration is burying science and health care in paperwork",
+    "link": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T08:30:00.000Z",
+    "summary": "This White House has become the paperwork administration, write Brandon Marshall and Abdullah Shihipar."
+  },
+  {
+    "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
+    "link": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T08:30:00.000Z",
+    "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians."
+  },
+  {
     "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
     "link": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
     "source": "BioPharma Dive",
@@ -208,76 +232,12 @@
     "summary": "Roivant's autoimmune drug approval, Cytokinetics reports full data for heart condition treatment, and more biotech news"
   },
   {
-    "title": "At a federal autism advisory committee meeting, members double down on long-debunked theories",
-    "link": "https://www.statnews.com/2026/08/28/health-news-federal-autism-adcomm-doubles-down-on-debunked-theory/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-28T13:15:46.000Z",
-    "summary": "RFK Jr.'s vaccine questions in Samoa, former Stanford president rebuts fraud allegations, and more health news from Morning Rounds"
-  },
-  {
     "title": "FDA green lights Priovant drug for rare skin disease",
     "link": "https://www.biopharmadive.com/news/fda-priovant-pfizer-lisraya-brepocitinib-approved/829021/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-28T13:12:00.000Z",
     "summary": "Lisraya’s clearance marks the first approval of a drug the Roivant subsidiary licensed from Pfizer and has since positioned against multiple rare inflammatory conditions."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca trial failure, a ‘monstrous’ conflict of interest, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/28/astrazeneca-trial-failure-monstrous-conflict-of-interest/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-28T13:04:02.000Z",
-    "summary": "Pharma news from the Pharmalot campus, brought to you by the Pharmalittle newsletter"
-  },
-  {
-    "title": "STAT+: Cytokinetics details trial win for what could be its next approval",
-    "link": "https://www.statnews.com/2026/08/28/cytokinetics-myqorzo-aficamten-nhcm-acacia-trial-success/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-28T10:15:29.000Z",
-    "summary": "It took Cytokinetics 27 years to win its first drug approval. With the results of a new trial, its second could come much faster."
-  },
-  {
-    "title": "A metabolically activated molecular glue",
-    "link": "https://www.nature.com/articles/d41573-026-00143-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Viral protease-initiated pyroptosis",
-    "link": "https://www.nature.com/articles/d41573-026-00141-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Serotonin receptor agonist suppresses colorectal cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00144-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "CAR-T cell therapy for multiple sclerosis",
-    "link": "https://www.nature.com/articles/d41573-026-00142-1",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The landscape for in vivo CAR T cell therapies",
-    "link": "https://www.nature.com/articles/d41573-026-00140-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
@@ -304,28 +264,12 @@
     "summary": "Though its data could be useful for pharmaceutical firms, Polansky’s latest entrepreneurial endeavor, Outer Bio, is serious about steering clear of road bumps that slow biotechs."
   },
   {
-    "title": "RevMed’s RAS inhibitor gains landmark FDA approval for pancreatic cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00145-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-27T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-08-26T14:33:36.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced…"
-  },
-  {
-    "title": "Small molecule boosts Parkinson disease treatment",
-    "link": "https://www.nature.com/articles/d41573-026-00139-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-26T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
