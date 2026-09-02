@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+    "link": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T23:06:00.000Z",
+    "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy."
+  },
+  {
+    "title": "Opinion: Diabetes association CEO: What an independent review says happened at the ADA’s controversial June conference",
+    "link": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-01T23:00:00.000Z",
+    "summary": "“This is not a moment our community can afford to spend fighting itself,” writes American Diabetes Association CEO Charles “Chuck” Henderson."
+  },
+  {
     "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
     "link": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,12 +128,20 @@
     "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians."
   },
   {
+    "title": "Solute carrier membrane transporters: emerging targets in CNS disorders",
+    "link": "https://www.nature.com/articles/s41573-026-01513-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-01T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
     "link": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-31T21:38:00.000Z",
-    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects pushed Bristol Myers to voluntarily pause its zola-cel…"
+    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects led Bristol Myers to voluntarily pause its zola-cel program."
   },
   {
     "title": "New guidelines on migraine prevention reflect increasing options for patients",
@@ -208,22 +232,6 @@
     "summary": "What's possible when AI models can learn from additional health data modalities to create a more complete understanding of human health?"
   },
   {
-    "title": "Opinion: The most shocking thing about the latest statistics on CTE in football is that we find them so shocking",
-    "link": "https://www.statnews.com/2026/08/31/cte-nfl-boston-university-study-football-concussion-history/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T08:30:00.000Z",
-    "summary": "The latest study on CTE in football players “quantifies but does not reveal a problem,” writes Emily Harrison, a historian who studies brain injury in football."
-  },
-  {
-    "title": "STAT+: After a rough stretch, mRNA gets a boost — at least for now",
-    "link": "https://www.statnews.com/2026/08/31/mrna-cancer-vaccine-intersects-politics-medicine/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T08:30:00.000Z",
-    "summary": "With clinical success on a personalized mRNA vaccine for melanoma, experts are hoping for a more stable future for the technology in other areas."
-  },
-  {
     "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
     "source": "FDA Press Releases",
@@ -248,6 +256,46 @@
     "summary": "Results published in NEJM raised questions about the benefits “silencer” medications provide on top of standard therapies for TTR cardiomyopathy and amplified investor pressure on Alnylam."
   },
   {
+    "title": "A metabolically activated molecular glue",
+    "link": "https://www.nature.com/articles/d41573-026-00143-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Viral protease-initiated pyroptosis",
+    "link": "https://www.nature.com/articles/d41573-026-00141-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Serotonin receptor agonist suppresses colorectal cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00144-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "CAR-T cell therapy for multiple sclerosis",
+    "link": "https://www.nature.com/articles/d41573-026-00142-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The landscape for in vivo CAR T cell therapies",
+    "link": "https://www.nature.com/articles/d41573-026-00140-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults",
     "source": "FDA Press Releases",
@@ -262,6 +310,14 @@
     "category": "regulatory",
     "date": "2026-08-27T16:55:38.000Z",
     "summary": "FDA issues Emergency Use Authorization (EUA) for Bimectin (ivermectin) injection for the prevention of New World screwworm (NWS) infestations (myiasis) in cattle when administered within 24 hours of…"
+  },
+  {
+    "title": "RevMed’s RAS inhibitor gains landmark FDA approval for pancreatic cancer",
+    "link": "https://www.nature.com/articles/d41573-026-00145-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-08-27T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
