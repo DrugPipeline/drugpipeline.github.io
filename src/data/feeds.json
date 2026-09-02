@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: How Trump’s latest pharma deals may undermine efforts to rein in drug costs",
+    "link": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T08:30:00.000Z",
+    "summary": "Analysts say private deals involve drugmakers agreeing to lower prices in Medicaid, where prices are low, in return for no price cuts in Medicare."
+  },
+  {
+    "title": "STAT+: The Ig Nobel Prizes, long held in the U.S., head to Europe due to Trump policies",
+    "link": "https://www.statnews.com/2026/09/02/ig-nobel-prizes-europe-trump-policies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T08:30:00.000Z",
+    "summary": "For the first time since they began, the Ig Nobel Prizes, a satirical version of the Nobel prizes, is being held overseas."
+  },
+  {
+    "title": "Opinion: The next DSM should address the algorithm’s role in eating disorders",
+    "link": "https://www.statnews.com/2026/09/02/dsm-6-eating-disorders-algorithms-social-media-influence-screening/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T08:30:00.000Z",
+    "summary": "The new DSM, expected in 2030, should address the digital environments of eating disorders patients, experts write."
+  },
+  {
     "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
     "link": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
     "source": "STAT News",
@@ -198,30 +222,6 @@
     "category": "industry",
     "date": "2026-08-31T14:49:00.000Z",
     "summary": "At a big meeting for cardiovascular medicines, Cytokinetics and Arrowhead aimed to separate their drugs from competitors while a failed study pressured Alnylam."
-  },
-  {
-    "title": "STAT+: We’re reading about drug pricing deals, a new cancer therapy approval, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/08/31/drug-pricing-deals-polycythemia-vera-mimrylo-pharmalittle-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T13:03:11.000Z",
-    "summary": "In today's Pharmalittle newsletter, drug pricing deals, a new cancer therapy approval, and more of the latest pharma headlines."
-  },
-  {
-    "title": "STAT+: Can a pregnancy hormone steer a cardiovascular treatment?",
-    "link": "https://www.statnews.com/2026/08/31/biotech-news-can-a-pregnancy-hormone-steer-a-cardiovascular-treatment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T12:48:19.000Z",
-    "summary": "Caution and survival in radiopharmaceuticals, mRNA skepticism, and more biotech news from The Readout"
-  },
-  {
-    "title": "A winner, a loser, and a mid-stage signal from a major cardiology research conference",
-    "link": "https://www.statnews.com/2026/08/31/health-news-mid-stage-results-from-esc-2026-cardiology/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T12:25:18.000Z",
-    "summary": "The mental health system after Lindsay Clancy, pushing boundaries for new radiopharmaceuticals, and more health news from Morning Rounds"
   },
   {
     "title": "The next frontier: Advancing foundation models with multimodal data",
