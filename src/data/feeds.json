@@ -1,5 +1,61 @@
 [
   {
+    "title": "UniQure, after setbacks, seeks FDA approval of Huntington’s gene therapy",
+    "link": "https://www.biopharmadive.com/news/uniqure-submit-fda-approval-huntingtons-gene-therapy/829400/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-02T15:22:00.000Z",
+    "summary": "The company is now hoping for an affirmative answer on its application after an unusually turbulent year dealing with U.S. regulators."
+  },
+  {
+    "title": "Teva claims success in celiac study; BioMarin, Ascendis settle patent dispute",
+    "link": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-02T14:12:00.000Z",
+    "summary": "Teva believes the therapy has “pipeline-in-a-product” potential. Elsewhere, a high-stakes trial was paused and GSK advanced a competitor to Moderna’s flu shot."
+  },
+  {
+    "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
+    "link": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T14:00:00.000Z",
+    "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines."
+  },
+  {
+    "title": "STAT+: ARPA-H funds biotechs working on custom RNA therapies",
+    "link": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T13:37:50.000Z",
+    "summary": "Roche licenses a tri-specific antibody, new Trump deals may undercut its own goals, and other biotech news"
+  },
+  {
+    "title": "STAT+: How a former ARPA-H director’s startup is tackling AI’s ‘dumb problems’",
+    "link": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T13:29:52.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: A startup tackling the 'dumb problems' at the intersection of AI and bio, accuracy of AI scribes, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Huntington’s gene therapy, Novo’s challenges, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T13:26:55.000Z",
+    "summary": "UniQure has submitted its Huntington’s gene therapy to the FDA, investors remain unenthusiastic on Novo Nordisk, and more of the latest pharma headlines in today's Pharmalittle newsletter."
+  },
+  {
+    "title": "HHS spins a tale of a would-be content creator child",
+    "link": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T11:59:16.000Z",
+    "summary": "The next DSM and the algorithm, an unexpected discovery on alpha-gal syndrome, and more health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: How Trump’s latest pharma deals may undermine efforts to rein in drug costs",
     "link": "https://www.statnews.com/2026/09/02/trump-most-favored-nation-drug-pricing-industry-analysts-skeptical/?utm_campaign=rss",
     "source": "STAT News",
@@ -22,6 +78,14 @@
     "category": "industry",
     "date": "2026-09-02T08:30:00.000Z",
     "summary": "The new DSM, expected in 2030, should address the digital environments of eating disorders patients, experts write."
+  },
+  {
+    "title": "Click chemistry platform enhances ADC tumour targeting",
+    "link": "https://www.nature.com/articles/d41573-026-00146-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-02T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
@@ -144,14 +208,6 @@
     "summary": "This White House has become the paperwork administration, write Brandon Marshall and Abdullah Shihipar."
   },
   {
-    "title": "As MAHA champions nutrition, it’s ignoring the experts, dietitians say",
-    "link": "https://www.statnews.com/2026/09/01/maha-nutrition-makeover-hampered-dietitian-workforce-crisis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-01T08:30:00.000Z",
-    "summary": "A key aspect of the Make America Healthy Again agenda could be hampered by a shrinking and underpaid workforce of registered dietitians."
-  },
-  {
     "title": "Solute carrier membrane transporters: emerging targets in CNS disorders",
     "link": "https://www.nature.com/articles/s41573-026-01513-4",
     "source": "Nature Reviews Drug Discovery",
@@ -165,23 +221,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-08-31T21:38:00.000Z",
-    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects led Bristol Myers to voluntarily pause its zola-cel program."
-  },
-  {
-    "title": "New guidelines on migraine prevention reflect increasing options for patients",
-    "link": "https://www.statnews.com/2026/08/31/migraine-prevention-medication-guidelines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T20:00:00.000Z",
-    "summary": "“There has been a wealth of new treatment available” for migraine prevention, said a co-author of new guidelines released Monday."
-  },
-  {
-    "title": "STAT+: Trump strikes nine more deals with drugmakers to lower prices",
-    "link": "https://www.statnews.com/2026/08/31/trump-most-favored-nation-drug-pricing-new-round-price-cuts-announced/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T19:48:44.000Z",
-    "summary": "President Trump on Monday announced the next round of pricing deals with drugmakers, with nine new companies making such agreements."
+    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects pushed Bristol Myers to voluntarily pause its zola-cel…"
   },
   {
     "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
@@ -190,22 +230,6 @@
     "category": "industry",
     "date": "2026-08-31T16:13:00.000Z",
     "summary": "The clearance and broader-than-expected label for Mimrylo open up a yearly revenue opportunity for Takeda that some analysts expect to reach $2 billion or more."
-  },
-  {
-    "title": "STAT+: Can buying a drug patent application be seen as a bid to prolong a monopoly?",
-    "link": "https://www.statnews.com/pharmalot/2026/08/31/pending-drug-patent-applications-amgen-carefirst/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T15:56:53.000Z",
-    "summary": "A drug patent case involving Amgen is being closely watched given its potential implications for pharmaceutical patent deals broadly."
-  },
-  {
-    "title": "STAT+: GLP-1 drugs are almost single-handedly forcing employers to reconsider workers’ health care",
-    "link": "https://www.statnews.com/2026/08/31/health-care-inc-glp-1s-are-breaking-employers-and-340-battles/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-08-31T15:27:30.000Z",
-    "summary": "Another hospital system sues CVS Health, how Medicaid cuts will change everything, and more"
   },
   {
     "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
@@ -238,22 +262,6 @@
     "category": "regulatory",
     "date": "2026-08-28T21:22:41.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Mimrylo (rusfertide), a new treatment for adults with polycythemia vera, a rare blood disorder that causes the body to make too many red blood…"
-  },
-  {
-    "title": "Moderna raises $2.6B to support cancer work; FDA clears updated COVID vaccines",
-    "link": "https://www.biopharmadive.com/news/fda-covid-vaccines-moderna-generate-profound-bixlenvo/828929/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-28T15:59:00.000Z",
-    "summary": "Moderna’s upsized note offering quickly followed a big win in a crucial study. Elsewhere, a biotech’s shares tumbled after study data were “inadvertently” published ahead of a medical meeting."
-  },
-  {
-    "title": "AstraZeneca, Ionis data spark debate about RNA drugs’ impact on deadly heart disease",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-ionis-eplontersen-nejm-cardio-ttransform-results/829057/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-28T14:58:00.000Z",
-    "summary": "Results published in NEJM raised questions about the benefits “silencer” medications provide on top of standard therapies for TTR cardiomyopathy and amplified investor pressure on Alnylam."
   },
   {
     "title": "A metabolically activated molecular glue",
@@ -318,13 +326,5 @@
     "category": "research",
     "date": "2026-08-27T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-26T14:33:36.000Z",
-    "summary": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to patients with advanced…"
   }
 ]
