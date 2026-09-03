@@ -1,5 +1,77 @@
 [
   {
+    "title": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-03T15:01:02.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Capstar (nitenpyram) tablets and revised the EUA for Nitenpyram Tablets, the generic version of Capstar"
+  },
+  {
+    "title": "Ultragenyx to weigh ‘significant’ cost cuts as Angelman drug fails key study",
+    "link": "https://www.biopharmadive.com/news/ultragenyx-angelman-syndrome-drug-results-cost-cuts/829528/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-03T14:53:00.000Z",
+    "summary": "The failure of what was once considered a potential blockbuster therapy represents a major setback in a tough-to-treat disease and is forcing Ultragenyx to closely examine its expenses."
+  },
+  {
+    "title": "STAT+: Seattle scientists launch $95 million AI biology effort",
+    "link": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-03T14:39:05.000Z",
+    "summary": "Ultragenyx drug fails pivotal Phase 3, FDA's success at regulating unproven stem cells, and other biotech news"
+  },
+  {
+    "title": "STAT+: Fauci speaks, and writes",
+    "link": "https://www.statnews.com/2026/09/03/anthony-fauci-vaccine-skeptics-book-trump-drug-pricing-deals-medicaid/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-03T14:11:34.000Z",
+    "summary": "Anthony Fauci is working on a book, we unpack Trump's latest drug pricing deals, and more from STAT's D.C. Diagnosis newsletter."
+  },
+  {
+    "title": "HHS flip-flops on disability lawsuit",
+    "link": "https://www.statnews.com/2026/09/03/health-news-hhs-flip-flops-on-disability-lawsuit-community-integration/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-03T13:21:58.000Z",
+    "summary": "Drug overdose deaths decreasing, a path to patients for AI devices, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: OpenEvidence launches new family of AI models",
+    "link": "https://www.statnews.com/2026/09/03/openevidence-launches-new-ai-models-clinicians-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-03T13:18:32.000Z",
+    "summary": "In this edition of STAT Health Tech: What FDA's TEMPO pilot means for AI regulation, OpenEvidence launches new AI models, and more."
+  },
+  {
+    "title": "STAT+: We’re reading about an Ultragenyx failure, RevMed for lung cancer, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/03/pharmalittle-ultrangenyx-gene-therapy-failure-rev-med-lung-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-03T13:18:08.000Z",
+    "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter"
+  },
+  {
+    "title": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-advance-development-botanical-drug-products",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-03T12:52:49.000Z",
+    "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) to gather public input on opportunities to advance the development of botanical drug products."
+  },
+  {
+    "title": "The hidden scale-out problem behind CAR-T’s growth",
+    "link": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-03T12:00:00.000Z",
+    "summary": "CAR-T’s commercial challenge is making thousands of patient-specific manufacturing runs behave like one reliable system. \"In vivo\" production techniques could be one solution."
+  },
+  {
     "title": "STAT+: Abivax has still not been acquired. What’s going on?",
     "link": "https://www.statnews.com/2026/09/03/abivax-acquisition-target-replimune-fda/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,38 +224,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
-    "link": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-01T23:06:00.000Z",
-    "summary": "A review of findings from a five-person committee is being sent to the ADA board for action, STAT has learned, but it appears unlikely to quiet the controversy."
-  },
-  {
-    "title": "Opinion: Diabetes association CEO: What an independent review says happened at the ADA’s controversial June conference",
-    "link": "https://www.statnews.com/2026/09/01/american-diabetes-association-june-conference-independent-review/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-01T23:00:00.000Z",
-    "summary": "“This is not a moment our community can afford to spend fighting itself,” writes American Diabetes Association CEO Charles “Chuck” Henderson."
-  },
-  {
-    "title": "STAT+: House votes to temporarily block Trump plan to politicize federal grants",
-    "link": "https://www.statnews.com/2026/09/01/stopgap-spending-bill-contains-reprieve-nih-research-grant-control/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-01T18:09:57.000Z",
-    "summary": "The House voted to pass a stopgap funding bill that, for now, blocks a White House proposal to give political appointees more control over research grants."
-  },
-  {
-    "title": "Opinion: I’m a reproductive psychiatrist. The Lindsay Clancy trial will cause terrible damage to my field",
-    "link": "https://www.statnews.com/2026/09/01/lindsay-clancy-trial-verdict-postpartum-psychosis-psychiatry/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-01T17:28:37.000Z",
-    "summary": "“The whole of my field has been flattened into a single lazy question: Did the health care system fail her?” writes Jennifer Okwerekwu."
-  },
-  {
     "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
     "link": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
     "source": "BioPharma Dive",
@@ -208,14 +248,6 @@
     "summary": "Though Alumis still sees a path forward in lupus, the result made its drug the latest TYK2 blocker to struggle in conditions beyond psoriasis and psoriatic arthritis."
   },
   {
-    "title": "STAT+: 5 burning questions on Trump’s latest deals with drugmakers",
-    "link": "https://www.statnews.com/2026/09/01/trump-pharma-deals-analysis-latest-round-most-favored-nation-drug-pricing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-01T14:51:22.000Z",
-    "summary": "Here are some of the key questions about the agreements the Trump administration has reached with drugmakers on pricing."
-  },
-  {
     "title": "Solute carrier membrane transporters: emerging targets in CNS disorders",
     "link": "https://www.nature.com/articles/s41573-026-01513-4",
     "source": "Nature Reviews Drug Discovery",
@@ -238,22 +270,6 @@
     "category": "industry",
     "date": "2026-08-31T16:13:00.000Z",
     "summary": "The clearance and broader-than-expected label for Mimrylo open up a yearly revenue opportunity for Takeda that some analysts expect to reach $2 billion or more."
-  },
-  {
-    "title": "Lilly adds to immune drug pipeline with $2.9B Merida buyout",
-    "link": "https://www.biopharmadive.com/news/lilly-merida-acquire-deal-immune-drugs-graves-disease/829152/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-31T15:23:00.000Z",
-    "summary": "The big drugmaker’s latest company acquisition this year is centered around a technology designed to degrade proteins that malfunction in autoimmune disorders."
-  },
-  {
-    "title": "ESC ‘26: Cytokinetics’ sell-off, Arrowhead’s edge and a heart drug autopsy",
-    "link": "https://www.biopharmadive.com/news/esc-congress-2026-results-eplontersen-alnylam-cytokinetics/829139/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-31T14:49:00.000Z",
-    "summary": "At a big meeting for cardiovascular medicines, Cytokinetics and Arrowhead aimed to separate their drugs from competitors while a failed study pressured Alnylam."
   },
   {
     "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
