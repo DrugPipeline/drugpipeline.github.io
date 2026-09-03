@@ -1,5 +1,37 @@
 [
   {
+    "title": "FDA Approves First Drug to Treat Alexander Disease",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-03T19:48:27.000Z",
+    "summary": "The U.S. Food and Drug Administration has approved Zanvastro (zilganersen) injection for the treatment of Alexander disease in pediatric and adult patients."
+  },
+  {
+    "title": "‘Tactical athletes’ get new guidance for cardiovascular fitness",
+    "link": "https://www.statnews.com/2026/09/03/tactical-athlete-health-risks-new-cardiovascular-guidelines-police-firefighters/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-03T18:00:00.000Z",
+    "summary": "Tactical athletes, a category of people first recognized in the early 2000s, also need distinct kinds of health care."
+  },
+  {
+    "title": "An AI drug specialist zeroes in on rare forms of obesity",
+    "link": "https://www.biopharmadive.com/news/superluminal-medicines-obesity-ai-drug-discovery-series-b/829552/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-03T16:20:00.000Z",
+    "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially more selectively than — Rhythm Pharmaceuticals’ marketed medicine…"
+  },
+  {
+    "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
+    "link": "https://www.biopharmadive.com/news/gsk-hutchmed-egfr-kras-cancer-drug-deal-china/829542/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-03T16:01:00.000Z",
+    "summary": "With its latest foray into China, GSK acquired rights from Hutchmed to an “antibody-targeted therapy conjugate” impacting two well-known cancer drivers, EGFR and KRAS."
+  },
+  {
     "title": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
     "source": "FDA Press Releases",
@@ -54,6 +86,14 @@
     "category": "industry",
     "date": "2026-09-03T13:18:08.000Z",
     "summary": "The latest pharma news from the Pharmalot campus via the Pharmalittle newsletter"
+  },
+  {
+    "title": "Akeso, Summit cancer drug confirms lung cancer survival benefit",
+    "link": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-03T13:14:12.000Z",
+    "summary": "A new data cut of a trial pitting ivonescimab, a bispecific antibody, against Merck’s Keytruda showed the new drug helped people live longer."
   },
   {
     "title": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
@@ -208,14 +248,6 @@
     "summary": "For the first time since they began, the Ig Nobel Prizes, a satirical version of the Nobel prizes, is being held overseas."
   },
   {
-    "title": "Opinion: The next DSM should address the algorithm’s role in eating disorders",
-    "link": "https://www.statnews.com/2026/09/02/dsm-6-eating-disorders-algorithms-social-media-influence-screening/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-02T08:30:00.000Z",
-    "summary": "The new DSM, expected in 2030, should address the digital environments of eating disorders patients, experts write."
-  },
-  {
     "title": "Click chemistry platform enhances ADC tumour targeting",
     "link": "https://www.nature.com/articles/d41573-026-00146-x",
     "source": "Nature Reviews Drug Discovery",
@@ -240,36 +272,12 @@
     "summary": "Notably, Novartis revealed that remibrutinib wasn’t associated with the kind of liver-related side effects other BTK inhibitors like it have encountered."
   },
   {
-    "title": "Alumis’ TYK2 drug fails in key lupus study",
-    "link": "https://www.biopharmadive.com/news/alumis-lupus-tyk2-inhibitor-lumus-study-failure/829286/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-01T15:28:00.000Z",
-    "summary": "Though Alumis still sees a path forward in lupus, the result made its drug the latest TYK2 blocker to struggle in conditions beyond psoriasis and psoriatic arthritis."
-  },
-  {
     "title": "Solute carrier membrane transporters: emerging targets in CNS disorders",
     "link": "https://www.nature.com/articles/s41573-026-01513-4",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-09-01T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
-    "link": "https://www.biopharmadive.com/news/novartis-bristol-myers-autoimmune-cell-therapy-trial-halt/829218/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-31T21:38:00.000Z",
-    "summary": "The deaths of three study participants led Novartis to halt development of rap-cel in multiple indications, while “transient” side effects pushed Bristol Myers to voluntarily pause its zola-cel…"
-  },
-  {
-    "title": "FDA OKs Takeda, Protagonist drug for rare blood cancer",
-    "link": "https://www.biopharmadive.com/news/fda-approve-mimrylo-takeda-protagonist-polycythemia-vera/829153/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-08-31T16:13:00.000Z",
-    "summary": "The clearance and broader-than-expected label for Mimrylo open up a yearly revenue opportunity for Takeda that some analysts expect to reach $2 billion or more."
   },
   {
     "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
@@ -318,21 +326,5 @@
     "category": "research",
     "date": "2026-08-28T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-27T19:11:11.000Z",
-    "summary": "The U.S. Food and Drug Administration has approved Lisraya (brepocitinib) tablets for the treatment of dermatomyositis in adults."
-  },
-  {
-    "title": "FDA Issues Emergency Use Authorization for Generic Drug to Prevent New World Screwworm in Cattle",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-generic-drug-prevent-new-world-screwworm-cattle",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-27T16:55:38.000Z",
-    "summary": "FDA issues Emergency Use Authorization (EUA) for Bimectin (ivermectin) injection for the prevention of New World screwworm (NWS) infestations (myiasis) in cattle when administered within 24 hours of…"
   }
 ]
