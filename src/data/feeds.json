@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
+    "link": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-02T20:37:24.000Z",
+    "summary": "Ultragenyx said its experimental therapy for Angelman syndrome, a rare disease, showed no benefit compared to a sham treatment in a Phase 3 trial."
+  },
+  {
     "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
     "link": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
     "source": "BioPharma Dive",
@@ -208,14 +216,6 @@
     "summary": "An NIH proposal to cap the number of research grants investigators can receive has drawn a mixed reception, the agency says."
   },
   {
-    "title": "Opinion: The Trump administration is burying science and health care in paperwork",
-    "link": "https://www.statnews.com/2026/09/01/white-house-science-medicaid-bureaucracy-paperwork/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-01T08:30:00.000Z",
-    "summary": "This White House has become the paperwork administration, write Brandon Marshall and Abdullah Shihipar."
-  },
-  {
     "title": "Solute carrier membrane transporters: emerging targets in CNS disorders",
     "link": "https://www.nature.com/articles/s41573-026-01513-4",
     "source": "Nature Reviews Drug Discovery",
@@ -318,13 +318,5 @@
     "category": "regulatory",
     "date": "2026-08-27T16:55:38.000Z",
     "summary": "FDA issues Emergency Use Authorization (EUA) for Bimectin (ivermectin) injection for the prevention of New World screwworm (NWS) infestations (myiasis) in cattle when administered within 24 hours of…"
-  },
-  {
-    "title": "RevMed’s RAS inhibitor gains landmark FDA approval for pancreatic cancer",
-    "link": "https://www.nature.com/articles/d41573-026-00145-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-08-27T00:00:00.000Z",
-    "summary": ""
   }
 ]
