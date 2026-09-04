@@ -1,5 +1,29 @@
 [
   {
+    "title": "Opinion: Make infectious disease data boring again",
+    "link": "https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T08:30:00.000Z",
+    "summary": "“Is CDC now applying different standards to state data depending on who governs the state or what political party won an election?” ask former CDC officials."
+  },
+  {
+    "title": "STAT+: Lindsay Clancy case exposes dangers of fragmented U.S. health system, experts say",
+    "link": "https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T08:30:00.000Z",
+    "summary": "In the months before killing her children, Lindsay Clancy repeatedly sought help for her deteriorating mental health."
+  },
+  {
+    "title": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains",
+    "link": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T08:30:00.000Z",
+    "summary": "Clozapine “is one of the most underused drugs in all of medicine,” writes Nitin Gogtay."
+  },
+  {
     "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
     "link": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/?utm_campaign=rss",
     "source": "STAT News",
@@ -37,7 +61,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-03T16:20:00.000Z",
-    "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially more selectively than — Rhythm Pharmaceuticals’ marketed medicine…"
+    "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially be more selectively than — Rhythm Pharmaceuticals’ marketed…"
   },
   {
     "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
@@ -222,30 +246,6 @@
     "category": "industry",
     "date": "2026-09-02T13:37:50.000Z",
     "summary": "Roche licenses a tri-specific antibody, new Trump deals may undercut its own goals, and other biotech news"
-  },
-  {
-    "title": "STAT+: How a former ARPA-H director’s startup is tackling AI’s ‘dumb problems’",
-    "link": "https://www.statnews.com/2026/09/02/why-transfyr-tackles-dumb-problems-intersection-bio-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-02T13:29:52.000Z",
-    "summary": "In this edition of STAT's AI Prognosis: A startup tackling the 'dumb problems' at the intersection of AI and bio, accuracy of AI scribes, and more."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Huntington’s gene therapy, Novo’s challenges, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/02/uniqure-huntingtons-fda-novo-nordisk-investors-pharmalittle-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-02T13:26:55.000Z",
-    "summary": "UniQure has submitted its Huntington’s gene therapy to the FDA, investors remain unenthusiastic on Novo Nordisk, and more of the latest pharma headlines in today's Pharmalittle newsletter."
-  },
-  {
-    "title": "HHS spins a tale of a would-be content creator child",
-    "link": "https://www.statnews.com/2026/09/02/health-news-hhs-spins-a-tale-of-a-would-be-content-creator/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-02T11:59:16.000Z",
-    "summary": "The next DSM and the algorithm, an unexpected discovery on alpha-gal syndrome, and more health news from Morning Rounds"
   },
   {
     "title": "Click chemistry platform enhances ADC tumour targeting",
