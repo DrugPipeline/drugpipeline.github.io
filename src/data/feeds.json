@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: After failure of Angelman syndrome drug, experts see hope in other experimental therapies",
+    "link": "https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T15:34:42.000Z",
+    "summary": "After the failure of an experimental drug for Angelman syndrome, experts cautioned that there is still reason to think similar experimental medicines can succeed."
+  },
+  {
+    "title": "STAT+: FDA takes another look at botanical drugs",
+    "link": "https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T13:46:42.000Z",
+    "summary": "The biggest barrier for a top schzophrenia treatment, Ionis' first approval for Alexander disease, and more biotech news"
+  },
+  {
+    "title": "Disabled workers at greater risk of losing health insurance",
+    "link": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T13:08:15.000Z",
+    "summary": "An organ transplant first, new details on ADA conference controversy, and more health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: We’re reading about a Bristol CAR-T trial pause, Pfizer offloading a shelved candidate, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T13:02:26.000Z",
+    "summary": "The latest pharma news from the Pharmalot campus brought to you by the Pharmalittle newsletter"
+  },
+  {
     "title": "Opinion: Make infectious disease data boring again",
     "link": "https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss",
     "source": "STAT News",
@@ -61,7 +93,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-03T16:20:00.000Z",
-    "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially be more selectively than — Rhythm Pharmaceuticals’ marketed…"
+    "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially more selectively than — Rhythm Pharmaceuticals’ marketed medicine…"
   },
   {
     "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
@@ -192,22 +224,6 @@
     "summary": "At a \"practice of last resort,\" pediatricians prioritize allaying parents' vaccine concerns without hardline dismissals."
   },
   {
-    "title": "Why are drug overdose deaths declining?",
-    "link": "https://www.statnews.com/2026/09/03/drug-overdose-deaths-down-sharply-commonwealth-fund-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-03T04:01:00.000Z",
-    "summary": "Naloxone and harm reduction measures may be helping to curb drug overdose deaths, a new report says."
-  },
-  {
-    "title": "STAT+: Ultragenyx drug to treat Angelman syndrome, a rare disease, fails late-stage trial",
-    "link": "https://www.statnews.com/2026/09/02/ultragenyx-drug-angelman-syndrome-clinical-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-02T20:37:24.000Z",
-    "summary": "Ultragenyx said its experimental therapy for Angelman syndrome, a rare disease, showed no benefit compared to a sham treatment in a Phase 3 trial."
-  },
-  {
     "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
     "link": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
     "source": "BioPharma Dive",
@@ -232,30 +248,6 @@
     "summary": "Teva believes the therapy has “pipeline-in-a-product” potential. Elsewhere, a high-stakes trial was paused and GSK advanced a competitor to Moderna’s flu shot."
   },
   {
-    "title": "Doctors groups release vaccination guidelines ahead of respiratory illness season",
-    "link": "https://www.statnews.com/2026/09/02/vaccine-integrity-project-fall-winter-guidelines-rsv-covid-flu-shots/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-02T14:00:00.000Z",
-    "summary": "Ahead of respiratory illness season, professional organizations have issued guidance on flu, Covid, and RSV vaccines."
-  },
-  {
-    "title": "STAT+: ARPA-H funds biotechs working on custom RNA therapies",
-    "link": "https://www.statnews.com/2026/09/02/biotech-news-arp-h-funds-biotechs-working-on-custom-rna-therapies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-02T13:37:50.000Z",
-    "summary": "Roche licenses a tri-specific antibody, new Trump deals may undercut its own goals, and other biotech news"
-  },
-  {
-    "title": "Click chemistry platform enhances ADC tumour targeting",
-    "link": "https://www.nature.com/articles/d41573-026-00146-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-02T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
     "link": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
     "source": "BioPharma Dive",
@@ -270,14 +262,6 @@
     "category": "industry",
     "date": "2026-09-01T15:58:00.000Z",
     "summary": "Notably, Novartis revealed that remibrutinib wasn’t associated with the kind of liver-related side effects other BTK inhibitors like it have encountered."
-  },
-  {
-    "title": "Solute carrier membrane transporters: emerging targets in CNS disorders",
-    "link": "https://www.nature.com/articles/s41573-026-01513-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-01T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
