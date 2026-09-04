@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
+    "link": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T16:05:04.000Z",
+    "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital."
+  },
+  {
+    "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
+    "link": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-04T16:00:00.000Z",
+    "summary": "The drugmaker is leaning on a better side effect profile compared to drugs from J&J, Pfizer and Regeneron as it pushes etentamig toward FDA submission."
+  },
+  {
+    "title": "This week in charts: China deals, stock flatlines and Lilly’s M&A spree",
+    "link": "https://www.biopharmadive.com/news/charts-biotech-deals-china-alumis-ultragenyx-stock/829635/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-04T15:56:31.000Z",
+    "summary": "Deals with Chinese drugmakers are continuing at a steady pace, while two mid-cap biotechs' stock prices took a tumble this week. Meanwhile, Lilly has outpaced other pharmas in dealmaking this year."
+  },
+  {
     "title": "STAT+: After failure of Angelman syndrome drug, experts see hope in other experimental therapies",
     "link": "https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss",
     "source": "STAT News",
@@ -32,6 +56,14 @@
     "summary": "The latest pharma news from the Pharmalot campus brought to you by the Pharmalittle newsletter"
   },
   {
+    "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
+    "link": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-04T13:00:00.000Z",
+    "summary": "Zanvastro is now the first approved medicine for Alexander disease. Elsewhere, an immune system specialist posted positive results and a cell therapy developer turned to layoffs."
+  },
+  {
     "title": "Opinion: Make infectious disease data boring again",
     "link": "https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss",
     "source": "STAT News",
@@ -54,6 +86,14 @@
     "category": "industry",
     "date": "2026-09-04T08:30:00.000Z",
     "summary": "Clozapine “is one of the most underused drugs in all of medicine,” writes Nitin Gogtay."
+  },
+  {
+    "title": "Newest glue degrader nabs multiple myeloma approval",
+    "link": "https://www.nature.com/articles/d41573-026-00147-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-04T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Recipients of gene-edited pig kidneys successfully receive human organs",
@@ -93,7 +133,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-03T16:20:00.000Z",
-    "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially more selectively than — Rhythm Pharmaceuticals’ marketed medicine…"
+    "summary": "Superluminal Medicines banked $60 million in funding to support development of a drug designed to work similarly to — but potentially be more selectively than — Rhythm Pharmaceuticals’ marketed…"
   },
   {
     "title": "GSK wagers up to $1.3B on a different kind of cancer drug",
@@ -216,14 +256,6 @@
     "summary": "“The longer I practice, the more I think many conflicts in maternity care come from a simple misunderstanding,” writes Debra Eluobaju, a doula turned OB-GYN."
   },
   {
-    "title": "The pediatricians who take in vaccine-skeptical parents others won’t",
-    "link": "https://www.statnews.com/2026/09/03/vaccine-hesitant-parents-how-pediatrician-builds-trust/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-03T08:30:00.000Z",
-    "summary": "At a \"practice of last resort,\" pediatricians prioritize allaying parents' vaccine concerns without hardline dismissals."
-  },
-  {
     "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
     "link": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
     "source": "BioPharma Dive",
@@ -240,28 +272,20 @@
     "summary": "The company is now hoping for an affirmative answer on its application after an unusually turbulent year dealing with U.S. regulators."
   },
   {
-    "title": "Teva claims success in celiac study; BioMarin, Ascendis settle patent dispute",
-    "link": "https://www.biopharmadive.com/news/teva-celiac-biomarin-ascendis-gsk-flu-biontech-mifepristone/828937/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-02T14:12:00.000Z",
-    "summary": "Teva believes the therapy has “pipeline-in-a-product” potential. Elsewhere, a high-stakes trial was paused and GSK advanced a competitor to Moderna’s flu shot."
+    "title": "Click chemistry platform enhances ADC tumour targeting",
+    "link": "https://www.nature.com/articles/d41573-026-00146-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-02T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "Mid-cap biotechs join Trump’s latest round of drug pricing deals",
-    "link": "https://www.biopharmadive.com/news/medicaid-low-price-model-drugmakers-white-house/829282/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-01T16:14:00.000Z",
-    "summary": "Focused on Medicaid, the new pacts now involve more than just large pharmaceutical companies, but still aren’t expected to meaningfully impact drugmaker profits."
-  },
-  {
-    "title": "Novartis says MS pill succeeds in two large studies",
-    "link": "https://www.biopharmadive.com/news/novartis-remibrutinib-relapsing-multiple-sclerosis-study-results/829300/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-01T15:58:00.000Z",
-    "summary": "Notably, Novartis revealed that remibrutinib wasn’t associated with the kind of liver-related side effects other BTK inhibitors like it have encountered."
+    "title": "Solute carrier membrane transporters: emerging targets in CNS disorders",
+    "link": "https://www.nature.com/articles/s41573-026-01513-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-01T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
