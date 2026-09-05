@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
+    "link": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-04T21:07:27.000Z",
+    "summary": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm."
+  },
+  {
+    "title": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-04T20:18:49.000Z",
+    "summary": "The U.S. Food and Drug Administration today announced it is taking action, consistent with the Trump administration’s commitment to protecting vulnerable patients and maintaining access to critical…"
+  },
+  {
+    "title": "FDA Grants Accelerated Approval to a New Breast Cancer Treatment",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-04T19:38:04.000Z",
+    "summary": "The U.S. Food and Drug Administration today expanded treatment options for adult patients with advanced breast cancer, reflecting the FDA’s commitment to advancing medical innovation and getting new…"
+  },
+  {
     "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
     "link": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
     "source": "STAT News",
@@ -248,14 +272,6 @@
     "summary": "“These successes are surprising, worth discussing, and even celebrating a bit,” STAT Lab Dish columnist Paul Knoepfler writes of the FDA and stem cells."
   },
   {
-    "title": "Opinion: I was a doula before I was an OB-GYN. I wish the two professions understood each other more",
-    "link": "https://www.statnews.com/2026/09/03/doula-turned-ob-gyn-birth-plan-disappointment-urgency/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-03T08:30:00.000Z",
-    "summary": "“The longer I practice, the more I think many conflicts in maternity care come from a simple misunderstanding,” writes Debra Eluobaju, a doula turned OB-GYN."
-  },
-  {
     "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
     "link": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
     "source": "BioPharma Dive",
@@ -286,13 +302,5 @@
     "category": "research",
     "date": "2026-09-01T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves First Drug of Its Kind for Polycythemia Vera, a Rare Blood Disorder",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-its-kind-polycythemia-vera-rare-blood-disorder",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-08-28T21:22:41.000Z",
-    "summary": "The U.S. Food and Drug Administration today approved Mimrylo (rusfertide), a new treatment for adults with polycythemia vera, a rare blood disorder that causes the body to make too many red blood…"
   }
 ]
