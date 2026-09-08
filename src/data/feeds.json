@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
+    "link": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T17:38:59.000Z",
+    "summary": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos."
+  },
+  {
     "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
     "link": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
     "source": "BioPharma Dive",
@@ -24,7 +32,7 @@
     "summary": "Democrats are sharpening their health care plans as the midterm elections near."
   },
   {
-    "title": "STAT+: Oura goes public, reported $1.2B earnings in its last fiscal year",
+    "title": "STAT+: Oura files to goes public, reported $1.2B in earnings",
     "link": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -160,22 +168,6 @@
     "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach."
   },
   {
-    "title": "Strengthening muscle for healthy ageing: innovative treatments for sarcopenia",
-    "link": "https://www.nature.com/articles/s41573-026-01514-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-07T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Un-siloed biomedical opportunities",
-    "link": "https://www.nature.com/articles/d41573-026-00148-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-07T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "STAT+: Not so fast: Diabetes association panel not done reviewing ejections from its June meeting",
     "link": "https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss",
     "source": "STAT News",
@@ -198,14 +190,6 @@
     "category": "industry",
     "date": "2026-09-05T08:30:00.000Z",
     "summary": "“A click, signature, or brief review should not magically transfer responsibility from an AI developer or platform to a physician,” a reader tells STAT."
-  },
-  {
-    "title": "STAT+: Novartis’ experimental cardiovascular drug fails a pivotal study",
-    "link": "https://www.statnews.com/2026/09/04/novartis-therapy-pelacarsen-fails-cardiovascular-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T21:07:27.000Z",
-    "summary": "A closely watched cardiovascular drug from Novartis failed in a pivotal study, the company said Friday, a major blow to the firm."
   },
   {
     "title": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
@@ -246,14 +230,6 @@
     "category": "industry",
     "date": "2026-09-04T13:00:00.000Z",
     "summary": "Zanvastro is now the first approved medicine for Alexander disease. Elsewhere, an immune system specialist posted positive results and a cell therapy developer turned to layoffs."
-  },
-  {
-    "title": "Newest glue degrader nabs multiple myeloma approval",
-    "link": "https://www.nature.com/articles/d41573-026-00147-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-04T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Approves First Drug to Treat Alexander Disease",
@@ -302,13 +278,5 @@
     "category": "regulatory",
     "date": "2026-09-03T12:52:49.000Z",
     "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) to gather public input on opportunities to advance the development of botanical drug products."
-  },
-  {
-    "title": "Click chemistry platform enhances ADC tumour targeting",
-    "link": "https://www.nature.com/articles/d41573-026-00146-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-02T00:00:00.000Z",
-    "summary": ""
   }
 ]
