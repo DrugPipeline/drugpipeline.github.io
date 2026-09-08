@@ -1,5 +1,93 @@
 [
   {
+    "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
+    "link": "https://www.biopharmadive.com/news/moonwalk-series-b-obesity-rna-interference/829784/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-08T15:52:00.000Z",
+    "summary": "The California biotech plans to bring its first drug, enabled by licensing technology from a Chinese drugmaker, into clinical testing for obesity by the end of 2027."
+  },
+  {
+    "title": "STAT+: UnitedHealth’s Democrat investment, and surprise billing bloat debate",
+    "link": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T14:51:43.000Z",
+    "summary": "UnitedHealth execs shower a top Democrats with cash, and the No Surprises Act debate heats up."
+  },
+  {
+    "title": "STAT+: Health care features prominently in Democrats’ agenda",
+    "link": "https://www.statnews.com/2026/09/08/democrats-agenda-midterms-health-care-medicaid-cuts-aca-subsidies/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T14:22:31.000Z",
+    "summary": "Democrats are sharpening their health care plans as the midterm elections near."
+  },
+  {
+    "title": "STAT+: Oura goes public, reported $1.2B earnings in its last fiscal year",
+    "link": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T14:18:41.000Z",
+    "summary": "In health tech news today, Oura reports a profit, the FDA loses another key digital health leader, and more"
+  },
+  {
+    "title": "STAT+: FDA approves AstraZeneca breast cancer drug",
+    "link": "https://www.statnews.com/2026/09/08/biotech-news-fda-approves-astrazeneca-breast-cancer-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T14:09:31.000Z",
+    "summary": "Roivant drug delivers mid-stage results, Moonwalk raises funds to develop longer-lasting obesity drugs, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about another Novartis trial failure, a Novo Nordisk setback, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/08/novartis-reports-second-trial-failure-novo-nordisk-setback/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T13:26:51.000Z",
+    "summary": "An experimental Novartis drug for a rare neuromuscular condition failed to improve muscle function in a pivotal study"
+  },
+  {
+    "title": "Novartis RNA drug falls short in rare muscle disease study",
+    "link": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-08T13:23:20.000Z",
+    "summary": "The failure of “del-desiran,” which Novartis got through a $12 billion acquisition, could raise questions about the company’s business development acumen, according to one analyst."
+  },
+  {
+    "title": "STAT+: AstraZeneca’s experimental COPD treatment posts strong results in late-stage studies",
+    "link": "https://www.statnews.com/2026/09/08/astrazeneca-tozorakimab-copd-exacerbations-titania-oberon/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T11:45:00.000Z",
+    "summary": "An experimental COPD drug from AstraZeneca could prove competitive with existing treatments, and have a slice of the market to itself."
+  },
+  {
+    "title": "An administrative gap delays access to new pancreatic cancer treatment",
+    "link": "https://www.statnews.com/2026/09/08/health-news-administrative-gap-delays-access-to-revmed-pancreatic-cancer-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T11:32:23.000Z",
+    "summary": "A new wave of illegal fruity vapes, more and more kids on GLP-1s, and other health news from Morning Rounds"
+  },
+  {
+    "title": "STAT+: Inhibrx claims first win for long-sought immunotherapy target",
+    "link": "https://www.statnews.com/2026/09/08/inhibrx-inbrx-106-ox40-immunotherapy-head-and-neck-cancer-hpv-positive/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-08T11:30:00.000Z",
+    "summary": "“Pushing this is like a rock up a hill, because there’s been so much failure in the space,” said Inhibrx CEO Mark Lappe."
+  },
+  {
+    "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
+    "link": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-08T11:00:00.000Z",
+    "summary": "Spun out of research at Seattle Children’s Hospital, the startup has brought a CAR-T treatment for a rare and deadly pediatric cancer into mid-stage testing."
+  },
+  {
     "title": "STAT+: Roivant lung disease drug hits mid-stage study goals",
     "link": "https://www.statnews.com/2026/09/08/roivant-mosliciguat-pulmonary-hypertension-interstitial-lung-disease-results/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,14 +224,6 @@
     "summary": "The U.S. Food and Drug Administration today expanded treatment options for adult patients with advanced breast cancer, reflecting the FDA’s commitment to advancing medical innovation and getting new…"
   },
   {
-    "title": "STAT+: Top Boston hospitals clash over Medicare Advantage network after split",
-    "link": "https://www.statnews.com/2026/09/04/mass-general-brigham-medicare-advantage-network-cancer-treatment-dana-farber/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T16:05:04.000Z",
-    "summary": "First, Mass General Brigham split with Dana-Farber. Now its Medicare Advantage plan is dropping the cancer hospital."
-  },
-  {
     "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
     "link": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
     "source": "BioPharma Dive",
@@ -160,68 +240,12 @@
     "summary": "Deals with Chinese drugmakers are continuing at a steady pace, while two mid-cap biotechs' stock prices took a tumble this week. Meanwhile, Lilly has outpaced other pharmas in dealmaking this year."
   },
   {
-    "title": "STAT+: After failure of Angelman syndrome drug, experts see hope in other experimental therapies",
-    "link": "https://www.statnews.com/2026/09/04/angelman-syndrome-drug-ultragenyx-oak-hill-ionis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T15:34:42.000Z",
-    "summary": "After the failure of an experimental drug for Angelman syndrome, experts cautioned that there is still reason to think similar experimental medicines can succeed."
-  },
-  {
-    "title": "STAT+: FDA takes another look at botanical drugs",
-    "link": "https://www.statnews.com/2026/09/04/biotech-news-fda-takes-another-look-at-botanical-drugs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T13:46:42.000Z",
-    "summary": "The biggest barrier for a top schzophrenia treatment, Ionis' first approval for Alexander disease, and more biotech news"
-  },
-  {
-    "title": "Disabled workers at greater risk of losing health insurance",
-    "link": "https://www.statnews.com/2026/09/04/health-news-disabled-workers-at-greater-risk-of-losing-insurance/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T13:08:15.000Z",
-    "summary": "An organ transplant first, new details on ADA conference controversy, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: We’re reading about a Bristol CAR-T trial pause, Pfizer offloading a shelved candidate, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/04/pharmalittle-bristol-car-t-trial-pause-pfizer-offloads-shelved-candidate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T13:02:26.000Z",
-    "summary": "The latest pharma news from the Pharmalot campus brought to you by the Pharmalittle newsletter"
-  },
-  {
     "title": "Ionis’ rare neurology drug approved; Pfizer inks an ADC deal",
     "link": "https://www.biopharmadive.com/news/ionis-rare-neurology-drug-approved-pfizer-inks-an-adc-deal/829639/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-04T13:00:00.000Z",
     "summary": "Zanvastro is now the first approved medicine for Alexander disease. Elsewhere, an immune system specialist posted positive results and a cell therapy developer turned to layoffs."
-  },
-  {
-    "title": "Opinion: Make infectious disease data boring again",
-    "link": "https://www.statnews.com/2026/09/04/pennsylvania-measles-deaths-data-cdc-director-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T08:30:00.000Z",
-    "summary": "“Is CDC now applying different standards to state data depending on who governs the state or what political party won an election?” ask former CDC officials."
-  },
-  {
-    "title": "STAT+: Lindsay Clancy case exposes dangers of fragmented U.S. health system, experts say",
-    "link": "https://www.statnews.com/2026/09/04/lindsay-clancy-health-care-silos-postpartum-care-failures/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T08:30:00.000Z",
-    "summary": "In the months before killing her children, Lindsay Clancy repeatedly sought help for her deteriorating mental health."
-  },
-  {
-    "title": "Opinion: The FDA removed the red tape around one of the best drugs for children with schizophrenia. But the fear remains",
-    "link": "https://www.statnews.com/2026/09/04/clozapine-children-schizophrenia-neutrophil-fda-monitoring/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-04T08:30:00.000Z",
-    "summary": "Clozapine “is one of the most underused drugs in all of medicine,” writes Nitin Gogtay."
   },
   {
     "title": "Newest glue degrader nabs multiple myeloma approval",
@@ -272,36 +296,12 @@
     "summary": "The failure of what was once considered a potential blockbuster therapy represents a major setback in a tough-to-treat disease and is forcing Ultragenyx to closely examine its expenses."
   },
   {
-    "title": "Akeso, Summit cancer drug confirms lung cancer survival benefit",
-    "link": "https://www.biopharmadive.com/news/akeso-summit-cancer-drug-ivonescimab-confirms-lung-cancer-survival-benefit/829538/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-03T13:14:12.000Z",
-    "summary": "A new data cut of a trial pitting ivonescimab, a bispecific antibody, against Merck’s Keytruda showed the new drug helped people live longer."
-  },
-  {
     "title": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-advance-development-botanical-drug-products",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-09-03T12:52:49.000Z",
     "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) to gather public input on opportunities to advance the development of botanical drug products."
-  },
-  {
-    "title": "The hidden scale-out problem behind CAR-T’s growth",
-    "link": "https://www.biopharmadive.com/news/the-hidden-scale-out-problem-behind-car-t-growth/829405/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-03T12:00:00.000Z",
-    "summary": "CAR-T’s commercial challenge is making thousands of patient-specific manufacturing runs behave like one reliable system. \"In vivo\" production techniques could be one solution."
-  },
-  {
-    "title": "Autoimmune CAR-T faces tough questions after Novartis, Bristol Myers study halts",
-    "link": "https://www.biopharmadive.com/news/autoimmune-cell-therapy-safety-novartis-bristol-kyverna-cabaletta/829413/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-02T16:32:00.000Z",
-    "summary": "Wall Street analysts believe that a more cautious approach to manufacturing, study enrollment and side effect management could help developers avoid future safety hazards."
   },
   {
     "title": "Click chemistry platform enhances ADC tumour targeting",
