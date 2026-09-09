@@ -1,5 +1,29 @@
 [
   {
+    "title": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030",
+    "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-09T08:30:00.000Z",
+    "summary": "“Autonomous AI will likely soon exceed both unaided physicians and physicians aided by AI at five core cognitive medical tasks,” write Ezekiel J. Emanuel and Abe Baker-Butler."
+  },
+  {
+    "title": "Opinion: AMA CEO: AI won’t replace doctors — it will work alongside them",
+    "link": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-09T08:30:00.000Z",
+    "summary": "“The goal should not be to reproduce today’s health care system with fewer humans,” writes American Medical Association CEO John Whyte."
+  },
+  {
+    "title": "STAT+: Can AI fix health care? In the chaos of emergency rooms, the technology comes up short",
+    "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-09T08:30:00.000Z",
+    "summary": "CEOs of the biggest AI companies have predicted the technology will “eliminate most cancer” and “improve treatment of most other ailments.” But nowhere better illustrates the challenge facing AI than…"
+  },
+  {
     "title": "Six AI agents, one deskside system: A new model for clinical decision support",
     "link": "https://www.biopharmadive.com/spons/six-ai-agents-one-deskside-system-a-new-model-for-clinical-decision-suppo/829301/",
     "source": "BioPharma Dive",
@@ -176,22 +200,6 @@
     "summary": "Rural health systems are seeking partnership to survive, fueling a debate over competition and the rising cost of medical care."
   },
   {
-    "title": "STAT+: Neuromuscular drug from Novartis fails in key study, adding to pressure on company",
-    "link": "https://www.statnews.com/2026/09/08/novartis-del-desiran-myotonic-dystrophy-harbor-trial-failure-neuromuscular/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T07:28:55.000Z",
-    "summary": "A Novartis drug for a rare neuromuscular condition failed in a key study, the company's second major trial collapse in a matter of days."
-  },
-  {
-    "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
-    "link": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-07T11:13:52.000Z",
-    "summary": "Novo Nordisk has stopped two trials of a drug that aims to tame inflammation as a way to improve cardiovascular health, another blow for the approach."
-  },
-  {
     "title": "Strengthening muscle for healthy ageing: innovative treatments for sarcopenia",
     "link": "https://www.nature.com/articles/s41573-026-01514-3",
     "source": "Nature Reviews Drug Discovery",
@@ -206,14 +214,6 @@
     "category": "research",
     "date": "2026-09-07T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: Not so fast: Diabetes association panel not done reviewing ejections from its June meeting",
-    "link": "https://www.statnews.com/2026/09/06/ada-diabetes-association-ejection-conference-review-not-final/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-06T23:07:31.000Z",
-    "summary": "The American Diabetes Association “continues to move from crisis to crisis to crisis,” says one of five members ejected from June conference."
   },
   {
     "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
