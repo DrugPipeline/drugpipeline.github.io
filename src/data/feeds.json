@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
+    "link": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T19:57:28.000Z",
+    "summary": "The legal basis for the $500 checks, and who would get them, isn't entirely clear."
+  },
+  {
+    "title": "Platinum-based chemotherapy in childhood causes mutations that age the liver",
+    "link": "https://www.statnews.com/2026/09/10/childhood-chemotherapy-cisplatin-carboplatin-new-study-liver-impact/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T18:00:00.000Z",
+    "summary": "Platinum chemotherapy aged the liver cells of treated children, making them look more like adult liver cells and possibly raising the long-term risk of new tumors"
+  },
+  {
+    "title": "Why two promising heart drugs flopped and what’s next",
+    "link": "https://www.statnews.com/2026/09/10/readout-loud-podcast-heart-disease-drugs-failed-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T17:29:23.000Z",
+    "summary": "This week on \"The Readout LOUD\" podcast: Two experimental drugs were heralded as the next era in heart disease treatment — why did they fail?"
+  },
+  {
+    "title": "STAT+: The gifts from pharma companies that keep on giving",
+    "link": "https://www.statnews.com/pharmalot/2026/09/10/many-doctors-still-embrace-pharma-freebies-rely-on-sales-reps/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T16:47:22.000Z",
+    "summary": "There has been rancorous debate over doctors accepting free gifts and speaking fees from pharma companies. That doesn't mean doctors have reconsidered."
+  },
+  {
+    "title": "FDA places partial hold on Biohaven’s epilepsy drug",
+    "link": "https://www.biopharmadive.com/news/biohaven-fda-hold-opakalim-epilepsy-drug-trial/830013/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-10T16:13:00.000Z",
+    "summary": "Announced mere weeks after Biohaven sold off rights to the therapy, opakalim, the halt affects a study some analysts believe is necessary to support a potential approval."
+  },
+  {
     "title": "Andy Plump, architect of Takeda’s R&D overhaul, to retire next year",
     "link": "https://www.biopharmadive.com/news/takeda-andy-plump-retire-president-research-development/830017/",
     "source": "BioPharma Dive",
@@ -168,44 +208,12 @@
     "summary": "An AstraZeneca drug reduced the dangerous flare-ups that worsen COPD in a pair of late-stage trials"
   },
   {
-    "title": "Telemedicine company offers GLP-1s for addiction",
-    "link": "https://www.statnews.com/2026/09/09/health-news-telemedicine-company-offers-glp-1s-for-addiction/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T11:53:36.000Z",
-    "summary": "A CDC Covid restructuring, public trust in Fauci, and more health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Leukemia drug data suggested a different way to treat diabetes. A new biotech will test that idea",
-    "link": "https://www.statnews.com/2026/09/09/kura-oncology-spins-off-diabetes-focused-caspian-therapeutics/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T11:00:00.000Z",
-    "summary": "Caspian Therapeutics, is launching with $50 million in financing to develop menin inhibitors for diabetes and other cardiometabolic diseases."
-  },
-  {
     "title": "A new immuno-oncology play raises $225M for a next-generation drug",
     "link": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-09T11:00:00.000Z",
     "summary": "Solstice Oncology is advancing a medicine from China’s Harbour BioMed that it believes is able to address the weaknesses of drugs aimed at CTLA-4, a popular but tricky cancer immunotherapy target."
-  },
-  {
-    "title": "Opinion: Autonomous AI will beat AI-assisted physicians at some medical tasks by 2030",
-    "link": "https://www.statnews.com/2026/09/09/ai-medicine-assisted-physicians-research-autonomy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T08:30:00.000Z",
-    "summary": "“Autonomous AI will likely soon exceed both unaided physicians and physicians aided by AI at five core cognitive medical tasks,” write Ezekiel J. Emanuel and Abe Baker-Butler."
-  },
-  {
-    "title": "Opinion: AMA CEO: AI won’t replace doctors — it will work alongside them",
-    "link": "https://www.statnews.com/2026/09/09/ai-medicine-doctors-replacement-debate-ama-ceo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T08:30:00.000Z",
-    "summary": "“The goal should not be to reproduce today’s health care system with fewer humans,” writes American Medical Association CEO John Whyte."
   },
   {
     "title": "Upcoming FDA approval decisions in Q4 2026",
@@ -248,14 +256,6 @@
     "summary": "The California biotech plans to bring its first drug, enabled by licensing technology from a Chinese drugmaker, into clinical testing for obesity by the end of 2027."
   },
   {
-    "title": "Novartis RNA drug falls short in rare muscle disease study",
-    "link": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-08T13:23:20.000Z",
-    "summary": "The failure of “del-desiran,” which Novartis got through a $12 billion acquisition, could raise questions about the company’s business development acumen, according to one analyst."
-  },
-  {
     "title": "Strengthening muscle for healthy ageing: innovative treatments for sarcopenia",
     "link": "https://www.nature.com/articles/s41573-026-01514-3",
     "source": "Nature Reviews Drug Discovery",
@@ -294,13 +294,5 @@
     "category": "research",
     "date": "2026-09-04T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves First Drug to Treat Alexander Disease",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-09-03T19:48:27.000Z",
-    "summary": "The U.S. Food and Drug Administration has approved Zanvastro (zilganersen) injection for the treatment of Alexander disease in pediatric and adult patients."
   }
 ]
