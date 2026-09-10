@@ -1,5 +1,61 @@
 [
   {
+    "title": "Andy Plump, architect of Takeda’s R&D overhaul, to retire next year",
+    "link": "https://www.biopharmadive.com/news/takeda-andy-plump-retire-president-research-development/830017/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-10T15:24:00.000Z",
+    "summary": "Plump joined Takeda during a turbulent period, pushed the company to work more closely with young biotechs and will leave it with what CEO Julie Kim called a “lasting foundation.”"
+  },
+  {
+    "title": "STAT+: Can AI save rural health care?",
+    "link": "https://www.statnews.com/2026/09/10/ai-rural-health-hospitals-chris-klomp-nicole-saphier-senate-hearings/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T14:53:06.000Z",
+    "summary": "Nominees for top federal health roles to face Congress, and Trump officials are betting on AI to help save rural health care."
+  },
+  {
+    "title": "STAT+: FDA expands Bayer lung cancer drug approval",
+    "link": "https://www.statnews.com/2026/09/10/biotech-news-fda-expands-bayer-lung-cancer-drug-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T13:36:56.000Z",
+    "summary": "UniQure readout tests durability of benefits, an AI effort to manage heart failure, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Novartis investor seeking a shake-up, a Gilead setback, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/10/novartis-investor-seeking-shake-up-gilead-uk-hiv-setback/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T13:09:22.000Z",
+    "summary": "A major Novartis shareholder has called for a shake-up of the drugmaker's board after its shares suffered a record fall following trial setbacks"
+  },
+  {
+    "title": "STAT+: Cancer medicines remain in short supply across the U.S., survey finds",
+    "link": "https://www.statnews.com/pharmalot/2026/09/10/cancer-medicines-remain-in-short-supply-across-the-united-states/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T13:01:00.000Z",
+    "summary": "An ongoing shortage of cancer medications continues to force leading cancer centers around the U.S. to seek work-around strategies to treat patients and a majority also report that clinical trials…"
+  },
+  {
+    "title": "A booming business on Wall Street would love more biotechs to quietly die",
+    "link": "https://www.biopharmadive.com/news/biotech-reverse-mergers-public-markets-ipo/829197/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-10T11:45:00.000Z",
+    "summary": "Once disparaged, reverse mergers have become so popular that some deal experts question whether there are enough quality shell companies to meet the demand."
+  },
+  {
+    "title": "Oz says ‘AI-based avatars’ can help rural communities. Some leaders disagree",
+    "link": "https://www.statnews.com/2026/09/10/health-news-oz-says-ai-based-avatars-can-help-rural-communities-despite-skepticism/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T11:34:59.000Z",
+    "summary": "Feds invest in AI for heart failure, vaccines and this year's midterms, and more health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: What to expect from UniQure’s upcoming Huntington’s gene therapy readout",
     "link": "https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss",
     "source": "STAT News",
@@ -29,7 +85,7 @@
     "source": "STAT News",
     "category": "industry",
     "date": "2026-09-10T08:30:00.000Z",
-    "summary": "BANGOR, Maine — Rural health care providers, which have struggled for years, are facing nearly $1 trillion in Medicaid cuts over the coming decade. The Trump administration is pointing to…"
+    "summary": "Rural health care providers have struggled for years. The Trump administration is pointing to a cutting-edge, if unproven way to save them: artificial intelligence."
   },
   {
     "title": "STAT+: Five midterm races to watch that could be crucial for vaccine policy",
@@ -152,14 +208,6 @@
     "summary": "“The goal should not be to reproduce today’s health care system with fewer humans,” writes American Medical Association CEO John Whyte."
   },
   {
-    "title": "STAT+: Can AI fix health care? In the chaos of emergency rooms, the technology comes up short",
-    "link": "https://www.statnews.com/2026/09/09/ai-healthcare-limitations-emergency-room-study-medical-scribe-impact/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T08:30:00.000Z",
-    "summary": "CEOs of the biggest AI companies have predicted the technology will “eliminate most cancer” and “improve treatment of most other ailments.” But nowhere better illustrates the challenge facing AI than…"
-  },
-  {
     "title": "Upcoming FDA approval decisions in Q4 2026",
     "link": "https://www.nature.com/articles/d41573-026-00150-1",
     "source": "Nature Reviews Drug Discovery",
@@ -184,28 +232,12 @@
     "summary": "Multi-agent AI reasoning at the point of care, with complete data sovereignty built in."
   },
   {
-    "title": "STAT+: FDA names acting heads of drug and vaccine centers to permanent roles",
-    "link": "https://www.statnews.com/2026/09/08/fda-names-leaders-cder-cber-michael-davis-karim-mikhail/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T21:15:40.000Z",
-    "summary": "The moves bring stability to an agency that's been rocked by the exits of top leadership."
-  },
-  {
     "title": "Roivant surges on ‘exceptional’ results; Bristol Myers touts first-of-its-kind CAR-T therapy",
     "link": "https://www.biopharmadive.com/news/roivant-astrazeneca-etcamah-GPRC5D-pharvaris-inhibrx/829763/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-08T18:41:00.000Z",
     "summary": "One analyst views Roivant’s pulmonary hypertension drug as a future $10 billion-plus seller. Elsewhere, AstraZeneca overcame a negative advisory committee vote and Pharvaris claimed success in a key…"
-  },
-  {
-    "title": "STAT+: FDA warns an API supplier about residue on walls, a corroded product line, and open-toed sandals",
-    "link": "https://www.statnews.com/pharmalot/2026/09/08/fda-warns-api-supplier-residue-corroded-production-line-sandals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T17:38:59.000Z",
-    "summary": "The FDA warned a supplier of active pharma ingredients about residue on walls, a corroded product line, and open-toed sandals at its facility. It also included photos."
   },
   {
     "title": "Moonwalk reloads with $70M and new RNAi prospects for obesity",
@@ -216,36 +248,12 @@
     "summary": "The California biotech plans to bring its first drug, enabled by licensing technology from a Chinese drugmaker, into clinical testing for obesity by the end of 2027."
   },
   {
-    "title": "STAT+: UnitedHealth’s Democrat investment, and surprise billing bloat debate",
-    "link": "https://www.statnews.com/2026/09/08/unitedhealth-campaign-donations-katherine-clark-no-surprises-act-debate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T14:51:43.000Z",
-    "summary": "UnitedHealth execs shower a top Democrats with cash, and the No Surprises Act debate heats up."
-  },
-  {
-    "title": "STAT+: Health care features prominently in Democrats’ agenda",
-    "link": "https://www.statnews.com/2026/09/08/democrats-agenda-midterms-health-care-medicaid-cuts-aca-subsidies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T14:22:31.000Z",
-    "summary": "Democrats are sharpening their health care plans as the midterm elections near."
-  },
-  {
     "title": "Novartis RNA drug falls short in rare muscle disease study",
     "link": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-08T13:23:20.000Z",
     "summary": "The failure of “del-desiran,” which Novartis got through a $12 billion acquisition, could raise questions about the company’s business development acumen, according to one analyst."
-  },
-  {
-    "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
-    "link": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-08T11:00:00.000Z",
-    "summary": "Spun out of research at Seattle Children’s Hospital, the startup has brought a CAR-T treatment for a rare and deadly pediatric cancer into mid-stage testing."
   },
   {
     "title": "Strengthening muscle for healthy ageing: innovative treatments for sarcopenia",
@@ -262,14 +270,6 @@
     "category": "research",
     "date": "2026-09-07T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Novartis, Ionis drug failure spurs questions about an emerging class of heart medicines",
-    "link": "https://www.biopharmadive.com/news/novartis-ionis-pelacarsen-lpa-horizon-study-results-fail/829736/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-05T16:51:00.000Z",
-    "summary": "Pelacarsen didn’t protect heart health despite lowering levels of a protein particle, “Lp(a),” in a large clinical trial — a surprise result with important implications for cardiovascular drug…"
   },
   {
     "title": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
@@ -302,21 +302,5 @@
     "category": "regulatory",
     "date": "2026-09-03T19:48:27.000Z",
     "summary": "The U.S. Food and Drug Administration has approved Zanvastro (zilganersen) injection for the treatment of Alexander disease in pediatric and adult patients."
-  },
-  {
-    "title": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-09-03T15:01:02.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Capstar (nitenpyram) tablets and revised the EUA for Nitenpyram Tablets, the generic version of Capstar"
-  },
-  {
-    "title": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-advance-development-botanical-drug-products",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-09-03T12:52:49.000Z",
-    "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) to gather public input on opportunities to advance the development of botanical drug products."
   }
 ]
