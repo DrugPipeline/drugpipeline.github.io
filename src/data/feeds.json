@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: What to expect from UniQure’s upcoming Huntington’s gene therapy readout",
+    "link": "https://www.statnews.com/2026/09/10/uniqure-huntingtons-gene-therapy-trial-readout/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T10:30:00.000Z",
+    "summary": "Before the end of September, UniQure is expected to report four-year results from the closely tracked clinical trial of its gene therapy for Huntington’s disease."
+  },
+  {
+    "title": "STAT+: Roivant is one of the savviest dealmakers in biotech. It also has a secret weapon",
+    "link": "https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T10:30:00.000Z",
+    "summary": "A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s origins are another fascinating aspect to the story."
+  },
+  {
+    "title": "Opinion: John Fetterman’s post-stroke, politically problematic behaviors offer lessons about brain health on Capitol Hill",
+    "link": "https://www.statnews.com/2026/09/10/john-fetterman-post-stroke-behavior-experts-see-neurological-changes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T08:30:00.000Z",
+    "summary": "“Nothing in the recent reporting about John Fetterman is medically surprising,” write Michael P.H. Stanley and Isaiah Kletenik."
+  },
+  {
+    "title": "Trump officials say AI will help save rural health care. Some leaders in the field don’t believe it",
+    "link": "https://www.statnews.com/2026/09/10/rural-health-care-ai-adoption-challenges-part-4-unraveled-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T08:30:00.000Z",
+    "summary": "BANGOR, Maine — Rural health care providers, which have struggled for years, are facing nearly $1 trillion in Medicaid cuts over the coming decade. The Trump administration is pointing to…"
+  },
+  {
+    "title": "STAT+: Five midterm races to watch that could be crucial for vaccine policy",
+    "link": "https://www.statnews.com/2026/09/10/2026-midterms-health-care-issues-analyzed-vaccine-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-10T08:30:00.000Z",
+    "summary": "GOP candidates in Iowa and Florida are embracing vaccine skepticism, while Democrats in Michigan and South Carolina are ready for a fight."
+  },
+  {
+    "title": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
+    "link": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-09T23:01:00.000Z",
+    "summary": "A U.K. commission has unveiled its recommendations for how the country should regulate artificial intelligence in medicine."
+  },
+  {
+    "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak",
+    "link": "https://www.statnews.com/2026/09/09/coroner-details-infant-deaths-pennsylvania-measles-outbreak/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-09T21:44:07.000Z",
+    "summary": "The two measles-related deaths in Pennsylvania last month involved infants, and the virus itself caused one of the deaths, a Pennsylvania coroner confirmed Wednesday."
+  },
+  {
+    "title": "Tyra disappoints investors with bladder cancer data",
+    "link": "https://www.biopharmadive.com/news/tyra-bladder-cancer-dabogratinib-study-results/829917/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-09T19:46:00.000Z",
+    "summary": "Remission rates observed in a Phase 2 trial fell short of Wall Street's expectations, though some analysts believe the company should see better results in late-stage testing."
+  },
+  {
     "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
     "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,30 +232,6 @@
     "summary": "Democrats are sharpening their health care plans as the midterm elections near."
   },
   {
-    "title": "STAT+: Oura files to goes public, reported $1.2B in earnings",
-    "link": "https://www.statnews.com/2026/09/08/health-tech-newsletter-oura-goes-public-reports-profitability/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T14:18:41.000Z",
-    "summary": "In health tech news today, Oura reports a profit, the FDA loses another key digital health leader, and more"
-  },
-  {
-    "title": "STAT+: FDA approves AstraZeneca breast cancer drug",
-    "link": "https://www.statnews.com/2026/09/08/biotech-news-fda-approves-astrazeneca-breast-cancer-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T14:09:31.000Z",
-    "summary": "Roivant drug delivers mid-stage results, Moonwalk raises funds to develop longer-lasting obesity drugs, and more biotech news"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about another Novartis trial failure, a Novo Nordisk setback, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/08/novartis-reports-second-trial-failure-novo-nordisk-setback/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T13:26:51.000Z",
-    "summary": "An experimental Novartis drug for a rare neuromuscular condition failed to improve muscle function in a pivotal study"
-  },
-  {
     "title": "Novartis RNA drug falls short in rare muscle disease study",
     "link": "https://www.biopharmadive.com/news/novartis-rna-drug-failure-dm1-avidity-del-desiran/829778/",
     "source": "BioPharma Dive",
@@ -200,44 +240,12 @@
     "summary": "The failure of “del-desiran,” which Novartis got through a $12 billion acquisition, could raise questions about the company’s business development acumen, according to one analyst."
   },
   {
-    "title": "STAT+: AstraZeneca’s experimental COPD treatment posts strong results in late-stage studies",
-    "link": "https://www.statnews.com/2026/09/08/astrazeneca-tozorakimab-copd-exacerbations-titania-oberon/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T11:45:00.000Z",
-    "summary": "An experimental COPD drug from AstraZeneca could prove competitive with existing treatments, and have a slice of the market to itself."
-  },
-  {
-    "title": "An administrative gap delays access to new pancreatic cancer treatment",
-    "link": "https://www.statnews.com/2026/09/08/health-news-administrative-gap-delays-access-to-revmed-pancreatic-cancer-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T11:32:23.000Z",
-    "summary": "A new wave of illegal fruity vapes, more and more kids on GLP-1s, and other health news from Morning Rounds"
-  },
-  {
-    "title": "STAT+: Inhibrx claims first win for long-sought immunotherapy target",
-    "link": "https://www.statnews.com/2026/09/08/inhibrx-inbrx-106-ox40-immunotherapy-head-and-neck-cancer-hpv-positive/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T11:30:00.000Z",
-    "summary": "“Pushing this is like a rock up a hill, because there’s been so much failure in the space,” said Inhibrx CEO Mark Lappe."
-  },
-  {
     "title": "BrainChild hauls in $116M to make cell therapies for childhood brain cancers",
     "link": "https://www.biopharmadive.com/news/brainchild-pediatric-brain-tumors-car-t/829463/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-08T11:00:00.000Z",
     "summary": "Spun out of research at Seattle Children’s Hospital, the startup has brought a CAR-T treatment for a rare and deadly pediatric cancer into mid-stage testing."
-  },
-  {
-    "title": "STAT+: Roivant lung disease drug hits mid-stage study goals",
-    "link": "https://www.statnews.com/2026/09/08/roivant-mosliciguat-pulmonary-hypertension-interstitial-lung-disease-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-08T10:00:00.000Z",
-    "summary": "These positive results could open up a new way to treat serious lung disease."
   },
   {
     "title": "Strengthening muscle for healthy ageing: innovative treatments for sarcopenia",
@@ -278,14 +286,6 @@
     "category": "regulatory",
     "date": "2026-09-04T19:38:04.000Z",
     "summary": "The U.S. Food and Drug Administration today expanded treatment options for adult patients with advanced breast cancer, reflecting the FDA’s commitment to advancing medical innovation and getting new…"
-  },
-  {
-    "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
-    "link": "https://www.biopharmadive.com/news/abbvie-multiple-myeloma-etentamig-phase-3-trial-results/829672/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-04T16:00:00.000Z",
-    "summary": "The drugmaker is leaning on a better side effect profile compared to drugs from J&J, Pfizer and Regeneron as it pushes etentamig toward FDA submission."
   },
   {
     "title": "Newest glue degrader nabs multiple myeloma approval",
