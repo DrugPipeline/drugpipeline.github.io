@@ -1,5 +1,13 @@
 [
   {
+    "title": "U.S. officials declare an end to record-setting cyclospora outbreak, but its origin is still unknown",
+    "link": "https://www.statnews.com/2026/09/11/cyclospora-outbreak-declared-over-origin-unknown/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-11T16:35:51.000Z",
+    "summary": "The largest cyclospora food poisoning outbreak in U.S. history is over, U.S. health officials said, but questions remain over its origin."
+  },
+  {
     "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
     "link": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
     "source": "BioPharma Dive",
@@ -94,6 +102,14 @@
     "category": "industry",
     "date": "2026-09-11T08:30:00.000Z",
     "summary": "“For thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,” writes Raja Flores."
+  },
+  {
+    "title": "Selective oestrogen receptor degrader class grows with new cancer approval",
+    "link": "https://www.nature.com/articles/d41573-026-00151-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-11T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
@@ -200,14 +216,6 @@
     "summary": "Before the end of September, UniQure is expected to report four-year results from the closely tracked clinical trial of its gene therapy for Huntington’s disease."
   },
   {
-    "title": "STAT+: Roivant is one of the savviest dealmakers in biotech. It also has a secret weapon",
-    "link": "https://www.statnews.com/2026/09/10/roivant-biotech-dealmaking-mosliciguat-origins/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-10T10:30:00.000Z",
-    "summary": "A Roivant lung disease drug has succeeded in a mid-stage study. But the drug’s origins are another fascinating aspect to the story."
-  },
-  {
     "title": "Tyra disappoints investors with bladder cancer data",
     "link": "https://www.biopharmadive.com/news/tyra-bladder-cancer-dabogratinib-study-results/829917/",
     "source": "BioPharma Dive",
@@ -240,19 +248,35 @@
     "summary": "Solstice Oncology is advancing a medicine from China’s Harbour BioMed that it believes is able to address the weaknesses of drugs aimed at CTLA-4, a popular but tricky cancer immunotherapy target."
   },
   {
-    "title": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-09-04T20:18:49.000Z",
-    "summary": "The U.S. Food and Drug Administration today announced it is taking action, consistent with the Trump administration’s commitment to protecting vulnerable patients and maintaining access to critical…"
+    "title": "Upcoming FDA approval decisions in Q4 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00150-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-09T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "FDA Grants Accelerated Approval to a New Breast Cancer Treatment",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-09-04T19:38:04.000Z",
-    "summary": "The U.S. Food and Drug Administration today expanded treatment options for adult patients with advanced breast cancer, reflecting the FDA’s commitment to advancing medical innovation and getting new…"
+    "title": "A translational framework for extrahepatic oligonucleotide delivery",
+    "link": "https://www.nature.com/articles/d41573-026-00125-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Strengthening muscle for healthy ageing: innovative treatments for sarcopenia",
+    "link": "https://www.nature.com/articles/s41573-026-01514-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-07T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Un-siloed biomedical opportunities",
+    "link": "https://www.nature.com/articles/d41573-026-00148-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-07T00:00:00.000Z",
+    "summary": ""
   }
 ]
