@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
+    "link": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-11T08:30:00.000Z",
+    "summary": "A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries."
+  },
+  {
+    "title": "STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field",
+    "link": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-11T08:30:00.000Z",
+    "summary": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry."
+  },
+  {
+    "title": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun",
+    "link": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-11T08:30:00.000Z",
+    "summary": "“Somewhere along the way, we forgot how to celebrate vaccines,” writes public health communications consultant Adam Zimmerman."
+  },
+  {
+    "title": "Opinion: I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over",
+    "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-11T08:30:00.000Z",
+    "summary": "“For thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,” writes Raja Flores."
+  },
+  {
     "title": "STAT+: Right before midterms, Trump dangles $500 refunds for select ACA enrollees",
     "link": "https://www.statnews.com/2026/09/10/trump-affordable-care-act-refund-checks-who-is-eligible/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,14 +192,6 @@
     "summary": "Remission rates observed in a Phase 2 trial fell short of Wall Street's expectations, though some analysts believe the company should see better results in late-stage testing."
   },
   {
-    "title": "STAT+: ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure",
-    "link": "https://www.statnews.com/2026/09/09/arpa-h-advocate-program-autonomous-ai-bots-for-heart-failure/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T16:01:00.000Z",
-    "summary": "ARPA-H, the government agency that funds cutting edge health research, plans to commit $62.7 million to develop artificial intelligence bots that direct treatment of heart failure."
-  },
-  {
     "title": "Kura spins diabetes work into a Lilly-backed biotech startup",
     "link": "https://www.biopharmadive.com/news/caspian-diabetes-kura-oncology-menin-inhibitors-lilly/829860/",
     "source": "BioPharma Dive",
@@ -182,30 +206,6 @@
     "category": "industry",
     "date": "2026-09-09T15:04:00.000Z",
     "summary": "After almost two years of turnover in the FDA’s top ranks, the new appointments should help ease concerns about more turmoil ahead, one analyst said."
-  },
-  {
-    "title": "STAT+: Can AI fix the emergency room?",
-    "link": "https://www.statnews.com/2026/09/09/scribe-emergency-room-fix-health-care-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T14:58:55.000Z",
-    "summary": "AI can't change the ER's problems, which exemplify health care's bigger problems, writes Brittany Trang in this week's AI Prognosis."
-  },
-  {
-    "title": "STAT+: Orexin discoverers awarded prestigious Lasker award",
-    "link": "https://www.statnews.com/2026/09/09/biotech-news-orexin-discovers-awawrded-prestigious-lasker-award/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T13:38:20.000Z",
-    "summary": "A new FDA CBER head, AI company Schrodinger with a new startup, and more biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an AstraZeneca COPD win, the FDA filling key jobs, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/09/astrazeneca-copd-win-fda-filling-key-jobs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-09T13:15:57.000Z",
-    "summary": "An AstraZeneca drug reduced the dangerous flare-ups that worsen COPD in a pair of late-stage trials"
   },
   {
     "title": "A new immuno-oncology play raises $225M for a next-generation drug",
