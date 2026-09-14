@@ -1,5 +1,69 @@
 [
   {
+    "title": "Kennedy to deliver keynote for anti-vaccine group he once led",
+    "link": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-14T17:37:34.000Z",
+    "summary": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference."
+  },
+  {
+    "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-14T16:30:00.000Z",
+    "summary": "Etcamah is the second oral “SERD” to recently fall short in first-line breast cancer, following a similar setback from Roche earlier this year."
+  },
+  {
+    "title": "STAT+: How $500 explains Republican health policy, and the GLP-1 Rx wave",
+    "link": "https://www.statnews.com/2026/09/14/trump-cash-obamacare-plans-rural-hospitals-artificial-intelligence/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-14T16:02:55.000Z",
+    "summary": "The one health care policy Republicans agree on, and a look at how rural providers are approaching AI."
+  },
+  {
+    "title": "Cellectis quits CAR-T and pivots to ‘in vivo’ gene editing",
+    "link": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-14T15:46:00.000Z",
+    "summary": "Long a frontrunner in donor-derived cell therapy research, the French biotech cited a shifting landscape in changing course and choosing to offload its lead programs."
+  },
+  {
+    "title": "Pennsylvania officials report state’s third death involving measles",
+    "link": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-14T14:34:20.000Z",
+    "summary": "A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus."
+  },
+  {
+    "title": "STAT+: GSK touts lung cancer data from two drugs",
+    "link": "https://www.statnews.com/2026/09/14/biotech-news-gsk-touts-lung-cancer-data-from-two-drugs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-14T13:34:37.000Z",
+    "summary": "Late-stage results for Definium's LSD treatment, AstraZeneca breast cancer drug fails key trial, and more biotech news from The Readout"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about another AstraZeneca trial failure, a Novo name change, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/14/another-astrazeneca-trial-failure-novo-name-change/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-14T13:07:51.000Z",
+    "summary": "AstraZeneca disclosed that a breast cancer pill failed in a pivotal trial testing it as a first-line therapy in advanced tumors"
+  },
+  {
+    "title": "Scholar Rock SMA drug approved by FDA",
+    "link": "https://www.biopharmadive.com/news/scholar-rock-sma-drug-isemblyd-fda-approve/830232/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-14T13:00:00.000Z",
+    "summary": "Projected by some analysts as a future blockbuster, Isembyld is the first “muscle-targeted” treatment for the disease and, in clinical testing, helped improve motor function in people on standard…"
+  },
+  {
     "title": "Pennsylvania records third measles-related death amid outbreak",
     "link": "https://www.statnews.com/2026/09/14/health-enws-pennsylvania-records-third-measles-related-death-amid-outbreak/?utm_campaign=rss",
     "source": "STAT News",
@@ -144,46 +208,6 @@
     "summary": "Manufacturing hurdles are just one challenge the industry must overcome to commercialize personalized mRNA cancer vaccines."
   },
   {
-    "title": "Boycott launched against American Diabetes Association includes journal",
-    "link": "https://www.statnews.com/2026/09/11/health-news-boycott-launched-against-ada-includes-journal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-11T11:43:20.000Z",
-    "summary": "Trump's $500 Obamacare promise, childhood cancer treatment with long-term risks, and more health news"
-  },
-  {
-    "title": "STAT+: An AI tool aims to catch harder-to-detect heart attacks in EKGs",
-    "link": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-11T08:30:00.000Z",
-    "summary": "A newly approved AI tool can scan EKGs for severe heart attacks and, the company says, for rarer patterns indicating blocked arteries."
-  },
-  {
-    "title": "STAT+: Novartis, Novo Nordisk drug failures will likely ‘pop a hole in the balloon’ of the field",
-    "link": "https://www.statnews.com/2026/09/11/novartis-novo-nordisk-cardiovascular-drug-trials-fallout/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-11T08:30:00.000Z",
-    "summary": "The back-to-back failures of cardiovascular drugs from Novartis and Novo Nordisk made headlines. They could also have a chilling effect across the industry."
-  },
-  {
-    "title": "Opinion: I’m a public health communications consultant. Pro-vaccine advocacy needs more fun",
-    "link": "https://www.statnews.com/2026/09/11/pro-vaccine-advocacy-celebration-party/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-11T08:30:00.000Z",
-    "summary": "“Somewhere along the way, we forgot how to celebrate vaccines,” writes public health communications consultant Adam Zimmerman."
-  },
-  {
-    "title": "Opinion: I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over",
-    "link": "https://www.statnews.com/2026/09/11/sept-11-25th-anniversary-ground-zero-exposure-cancer-moment-of-silence/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-11T08:30:00.000Z",
-    "summary": "“For thousands of families, the Sept. 11 attack did not end when the fires were extinguished. It simply changed form,” writes Raja Flores."
-  },
-  {
     "title": "Selective oestrogen receptor degrader class grows with new cancer approval",
     "link": "https://www.nature.com/articles/d41573-026-00151-0",
     "source": "Nature Reviews Drug Discovery",
@@ -222,30 +246,6 @@
     "category": "industry",
     "date": "2026-09-09T19:46:00.000Z",
     "summary": "Remission rates observed in a Phase 2 trial fell short of Wall Street's expectations, though some analysts believe the company should see better results in late-stage testing."
-  },
-  {
-    "title": "Kura spins diabetes work into a Lilly-backed biotech startup",
-    "link": "https://www.biopharmadive.com/news/caspian-diabetes-kura-oncology-menin-inhibitors-lilly/829860/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-09T15:54:00.000Z",
-    "summary": "Caspian Therapeutics aims to develop menin inhibitors, which have proven effective against leukemia, for diabetes and other cardiometabolic conditions."
-  },
-  {
-    "title": "FDA gains ‘continuity’ as Mikhail, Davis named permanent CBER, CDER leaders",
-    "link": "https://www.biopharmadive.com/news/fda-mikhail-davis-cber-cder-director-hhs/829886/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-09T15:04:00.000Z",
-    "summary": "After almost two years of turnover in the FDA’s top ranks, the new appointments should help ease concerns about more turmoil ahead, one analyst said."
-  },
-  {
-    "title": "A new immuno-oncology play raises $225M for a next-generation drug",
-    "link": "https://www.biopharmadive.com/news/solstice-immuno-oncology-cancer-series-a-launch/829811/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-09T11:00:00.000Z",
-    "summary": "Solstice Oncology is advancing a medicine from China’s Harbour BioMed that it believes is able to address the weaknesses of drugs aimed at CTLA-4, a popular but tricky cancer immunotherapy target."
   },
   {
     "title": "Upcoming FDA approval decisions in Q4 2026",
