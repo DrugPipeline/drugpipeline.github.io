@@ -1,5 +1,61 @@
 [
   {
+    "title": "Novo looks to Anthropic’s AI models to ‘supercharge’ drug development",
+    "link": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-16T15:10:00.000Z",
+    "summary": "The Danish drugmaker will use Claude Science as part of a goal to become \"the world’s most AI-driven healthcare company.\""
+  },
+  {
+    "title": "STAT+: Scientists made mice with half a brain. Then they filled them with human organoids",
+    "link": "https://www.statnews.com/2026/09/16/human-brain-organoids-neuro-chimeric-mice-study-published-nature/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-16T15:00:00.000Z",
+    "summary": "Scientists have made mice with half a brain, then filled them with human organoids — possibly opening new avenues for research but also raising ethical issues."
+  },
+  {
+    "title": "Sling banks $123M for an experimental thyroid eye disease pill",
+    "link": "https://www.biopharmadive.com/news/sling-linsitinib-series-c-financing-thyroid-eye-disease/830452/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-16T14:54:00.000Z",
+    "summary": "A confirmatory late-stage study is now also underway for what the startup is positioning as, potentially, the first oral alternative to approved injectables like Amgen's Tepezza and Viridian's Lumvoa."
+  },
+  {
+    "title": "STAT+: Sen. Warren demands to see Trump drug-pricing pharma contracts, accuses RFK Jr. of hiding them",
+    "link": "https://www.statnews.com/2026/09/16/biotech-news-sen-warren-demands-to-see-trump-drug-pricing-contracts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-16T13:34:04.000Z",
+    "summary": "An FDA pilot program to speed up drug development, Democrats plan health care probes after midterms, and more biotech news"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about faster FDA approvals, access to experimental drugs in Montana, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/16/fda-plans-to-speed-approvals-experimental-drugs-in-montana/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-16T13:29:12.000Z",
+    "summary": "The FDA is opening applications for a pilot program designed to shorten the time it takes for drugmakers to begin testing their products in humans"
+  },
+  {
+    "title": "Skyhawk racks up more support for Huntington’s drug",
+    "link": "https://www.biopharmadive.com/news/skyhawk-huntingtons-drug-rna-splicing-results/830537/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-16T13:05:57.000Z",
+    "summary": "The Fidelity-backed biotech now has 15-month data from a small study of its RNA-splicing therapy."
+  },
+  {
+    "title": "U.S. reaches highest number of measles deaths in decades",
+    "link": "https://www.statnews.com/2026/09/16/health-news-us-reaches-measles-death-high-in-decades/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-16T11:56:12.000Z",
+    "summary": "How the midterms could change health care, the sedative contaminating the fentanyl black market, and other health news from Morning Rounds"
+  },
+  {
     "title": "STAT+: House Democrats may use oversight powers to plan for health care overhaul",
     "link": "https://www.statnews.com/2026/09/16/healthcare-reform-house-democrats-oversight-targets-after-midterms/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,36 +224,12 @@
     "summary": "As dueling data emerge between their drug ivonescimab and a rival Merck medication, Summit and Akeso revealed new findings that impressed Wall Street."
   },
   {
-    "title": "Abbott agrees to settlement over closure of largest baby formula plant in the U.S.",
-    "link": "https://www.statnews.com/2026/09/14/abbott-settlement-closure-baby-formula-plant-shortages/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-14T19:18:37.000Z",
-    "summary": "Abbott has agreed to a $385 million settlement over the closure of the largest baby formula plant in the U.S., which led to the supply shortages in 2022."
-  },
-  {
-    "title": "Kennedy to deliver keynote for anti-vaccine group he once led",
-    "link": "https://www.statnews.com/2026/09/14/rfk-speech-childrens-health-defense-conference-washington/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-14T17:37:34.000Z",
-    "summary": "RFK Jr. worked to distance himself from Children's Health Defense, the anti-vaccine group he once led. Now, he's delivering a keynote at CHD's conference."
-  },
-  {
     "title": "AstraZeneca’s newly approved pill fails frontline breast cancer study",
     "link": "https://www.biopharmadive.com/news/astrazeneca-etcamah-first-line-breast-cancer-study-results/830266/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-14T16:30:00.000Z",
     "summary": "Etcamah is the second oral “SERD” to recently fall short in first-line breast cancer, following a similar setback from Roche earlier this year."
-  },
-  {
-    "title": "STAT+: How $500 explains Republican health policy, and the GLP-1 Rx wave",
-    "link": "https://www.statnews.com/2026/09/14/trump-cash-obamacare-plans-rural-hospitals-artificial-intelligence/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-14T16:02:55.000Z",
-    "summary": "The one health care policy Republicans agree on, and a look at how rural providers are approaching AI."
   },
   {
     "title": "Cellectis quits CAR-T and pivots to ‘in vivo’ gene editing",
@@ -208,51 +240,11 @@
     "summary": "Long a frontrunner in donor-derived cell therapy research, the French biotech cited a shifting landscape in changing course and choosing to offload its lead programs."
   },
   {
-    "title": "Pennsylvania officials report state’s third death involving measles",
-    "link": "https://www.statnews.com/2026/09/14/third-measles-related-death-pennsylvania-outbreak/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-14T14:34:20.000Z",
-    "summary": "A Pennsylvania woman has died from complications associated with measles, the third death in the state this year involving the virus."
-  },
-  {
     "title": "Scholar Rock SMA drug approved by FDA",
     "link": "https://www.biopharmadive.com/news/scholar-rock-sma-drug-isemblyd-fda-approve/830232/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-14T13:00:00.000Z",
     "summary": "Projected by some analysts as a future blockbuster, Isembyld is the first “muscle-targeted” treatment for the disease and, in clinical testing, helped improve motor function in people on standard…"
-  },
-  {
-    "title": "This week in charts: RA’s insatiable appetite, Novartis’ big slide and a reverse merger spree",
-    "link": "https://www.biopharmadive.com/news/biotech-charts-ra-capital-venture-novartis-reverse-mergers/830052/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-11T15:22:00.000Z",
-    "summary": "RA Capital has already participated in four biotech financings in September. Meanwhile, Janus Henderson has been the year's most prolific backer of biotech reverse merger deals, according to…"
-  },
-  {
-    "title": "Karyopharm pushes off debt payment; Amgen eyes broader Imdelltra use",
-    "link": "https://www.biopharmadive.com/news/imdelltra-bridgebio-oncology-evommune-encoded-tectora/830056/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-11T13:37:00.000Z",
-    "summary": "Karyopharm bought an extra month to negotiate with creditors or pursue a deal. Elsewhere, BridgeBio Pharma’s oncology spinout shook up its development plans and a brain-focused gene therapy startup…"
-  },
-  {
-    "title": "mRNA cancer vaccines’ biggest barriers to market",
-    "link": "https://www.biopharmadive.com/news/mrna-cancer-vaccines-commercialization-manufacturing/830137/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-11T11:55:00.000Z",
-    "summary": "Manufacturing hurdles are just one challenge the industry must overcome to commercialize personalized mRNA cancer vaccines."
-  },
-  {
-    "title": "Selective oestrogen receptor degrader class grows with new cancer approval",
-    "link": "https://www.nature.com/articles/d41573-026-00151-0",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-11T00:00:00.000Z",
-    "summary": ""
   }
 ]
