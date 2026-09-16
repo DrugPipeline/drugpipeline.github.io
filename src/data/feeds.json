@@ -1,5 +1,37 @@
 [
   {
+    "title": "Novartis to pay $125M for blood-brain barrier crossing platform",
+    "link": "https://www.biopharmadive.com/news/novartis-125m-for-blood-brain-barrier-crossing-platform-Sironax/830560/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-16T20:26:00.000Z",
+    "summary": "Proceeds from the deal, which hands Novartis global rights to a technology developed by Sironax, will help advance three candidates that the startup says have “best-in-class” potential."
+  },
+  {
+    "title": "STAT+: GOP aims to change Medicare adviser’s math so it’s more favorable to health insurers",
+    "link": "https://www.statnews.com/2026/09/16/medicare-advantage-overpayments-analysis-medpac-change-apples-to-apples-act/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-16T20:20:15.000Z",
+    "summary": "The GOP bill directs MedPAC to study the topic of overpayments to Medicare Advantage plans in a manner that’s more favorable to insurers."
+  },
+  {
+    "title": "STAT+: Senators highlight the power Chris Klomp wields at confirmation hearings",
+    "link": "https://www.statnews.com/2026/09/16/senators-highlight-chris-klomp-power-rfk-jr-second-in-command/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-16T19:17:40.000Z",
+    "summary": "Chris Klomp has already played a major role in the Trump administration and its Make America Healthy Again agenda."
+  },
+  {
+    "title": "WHO expresses cautious optimism about bid to control Ebola outbreak in DRC",
+    "link": "https://www.statnews.com/2026/09/16/ebola-outbreak-drc-who-cautious-optimism/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-16T16:29:10.000Z",
+    "summary": "There is reason to be cautiously optimistic about the trajectory of the current Ebola outbreak in the Democratic Republic of the Congo, the WHO says."
+  },
+  {
     "title": "Novo looks to Anthropic’s AI models to ‘supercharge’ drug development",
     "link": "https://www.biopharmadive.com/news/novo-anthropic-ai-drug-discovery-development-deal/830540/",
     "source": "BioPharma Dive",
@@ -192,30 +224,6 @@
     "summary": "If humans journey to Mars in 2035, exercise will be critical to keeping their hearts strong in microgravity."
   },
   {
-    "title": "STAT+: Medicare’s AI prior authorization pilot was rushed and full of problems, new documents reveal",
-    "link": "https://www.statnews.com/2026/09/15/medicare-wiser-ai-prior-authorization-pilot-rushed-launch-delayed-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-15T08:30:00.000Z",
-    "summary": "The rushed launch of a Medicare pilot to use AI for prior authorization led to delayed care in some instances, new documents reveal."
-  },
-  {
-    "title": "Opinion: 3 lessons from the tobacco settlement on how states should use money from Meta",
-    "link": "https://www.statnews.com/2026/09/15/meta-facebook-social-media-addiction-lessons-learned-tobacco-master-settlement/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-15T08:30:00.000Z",
-    "summary": "“Whether it’s nicotine or algorithms, the result is the same: reinforcing a behavior that is harmful to users,” writes Susan Morrisey."
-  },
-  {
-    "title": "Judge blocks Trump administration plans to limit visa length for grad students, postdocs",
-    "link": "https://www.statnews.com/2026/09/14/court-halts-dhs-visa-limits-foreign-scholars/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-14T21:20:48.000Z",
-    "summary": "A federal judge halted a Trump administration plan to place a four-year cap on the kinds of visas used by graduate students and postdocs"
-  },
-  {
     "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
     "link": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
     "source": "BioPharma Dive",
@@ -240,11 +248,11 @@
     "summary": "Long a frontrunner in donor-derived cell therapy research, the French biotech cited a shifting landscape in changing course and choosing to offload its lead programs."
   },
   {
-    "title": "Scholar Rock SMA drug approved by FDA",
-    "link": "https://www.biopharmadive.com/news/scholar-rock-sma-drug-isemblyd-fda-approve/830232/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-14T13:00:00.000Z",
-    "summary": "Projected by some analysts as a future blockbuster, Isembyld is the first “muscle-targeted” treatment for the disease and, in clinical testing, helped improve motor function in people on standard…"
+    "title": "Selective oestrogen receptor degrader class grows with new cancer approval",
+    "link": "https://www.nature.com/articles/d41573-026-00151-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-11T00:00:00.000Z",
+    "summary": ""
   }
 ]
