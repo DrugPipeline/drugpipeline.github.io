@@ -1,5 +1,53 @@
 [
   {
+    "title": "STAT+: A biotech hedge fund births a new immunology company",
+    "link": "https://www.statnews.com/2026/09/17/biotech-hedge-fund-startup-north-immunology/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-17T10:30:00.000Z",
+    "summary": "Why a biotech hedge fund decided to build from the ground up a new company to develop a better, long-acting antibody treatment for atopic dermatitis."
+  },
+  {
+    "title": "STAT+: A Sellas immunotherapy study, long delayed, will end in failure",
+    "link": "https://www.statnews.com/2026/09/17/sellas-immunotherapy-study-acute-myeloid-leukemia/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-17T10:30:00.000Z",
+    "summary": "Why Sellas' experimental immunotherapy study is a blowup waiting to happen."
+  },
+  {
+    "title": "Roche, Dualitas team up to find bispecific drugs for immune diseases",
+    "link": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-17T10:00:00.000Z",
+    "summary": "Through a research deal worth up to $1 billion, Dualitas will sift through more than 300,000 possible bispecific combinations in the hopes of unearthing new and differentiating treatments."
+  },
+  {
+    "title": "STAT+: The FDA’s rebuilding effort is running into a new challenge",
+    "link": "https://www.statnews.com/2026/09/17/fda-doge-cuts-new-hires-slowed-centralized-hiring-center-short-staffed/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-17T08:30:00.000Z",
+    "summary": "The FDA's plan to hire thousands of new workers is being slowed by an overwhelmed HR center."
+  },
+  {
+    "title": "Opinion: What happened to oppositional defiant disorder?",
+    "link": "https://www.statnews.com/2026/09/17/oppositional-defiant-disorder-use-of-odd-diagnosis-declines-in-children/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-17T08:30:00.000Z",
+    "summary": "Over the past 25 years, there’s been a dramatic change in how we understand children who don’t “listen,” writes behavioral pediatrician Lawrence Diller."
+  },
+  {
+    "title": "STAT+: England to cover AstraZeneca breast cancer drug, a result of U.K.-U.S. drug pricing deal",
+    "link": "https://www.statnews.com/2026/09/17/astrazeneca-enhertu-breast-cancer-england-nice-pricing-agreement-us-trade-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-17T07:42:48.000Z",
+    "summary": "A breast cancer drug from AstraZeneca will now be available in England after a pricing deal was reached, in part a result of the U.S.-U.K. pharma pact."
+  },
+  {
     "title": "New lawsuit argues NIH violated First Amendment rights of grant applicants",
     "link": "https://www.statnews.com/2026/09/16/lawsuit-argues-nih-violated-researcher-first-amendment-rights-aclu/?utm_campaign=rss",
     "source": "STAT News",
@@ -184,46 +232,6 @@
     "summary": "The U.S. Food and Drug Administration today announced the final design of the Expedited Investigational New Drug (IND) Pilot."
   },
   {
-    "title": "STAT+: Obesity drugmakers are testing in kids as young as 6",
-    "link": "https://www.statnews.com/2026/09/15/biotech-news-obesity-drugmakers-are-testing-in-kids-as-young-as-si/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-15T13:50:15.000Z",
-    "summary": "Vera seeks kidney drug approval, early data from Syntis Bio, and other biotech news from The Readout"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a GSK deal for a drug from China, job losses in the U.S., and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/15/gsk-china-drug-licensing-deal-job-losses/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-15T13:29:47.000Z",
-    "summary": "GSK has continued its drive to bulk up its pipeline, taking global rights to a multiple myeloma treatment developed in China"
-  },
-  {
-    "title": "STAT+: New documents reveal problems with Medicare’s prior-authorization pilot",
-    "link": "https://www.statnews.com/2026/09/15/medicare-ai-prior-authorization-pilot-problems-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-15T13:06:21.000Z",
-    "summary": "In this edition of STAT Health Tech: The rushed launch of Medicare's AI prior-authorization pilot, policy hints from FDA, ONC officials, and more."
-  },
-  {
-    "title": "Businesses can now apply for NIH funding",
-    "link": "https://www.statnews.com/2026/09/15/health-news-businesses-can-now-apply-for-nih-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-15T12:03:33.000Z",
-    "summary": "RFK Jr. to speak at Children's Health Defense conference, how to protect your heart in outer space, and more health news"
-  },
-  {
-    "title": "STAT+: Vera kidney drug Trutakna shows strong final results in Phase 3 trial",
-    "link": "https://www.statnews.com/2026/09/15/vera-kidney-drug-trutakna-shows-strong-phase-3-results-igan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-15T10:30:00.000Z",
-    "summary": "The drug stabilized kidney function and reduced the risk of death and other complications in IgAN patients"
-  },
-  {
     "title": "Summit, Akeso look to shed PD-1/VEGF drug doubts with latest study results",
     "link": "https://www.biopharmadive.com/news/summit-akeso-wclc-2026-ivonescimab-lung-cancer-survival/830318/",
     "source": "BioPharma Dive",
@@ -238,14 +246,6 @@
     "category": "industry",
     "date": "2026-09-14T16:30:00.000Z",
     "summary": "Etcamah is the second oral “SERD” to recently fall short in first-line breast cancer, following a similar setback from Roche earlier this year."
-  },
-  {
-    "title": "Cellectis quits CAR-T and pivots to ‘in vivo’ gene editing",
-    "link": "https://www.biopharmadive.com/news/cellectis-restructure-in-vivo-gene-editing-allogeneic-heart-disease/830281/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-14T15:46:00.000Z",
-    "summary": "Long a frontrunner in donor-derived cell therapy research, the French biotech cited a shifting landscape in changing course and choosing to offload its lead programs."
   },
   {
     "title": "Selective oestrogen receptor degrader class grows with new cancer approval",
