@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Trump touts pharma deals to offer cheaper drugs to state Medicaid programs",
+    "link": "https://www.statnews.com/2026/09/18/trump-touts-state-participation-generous-medicaid-drug-discount-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-18T20:22:36.000Z",
+    "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown."
+  },
+  {
+    "title": "STAT+:  In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
+    "link": "https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-18T16:41:53.000Z",
+    "summary": "Several Texas hospitals are suing an out-of-state Blue Cross for unpaid medical claims, highlighting the varying standards for whether care is medically necessary."
+  },
+  {
+    "title": "Xenon shares fall following depression trial pause",
+    "link": "https://www.biopharmadive.com/news/xenon-azetukalner-depression-trial-halt-adverse-events/830756/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-18T15:51:00.000Z",
+    "summary": "The occurrence of “neuropsychiatric” adverse events in testing fueled investor doubts about a drug the FDA is already reviewing for a form of epilepsy."
+  },
+  {
     "title": "This week in charts: GSK’s China deals, the $300M IPO club and selling the news",
     "link": "https://www.biopharmadive.com/news/biotech-charts-gsk-china-electra-ipo-scholar-rock/830514/",
     "source": "BioPharma Dive",
@@ -86,6 +110,22 @@
     "category": "industry",
     "date": "2026-09-18T00:42:00.000Z",
     "summary": "Nearly a dozen biotechnology firms have matched or raised more than $300 million in their initial public offerings in 2026, a figure not seen since new stock sales peaked in 2021, according to…"
+  },
+  {
+    "title": "First myostatin-targeted antibody approved for spinal muscular atrophy",
+    "link": "https://www.nature.com/articles/d41573-026-00152-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-18T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The value of speed for drug developers",
+    "link": "https://www.nature.com/articles/d41573-026-00149-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-18T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Kennedy announces new effort to speed up autism diagnoses",
@@ -200,22 +240,6 @@
     "summary": "In this edition of STAT Health Tech: Zocdoc enables appointment scheduling from chatbots and health plan websites, and more."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about FDA hiring delays, a new Bavarian Nordic CEO, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/17/fda-hiring-delays-bavarian-nordic-appoints-ceo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-17T11:59:57.000Z",
-    "summary": "For all the talk of a hiring spree at the FDA after DOGE cuts last year, the reality is more complicated and filled with bureaucratic delays"
-  },
-  {
-    "title": "STAT+: A biotech hedge fund births a new immunology company",
-    "link": "https://www.statnews.com/2026/09/17/biotech-hedge-fund-startup-north-immunology/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-17T10:30:00.000Z",
-    "summary": "Why a biotech hedge fund decided to build from the ground up a new company to develop a better, long-acting antibody treatment for atopic dermatitis."
-  },
-  {
     "title": "Roche, Dualitas team up to find bispecific drugs for immune diseases",
     "link": "https://www.biopharmadive.com/news/roche-dualitas-bispecific-antibodies-immune/830573/",
     "source": "BioPharma Dive",
@@ -238,14 +262,6 @@
     "category": "industry",
     "date": "2026-09-16T15:10:00.000Z",
     "summary": "The Danish drugmaker will use Claude Science as part of a goal to become \"the world’s most AI-driven healthcare company.\""
-  },
-  {
-    "title": "Sling banks $123M for an experimental thyroid eye disease pill",
-    "link": "https://www.biopharmadive.com/news/sling-linsitinib-series-c-financing-thyroid-eye-disease/830452/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-16T14:54:00.000Z",
-    "summary": "A confirmatory late-stage study is now also underway for what the startup is positioning as, potentially, the first oral alternative to approved injectables like Amgen's Tepezza and Viridian's Lumvoa."
   },
   {
     "title": "FDA Launches Expedited IND Pilot, Begins Accepting Applications",
