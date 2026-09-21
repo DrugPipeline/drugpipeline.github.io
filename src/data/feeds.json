@@ -1,11 +1,67 @@
 [
   {
+    "title": "Beacon eye gene therapy hits mark in late-stage study",
+    "link": "https://www.biopharmadive.com/news/beacon-xlrp-laru-zova-phase-3-study-results/830918/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-21T18:59:00.000Z",
+    "summary": "Beacon claimed the findings represent the first time a treatment for X-linked retinitis pigmentosa, a rare and potentially blinding condition, met its main goal in a pivotal trial."
+  },
+  {
+    "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
+    "link": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-21T17:58:51.000Z",
+    "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting."
+  },
+  {
+    "title": "Novo talks up drug launches in effort to win back investors",
+    "link": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-21T16:30:17.000Z",
+    "summary": "At a “capital markets day” in London, executives outlined a roadmap to better compete with key rival Eli Lilly and soon bring forth several multibillion-dollar products."
+  },
+  {
+    "title": "STAT+: Lilly’s breast cancer combo wins approval",
+    "link": "https://www.statnews.com/2026/09/21/biotech-news-lilly-breast-cancer-combo-wins-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-21T15:08:38.000Z",
+    "summary": "The FDA just approved a new combination drug treatment for patients with an advanced form of breast cancer."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-21T13:31:07.000Z",
+    "summary": "Novo Nodisk outlined plans to expand its pipeline and find new products that it could sell more like consumer goods than traditional medicines"
+  },
+  {
+    "title": "FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-21T12:58:34.000Z",
+    "summary": "The FDA today issued a direct final rule that updates its regulations to clarify that non-animal methods can be used where appropriate for testing the safety of drugs and biological products intended…"
+  },
+  {
     "title": "President Trump’s newest vaccine ‘demands’ repeat old misinformation",
     "link": "https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-09-21T12:03:49.000Z",
     "summary": "A day after health secretary Robert F. Kennedy Jr. promised that parents concerned about vaccines had a “friend” in the White House, President Trump said he’ll be “demanding” that drug…"
+  },
+  {
+    "title": "Telix buys ITM in bid to create a ‘radiopharmaceutical powerhouse’",
+    "link": "https://www.biopharmadive.com/news/telix-itm-radiopharmaceuticals-deal-acquire-lutetium-novartis/830859/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-21T11:49:00.000Z",
+    "summary": "Worth $1.65 billion up front, the deal combines two large pipelines and manufacturing networks, helping Telix potentially “corner the industry” for radiopharmaceuticals, one analyst wrote."
   },
   {
     "title": "How J&J paved the way for Compass’ coming psychedelic drug launch",
@@ -96,6 +152,22 @@
     "summary": "It’s hard to identify which clinical trials pregnant and lactating patients can join. Here’s one fix, experts write."
   },
   {
+    "title": "Two trials or not two trials? That should not be the question",
+    "link": "https://www.nature.com/articles/s41573-026-01537-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-21T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The evolving landscape of drug targets",
+    "link": "https://www.nature.com/articles/s41573-026-01530-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-21T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Radiopharma companies merge after one receives surprise FDA rejection",
     "link": "https://www.statnews.com/2026/09/20/radiopharma-companies-itm-telix-merger/?utm_campaign=rss",
     "source": "STAT News",
@@ -120,7 +192,7 @@
     "summary": "Every state will participate in the GENEROUS program, but many of the details are unknown."
   },
   {
-    "title": "STAT+:  In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
+    "title": "STAT+: In a fight over denied claims, HCA sues out-of-state Blue Cross Blue Shield plan",
     "link": "https://www.statnews.com/2026/09/18/hca-hospitals-sue-independence-blue-cross-prior-authorization/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -184,30 +256,6 @@
     "summary": "Kennedy speaks at the Children's Health Defense, medical facilities under attack in Sudan, and more health news from Morning Rounds"
   },
   {
-    "title": "Opinion: Doctors should educate patients about ‘Asian glow’ and drinking risks",
-    "link": "https://www.statnews.com/2026/09/18/what-is-asian-glow-alcohol-flushing-aldh2-drinking-health-consequences/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-18T08:30:00.000Z",
-    "summary": "It wasn’t until he started medical school, Brian Zhang writes, that he realized ‘Asian glow’ from drinking was a sign of something important."
-  },
-  {
-    "title": "Opinion: More young men are coming to me for plastic surgery. The way I think about them has changed",
-    "link": "https://www.statnews.com/2026/09/18/young-men-plastic-surgery-rates-influencers-lookmaxxing-clavicular/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-18T08:30:00.000Z",
-    "summary": "“The young men in my clinic are responding rationally to a system that was designed for profit,” writes plastic surgeon Kavitha Ranganathan."
-  },
-  {
-    "title": "In Sudan, attacks on hospitals force patients to make dangerous journeys",
-    "link": "https://www.statnews.com/2026/09/18/sudan-civil-war-cancer-treatment-wartime-tom-catena-mother-mercy-hospital/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-18T08:30:00.000Z",
-    "summary": "Amid a civil war in Sudan, it’s now difficult for people with cancer and other long-term illnesses to receive treatment that was once readily available"
-  },
-  {
     "title": "Electra amasses $350M in biotech’s latest big IPO",
     "link": "https://www.biopharmadive.com/news/electra-biotech-ipo-price-secondary-hlh/830698/",
     "source": "BioPharma Dive",
@@ -216,12 +264,20 @@
     "summary": "Nearly a dozen biotechnology firms have matched or raised more than $300 million in their initial public offerings in 2026, a figure not seen since new stock sales peaked in 2021, according to…"
   },
   {
-    "title": "Lisata deal propels Marea’s drug pipeline to Wall Street",
-    "link": "https://www.biopharmadive.com/news/lisata-marea-deal-acquire-cardiovascular-endocrine-disease-drugs/830717/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-17T21:39:00.000Z",
-    "summary": "Marea’s acquisition by Lisata, alongside a $225 million financing deal, will back development of a pair of medicines in mid-stage testing for cardiovascular and endocrine conditions."
+    "title": "First myostatin-targeted antibody approved for spinal muscular atrophy",
+    "link": "https://www.nature.com/articles/d41573-026-00152-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-18T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The value of speed for drug developers",
+    "link": "https://www.nature.com/articles/d41573-026-00149-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-18T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A",
@@ -230,22 +286,6 @@
     "category": "regulatory",
     "date": "2026-09-17T18:26:43.000Z",
     "summary": "The U.S. Food and Drug Administration today approved Fayuvi (rebisufligene etisparvovec-hopf), the first treatment for pediatric patients with mucopolysaccharidosis type IIIA (MPS IIIA), also known…"
-  },
-  {
-    "title": "Novo partners with Orbis, deepening investment in oral peptide drugs",
-    "link": "https://www.biopharmadive.com/news/novo-orbis-macrocyclic-peptides-oral-obesity-drugs/830645/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-17T15:55:00.000Z",
-    "summary": "The potentially $1.4 billion alliance will see the two companies collaborate on “macrocycles” that could yield oral treatments for cardiometabolic diseases."
-  },
-  {
-    "title": "North Immunology joins biotech reverse merger boom with Aethlon deal",
-    "link": "https://www.biopharmadive.com/news/north-immunology-aethlon-biotech-reverse-merger-eczema-drug/830631/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-17T15:09:00.000Z",
-    "summary": "Armed with $180 million and a dual-acting antibody for eczema, the startup is capitalizing on a change in sentiment that’s led to a sudden spike in reverse merger deals."
   },
   {
     "title": "FDA Launches Expedited IND Pilot, Begins Accepting Applications",
