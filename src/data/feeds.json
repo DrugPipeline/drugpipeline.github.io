@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
+    "link": "https://www.statnews.com/pharmalot/2026/09/22/hhs-initiatives-reduce-animal-testing-in-drug-development/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-22T19:28:42.000Z",
+    "summary": "For the second time this year, HHS announced new strategies to speed the away from animals in medical testing."
+  },
+  {
+    "title": "Amgen reports a Phase 3 win with Sjögren’s drug candidate",
+    "link": "https://www.biopharmadive.com/news/amgen-dazodalibep-sjogrens-syndrome-study-results/831042/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-22T18:31:00.000Z",
+    "summary": "Dazodalibep, acquired in Amgen’s big buyout of Horizon Therapeutics, succeeded in the first of two late-stage trials against the tough-to-treat autoimmune disorder."
+  },
+  {
+    "title": "Opinion: Former FDA commissioners: Heidi Overton has an opportunity to strengthen the FDA",
+    "link": "https://www.statnews.com/2026/09/22/heidi-overton-fda-commissioner-confirmation-hearing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-22T17:49:03.000Z",
+    "summary": "Two former FDA commissioners: Heidi Overton is the right pick in a difficult moment."
+  },
+  {
     "title": "STAT+: Did the Trump administration just cut Novo a huge financial win?",
     "link": "https://www.statnews.com/2026/09/22/dc-diagnosis-did-trump-administration-cut-novo-huge-financial-win/?utm_campaign=rss",
     "source": "STAT News",
@@ -102,38 +126,6 @@
     "category": "industry",
     "date": "2026-09-22T08:30:00.000Z",
     "summary": "Research shows that integrative therapies reduce cancer-related pain, fatigue, anxiety, and nausea. Why won't insurance pay?"
-  },
-  {
-    "title": "Navigating ultralarge virtual screening",
-    "link": "https://www.nature.com/articles/d41573-026-00155-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Suppressor tRNA rescues cystic fibrosis",
-    "link": "https://www.nature.com/articles/d41573-026-00153-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Covalent BAX inhibitor confers cytoprotection",
-    "link": "https://www.nature.com/articles/d41573-026-00156-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Targeting norovirus RNA structures",
-    "link": "https://www.nature.com/articles/d41573-026-00154-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
@@ -240,14 +232,6 @@
     "summary": "New GLP-1 therapy indications mean new challenges for pharma companies, from care to consumer trust."
   },
   {
-    "title": "Behind the outcomes: How whole-patient support is reshaping oncology care",
-    "link": "https://www.biopharmadive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/830455/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-21T09:00:00.000Z",
-    "summary": "As oncology care grows personalized and home-based, support around treatment becomes as vital as treatment."
-  },
-  {
     "title": "Opinion: STAT+: The NIH budget should be $100 billion per year",
     "link": "https://www.statnews.com/2026/09/21/nih-budget-double-100-billion-reed-jobs/?utm_campaign=rss",
     "source": "STAT News",
@@ -262,54 +246,6 @@
     "category": "industry",
     "date": "2026-09-21T08:30:00.000Z",
     "summary": "How one state's governor's race is a test of whether Robert F. Kennedy Jr.'s MAHA movement has an enduring political draw."
-  },
-  {
-    "title": "Why is trust in science important?",
-    "link": "https://www.statnews.com/2026/09/21/trust-in-science-reporter-nick-florko-interview-status-report-alex-hogan/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-21T08:30:00.000Z",
-    "summary": "STAT's Alex Hogan sits down for an in-depth conversation with our new trust-in-science reporter, Nicholas Florko, on the latest episode of STATus Report."
-  },
-  {
-    "title": "Skeptical about modern medicine? I know the feeling — and want to listen",
-    "link": "https://www.statnews.com/2026/09/21/trust-in-science-nick-florko-on-understanding-growing-scientific-mistrust/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-21T08:30:00.000Z",
-    "summary": "\"I know what it means to be searching for an explanation to what ails you, and a way to fix it,\" writes STAT's new trust-in-science reporter, Nicholas Florko."
-  },
-  {
-    "title": "Two trials or not two trials? That should not be the question",
-    "link": "https://www.nature.com/articles/s41573-026-01537-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-21T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The evolving landscape of drug targets",
-    "link": "https://www.nature.com/articles/s41573-026-01530-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-21T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "First myostatin-targeted antibody approved for spinal muscular atrophy",
-    "link": "https://www.nature.com/articles/d41573-026-00152-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-18T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The value of speed for drug developers",
-    "link": "https://www.nature.com/articles/d41573-026-00149-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-18T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A",
