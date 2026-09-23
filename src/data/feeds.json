@@ -1,5 +1,45 @@
 [
   {
+    "title": "9 pharma leaders sound ‘alarm bells’ on biotech’s decline in Europe",
+    "link": "https://www.biopharmadive.com/news/europe-biotech-investment-decline-letter-pharma-chairs/831112/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-23T15:13:51.000Z",
+    "summary": "Frustrated by a slump that’s seen Europe lose ground to the U.S. and China, several top drugmakers are calling for speedier clinical trials, intellectual property protections and “fiscal flexibility.”"
+  },
+  {
+    "title": "STAT+: Flagship gets a Pentagon contract",
+    "link": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-23T13:37:36.000Z",
+    "summary": "Biotech investment firm Flagship Pioneering has been awarded a contract by the Department of Defense to advance countermeasure technologies against biological threats."
+  },
+  {
+    "title": "STAT+: AI doomerism: Here’s how to make sense of it",
+    "link": "https://www.statnews.com/2026/09/23/how-to-make-sense-of-ai-doomerism-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-23T13:29:58.000Z",
+    "summary": "In this edition of STAT's AI Prognosis newsletter: Brittany Trang offers a few stories to make sense of the AI doom/slowdown talk, and more."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a closing loophole for importing meds, European competitiveness, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/09/23/loophole-closing-for-importing-meds-european-competitiveness/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-23T13:20:31.000Z",
+    "summary": "As of next month, a loophole that allows Americans to personally import their medications by mail is closing"
+  },
+  {
+    "title": "The latest in the legal saga for youth gender-affirming care in the U.S.",
+    "link": "https://www.statnews.com/2026/09/23/health-news-legal-saga-for-youth-gender-affirming-care-in-the-us/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-23T11:51:43.000Z",
+    "summary": "The chilling effect of the Trump administration's dogged offensive against transgender health care has been swift, with dozens of hospitals across the U.S. ending care, even if they haven't been…"
+  },
+  {
     "title": "STAT+: UnitedHealth, CVS push back on Medicare plan to curb remote patient monitoring",
     "link": "https://www.statnews.com/2026/09/23/unitedhealth-cvs-pushback-medicare-plan-rpm-abuse/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,6 +70,14 @@
     "category": "industry",
     "date": "2026-09-23T08:30:00.000Z",
     "summary": "Other private equity-owned hospital chains have collapsed in recent years, so the stakes are high for Quorum."
+  },
+  {
+    "title": "Refining therapeutic targeting of interleukin-6 by signalling mode selectivity",
+    "link": "https://www.nature.com/articles/s41573-026-01536-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-23T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: HHS unveils new initiatives to reduce animal testing in drug development",
@@ -160,6 +208,38 @@
     "summary": "Research shows that integrative therapies reduce cancer-related pain, fatigue, anxiety, and nausea. Why won't insurance pay?"
   },
   {
+    "title": "Navigating ultralarge virtual screening",
+    "link": "https://www.nature.com/articles/d41573-026-00155-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Suppressor tRNA rescues cystic fibrosis",
+    "link": "https://www.nature.com/articles/d41573-026-00153-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Covalent BAX inhibitor confers cytoprotection",
+    "link": "https://www.nature.com/articles/d41573-026-00156-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting norovirus RNA structures",
+    "link": "https://www.nature.com/articles/d41573-026-00154-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Members of Congress push back on plan to create a commission of political appointees to review NIH grants",
     "link": "https://www.statnews.com/2026/09/21/trump-plan-for-commission-to-review-nih-grants-push-back/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,14 +256,6 @@
     "summary": "Beacon claimed the findings represent the first time a treatment for X-linked retinitis pigmentosa, a rare and potentially blinding condition, met its main goal in a pivotal trial."
   },
   {
-    "title": "STAT+: What a vote on Grail’s cancer detection test could mean for the company, patients, and regulators",
-    "link": "https://www.statnews.com/2026/09/21/grail-galleri-fda-advisory-committee-meeting-documents/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-21T17:58:51.000Z",
-    "summary": "Shares in Grail, the company developing a blood test for cancer, surged Monday after the FDA posted documents ahead of an advisory committee meeting."
-  },
-  {
     "title": "Novo talks up drug launches in effort to win back investors",
     "link": "https://www.biopharmadive.com/news/novo-capital-markets-day-obesity-sales-outlook/830882/",
     "source": "BioPharma Dive",
@@ -192,36 +264,12 @@
     "summary": "At a “capital markets day” in London, executives outlined a roadmap to better compete with key rival Eli Lilly and soon bring forth several multibillion-dollar products."
   },
   {
-    "title": "STAT+: Lilly’s breast cancer combo wins approval",
-    "link": "https://www.statnews.com/2026/09/21/biotech-news-lilly-breast-cancer-combo-wins-approval/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-21T15:08:38.000Z",
-    "summary": "The FDA just approved a new combination drug treatment for patients with an advanced form of breast cancer."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Novo plans to expand its pipeline, early Alkermes ADHD data, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/21/novo-to-expand-pipeline-alkermes-releases-adhd-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-21T13:31:07.000Z",
-    "summary": "Novo Nodisk outlined plans to expand its pipeline and find new products that it could sell more like consumer goods than traditional medicines"
-  },
-  {
     "title": "FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-09-21T12:58:34.000Z",
     "summary": "The FDA today issued a direct final rule that updates its regulations to clarify that non-animal methods can be used where appropriate for testing the safety of drugs and biological products intended…"
-  },
-  {
-    "title": "President Trump’s newest vaccine ‘demands’ repeat old misinformation",
-    "link": "https://www.statnews.com/2026/09/21/health-news-trump-newest-vaccine-demands-repeat-old-misinformation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-21T12:03:49.000Z",
-    "summary": "A day after health secretary Robert F. Kennedy Jr. promised that parents concerned about vaccines had a “friend” in the White House, President Trump said he’ll be “demanding” that drug…"
   },
   {
     "title": "Telix buys ITM in bid to create a ‘radiopharmaceutical powerhouse’",
@@ -240,12 +288,28 @@
     "summary": "In an interview with BioPharma Dive, Compass executives said that, should the FDA approve their treatment, they hope to capitalize on a strategy pioneered by J&J in selling the ketamine spray…"
   },
   {
-    "title": "Are healthcare systems really ready for GLP-1s?",
-    "link": "https://www.biopharmadive.com/spons/are-healthcare-systems-really-ready-for-glp-1s/829901/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-21T09:00:00.000Z",
-    "summary": "New GLP-1 therapy indications mean new challenges for pharma companies, from care to consumer trust."
+    "title": "Two trials or not two trials? That should not be the question",
+    "link": "https://www.nature.com/articles/s41573-026-01537-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-21T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The evolving landscape of drug targets",
+    "link": "https://www.nature.com/articles/s41573-026-01530-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-21T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "First myostatin-targeted antibody approved for spinal muscular atrophy",
+    "link": "https://www.nature.com/articles/d41573-026-00152-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-18T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A",
