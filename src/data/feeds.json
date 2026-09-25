@@ -1,11 +1,59 @@
 [
   {
+    "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
+    "link": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-25T08:30:00.000Z",
+    "summary": "Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menthol cigarettes were form letters, most echoing tobacco industry talking points."
+  },
+  {
+    "title": "At least five candidates vie to become the next WHO leader, as questions over U.S. role loom",
+    "link": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-25T08:30:00.000Z",
+    "summary": "At least five candidates are in the running to become the next director-general of the WHO, a job that will come with extraordinary challenges."
+  },
+  {
+    "title": "STAT+: The head of Kennedy’s new autism project served in Iraq War, worked with Sesame Street",
+    "link": "https://www.statnews.com/2026/09/25/russell-shilling-leads-arpa-h-spectra-initiative-autism-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-25T08:30:00.000Z",
+    "summary": "Advanced Research Projects Agency for Health is planning a total-lifespan research project on autism: A Q&A with its leader, Russell Shilling."
+  },
+  {
+    "title": "Opinion: RFK Jr.’s use of the National Center for Health Statistics will add confusion to measles deaths count",
+    "link": "https://www.statnews.com/2026/09/25/measles-deaths-statistics-pennsylvania-outbreak-cdc-nchs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-25T08:30:00.000Z",
+    "summary": "“A discrepancy between how federal and state public health officials determine measles deaths will only increase public confusion,” write Denys T. Lau and Jennifer D. Schoendorf."
+  },
+  {
+    "title": "Opinion: The ‘died with’ vs. ‘died of’ measles discussion misses something very important",
+    "link": "https://www.statnews.com/2026/09/25/died-with-not-from-measles-physicians-explain-death-certificate-rules/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-25T08:30:00.000Z",
+    "summary": "“Arguing over whether someone died ‘with’ or ‘of’ a disease gets us stuck on the last thing that happened.” write two Unbiased Science scientists."
+  },
+  {
     "title": "RNAi drug specialist ADARx raises $446M IPO",
     "link": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-25T00:36:00.000Z",
     "summary": "ADARx is the only maker of RNA-based drugs to go public since 2024 and the first RNAi biotech to price an IPO in the U.S. in more than a decade."
+  },
+  {
+    "title": "From <i>N</i>-of-1 therapy to health-system implementation",
+    "link": "https://www.nature.com/articles/s41573-026-01538-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-25T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Grail multicancer detection test wins FDA advisers’ backing",
@@ -160,38 +208,6 @@
     "summary": "Jewel Mullen was in kindergarten in 1961 when she almost died from measles. Now a physician, measles’ return frightens her."
   },
   {
-    "title": "Opinion: STAT+: A moment of reckoning for preventive cardiology and the precision medicine revolution",
-    "link": "https://www.statnews.com/2026/09/24/lpa-horizon-zeus-results-pelacarsen-preventive-cardiology-precision-medicine-disappointment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-24T08:30:00.000Z",
-    "summary": "“The epidemiology and genetics of heart attack and stroke risk, for now, seem to have outpaced what more we can actually do about it,” writes cardiologist Vishal Khetpal."
-  },
-  {
-    "title": "White House plan to increase control of NIH grants appears ‘dead’",
-    "link": "https://www.statnews.com/2026/09/23/nih-grants-political-control-executive-order-bipartisan-pushback/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-23T23:26:01.000Z",
-    "summary": "A planned EO that would have greatly enhanced White House influence over grants at the NIH is “looking dead,” a source said."
-  },
-  {
-    "title": "STAT+: Nominee to lead FDA aims to speed up medical research, combat China’s rise",
-    "link": "https://www.statnews.com/2026/09/23/heidi-overton-fda-nominee-opening-statement-senate-hearing-clinical-trials/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-23T22:14:37.000Z",
-    "summary": "Exclusive: Heidi Overton plans to tell senators she will speed up biomedical research, working with FDA staff."
-  },
-  {
-    "title": "STAT+: FDA advisory panel endorses Grail blood test for cancer, saying benefits outweigh risks",
-    "link": "https://www.statnews.com/2026/09/23/fda-advisory-panel-recommends-approval-grail-galleri-multi-cancer-blood-test/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-23T21:47:58.000Z",
-    "summary": "An FDA advisory panel has endorsed Galleri, a blood test designed by the biotech firm Grail to screen for multiple types of cancer."
-  },
-  {
     "title": "Federal Court Enters Consent Decree Against Gold Star Distribution, Inc. Following Persistent Insanitary Warehouse Conditions",
     "link": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
     "source": "FDA Press Releases",
@@ -222,14 +238,6 @@
     "category": "industry",
     "date": "2026-09-23T15:13:51.000Z",
     "summary": "Frustrated by a slump that’s seen Europe lose ground to the U.S. and China, several top drugmakers are calling for speedier clinical trials, intellectual property protections and “fiscal flexibility.”"
-  },
-  {
-    "title": "STAT+: Flagship gets a Pentagon contract",
-    "link": "https://www.statnews.com/2026/09/23/biotech-news-flagship-gets-a-pentagon-contract/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-23T13:37:36.000Z",
-    "summary": "Biotech investment firm Flagship Pioneering has been awarded a contract by the Department of Defense to advance countermeasure technologies against biological threats."
   },
   {
     "title": "Refining therapeutic targeting of interleukin-6 by signalling mode selectivity",
