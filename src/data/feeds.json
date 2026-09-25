@@ -1,5 +1,21 @@
 [
   {
+    "title": "RNAi drug specialist ADARx raises $446M IPO",
+    "link": "https://www.biopharmadive.com/news/adarx-rnai-biotech-ipo-stock-pricing/831262/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-25T00:36:00.000Z",
+    "summary": "ADARx is the only maker of RNA-based drugs to go public since 2024 and the first RNAi biotech to price an IPO in the U.S. in more than a decade."
+  },
+  {
+    "title": "Grail multicancer detection test wins FDA advisers’ backing",
+    "link": "https://www.biopharmadive.com/news/grail-multicancer-detection-test-wins-fda-advisers-backing/831286/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-24T21:08:00.000Z",
+    "summary": "Panel members said the first-of-a-kind blood test should not be used to replace medical guideline-recommended cancer screenings, however."
+  },
+  {
     "title": "FDA nominee Overton parries vaccine questions at Senate hearing",
     "link": "https://www.biopharmadive.com/news/overton-senate-hearing-fda-vaccines-abortion-china/831285/",
     "source": "BioPharma Dive",
@@ -216,6 +232,14 @@
     "summary": "Biotech investment firm Flagship Pioneering has been awarded a contract by the Department of Defense to advance countermeasure technologies against biological threats."
   },
   {
+    "title": "Refining therapeutic targeting of interleukin-6 by signalling mode selectivity",
+    "link": "https://www.nature.com/articles/s41573-026-01536-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Amgen reports a Phase 3 win with Sjögren’s drug candidate",
     "link": "https://www.biopharmadive.com/news/amgen-dazodalibep-sjogrens-syndrome-study-results/831042/",
     "source": "BioPharma Dive",
@@ -232,20 +256,36 @@
     "summary": "Trial participants mostly kept their weight down after switching from a weekly shot to less frequent dosing — findings that could strengthen Viking’s “competitive positioning,” one analyst wrote."
   },
   {
-    "title": "Celldex sinks as safety concerns cloud immune drug results",
-    "link": "https://www.biopharmadive.com/news/celldex-barzolvolimab-urticaria-study-results-embarq/830982/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-22T15:42:00.000Z",
-    "summary": "Though barzolvolimab displayed what one analyst described as the best efficacy results to date against chronic skin hives, treatment was also associated with two life-threatening anaphylaxis cases."
+    "title": "Navigating ultralarge virtual screening",
+    "link": "https://www.nature.com/articles/d41573-026-00155-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
   },
   {
-    "title": "An orexin drug’s ‘proof-of-concept’ in ADHD; Cue’s ‘unwarranted’ share slide",
-    "link": "https://www.biopharmadive.com/news/orexin-adhd-cue-urticaria-/830847/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-22T14:17:00.000Z",
-    "summary": "Alkermes’ results heightened anticipation for a coming readout in 2027. Elsewhere, AbbVie leaned into AI drug discovery and the FDA expanded use of Eli Lilly’s breast cancer pill."
+    "title": "Suppressor tRNA rescues cystic fibrosis",
+    "link": "https://www.nature.com/articles/d41573-026-00153-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Covalent BAX inhibitor confers cytoprotection",
+    "link": "https://www.nature.com/articles/d41573-026-00156-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Targeting norovirus RNA structures",
+    "link": "https://www.nature.com/articles/d41573-026-00154-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing",
@@ -254,5 +294,21 @@
     "category": "regulatory",
     "date": "2026-09-21T12:58:34.000Z",
     "summary": "The FDA today issued a direct final rule that updates its regulations to clarify that non-animal methods can be used where appropriate for testing the safety of drugs and biological products intended…"
+  },
+  {
+    "title": "Two trials or not two trials? That should not be the question",
+    "link": "https://www.nature.com/articles/s41573-026-01537-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-21T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The evolving landscape of drug targets",
+    "link": "https://www.nature.com/articles/s41573-026-01530-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-21T00:00:00.000Z",
+    "summary": ""
   }
 ]
