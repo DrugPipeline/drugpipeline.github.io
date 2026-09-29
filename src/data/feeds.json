@@ -1,11 +1,27 @@
 [
   {
+    "title": "FDA Approves First Treatment for MCT8 Deficiency",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-28T21:43:18.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved Emcitate (tiratricol) tablets for oral suspension to treat peripheral thyrotoxicosis (excess thyroid hormone levels in the blood that causes…"
+  },
+  {
     "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
     "link": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-09-28T21:07:09.000Z",
     "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later."
+  },
+  {
+    "title": "FDA intends to evaluate changes to the PMTA regulatory framework",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-28T21:00:01.000Z",
+    "summary": "FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S.…"
   },
   {
     "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
@@ -269,38 +285,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-09-23T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Navigating ultralarge virtual screening",
-    "link": "https://www.nature.com/articles/d41573-026-00155-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Suppressor tRNA rescues cystic fibrosis",
-    "link": "https://www.nature.com/articles/d41573-026-00153-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Covalent BAX inhibitor confers cytoprotection",
-    "link": "https://www.nature.com/articles/d41573-026-00156-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Targeting norovirus RNA structures",
-    "link": "https://www.nature.com/articles/d41573-026-00154-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-22T00:00:00.000Z",
     "summary": ""
   }
 ]
