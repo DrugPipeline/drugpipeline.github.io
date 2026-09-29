@@ -1,5 +1,77 @@
 [
   {
+    "title": "Researchers slow neurodegeneration in mice by barring T cells from the brain",
+    "link": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T12:02:41.000Z",
+    "summary": "A new study in mice led by Washington University in St. Louis researchers suggests that stopping certain immune cells from entering the brain could limit neurodegeneration."
+  },
+  {
+    "title": "STAT+: UniQure’s gene therapy continues to slow Huntington’s progression after four years",
+    "link": "https://www.statnews.com/2026/09/29/uniqure-huntingtons-gene-therapy-slows-disease-progression-four-years/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T11:05:00.000Z",
+    "summary": "UniQure's gene therapy continues to slow Huntington's progression after four years. But the magnitude of the benefit waned compared to a similar analysis from a year ago."
+  },
+  {
+    "title": "Why MAHA wants to make health data much more accessible",
+    "link": "https://www.statnews.com/2026/09/29/why-maha-wants-to-make-health-data-much-more-accessible/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T08:30:00.000Z",
+    "summary": "At a MAHA Institute event, Kennedy and others argued that health data should be more accessible to researchers can study vaccines, chronic diseases, and autism"
+  },
+  {
+    "title": "She’s spent two decades talking to parents who don’t vaccinate their children. Here’s what she’s learned",
+    "link": "https://www.statnews.com/2026/09/29/understanding-vaccine-skepticism-in-parents/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T08:30:00.000Z",
+    "summary": "Jennifer Reich has spent two decades speaking to families about their immunization decisions. In an interview, she unpacks what she's learned."
+  },
+  {
+    "title": "STAT+: The last ‘breakthrough’ devices to get special treatment from Medicare",
+    "link": "https://www.statnews.com/2026/09/29/fda-breakthrough-medical-devices-special-treatment-medicare/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T08:30:00.000Z",
+    "summary": "New medical devices deemed \"breakthrough\" by the FDA are no longer automatically eligible for extra Medicare payments."
+  },
+  {
+    "title": "STAT+: Drug pricing, Medicaid, and research funding: The key policy issues at stake in the midterms",
+    "link": "https://www.statnews.com/2026/09/29/healthcare-industry-midterm-elections-analysis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T08:30:00.000Z",
+    "summary": "Big shifts in health care policy could emerge depending on who wins the midterms, affecting hospitals and pharma companies."
+  },
+  {
+    "title": "Opinion: Child health is the national security crisis we keep ignoring",
+    "link": "https://www.statnews.com/2026/09/29/childrens-health-national-security-military-labor-workforce-policy-fixes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T08:30:00.000Z",
+    "summary": "“National security begins in childhood,” write Tina L. Cheng, Stanley McChrystal, and James M. Perrin."
+  },
+  {
+    "title": "Opinion: Massive SNAP cuts could mean more children are separated from their families",
+    "link": "https://www.statnews.com/2026/09/29/snap-cuts-states-health-child-welfare-cps-foster-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T08:30:00.000Z",
+    "summary": "\"We should not make families poorer and then punish them for their poverty,\" write Sandy Santana and Kristen Weber of the National Center for Youth Law."
+  },
+  {
+    "title": "Psychedelic protects against chemotherapy-induced nerve damage",
+    "link": "https://www.nature.com/articles/d41573-026-00158-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-29T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "FDA Approves First Treatment for MCT8 Deficiency",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
     "source": "FDA Press Releases",
@@ -160,14 +232,6 @@
     "summary": "President Trump is canceling nearly $1 billion in spending approved by Congress, and most of the cuts are focused on HHS programs that serve refugees and unaccompanied minors."
   },
   {
-    "title": "STAT+: Licensing deals on generic versions of Roche flu drug aimed at preparing for pandemic",
-    "link": "https://www.statnews.com/pharmalot/2026/09/25/roche-xofluza-influenza-treatment-agreements/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T17:50:04.000Z",
-    "summary": "With an eye toward pandemic preparedness, a U.N.-backed agency has signed sub-licensing deals related to generic versions of a Roche influenza treatment."
-  },
-  {
     "title": "This week in charts: Novo’s rise and fall and AI biotechs’ big haul",
     "link": "https://www.biopharmadive.com/news/novo-nordisk-share-price-ai-drug-discovery/831366/",
     "source": "BioPharma Dive",
@@ -176,68 +240,12 @@
     "summary": "The latest installment in BioPharma Dive’s data visualization series features a closer look at Novo's stock performance and the recent run of fundraising success for AI drug discovery startups."
   },
   {
-    "title": "STAT+: Lilly wins approval for once-weekly insulin shot",
-    "link": "https://www.statnews.com/2026/09/25/biotech-news-lilly-wins-approval-for-weekly-insulin-shot/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T15:25:10.000Z",
-    "summary": "The FDA approved Eli Lilly’s Onswik, a once-weekly basal insulin for adults with type 2 diabetes, offering patients an alternative to daily long-acting insulin injections."
-  },
-  {
-    "title": "Opinion: FDA commissioner nominee Heidi Overton is ignoring the science on abortion drug",
-    "link": "https://www.statnews.com/2026/09/25/heidi-overton-confirmation-hearing-mifepristone-abortion-evasive/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T14:39:38.000Z",
-    "summary": "“With this latest appointment, mifepristone has a new boss but an old problem,” writes Julie F. Kay, founder and CEO of Reproductive Futures."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/09/25/up-and-down-the-ladder-latest-comings-goings-jobs-pharma-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T13:38:18.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a reticent FDA commish nominee, a Novo deal, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/25/reticent-fda-commish-nominee-novo-deal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T13:32:10.000Z",
-    "summary": "President Trump’s nominee to lead the FDA was grilled by senators on hot button topics like China, vaccines, and abortion access"
-  },
-  {
     "title": "Novo pursues long-acting obesity drugs; Acadia slumps on Alzheimer’s data",
     "link": "https://www.biopharmadive.com/news/novo-nanexa-acadia-remlifanserin-nektar-lilly-onswik-welireg/831346/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-25T13:21:00.000Z",
     "summary": "Novo’s latest alliance involves injectables given every one to three months. Elsewhere, Nektar won a legal spat with Eli Lilly and the FDA issued two approvals."
-  },
-  {
-    "title": "Federal judge rolls back landmark disability protections",
-    "link": "https://www.statnews.com/2026/09/25/health-news-federal-judge-rolls-back-landmark-disability-protections/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T12:53:55.000Z",
-    "summary": "The Justice Department said in June that it would no longer enforce laws that prioritized people with disabilities living and receiving services in their communities, rather than in nursing homes…"
-  },
-  {
-    "title": "How Big Tobacco flooded the FDA with public comments to kill a menthol cigarette ban",
-    "link": "https://www.statnews.com/2026/09/25/fake-grassroots-campaign-jama-study-rutgers-researchers-fda-menthol-ban/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T08:30:00.000Z",
-    "summary": "Virtually all of the 175,000 public comments on a 2022 FDA proposal to ban menthol cigarettes were form letters, most echoing tobacco industry talking points."
-  },
-  {
-    "title": "At least five candidates vie to become the next WHO leader, as questions over U.S. role loom",
-    "link": "https://www.statnews.com/2026/09/25/world-health-organization-candidates-for-next-director-general/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-25T08:30:00.000Z",
-    "summary": "At least five candidates are in the running to become the next director-general of the WHO, a job that will come with extraordinary challenges."
   },
   {
     "title": "RNAi drug specialist ADARx raises $446M IPO",
