@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+    "link": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-29T22:46:45.000Z",
+    "summary": "Federal officials and health care executives rubbed elbows at the ritzy MAHA Summit, causing some supporters to question what MAHA has become."
+  },
+  {
+    "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-09-29T21:01:07.000Z",
+    "summary": "The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33, and Vicky…"
+  },
+  {
     "title": "STAT+: Lawmakers urge Trump to rethink new rule that could restrict imported meds from Canada and overseas",
     "link": "https://www.statnews.com/pharmalot/2026/09/29/lawmakers-urge-trump-rethink-new-rule-that-could-restrict-imported-medicines/?utm_campaign=rss",
     "source": "STAT News",
@@ -240,14 +256,6 @@
     "summary": "Health insurance premiums are skyrocketing, private equity hospital chain goes nonprofit, and more from STAT's Health Care Inc."
   },
   {
-    "title": "STAT+: AbbVie wins FDA nod for Parkinson’s pill",
-    "link": "https://www.statnews.com/2026/09/28/biotech-news-abbvie-wins-fda-nod-for-parkinsons-pill/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-28T13:40:32.000Z",
-    "summary": "The FDA has approved AbbVie’s once-daily Parkinson’s pill for sales, based on a late-stage study that showed the drug helped improve symptoms."
-  },
-  {
     "title": "Merck, Daiichi end plans to seek speedy approval of lung cancer ADC",
     "link": "https://www.biopharmadive.com/news/merck-daiichi-fda-withdraw-ifinatamab-deruxtecan-sclc/831440/",
     "source": "BioPharma Dive",
@@ -256,20 +264,20 @@
     "summary": "The FDA indicated that the data generated so far wouldn’t support an accelerated clearance of “I-DXd,” a setback that erases an edge Merck and Daiichi had over multiple fast-moving competitors."
   },
   {
-    "title": "Breakthrough therapies still need builders",
-    "link": "https://www.biopharmadive.com/spons/breakthrough-therapies-still-need-builders/831034/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-28T09:00:00.000Z",
-    "summary": "The next biopharma advantage will come from the talent and systems that turn discovery into scale."
-  },
-  {
     "title": "Kids shouldn’t have to organize childhood around medicine",
     "link": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-28T09:00:00.000Z",
     "summary": "Fewer shots, no hour-long pharmacy runs: two families show what medicine built for real life means."
+  },
+  {
+    "title": "Breakthrough therapies still need builders",
+    "link": "https://www.biopharmadive.com/spons/breakthrough-therapies-still-need-builders/831034/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-28T09:00:00.000Z",
+    "summary": "The next biopharma advantage will come from the talent and systems that turn discovery into scale."
   },
   {
     "title": "Drug conjugate allows cell surface payload release",
@@ -294,13 +302,5 @@
     "category": "regulatory",
     "date": "2026-09-23T19:50:17.000Z",
     "summary": "A U.S. Food and Drug Administration investigation resulted in a federal court order, dated Sept. 21, 2026, stopping a warehouse operator from distributing FDA-regulated products including food,…"
-  },
-  {
-    "title": "Refining therapeutic targeting of interleukin-6 by signalling mode selectivity",
-    "link": "https://www.nature.com/articles/s41573-026-01536-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-23T00:00:00.000Z",
-    "summary": ""
   }
 ]
