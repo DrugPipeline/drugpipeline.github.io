@@ -1,5 +1,45 @@
 [
   {
+    "title": "CDC measles death count still lags Pennsylvania’s",
+    "link": "https://www.statnews.com/2026/09/30/health-news-cdc-measles-death-count-still-lags-pennsylvania/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-30T11:59:12.000Z",
+    "summary": "Pennsylvania officials count four measles-related deaths this year. The CDC only counts two."
+  },
+  {
+    "title": "Opinion: America’s biotech race with China must be won at home",
+    "link": "https://www.statnews.com/2026/09/30/china-america-biotech-race-security/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-30T08:30:00.000Z",
+    "summary": "“The surest way to secure our biotech lead is to build up our own capabilities,” write Gary Locke and Patrick McHenry."
+  },
+  {
+    "title": "Kratom and 7-OH should be regulated, experts agree. They’re split on how",
+    "link": "https://www.statnews.com/2026/09/30/dea-proposal-7-oh-kratom-schedule-1-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-30T08:30:00.000Z",
+    "summary": "Kratom has skirted regulation for decades, but newer, highly concentrated 7-OH products have renewed interest in safeguards."
+  },
+  {
+    "title": "Opinion: STAT+: What to think about those mice with half-human brains",
+    "link": "https://www.statnews.com/2026/09/30/xeno-mice-human-brains-cortex-research-ethics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-30T08:30:00.000Z",
+    "summary": "New research involving giving mice a human cell-based cortex brings to mind “Flowers for Algernon” and “Pinky and the Brain,” writes STAT Lab Dish columnist Paul Knoepfler."
+  },
+  {
+    "title": "Soft drugs: design principles and topical applications",
+    "link": "https://www.nature.com/articles/s41573-026-01535-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-30T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
     "link": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,36 +240,12 @@
     "summary": "The U.S. Food and Drug Administration today approved Emcitate (tiratricol) tablets for oral suspension to treat peripheral thyrotoxicosis (excess thyroid hormone levels in the blood that causes…"
   },
   {
-    "title": "Risk from toxic metals can persist months after wildfires, Maui study finds",
-    "link": "https://www.statnews.com/2026/09/28/hawaii-wildfire-air-quality-risk-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-28T21:07:09.000Z",
-    "summary": "Post-wildfire air quality needs to be monitored long term, suggests a study finding Maui residents had high levels of toxic metals months later."
-  },
-  {
     "title": "FDA intends to evaluate changes to the PMTA regulatory framework",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-09-28T21:00:01.000Z",
     "summary": "FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S.…"
-  },
-  {
-    "title": "STAT+: Merck discontinues a crucial antibiotic despite concerns over superbug resistance",
-    "link": "https://www.statnews.com/pharmalot/2026/09/28/merck-discontinues-antibiotic-recarbrio-in-u-s-despite-superbug-concerns/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-28T20:45:43.000Z",
-    "summary": "Merck discontinued Recarbio, an important antibiotic in the U.S., despite concerns over resistance to superbugs."
-  },
-  {
-    "title": "Trump administration asks Supreme Court to allow transgender medical care restrictions in prison",
-    "link": "https://www.statnews.com/2026/09/28/trump-administration-supreme-court-transgender-medical-care-restrictions-prison/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-28T17:55:51.000Z",
-    "summary": "The Trump administration asked the Supreme Court on Monday to let it enforce, for now, restrictions on gender-affirming care in federal prison."
   },
   {
     "title": "Kodiak skyrockets on positive study data for 2 eye drugs",
@@ -248,14 +264,6 @@
     "summary": "Data from an early trial showed the company’s “gamma delta” cell therapy surpassed benchmarks set by personalized CAR-T treatments tested in lupus."
   },
   {
-    "title": "STAT+: It really is bleak out there, and list prices matter",
-    "link": "https://www.statnews.com/2026/09/28/health-insurance-premiums-soar-2027-quorum-health-nonprofit-conversion/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-28T14:55:21.000Z",
-    "summary": "Health insurance premiums are skyrocketing, private equity hospital chain goes nonprofit, and more from STAT's Health Care Inc."
-  },
-  {
     "title": "Merck, Daiichi end plans to seek speedy approval of lung cancer ADC",
     "link": "https://www.biopharmadive.com/news/merck-daiichi-fda-withdraw-ifinatamab-deruxtecan-sclc/831440/",
     "source": "BioPharma Dive",
@@ -264,20 +272,20 @@
     "summary": "The FDA indicated that the data generated so far wouldn’t support an accelerated clearance of “I-DXd,” a setback that erases an edge Merck and Daiichi had over multiple fast-moving competitors."
   },
   {
-    "title": "Kids shouldn’t have to organize childhood around medicine",
-    "link": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-28T09:00:00.000Z",
-    "summary": "Fewer shots, no hour-long pharmacy runs: two families show what medicine built for real life means."
-  },
-  {
     "title": "Breakthrough therapies still need builders",
     "link": "https://www.biopharmadive.com/spons/breakthrough-therapies-still-need-builders/831034/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-28T09:00:00.000Z",
     "summary": "The next biopharma advantage will come from the talent and systems that turn discovery into scale."
+  },
+  {
+    "title": "Kids shouldn’t have to organize childhood around medicine",
+    "link": "https://www.biopharmadive.com/spons/kids-shouldnt-have-to-organize-childhood-around-medicine/831365/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-28T09:00:00.000Z",
+    "summary": "Fewer shots, no hour-long pharmacy runs: two families show what medicine built for real life means."
   },
   {
     "title": "Drug conjugate allows cell surface payload release",
