@@ -1,5 +1,77 @@
 [
   {
+    "title": "Trump administration appeals ruling blocking limits on international student visas",
+    "link": "https://www.statnews.com/2026/10/01/health-news-trump-administration-appeals-ruling-blocking-student-visa-limits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T11:50:22.000Z",
+    "summary": "DHS has appealed a court ruling blocking it from restricting how long international students and postdoctoral researchers can remain in the U.S."
+  },
+  {
+    "title": "STAT+: Invivyd’s pursuit of a Covid vaccine alternative gets a lift, but an FDA hurdle may await",
+    "link": "https://www.statnews.com/2026/10/01/invivyds-covid-antibody-development/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T10:30:00.000Z",
+    "summary": "The small biotech company Invivyd is developing an injectable, low-dose monoclonal antibody to protect against Covid."
+  },
+  {
+    "title": "STAT+: Why a Huntington’s patient isn’t fazed by the waning effect of UniQure’s gene therapy",
+    "link": "https://www.statnews.com/2026/10/01/huntingtons-disease-uniqure-drug-study-results-patients/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T10:30:00.000Z",
+    "summary": "Questions about the durability of an experimental Huntington's disease therapy matter to Wall Street. They matter less to those directly affected by the disease."
+  },
+  {
+    "title": "STAT+: In Shanghai’s ‘Science City,’ China’s ascendant biotechs make their pitch to the world",
+    "link": "https://www.statnews.com/2026/10/01/china-biotech-boom-jefferies-conference-shanghai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T08:30:00.000Z",
+    "summary": "A small conference with big ambitions mirrors the rapid growth of Chinese biotech, invites comparisons to U.S. biotech gathering also known for deal-making."
+  },
+  {
+    "title": "STAT+: Can a top Republican from a bygone political era fix pharma’s woes in Washington?",
+    "link": "https://www.statnews.com/2026/10/01/eric-cantor-phrma-populist-drug-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T08:30:00.000Z",
+    "summary": "In Washington, Eric Cantor will confront bipartisan backlash over rising health care costs."
+  },
+  {
+    "title": "STAT+: Two key Senate health committees face major shake-ups",
+    "link": "https://www.statnews.com/2026/10/01/midterm-election-health-care-policy-impact-senate-republican-turnover/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T08:30:00.000Z",
+    "summary": "Senate committees that handle important health care matters are about to see major GOP turnover. Here's what that means."
+  },
+  {
+    "title": "Opinion: I studied GLP-1 use in children. The results are reassuring",
+    "link": "https://www.statnews.com/2026/10/01/glp-1-weight-loss-drugs-children-research-obesity-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T08:30:00.000Z",
+    "summary": "“Intervening in childhood could save children from decades of irreversible damage,” a transplant surgeon writes of GLP-1 weight loss drugs."
+  },
+  {
+    "title": "Opinion: Claude analyzed my genome in 30 minutes. Now we need standards for the results",
+    "link": "https://www.statnews.com/2026/10/01/claude-ai-genome-analysis-standards-ethics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T08:30:00.000Z",
+    "summary": "In 2009, analyzing Euan Ashley’s whole genome took 30 people and almost a year. In 2026, he writes, Claude did it in 30 minutes for about $5."
+  },
+  {
+    "title": "STAT+: Sanofi, Regeneron expand partnership after Dupixent success",
+    "link": "https://www.statnews.com/2026/10/01/sanofi-regeneron-agreement-dupixent-antibodies-immunology/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-01T06:16:27.000Z",
+    "summary": "Sanofi and Regeneron have re-upped their collaboration pact, aiming to build on the blockbuster success of the drug Dupixent."
+  },
+  {
     "title": "STAT+: Trump’s watered-down Medicare drug pricing rule saves 96% less than initial proposal",
     "link": "https://www.statnews.com/2026/09/30/trump-final-globe-rule-will-save-medicare-much-less-money-on-drugs/?utm_campaign=rss",
     "source": "STAT News",
@@ -120,36 +192,12 @@
     "summary": "“The surest way to secure our biotech lead is to build up our own capabilities,” write Gary Locke and Patrick McHenry."
   },
   {
-    "title": "Kratom and 7-OH should be regulated, experts agree. They’re split on how",
-    "link": "https://www.statnews.com/2026/09/30/dea-proposal-7-oh-kratom-schedule-1-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-30T08:30:00.000Z",
-    "summary": "Kratom has skirted regulation for decades, but newer, highly concentrated 7-OH products have renewed interest in safeguards."
-  },
-  {
-    "title": "Opinion: STAT+: What to think about those mice with half-human brains",
-    "link": "https://www.statnews.com/2026/09/30/xeno-mice-human-brains-cortex-research-ethics/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-30T08:30:00.000Z",
-    "summary": "New research involving giving mice a human cell-based cortex brings to mind “Flowers for Algernon” and “Pinky and the Brain,” writes STAT Lab Dish columnist Paul Knoepfler."
-  },
-  {
     "title": "Soft drugs: design principles and topical applications",
     "link": "https://www.nature.com/articles/s41573-026-01535-y",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-09-30T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
-    "link": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T22:46:45.000Z",
-    "summary": "Federal officials and health care executives rubbed elbows at the ritzy MAHA Summit, causing some supporters to question what MAHA has become."
   },
   {
     "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
@@ -160,44 +208,12 @@
     "summary": "The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33, and Vicky…"
   },
   {
-    "title": "STAT+: Lawmakers urge Trump to rethink new rule that could restrict imported meds from Canada and overseas",
-    "link": "https://www.statnews.com/pharmalot/2026/09/29/lawmakers-urge-trump-rethink-new-rule-that-could-restrict-imported-medicines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T20:41:40.000Z",
-    "summary": "Some lawmakers are urging the Trump administration to rethink a pending rule that may prevent Americans from obtaining medicines from licensed international pharmacies."
-  },
-  {
     "title": "Beam sues 2 biotechs, alleging theft of base editing trade secrets",
     "link": "https://www.biopharmadive.com/news/beam-serapha-yoltech-base-editing-lawsuit/831663/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-09-29T18:34:00.000Z",
     "summary": "Beam claimed a former scientist stole confidential information and quietly spun up a rival rare disease treatment at YolTech Therapeutics. Serapha Bio, which licensed that therapy, denies the charges."
-  },
-  {
-    "title": "STAT+: PhRMA taps Eric Cantor as new CEO",
-    "link": "https://www.statnews.com/2026/09/29/eric-cantor-named-phrma-ceo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T17:56:29.000Z",
-    "summary": "Eric Cantor, a former GOP House majority leader, is taking the helm of PhRMA at a challenging time for the industry."
-  },
-  {
-    "title": "STAT+: Beam Therapeutics sues Chinese biotech, VC-backed startup, alleging theft of intellectual property",
-    "link": "https://www.statnews.com/2026/09/29/beam-therapeutics-yoltech-serapha-gene-editing-lawsuit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T17:54:41.000Z",
-    "summary": "The gene-editing company Beam Therapeutics is alleging that one of its scientists stole intellectual property and used it to co-found a Chinese company that made a deal with VC firms."
-  },
-  {
-    "title": "STAT+: Overton won’t get a vote before midterms",
-    "link": "https://www.statnews.com/2026/09/29/heidi-overton-fda-commissioner-vote-midterms-health-care-policy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T16:14:43.000Z",
-    "summary": "Health department nominees await Senate votes, and we map out what the elections mean for healthy policy."
   },
   {
     "title": "Novo to pay Hengrui up to $2.6B for a once-weekly obesity pill",
@@ -214,22 +230,6 @@
     "category": "industry",
     "date": "2026-09-29T15:36:00.000Z",
     "summary": "Analysts guessed that investors wanted to see stronger durability results at a four-year check-in of the key trial supporting a potential approval of \"AMT-130.\""
-  },
-  {
-    "title": "STAT+: Anthropic joins ARPA-H clinical AI moonshot, will hold closed-door health care event",
-    "link": "https://www.statnews.com/2026/09/29/anthropic-joins-arpa-h-clinical-ai-moonshot-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T14:32:24.000Z",
-    "summary": "In this edition of STAT Health Tech: Oura delays IPO plans, Anthropic joins an clinical AI effort by ARPA-H, and MAHA's health data goals."
-  },
-  {
-    "title": "STAT+: AstraZeneca invests $2 billion in Summit Therapeutics",
-    "link": "https://www.statnews.com/2026/09/29/biotech-news-astrazeneca-invests-2-billion-in-summit-therapeautics/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T13:52:51.000Z",
-    "summary": "AstraZeneca is teaming up with Summit Therapeutics to test its PD-1/VEGF bispecific ivonescimab alongside AstraZeneca’s antibody-drug conjugates."
   },
   {
     "title": "ai3Bio, built from two biotechs, pursues a different path to an ‘immune reset’",
