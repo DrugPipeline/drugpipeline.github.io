@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: Trump’s watered-down Medicare drug pricing rule saves 96% less than initial proposal",
+    "link": "https://www.statnews.com/2026/09/30/trump-final-globe-rule-will-save-medicare-much-less-money-on-drugs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-30T23:15:09.000Z",
+    "summary": "WASHINGTON — The Trump administration published a final rule aimed at lowering Medicare prices for drugs administered in doctor offices. It applies to only four companies. The Global Benchmark for…"
+  },
+  {
+    "title": "STAT+: UnitedHealth investor lawsuit moves forward on allegations it ‘manufactured earnings’ to hide declining profits",
+    "link": "https://www.statnews.com/2026/09/30/unitedhealth-investor-lawsuit-moves-forward-allegations-of-manufactured-earnings-to-hide-declining-profits/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-09-30T22:40:54.000Z",
+    "summary": "An investor lawsuit against UnitedHealth Group will move forward after a federal judge declined the company’s motion to dismiss allegations."
+  },
+  {
     "title": "STAT+: HHS announces new efforts to speed up, expand clinical trials with AI",
     "link": "https://www.statnews.com/2026/09/30/hhs-arpa-h-clinical-trials-artificial-intelligence-surpass-program/?utm_campaign=rss",
     "source": "STAT News",
@@ -120,6 +136,14 @@
     "summary": "New research involving giving mice a human cell-based cortex brings to mind “Flowers for Algernon” and “Pinky and the Brain,” writes STAT Lab Dish columnist Paul Knoepfler."
   },
   {
+    "title": "Soft drugs: design principles and topical applications",
+    "link": "https://www.nature.com/articles/s41573-026-01535-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-30T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
     "link": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,14 +232,6 @@
     "summary": "AstraZeneca is teaming up with Summit Therapeutics to test its PD-1/VEGF bispecific ivonescimab alongside AstraZeneca’s antibody-drug conjugates."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about Novo licensing a Chinese obesity pill, Merck pulling an antibiotic, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/09/29/novo-licenses-obesity-pill-from-china-merck-pulls-antibiotic/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T13:25:06.000Z",
-    "summary": "Novo has agreed to pay up to $2.6 billion to license an experimental, weekly weight loss pill from China’s Hengrui Pharma"
-  },
-  {
     "title": "ai3Bio, built from two biotechs, pursues a different path to an ‘immune reset’",
     "link": "https://www.biopharmadive.com/news/ai3bio-th17-drugs-immune-reset-launch-series-a/831521/",
     "source": "BioPharma Dive",
@@ -232,12 +248,20 @@
     "summary": "The equity investment comes alongside a deal to test Summit’s ivonescimab alongside potentially many AstraZeneca drugs — but doesn’t hand the pharmaceutical company any ownership rights."
   },
   {
-    "title": "Researchers slow neurodegeneration in mice by barring T cells from the brain",
-    "link": "https://www.statnews.com/2026/09/29/health-news-researchers-slow-neurodegeneration-in-mice-t-cells/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-09-29T12:02:41.000Z",
-    "summary": "A new study in mice led by Washington University in St. Louis researchers suggests that stopping certain immune cells from entering the brain could limit neurodegeneration."
+    "title": "Psychedelic protects against chemotherapy-induced nerve damage",
+    "link": "https://www.nature.com/articles/d41573-026-00158-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-29T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The cellular landscape of druggable RNA-binding proteins",
+    "link": "https://www.nature.com/articles/s41573-026-01531-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-29T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Approves First Treatment for MCT8 Deficiency",
@@ -270,5 +294,21 @@
     "category": "industry",
     "date": "2026-09-28T15:52:00.000Z",
     "summary": "Data from an early trial showed the company’s “gamma delta” cell therapy surpassed benchmarks set by personalized CAR-T treatments tested in lupus."
+  },
+  {
+    "title": "Drug conjugate allows cell surface payload release",
+    "link": "https://www.nature.com/articles/d41573-026-00157-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "From <i>N</i>-of-1 therapy to health-system implementation",
+    "link": "https://www.nature.com/articles/s41573-026-01538-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-09-25T00:00:00.000Z",
+    "summary": ""
   }
 ]
