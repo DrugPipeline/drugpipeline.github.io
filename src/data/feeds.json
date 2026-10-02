@@ -1,5 +1,13 @@
 [
   {
+    "title": "NIH rolling out streamlined website to help public find information more easily",
+    "link": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-02T19:59:07.000Z",
+    "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure"
+  },
+  {
     "title": "What it’s like to wait for the call from the Nobel Prize committee",
     "link": "https://www.statnews.com/2026/10/02/nobel-prize-2026-geneticist-mary-claire-king-long-waiting-not-getting-winner-call/?utm_campaign=rss",
     "source": "STAT News",
@@ -30,14 +38,6 @@
     "category": "industry",
     "date": "2026-10-02T14:25:00.000Z",
     "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history."
-  },
-  {
-    "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
-    "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-02T14:16:54.000Z",
-    "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203."
   },
   {
     "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
@@ -224,14 +224,6 @@
     "summary": "DHS has appealed a court ruling blocking it from restricting how long international students and postdoctoral researchers can remain in the U.S."
   },
   {
-    "title": "STAT+: Invivyd’s pursuit of a Covid vaccine alternative gets a lift, but an FDA hurdle may await",
-    "link": "https://www.statnews.com/2026/10/01/invivyds-covid-antibody-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T10:30:00.000Z",
-    "summary": "The small biotech company Invivyd is developing an injectable, low-dose monoclonal antibody to protect against Covid."
-  },
-  {
     "title": "Bristol Myers trial revisions shake confidence in new class of fibrosis drugs",
     "link": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
     "source": "BioPharma Dive",
@@ -246,6 +238,14 @@
     "category": "industry",
     "date": "2026-09-30T15:54:00.000Z",
     "summary": "The FDA previously hadn’t ever accepted an application of a drug like fenebrutinib in two major forms of MS. But safety questions still hang over Roche’s program."
+  },
+  {
+    "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
+    "link": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-09-30T14:18:00.000Z",
+    "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie."
   },
   {
     "title": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
