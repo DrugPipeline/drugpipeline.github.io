@@ -40,6 +40,14 @@
     "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history."
   },
   {
+    "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
+    "link": "https://www.biopharmadive.com/news/novartis-abogen-pipeline-collaboration-china/832008/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-02T14:16:54.000Z",
+    "summary": "In exchange for a $575 million payment up front, Abogen Biosciences will furnish Novartis with access to its RNA technology, including an option to license its lead program ABO-2203."
+  },
+  {
     "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
     "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
     "source": "STAT News",
@@ -240,14 +248,6 @@
     "summary": "The FDA previously hadn’t ever accepted an application of a drug like fenebrutinib in two major forms of MS. But safety questions still hang over Roche’s program."
   },
   {
-    "title": "PhRMA names next CEO; Pierre Fabre takes third swing at Ebvallo approval",
-    "link": "https://www.biopharmadive.com/news/phrma-cantor-ebvallo-fda-mirum-bluejay-abbvie-juvmo/831450/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-30T14:18:00.000Z",
-    "summary": "A former congressman will take over for prominent lobbyist Steve Ubl. Elsewhere, recent buyout deals paid dividends for Mirum and AbbVie."
-  },
-  {
     "title": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees",
     "source": "FDA Press Releases",
@@ -256,36 +256,12 @@
     "summary": "The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent…"
   },
   {
-    "title": "Soft drugs: design principles and topical applications",
-    "link": "https://www.nature.com/articles/s41573-026-01535-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-30T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-09-29T21:01:07.000Z",
     "summary": "The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33, and Vicky…"
-  },
-  {
-    "title": "Psychedelic protects against chemotherapy-induced nerve damage",
-    "link": "https://www.nature.com/articles/d41573-026-00158-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The cellular landscape of druggable RNA-binding proteins",
-    "link": "https://www.nature.com/articles/s41573-026-01531-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-29T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Approves First Treatment for MCT8 Deficiency",
@@ -302,13 +278,5 @@
     "category": "regulatory",
     "date": "2026-09-28T21:00:01.000Z",
     "summary": "FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S.…"
-  },
-  {
-    "title": "Drug conjugate allows cell surface payload release",
-    "link": "https://www.nature.com/articles/d41573-026-00157-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-28T00:00:00.000Z",
-    "summary": ""
   }
 ]
