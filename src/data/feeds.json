@@ -1,5 +1,93 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about a Vaxcyte pneumococcal shot, increasing pharma M&A, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T13:10:03.000Z",
+    "summary": "Vaxcyte said its pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up a competition with Pfizer and Merck"
+  },
+  {
+    "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
+    "link": "https://www.statnews.com/2026/10/05/vaxcyte-pneumococcal-vaccine-study-pfizer-merck/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T12:19:11.000Z",
+    "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merck."
+  },
+  {
+    "title": "Could we one day vaccinate against every cancer?",
+    "link": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T12:00:51.000Z",
+    "summary": "What science says so far about which cancers can be beat by vaccines — and which will require more creative approaches."
+  },
+  {
+    "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
+    "link": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T10:00:11.000Z",
+    "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning light-gated ion channels and…"
+  },
+  {
+    "title": "Precision for All: Closing the gap between innovation and impact",
+    "link": "https://www.biopharmadive.com/spons/precision-for-all-closing-the-gap-between-innovation-and-impact/831229/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-05T09:00:00.000Z",
+    "summary": "Why diagnostic-driven therapies need a new commercialization model to reach more eligible patients."
+  },
+  {
+    "title": "How AI is transforming biopharma manufacturing facilities of the future",
+    "link": "https://www.biopharmadive.com/spons/how-ai-is-transforming-biopharma-manufacturing-facilities-of-the-future/831222/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-05T09:00:00.000Z",
+    "summary": "As AI accelerates drug discovery, here are the ways pharmaceutical manufacturing facilities are adapting."
+  },
+  {
+    "title": "STAT+: Are stem cells the next peptides? These advocates think RFK Jr. could make it happen",
+    "link": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T08:30:00.000Z",
+    "summary": "Peptides gained legitimacy at the FDA after being embraced by MAHA. Advocates hope stem cell treatments will follow the same path."
+  },
+  {
+    "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
+    "link": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T08:30:00.000Z",
+    "summary": "“Are we entering a world in which some (or all) Nobels will be awarded to Claude, ChatGPT, or their AI successors, rather than human scientists?” asks Jeffrey Flier."
+  },
+  {
+    "title": "STAT+: Divergent trial results on cancer vaccines have the field grappling with hard questions",
+    "link": "https://www.statnews.com/2026/10/05/cancer-vaccines-mrna-clinical-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T08:30:00.000Z",
+    "summary": "A melanoma vaccine succeeded in a late-stage clinical trial. The question now is whether other cancer vaccines will work — and whether mRNA is up to the task."
+  },
+  {
+    "title": "STAT+: Hospital and pharmaceutical prices are smothering America’s businesses",
+    "link": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T08:30:00.000Z",
+    "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices."
+  },
+  {
+    "title": "Opinion: Energy drinks’ new college sports partnerships make them more dangerous than ever",
+    "link": "https://www.statnews.com/2026/10/05/energy-drinks-public-health-college-sports-partnerships-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-05T08:30:00.000Z",
+    "summary": "“In the absence of population-based evidence, the energy drink cabal is having an easy time of it,” writes Kent Sepkowitz."
+  },
+  {
     "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
     "link": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
     "source": "STAT News",
@@ -104,22 +192,6 @@
     "summary": "The law has to catch up on the 340B drug discount program, writes a pharmacist."
   },
   {
-    "title": "Opinion: I treated heat stroke at the NYC Marathon. Marathons need to prepare for a climate-changed world",
-    "link": "https://www.statnews.com/2026/10/02/marathons-climate-change-extreme-heat-medical-planning/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-02T08:30:00.000Z",
-    "summary": "A doctor’s request to marathons: Let’s make evidence-based medical plans — especially for extreme heat."
-  },
-  {
-    "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
-    "link": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T21:14:01.000Z",
-    "summary": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients."
-  },
-  {
     "title": "FDA Approves First Heart Valve Designed to Grow with Children",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
     "source": "FDA Press Releases",
@@ -128,36 +200,12 @@
     "summary": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease."
   },
   {
-    "title": "Top journal’s special issue on women’s health casts spotlight on menopause and pain",
-    "link": "https://www.statnews.com/2026/10/01/womens-health-issues-academic-journal-science-special-edition/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T18:00:00.000Z",
-    "summary": "\"Highlighting a ton of open questions\": Top journal's special issue on women's health examines the latest discoveries on chronic pain and menopause."
-  },
-  {
-    "title": "Mistrust in science and a juicy gene-editing lawsuit",
-    "link": "https://www.statnews.com/2026/10/01/readout-loud-podcast-trust-in-science-gene-editing-lawsuit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T16:31:11.000Z",
-    "summary": "Why have so many Americans lost trust in science? And what's the deal with a new gene-editing lawsuit? Find out on this week's episode of \"The Readout LOUD\" podcast."
-  },
-  {
     "title": "3 takeaways from a European obesity scientific meeting",
     "link": "https://www.biopharmadive.com/news/3-takeaways-from-european-obesity-scientific-meeting/831870/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-01T16:16:00.000Z",
     "summary": "Eli Lilly impressed with its amylin-Zepbound combination data. Elsewhere, Novo demonstrated continued weight loss following a switch to oral and AbbVie and Boehringer gave glimpses into their…"
-  },
-  {
-    "title": "As CDC redesigns annual health survey, it removes questions about disabilities",
-    "link": "https://www.statnews.com/2026/10/01/cdc-health-survey-redesign-removes-questions-about-disabilities/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T16:15:16.000Z",
-    "summary": "Proposed changes to the federal government’s health survey would undercount Americans with disabilities, advocates say."
   },
   {
     "title": "Lilly, Foghorn part ways; Wave’s FDA-approved plans",
@@ -176,14 +224,6 @@
     "summary": "The deal carries a $1 billion upfront payment and tasks the two companies to develop long-acting antibody drugs that go after the same targets as their blockbuster anti-inflammation agent."
   },
   {
-    "title": "STAT+: A journey to witness China’s biotech boom up close",
-    "link": "https://www.statnews.com/2026/10/01/biotech-news-journey-to-witness-chinas-biotech-boom-up-close/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T15:22:13.000Z",
-    "summary": "Chinese-designed drugs now account for roughly half the global pipeline. STAT's Jason Mast traveled to Shanghai to get an up-close look at the competition that's making American's nervous."
-  },
-  {
     "title": "HHS kicks off new programs to speed clinical trials as Chinese competition looms",
     "link": "https://www.biopharmadive.com/news/hhs-clinical-trial-speed-arpa-h-drug-testing/831909/",
     "source": "BioPharma Dive",
@@ -200,52 +240,12 @@
     "summary": "Detailed results are competitive with Dupixent and Ebglyss, but the drug lacks differentiation amid an increasingly competitive landscape, one analyst argued."
   },
   {
-    "title": "STAT+: MAHA goes corporate",
-    "link": "https://www.statnews.com/2026/10/01/maha-goes-corporate-trump-waters-down-medicare-drug-pricing-model/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T14:47:01.000Z",
-    "summary": "Health care companies dominate the MAHA Summit, and a look at Trump's watered down effort to lower Medicare drug prices."
-  },
-  {
-    "title": "STAT+: A major insurer on how it may replicate Medicare’s chronic-care experiment",
-    "link": "https://www.statnews.com/2026/10/01/major-insurer-on-medicare-access-model-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T14:02:51.000Z",
-    "summary": "In this edition of STAT Health Tech: A California insurer on how it may replicate Medicare's tech-enabled chronic-care experiment."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a plan to lower Medicare drug prices, a Lilly obesity drug, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/01/trump-plan-to-lower-medicare-drug-prices-lilly-obesity-drug/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-01T13:26:58.000Z",
-    "summary": "A final Medicare rule aimed at lowering prices for doctor-administered drugs applies to only four companies and saves 96% less than the initial proposal"
-  },
-  {
     "title": "5 FDA decisions to watch in the fourth quarter of 2026",
     "link": "https://www.biopharmadive.com/news/fda-approval-decisions-watch-2026/808684/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-01T13:04:00.000Z",
     "summary": "The next three months will feature anticipated decisions on a new kind of cancer immunotherapy, as well as medicines important to the futures of Roche, GSK and Gilead."
-  },
-  {
-    "title": "Bristol Myers trial revisions shake confidence in new class of fibrosis drugs",
-    "link": "https://www.biopharmadive.com/news/bristol-admilparant-fibrosis-aloft-study-amendment-lpa1r-contineum/831763/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-30T16:22:00.000Z",
-    "summary": "A spokesperson confirmed that a “limited number” of liver-related safety events, including a patient death, were observed in testing of Bristol Myers’ admilparant — though it’s unclear whether the…"
-  },
-  {
-    "title": "FDA starts review of Roche’s multiple sclerosis pill",
-    "link": "https://www.biopharmadive.com/news/roche-fenebrutinib-ms-fda-accept-application-btk/831746/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-09-30T15:54:00.000Z",
-    "summary": "The FDA previously hadn’t ever accepted an application of a drug like fenebrutinib in two major forms of MS. But safety questions still hang over Roche’s program."
   },
   {
     "title": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
@@ -256,36 +256,12 @@
     "summary": "The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent…"
   },
   {
-    "title": "Soft drugs: design principles and topical applications",
-    "link": "https://www.nature.com/articles/s41573-026-01535-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-30T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-09-29T21:01:07.000Z",
     "summary": "The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33, and Vicky…"
-  },
-  {
-    "title": "Psychedelic protects against chemotherapy-induced nerve damage",
-    "link": "https://www.nature.com/articles/d41573-026-00158-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The cellular landscape of druggable RNA-binding proteins",
-    "link": "https://www.nature.com/articles/s41573-026-01531-2",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-29T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Approves First Treatment for MCT8 Deficiency",
