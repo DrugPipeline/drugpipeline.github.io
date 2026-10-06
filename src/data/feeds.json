@@ -1,5 +1,61 @@
 [
   {
+    "title": "The top biopharma conferences in 2027",
+    "link": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-06T12:00:00.000Z",
+    "summary": "Medical meetings often feature important clinical trial results, making them barometers of biotech and pharma companies’ research progress. Here’s a list of conferences to watch for in 2027."
+  },
+  {
+    "title": "Deciding when to get your flu shot? Consider these factors",
+    "link": "https://www.statnews.com/2026/10/06/health-news-consider-these-factors-to-decide-when-to-get-flu-shot/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-06T11:36:10.000Z",
+    "summary": "When’s the best time to be vaccinated? Here are some thoughts that may help you make your decision."
+  },
+  {
+    "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
+    "link": "https://www.biopharmadive.com/news/ge-healthcare-acquire-sofie-biosciences-radiopharmaceuticals/832182/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-06T10:38:00.000Z",
+    "summary": "The purchase expands GE HealthCare’s radiopharmaceutical capabilities, helping manufacture and distribute time-sensitive drugs used in PET imaging."
+  },
+  {
+    "title": "In this hospital, pulse oximeters went from overestimating to underestimating blood oxygen. Why?",
+    "link": "https://www.statnews.com/2026/10/06/pulse-oximeters-overestimate-and-underestimate-blood-oxygen-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-06T08:30:00.000Z",
+    "summary": "Researchers found pulse oximeters went from overestimating blood oxygen levels to underestimating them; inaccuracies were worse in patients of color."
+  },
+  {
+    "title": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
+    "link": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-06T08:30:00.000Z",
+    "summary": "“We can document honestly and still wind up inflating hospital bills,” writes a frustrated doctor."
+  },
+  {
+    "title": "Opinion: Why the FDA should not approve an ineffective multicancer screening test",
+    "link": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-06T08:30:00.000Z",
+    "summary": "“Telling more people they have cancer is not progress; progress is having fewer people die from cancer,” H. Gilbert Welch writes of Grail’s multicancer screening test."
+  },
+  {
+    "title": "STAT+: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals",
+    "link": "https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-06T08:30:00.000Z",
+    "summary": "Longevity clinics promise personalized health advice and cutting-edge tests. Now major hospitals are entering the business, at costs reaching $45,000 a year."
+  },
+  {
     "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
     "link": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
     "source": "STAT News",
@@ -48,7 +104,7 @@
     "summary": "The acquisition of Texas-based IntraBio adds to a growing rare disease business for Shionogi by handing the company a marketed treatment for two inherited conditions."
   },
   {
-    "title": "Optogenics researchers win a Nobel Prize; Roche bets on Alector brain drug",
+    "title": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug",
     "link": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
     "source": "BioPharma Dive",
     "category": "industry",
@@ -168,76 +224,12 @@
     "summary": "“In the absence of population-based evidence, the energy drink cabal is having an easy time of it,” writes Kent Sepkowitz."
   },
   {
-    "title": "Gene therapy for rare lysosomal storage disorder nabs FDA approval",
-    "link": "https://www.nature.com/articles/d41573-026-00160-z",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-05T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Probing the many benefits of GLP-1 receptor agonists",
-    "link": "https://www.nature.com/articles/d41573-026-00161-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-05T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "COPD trial wins spur broad respiratory hopes",
-    "link": "https://www.nature.com/articles/d41573-026-00162-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-05T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
-    "link": "https://www.statnews.com/2026/10/04/trump-announces-90-dollar-payments-for-medicare-premiums/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-04T16:58:12.000Z",
-    "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums"
-  },
-  {
-    "title": "NIH rolling out streamlined website to help public find information more easily",
-    "link": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-02T19:59:07.000Z",
-    "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure"
-  },
-  {
-    "title": "What it’s like to wait for the call from the Nobel Prize committee",
-    "link": "https://www.statnews.com/2026/10/02/nobel-prize-2026-geneticist-mary-claire-king-long-waiting-not-getting-winner-call/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-02T16:07:11.000Z",
-    "summary": "Ahead of this year's Nobel Prize announcements, STAT chatted with Mary-Claire King, who discovered the BRCA cancer mutations and is frequently mentioned in prize predictions."
-  },
-  {
-    "title": "Access to addiction meds for young people has improved — but retention hasn’t",
-    "link": "https://www.statnews.com/2026/10/02/youth-opioid-treatment-retention-study-barriers-to-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-02T15:00:00.000Z",
-    "summary": "Only a small fraction of young people with opioid use disorder receive addiction medications, and few stay on them for long, a study finds."
-  },
-  {
     "title": "This week in charts: Kodiak’s big comeback and Hengrui’s dealmaking",
     "link": "https://www.biopharmadive.com/news/week-in-charts-kodiaks-big-comeback-and-hengruis-dealmaking/831690/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-02T15:00:00.000Z",
     "summary": "The latest installment in BioPharma Dive’s data visualization series features a closer look at Kodiak’s stock performance and Hengrui's ties with U.S. and European drugmakers."
-  },
-  {
-    "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
-    "link": "https://www.statnews.com/2026/10/02/ebola-outbreak-congo-4000-deaths/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-02T14:25:00.000Z",
-    "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in history."
   },
   {
     "title": "Novartis wagers almost $8B on a Chinese biotech’s RNA drugs",
@@ -264,36 +256,12 @@
     "summary": "Eli Lilly impressed with its amylin-Zepbound combination data. Elsewhere, Novo demonstrated continued weight loss following a switch to oral and AbbVie and Boehringer gave glimpses into their…"
   },
   {
-    "title": "Lilly, Foghorn part ways; Wave’s FDA-approved plans",
-    "link": "https://www.biopharmadive.com/news/foghorn-eli-lilly-wave-samsung-bioepis-teva-varda-hatteras/831918/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-01T16:04:53.000Z",
-    "summary": "The pharma giant cut its partnership after a cancer drug disappointed in testing. Elsewhere, Teva and Samsung Bioepis expanded a partnership and space biotech Varda brought in $251 million."
-  },
-  {
-    "title": "Sanofi, Regeneron broaden alliance to find their next Dupixent",
-    "link": "https://www.biopharmadive.com/news/sanofi-regeneron-alliance-expanded-dupixent-immunology-drugs-development/831894/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-01T15:38:00.000Z",
-    "summary": "The deal carries a $1 billion upfront payment and tasks the two companies to develop long-acting antibody drugs that go after the same targets as their blockbuster anti-inflammation agent."
-  },
-  {
     "title": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-09-30T13:26:33.000Z",
     "summary": "The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent…"
-  },
-  {
-    "title": "Soft drugs: design principles and topical applications",
-    "link": "https://www.nature.com/articles/s41573-026-01535-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-30T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
