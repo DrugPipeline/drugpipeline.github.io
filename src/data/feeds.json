@@ -1,5 +1,77 @@
 [
   {
+    "title": "STAT+: In small trial, optogenetics restores some vision lost to retinitis pigmentosa",
+    "link": "https://www.statnews.com/2026/10/07/optogenetics-restores-some-vision-retinitis-pigmentosa/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T21:00:00.000Z",
+    "summary": "About half of the patients in a study regained photosensitivity in their vision, showing the promise of optogenetics."
+  },
+  {
+    "title": "Trump administration proposes $70,000 fee for popular international student work program",
+    "link": "https://www.statnews.com/2026/10/07/trump-administration-proposes-fee-targeting-interational-students-optional-practical-training/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T19:41:16.000Z",
+    "summary": "The Trump administration has proposed a $70,000 fee for a popular work authorization program meant to give students professional experience"
+  },
+  {
+    "title": "STAT+: PhRMA sues over Trump policy mandating lower drug prices in Medicare",
+    "link": "https://www.statnews.com/2026/10/07/phrma-sues-over-drug-pricing-model-globe/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T16:58:32.000Z",
+    "summary": "The brand drug industry’s main trade group is suing the Trump administration over a pilot program tying Medicare drug prices to those in peer countries."
+  },
+  {
+    "title": "Caribou to halt CAR-T work, lay off staff amid ‘challenging’ funding climate",
+    "link": "https://www.biopharmadive.com/news/caribou-layoffs-strategic-alternatives-allogeneic-cell-therapy-vispacel/832343/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-07T15:37:00.000Z",
+    "summary": "Despite having an allogeneic cell therapy prospect that’s ready for late-stage testing in lymphoma, Caribou couldn’t secure funding to support the effort and will now pursue “strategic alternatives”…"
+  },
+  {
+    "title": "Halozyme prevails in patent fight with Merck; Enliven readies anticipated leukemia trial",
+    "link": "https://www.biopharmadive.com/news/halozyme-merck-europe-enliven-insmed-rougetx-kymathera/832282/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-07T15:21:00.000Z",
+    "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash."
+  },
+  {
+    "title": "STAT+: Merck suffers a setback in Europe over its new Keytruda formulation",
+    "link": "https://www.statnews.com/pharmalot/2026/10/07/merck-suffers-setback-in-europe-over-new-keytruda-formulation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T14:06:29.000Z",
+    "summary": "In a setback for Merck, a Dutch court ordered a halt to the manufacturing and marketing of a subcutaneous formulation of Keytruda in several European countries."
+  },
+  {
+    "title": "STAT+: Forbion raises $2.6 billion, its largest fundraise to date",
+    "link": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T13:42:22.000Z",
+    "summary": "Forbion, a prominent European venture capital firm, said it has raised $2.6 billion, its largest fundraise to date and one of the largest in the region in recent years."
+  },
+  {
+    "title": "STAT+: Why health AI pilots in Utah may be on a collision course with the FDA",
+    "link": "https://www.statnews.com/2026/10/07/utah-sandbox-health-ai-pilots-and-fda-regulations-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T13:38:52.000Z",
+    "summary": "In this edition of STAT's AIP Prognosis: Unresolved regulatory questions around Utah's AI sandbox, and more health AI news."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about WHO obesity guidelines for kids, DOJ targeting pharma, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/07/who-obesity-guidelines-for-kids-doj-targets-pharma/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T12:56:49.000Z",
+    "summary": "The World Health Organization released its first guidelines addressing the sharp rise in obesity among children and adolescents"
+  },
+  {
     "title": "STAT+: Justice Department targets drugmakers in new directive on combating white-collar fraud",
     "link": "https://www.statnews.com/pharmalot/2026/10/07/trump-administration-adds-pharma-to-list-priorities-combating-white-collar-fraud/?utm_campaign=rss",
     "source": "STAT News",
@@ -13,7 +85,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-07T12:01:00.000Z",
-    "summary": "Cerevance plans to meet with the FDA to “determine next steps” for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand."
+    "summary": "Cerevance plans to meet with the FDA to determine next steps for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand."
   },
   {
     "title": "ER visits from people born outside the U.S. dropped after ICE raids",
@@ -62,6 +134,14 @@
     "category": "industry",
     "date": "2026-10-07T08:30:00.000Z",
     "summary": "“I reject the idea that a man who keeps every prostate cancer surveillance appointment has ‘untreated cancer,’” writes Howard Wolinsky."
+  },
+  {
+    "title": "Molecular glue targets ALK resistance",
+    "link": "https://www.nature.com/articles/d41573-026-00163-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-07T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Next-generation immune cell engagers for B cell depletion in autoimmune diseases",
@@ -144,14 +224,6 @@
     "summary": "The Trump administration is advancing the first government-funded clinical trials of the psychedelic drug ibogaine to treat opioid addiction and PTSD"
   },
   {
-    "title": "The top biopharma conferences in 2027",
-    "link": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-06T12:00:00.000Z",
-    "summary": "Medical meetings often feature important clinical trial results, making them barometers of biotech and pharma companies’ research progress. Here’s a list of conferences to watch for in 2027."
-  },
-  {
     "title": "[Podcast] (Season 2) The Progress Profile: Alzheimer’s Research in Focus",
     "link": "https://www.biopharmadive.com/spons/podcast-season-2-the-progress-profile-alzheimers-research-in-focus/822189/",
     "source": "BioPharma Dive",
@@ -160,12 +232,12 @@
     "summary": "This podcast explores how leading Alzheimer’s experts are working to bridge the gap between clinical trial design and frontline care."
   },
   {
-    "title": "Deciding when to get your flu shot? Consider these factors",
-    "link": "https://www.statnews.com/2026/10/06/health-news-consider-these-factors-to-decide-when-to-get-flu-shot/?utm_campaign=rss",
-    "source": "STAT News",
+    "title": "The top biopharma conferences in 2027",
+    "link": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
+    "source": "BioPharma Dive",
     "category": "industry",
-    "date": "2026-10-06T11:36:10.000Z",
-    "summary": "When’s the best time to be vaccinated? Here are some thoughts that may help you make your decision."
+    "date": "2026-10-06T12:00:00.000Z",
+    "summary": "Medical meetings often feature important clinical trial results, making them barometers of biotech and pharma companies’ research progress. Here’s a list of conferences to watch for in 2027."
   },
   {
     "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
@@ -176,76 +248,12 @@
     "summary": "The purchase expands GE HealthCare’s radiopharmaceutical capabilities, helping manufacture and distribute time-sensitive drugs used in PET imaging."
   },
   {
-    "title": "In this hospital, pulse oximeters went from overestimating to underestimating blood oxygen. Why?",
-    "link": "https://www.statnews.com/2026/10/06/pulse-oximeters-overestimate-and-underestimate-blood-oxygen-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-06T08:30:00.000Z",
-    "summary": "Researchers found pulse oximeters went from overestimating blood oxygen levels to underestimating them; inaccuracies were worse in patients of color."
-  },
-  {
-    "title": "Opinion: I’m a doctor. Here’s what I want the public to know about AI tools and health care costs",
-    "link": "https://www.statnews.com/2026/10/06/ai-tools-health-care-costs-bcbs-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-06T08:30:00.000Z",
-    "summary": "“We can document honestly and still wind up inflating hospital bills,” writes a frustrated doctor."
-  },
-  {
-    "title": "Opinion: Why the FDA should not approve an ineffective multicancer screening test",
-    "link": "https://www.statnews.com/2026/10/06/grail-multi-cancer-screening-test-criticism/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-06T08:30:00.000Z",
-    "summary": "“Telling more people they have cancer is not progress; progress is having fewer people die from cancer,” H. Gilbert Welch writes of Grail’s multicancer screening test."
-  },
-  {
-    "title": "STAT+: Can you live longer for $5,500? Longevity clinics are the buzzy new trend at nonprofit hospitals",
-    "link": "https://www.statnews.com/2026/10/06/hospitals-longevity-clinics-healthy-aging-wellness-trend/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-06T08:30:00.000Z",
-    "summary": "Longevity clinics promise personalized health advice and cutting-edge tests. Now major hospitals are entering the business, at costs reaching $45,000 a year."
-  },
-  {
-    "title": "STAT+: Judges skewer HHS arguments in hearing over Medicare Advantage audits lawsuit",
-    "link": "https://www.statnews.com/2026/10/05/humana-medicare-advantage-radv-audits-lawsuit-hearing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T20:13:42.000Z",
-    "summary": "Federal judges pushed back against the government's arguments in a Medicare Advantage case."
-  },
-  {
-    "title": "STAT+: Nobel-winning optogenetics research has led to experimental treatments for blindness and Alzheimer’s",
-    "link": "https://www.statnews.com/2026/10/05/2026-nobel-prize-winning-optogenetics-research-explained/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T20:08:24.000Z",
-    "summary": "Optogenetics is now the foundational way through which we are able to understand how the brain works"
-  },
-  {
     "title": "Shionogi pays $2B to acquire a rare disease startup",
     "link": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-05T15:57:00.000Z",
     "summary": "The acquisition of Texas-based IntraBio adds to a growing rare disease business for Shionogi by handing the company a marketed treatment for two inherited conditions."
-  },
-  {
-    "title": "Optogenetics researchers win a Nobel Prize; Roche bets on Alector brain drug",
-    "link": "https://www.biopharmadive.com/news/nobel-optogenetics-roche-alector-csl-alentis-jaypirca-bayer/832083/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-05T13:57:00.000Z",
-    "summary": "The Nobel laureates “laid the foundation” for a new field of brain research, the award committee wrote. Elsewhere, Roche and CSL cut licensing deals and the FDA endorsed broader use of a Lilly…"
-  },
-  {
-    "title": "Vaxcyte skyrockets on ‘near best-case’ pneumococcal vaccine data",
-    "link": "https://www.biopharmadive.com/news/vaxcyte-pneumococcal-vaccine-opus-study-results-prevnar-capvaxive/832095/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-05T13:52:00.000Z",
-    "summary": "The company’s next-generation shot surpassed Wall Street’s expectations by matching the effectiveness of vaccines from Pfizer and Merck on nearly all bacterial strains in the first of three Phase 3…"
   },
   {
     "title": "FDA Seeks Public Input to Support Ibogaine Research",
@@ -286,13 +294,5 @@
     "category": "regulatory",
     "date": "2026-10-01T19:02:08.000Z",
     "summary": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease."
-  },
-  {
-    "title": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-09-30T13:26:33.000Z",
-    "summary": "The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent…"
   }
 ]
