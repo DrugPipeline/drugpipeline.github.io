@@ -1,5 +1,85 @@
 [
   {
+    "title": "STAT+: Justice Department targets drugmakers in new directive on combating white-collar fraud",
+    "link": "https://www.statnews.com/pharmalot/2026/10/07/trump-administration-adds-pharma-to-list-priorities-combating-white-collar-fraud/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T12:10:42.000Z",
+    "summary": "The Justice Department issued a new directive for combating fraud that noted the agency will pursue violations of a federal law that tightly regulates the pharmaceutical industry."
+  },
+  {
+    "title": "A Takeda spinout builds case for its Parkinson’s drug",
+    "link": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-07T12:01:00.000Z",
+    "summary": "Cerevance plans to meet with the FDA to “determine next steps” for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand."
+  },
+  {
+    "title": "ER visits from people born outside the U.S. dropped after ICE raids",
+    "link": "https://www.statnews.com/2026/10/07/health-news-er-visits-from-people-born-outside-the-u-s-dropped-after-ice-raids/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T11:50:41.000Z",
+    "summary": "A new study found that visits by people born outside of the U.S. to three LA emergency rooms dropped precipitously after ICE raids increased last year."
+  },
+  {
+    "title": "2026 Nobel Prize in chemistry awarded for ‘mirror image’ molecule research, with impact on pharmacology",
+    "link": "https://www.statnews.com/2026/10/07/nobel-prize-chemistry-henri-kagan-kenso-soai-2026-winner/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T10:42:28.000Z",
+    "summary": "Henri B. Kagan and Kenso Soai were awarded the 2026 Nobel Prize in chemistry on Wednesday for solving a mystery with research on \"mirror image\" molecules."
+  },
+  {
+    "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
+    "link": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T08:30:00.000Z",
+    "summary": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma."
+  },
+  {
+    "title": "STAT+: In Duchenne muscular dystrophy, a promising therapy is available to a fortunate few",
+    "link": "https://www.statnews.com/2026/10/07/muscular-dystrophy-exon-skipping-drugs-novartis-dyne/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T08:30:00.000Z",
+    "summary": "Exon-skipping drugs present a critical test for the FDA’s goal of encouraging treatments for rare disease."
+  },
+  {
+    "title": "STAT+: Democrats plot a midterms push for MAHA voters",
+    "link": "https://www.statnews.com/2026/10/07/democrats-focus-on-food-toxins-win-maha-voters-midterm-elections/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T08:30:00.000Z",
+    "summary": "Key Democrats are meeting with MAHA activists and rolling out food and environmental plans to entice them."
+  },
+  {
+    "title": "Opinion: My oncologist recommended active surveillance for prostate cancer. Life insurers called it ‘untreated cancer’",
+    "link": "https://www.statnews.com/2026/10/07/active-surveillance-prostate-cancer-life-insurance-policy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-07T08:30:00.000Z",
+    "summary": "“I reject the idea that a man who keeps every prostate cancer surveillance appointment has ‘untreated cancer,’” writes Howard Wolinsky."
+  },
+  {
+    "title": "Next-generation immune cell engagers for B cell depletion in autoimmune diseases",
+    "link": "https://www.nature.com/articles/s41573-026-01534-z",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-07T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Opinion: Infectious disease expert: The mysterious pneumonia in Russia deserves attention, not panic",
+    "link": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-06T23:41:30.000Z",
+    "summary": "Chill out about reports about plague in Siberia, writes infectious disease doctor Krutika Kuppalli."
+  },
+  {
     "title": "Forbion, a prominent biotech investor, raises $2.6B for a pair of venture funds",
     "link": "https://www.biopharmadive.com/news/forbion-venture-capital-growth-fund-fundraise/832254/",
     "source": "BioPharma Dive",
@@ -144,30 +224,6 @@
     "summary": "Optogenetics is now the foundational way through which we are able to understand how the brain works"
   },
   {
-    "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
-    "link": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T18:33:57.000Z",
-    "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care."
-  },
-  {
-    "title": "STAT+: Prices, prices, prices",
-    "link": "https://www.statnews.com/2026/10/05/health-care-prices-make-care-insurance-expensive-health-care-inc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T16:38:08.000Z",
-    "summary": "Why is health insurance so expensive? Read the latest stort in STAT's \"Out of Pocket, Out of Reach\" series to find out."
-  },
-  {
-    "title": "STAT+: Utah plows ahead with more health AI pilots for prescriptions, women’s health",
-    "link": "https://www.statnews.com/2026/10/05/utah-expands-health-ai-sandbox-picks-third-party-auditors/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T16:00:14.000Z",
-    "summary": "Utah plans to allow an AI product to evaluate patients and write new drug prescriptions without prior human review."
-  },
-  {
     "title": "Shionogi pays $2B to acquire a rare disease startup",
     "link": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
     "source": "BioPharma Dive",
@@ -184,14 +240,6 @@
     "summary": "The Nobel laureates “laid the foundation” for a new field of brain research, the award committee wrote. Elsewhere, Roche and CSL cut licensing deals and the FDA endorsed broader use of a Lilly…"
   },
   {
-    "title": "STAT+: Lilly’s Jaypirca approved as first-line CLL therapy",
-    "link": "https://www.statnews.com/2026/10/05/biotech-news-lilly-jaypirca-approved-as-first-line-cll-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T13:55:41.000Z",
-    "summary": "Eli Lilly’s Jaypirca has won FDA approval for previously untreated chronic lymphocytic leukemia and small lymphocytic lymphoma."
-  },
-  {
     "title": "Vaxcyte skyrockets on ‘near best-case’ pneumococcal vaccine data",
     "link": "https://www.biopharmadive.com/news/vaxcyte-pneumococcal-vaccine-opus-study-results-prevnar-capvaxive/832095/",
     "source": "BioPharma Dive",
@@ -200,52 +248,12 @@
     "summary": "The company’s next-generation shot surpassed Wall Street’s expectations by matching the effectiveness of vaccines from Pfizer and Merck on nearly all bacterial strains in the first of three Phase 3…"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a Vaxcyte pneumococcal shot, increasing pharma M&A, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T13:10:03.000Z",
-    "summary": "Vaxcyte said its pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up a competition with Pfizer and Merck"
-  },
-  {
     "title": "FDA Seeks Public Input to Support Ibogaine Research",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-10-05T13:02:06.000Z",
     "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug…"
-  },
-  {
-    "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
-    "link": "https://www.statnews.com/2026/10/05/vaxcyte-pneumococcal-vaccine-study-pfizer-merck/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T12:19:11.000Z",
-    "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merck."
-  },
-  {
-    "title": "Could we one day vaccinate against every cancer?",
-    "link": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T12:00:51.000Z",
-    "summary": "What science says so far about which cancers can be beat by vaccines — and which will require more creative approaches."
-  },
-  {
-    "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
-    "link": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-05T10:00:11.000Z",
-    "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning light-gated ion channels and…"
-  },
-  {
-    "title": "Precision for All: Closing the gap between innovation and impact",
-    "link": "https://www.biopharmadive.com/spons/precision-for-all-closing-the-gap-between-innovation-and-impact/831229/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-05T09:00:00.000Z",
-    "summary": "Why diagnostic-driven therapies need a new commercialization model to reach more eligible patients."
   },
   {
     "title": "Gene therapy for rare lysosomal storage disorder nabs FDA approval",
@@ -286,13 +294,5 @@
     "category": "regulatory",
     "date": "2026-09-30T13:26:33.000Z",
     "summary": "The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent…"
-  },
-  {
-    "title": "Soft drugs: design principles and topical applications",
-    "link": "https://www.nature.com/articles/s41573-026-01535-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-09-30T00:00:00.000Z",
-    "summary": ""
   }
 ]
