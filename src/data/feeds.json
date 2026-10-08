@@ -1,5 +1,93 @@
 [
   {
+    "title": "STAT+: House Democrat seeks to scrap No Surprises Act’s costly arbitration process",
+    "link": "https://www.statnews.com/2026/10/08/house-democrat-proposes-change-to-no-surprises-act-arbitration-process/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T21:44:05.000Z",
+    "summary": "A new proposal in Congress to scrap a surprise billing ban’s controversial arbitration system will need to to survive an onslaught of attacks from provider groups."
+  },
+  {
+    "title": "NIH funding uncertainty thwarts U.S. researchers",
+    "link": "https://www.statnews.com/2026/10/08/readout-loud-podcast-nih-funding-research-biotech-caribou-nobel-prize/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T18:50:54.000Z",
+    "summary": "How has the NIH been spending its budget? And why are biotech investors feeling gloomy? Find out on this week's episode of \"The Readout LOUD\" podcast."
+  },
+  {
+    "title": "Viatris boosts pain drug portfolio with $1.7B buyout of Pacira",
+    "link": "https://www.biopharmadive.com/news/viatris-pacira-acquire-pain-drug-zilretto-exparel/832481/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-08T16:00:00.000Z",
+    "summary": "The deal hands Viatris two non-opioid pain treatments that booked nearly $700 million in 2025 but could soon lose patent protection. Viatris vowed to use its “intellectual property expertise” to…"
+  },
+  {
+    "title": "STAT+: AI for breast cancer risk prediction goes DTC, regulatory cloud over Utah sandbox, and AI psychosis",
+    "link": "https://www.statnews.com/2026/10/08/breast-cancer-ai-goes-dtc-utah-sandbox-ai-psychosis-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T15:43:59.000Z",
+    "summary": "In this edition of STAT's Health Tech: The story of a startup taking its algorithm for breast cancer risk prediction directly to patients, and more."
+  },
+  {
+    "title": "Argenx falls as Sjögren’s setback offsets celiac drug progress",
+    "link": "https://www.biopharmadive.com/news/argenx-sjogrens-vyvgart-celiac-forte-study-results/832463/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-08T15:38:00.000Z",
+    "summary": "A monitoring board’s recommendation to stop the study for futility took Wall Street by surprise, removing one more ‘blockbuster expansion opportunity’ for Vyvgart."
+  },
+  {
+    "title": "STAT+: The fresh faces that may shake up key Senate committees ahead of midterms",
+    "link": "https://www.statnews.com/2026/10/08/health-policy-news-fresh-faces-shake-up-senate-committees-2026-midterms/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T15:31:38.000Z",
+    "summary": "Dozens of Democrats are vying for seats on the House Energy and Commerce and Ways and Means committees, with several members from both parties either leaving or in close races."
+  },
+  {
+    "title": "In the hunt for reverse merger targets, Caribou could be prized game",
+    "link": "https://www.biopharmadive.com/news/caribou-reverse-merger-prospects-cell-therapy-private-public/832494/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-08T15:23:00.000Z",
+    "summary": "The struggling cell therapy developer is exploring strategic alternatives, which, among other characteristics, make it a likely candidate to receive reverse merger interest."
+  },
+  {
+    "title": "STAT+: Roche goes beyond licensing in deal with Chinese biotech",
+    "link": "https://www.statnews.com/2026/10/08/biotech-news-roche-goes-beyond-licensing-in-deal-with-chinese-biotech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T15:18:05.000Z",
+    "summary": "Roche is partnering with Chinese startup Defand Therapeutics to discover new medicines."
+  },
+  {
+    "title": "FDA says its safety review of abortion pill will continue into next year",
+    "link": "https://www.statnews.com/2026/10/08/fda-mifepristone-abortion-pill-safety-review-continue-into-2027/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T15:02:53.000Z",
+    "summary": "The FDA says its ongoing safety review of the nation's main abortion pill will continue into next year, a timeline that was quickly condemned by abortion opponents."
+  },
+  {
+    "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
+    "link": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T14:02:29.000Z",
+    "summary": "Argenx said its blockbuster drug Vyvgart didn’t outperform placebo in a Phase 3 trial of patients with Sjögren's disease, a chronic autoimmune disorder."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about PhRMA suing Trump, biotech frustration over tariffs, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/08/phrma-suing-trump-biotech-frustration-tariffs-pharmalittle-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-08T13:15:33.000Z",
+    "summary": "PhRMA is suing the Trump administration, smaller biotech firms are frustrated over tariffs, and more of the latest pharma news."
+  },
+  {
     "title": "STAT+: Roche inks drug discovery deal with Chinese biotech, focused on molecular glue medicines",
     "link": "https://www.statnews.com/2026/10/08/roche-defand-therapeutics-drug-development-deal/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,76 +200,12 @@
     "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash."
   },
   {
-    "title": "STAT+: Merck suffers a setback in Europe over its new Keytruda formulation",
-    "link": "https://www.statnews.com/pharmalot/2026/10/07/merck-suffers-setback-in-europe-over-new-keytruda-formulation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T14:06:29.000Z",
-    "summary": "In a setback for Merck, a Dutch court ordered a halt to the manufacturing and marketing of a subcutaneous formulation of Keytruda in several European countries."
-  },
-  {
-    "title": "STAT+: Forbion raises $2.6 billion, its largest fundraise to date",
-    "link": "https://www.statnews.com/2026/10/07/biotech-news-forbion-raises-2-6-billion-largest-fundraise/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T13:42:22.000Z",
-    "summary": "Forbion, a prominent European venture capital firm, said it has raised $2.6 billion, its largest fundraise to date and one of the largest in the region in recent years."
-  },
-  {
-    "title": "STAT+: Why health AI pilots in Utah may be on a collision course with the FDA",
-    "link": "https://www.statnews.com/2026/10/07/utah-sandbox-health-ai-pilots-and-fda-regulations-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T13:38:52.000Z",
-    "summary": "In this edition of STAT's AIP Prognosis: Unresolved regulatory questions around Utah's AI sandbox, and more health AI news."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about WHO obesity guidelines for kids, DOJ targeting pharma, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/07/who-obesity-guidelines-for-kids-doj-targets-pharma/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T12:56:49.000Z",
-    "summary": "The World Health Organization released its first guidelines addressing the sharp rise in obesity among children and adolescents"
-  },
-  {
-    "title": "STAT+: Justice Department targets drugmakers in new directive on combating white-collar fraud",
-    "link": "https://www.statnews.com/pharmalot/2026/10/07/trump-administration-adds-pharma-to-list-priorities-combating-white-collar-fraud/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T12:10:42.000Z",
-    "summary": "The Justice Department issued a new directive for combating fraud that noted the agency will pursue violations of a federal law that tightly regulates the pharmaceutical industry."
-  },
-  {
     "title": "A Takeda spinout builds case for its Parkinson’s drug",
     "link": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-07T12:01:00.000Z",
     "summary": "Cerevance plans to meet with the FDA to determine next steps for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand."
-  },
-  {
-    "title": "ER visits from people born outside the U.S. dropped after ICE raids",
-    "link": "https://www.statnews.com/2026/10/07/health-news-er-visits-from-people-born-outside-the-u-s-dropped-after-ice-raids/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T11:50:41.000Z",
-    "summary": "A new study found that visits by people born outside of the U.S. to three LA emergency rooms dropped precipitously after ICE raids increased last year."
-  },
-  {
-    "title": "2026 Nobel Prize in chemistry awarded for ‘mirror image’ molecule research, with impact on pharmacology",
-    "link": "https://www.statnews.com/2026/10/07/nobel-prize-chemistry-henri-kagan-kenso-soai-2026-winner/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T10:42:28.000Z",
-    "summary": "Henri B. Kagan and Kenso Soai were awarded the 2026 Nobel Prize in chemistry on Wednesday for solving a mystery with research on \"mirror image\" molecules."
-  },
-  {
-    "title": "STAT+: Caribou Biosciences, biotech co-founded by Jennifer Doudna, is shutting down",
-    "link": "https://www.statnews.com/2026/10/07/caribou-biosciences-shutting-down-lymphoma-car-t-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-07T08:30:00.000Z",
-    "summary": "Caribou Biosciences is shutting down after failing to raise the money necessary to fund a late-stage clinical trial of its off-the-shelf CAR-T therapy for lymphoma."
   },
   {
     "title": "Molecular glue targets ALK resistance",
@@ -232,30 +256,6 @@
     "summary": "This podcast explores how leading Alzheimer’s experts are working to bridge the gap between clinical trial design and frontline care."
   },
   {
-    "title": "The top biopharma conferences in 2027",
-    "link": "https://www.biopharmadive.com/news/top-biotech-pharma-medical-conferences-2027/832075/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-06T12:00:00.000Z",
-    "summary": "Medical meetings often feature important clinical trial results, making them barometers of biotech and pharma companies’ research progress. Here’s a list of conferences to watch for in 2027."
-  },
-  {
-    "title": "GE HealthCare to acquire Sofie Biosciences for $945M",
-    "link": "https://www.biopharmadive.com/news/ge-healthcare-acquire-sofie-biosciences-radiopharmaceuticals/832182/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-06T10:38:00.000Z",
-    "summary": "The purchase expands GE HealthCare’s radiopharmaceutical capabilities, helping manufacture and distribute time-sensitive drugs used in PET imaging."
-  },
-  {
-    "title": "Shionogi pays $2B to acquire a rare disease startup",
-    "link": "https://www.biopharmadive.com/news/shionogi-pays-2b-to-acquire-a-rare-disease-startup/832103/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-05T15:57:00.000Z",
-    "summary": "The acquisition of Texas-based IntraBio adds to a growing rare disease business for Shionogi by handing the company a marketed treatment for two inherited conditions."
-  },
-  {
     "title": "FDA Seeks Public Input to Support Ibogaine Research",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
     "source": "FDA Press Releases",
@@ -286,13 +286,5 @@
     "category": "research",
     "date": "2026-10-05T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Approves First Heart Valve Designed to Grow with Children",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-10-01T19:02:08.000Z",
-    "summary": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease."
   }
 ]
