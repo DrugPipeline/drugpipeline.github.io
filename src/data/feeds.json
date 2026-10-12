@@ -1,5 +1,21 @@
 [
   {
+    "title": "Pharma’s $500B patent problem will come in waves — not as a cliff",
+    "link": "https://www.biopharmadive.com/news/pharma-patent-cliff-merck-abbvie-dealmaking/832700/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-12T13:16:00.000Z",
+    "summary": "Merck is the most vulnerable to generic competition in the short term, but AbbVie, Johnson & Johnson, Sanofi and others will also grapple with patent losses in the years to come."
+  },
+  {
+    "title": "Filling the massive AI drug discovery data gap",
+    "link": "https://www.nature.com/articles/d41573-026-00137-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-12T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Americans trust science more than peers around the world, survey shows",
     "link": "https://www.statnews.com/2026/10/10/u-s-trust-science-higher-than-other-nations-wellcome-survey/?utm_campaign=rss",
     "source": "STAT News",
@@ -232,14 +248,6 @@
     "summary": "A Dutch court barred Merck from selling subcutaneous Keytruda in several European countries. Elsewhere, an Insmed executive ended a seven-year run and two startups secured venture cash."
   },
   {
-    "title": "A Takeda spinout builds case for its Parkinson’s drug",
-    "link": "https://www.biopharmadive.com/news/cerevance-solengepras-parkinsons-study-results/832324/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-07T12:01:00.000Z",
-    "summary": "Cerevance plans to meet with the FDA to determine next steps for a new kind of medicine known as solengepras, now that it has Phase 3 data in hand."
-  },
-  {
     "title": "Molecular glue targets ALK resistance",
     "link": "https://www.nature.com/articles/d41573-026-00163-w",
     "source": "Nature Reviews Drug Discovery",
@@ -254,13 +262,5 @@
     "category": "research",
     "date": "2026-10-07T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Seeks Public Input to Support Ibogaine Research",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-10-05T13:02:06.000Z",
-    "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug…"
   }
 ]
