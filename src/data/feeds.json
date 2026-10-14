@@ -1,5 +1,21 @@
 [
   {
+    "title": "STAT+: Trump administration delays new rule that could restrict imported medicines from Canada and overseas",
+    "link": "https://www.statnews.com/pharmalot/2026/10/14/trump-administration-delays-new-rule-that-could-restrict-imported-meds-from-canad-and-overseas/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-14T20:16:59.000Z",
+    "summary": "The Trump administration is delaying by 90 days a federal rule that could prevent Americans from obtaining prescription drugs from licensed international pharmacies."
+  },
+  {
+    "title": "How consumer tech company Whoop is building for Medicare patients",
+    "link": "https://www.statnews.com/2026/10/14/whoop-ami-bhatt-population-health-stat-summit-boston-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-14T18:16:08.000Z",
+    "summary": "Whoop's chief medical officer, said the company's work with Medicare is an opportunity to prove its ability to improve health at the population level."
+  },
+  {
     "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
     "link": "https://www.biopharmadive.com/news/arrowhead-rnai-alzheimers-tau-aro-mapt-study-results/832950/",
     "source": "BioPharma Dive",
@@ -8,12 +24,36 @@
     "summary": "In a first, a subcutaneously administered RNA interference medicine crossed into the brain and plummeted levels of a protein implicated in the disease."
   },
   {
+    "title": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-10-14T15:50:52.000Z",
+    "summary": "The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine the development of…"
+  },
+  {
+    "title": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-10-14T15:14:51.000Z",
+    "summary": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer"
+  },
+  {
     "title": "Verastem cancer drug shows early promise in small study",
     "link": "https://www.biopharmadive.com/news/verastem-g12d-pancreatic-cancer-results-genfleet/832952/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-14T15:00:00.000Z",
     "summary": "Wall Street analysts believe Verastem’s drug to now be “competitive” in what’s quickly become one of the most active and crowded areas of oncology research."
+  },
+  {
+    "title": "CVS to pay $315M to settle opioid prescribing allegations",
+    "link": "https://www.biopharmadive.com/news/cvs-pay-315-million-settle-opioid-prescribing-allegations/832999/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-14T14:45:52.000Z",
+    "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and “strongly disagreed” with the…"
   },
   {
     "title": "STAT+: FDA adcomm members’ ties to industry under scrutiny",
@@ -208,22 +248,6 @@
     "summary": "“The legal and medical issues in the Christa Pike case are on a collision course,” writes bioethicist M. Sara Rosenthal."
   },
   {
-    "title": "STAT+: Concerns grow on safety issues tied to Neurocrine Biosciences rare disease drug",
-    "link": "https://www.statnews.com/2026/10/13/neurocrine-biosciences-prader-willi-vykat-xr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-13T08:30:00.000Z",
-    "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a rare disease drug sold by Neurocrine Biosciences."
-  },
-  {
-    "title": "Opinion: STAT+: The epidemic of learned helplessness in physicians",
-    "link": "https://www.statnews.com/2026/10/13/doctors-learned-helplessness-chief-complaint-frances-mei-hardin/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-13T08:30:00.000Z",
-    "summary": "“Hordes of brilliant, graduate-degree-holding professionals in their 40s, 50s, and beyond act helpless at work,” writes STAT columnist Frances Mei Hardin."
-  },
-  {
     "title": "First Tracks climbs on ‘impressive’ celiac study data",
     "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
     "source": "BioPharma Dive",
@@ -238,14 +262,6 @@
     "category": "industry",
     "date": "2026-10-12T15:58:00.000Z",
     "summary": "Aspen Neuroscience is looking to join the Nasdaq and raise more money to support its lead program, which aims to turn a patient's own cells into dopamine-producing neurons."
-  },
-  {
-    "title": "Bristol Myers dips on ‘confounding’ lung drug results",
-    "link": "https://www.biopharmadive.com/news/bristol-myers-admilparant-lpa1-ipf-aloft-results-contineum/832715/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-12T15:35:00.000Z",
-    "summary": "Only the lower of two tested doses of the idiopathic pulmonary fibrosis drug admilparant met the trial’s main objective, adding to analyst questions about the therapy’s prospects."
   },
   {
     "title": "Filling the massive AI drug discovery data gap",
