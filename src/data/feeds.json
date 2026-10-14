@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: Lobbyists and trade groups fight to shape how states regulate medical AI",
+    "link": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-14T08:30:00.000Z",
+    "summary": "Lobbying groups for doctors and hospitals and trade groups are working behind the scenes on how to regulate AI in medicine."
+  },
+  {
+    "title": "Opinion: How states can resist the potential Trump vaccine shortages",
+    "link": "https://www.statnews.com/2026/10/14/state-vaccine-factories-trump-shortages-vicp/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-14T08:30:00.000Z",
+    "summary": "“States can serve as a last line of defense against the Trump administration’s anti-vaccine policy,” writes Joel Dodge."
+  },
+  {
+    "title": "Opinion: We think a baby’s gut microbiome could be key to lifelong brain health",
+    "link": "https://www.statnews.com/2026/10/14/gut-microbiome-baby-brain-health-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-14T08:30:00.000Z",
+    "summary": "“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg."
+  },
+  {
+    "title": "FDA new drug approvals in Q3 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00164-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-14T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Decreasing process variability in fluid management systems",
     "link": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
     "source": "BioPharma Dive",
@@ -216,35 +248,11 @@
     "summary": "The federal government has released new quality ratings for Medicare Advantage insurers for 2027, with Humana emerging as the biggest winner."
   },
   {
-    "title": "STAT+: Life Biosciences share glaucoma study updates for its cellular reprogramming drug",
-    "link": "https://www.statnews.com/2026/10/09/biotech-news-life-biosciences-share-glaucoma-cellular-reprogramming-drug-update/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-09T15:41:39.000Z",
-    "summary": "Life Biosciences said yesterday that three glaucoma patients have now received a single injection of its experimental cellular reprogramming drug, with no serious adverse events."
-  },
-  {
     "title": "FDA review docs spark Revolution sell-off; Zealand diabetes data underwhelm analysts",
     "link": "https://www.biopharmadive.com/news/rasonque-fda-zealand-tukysa-ultragenyx-tcgx-china/832492/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-09T15:18:00.000Z",
     "summary": "The new disclosure suggested Rasonque might not be as broadly effective as previously thought. Elsewhere, Ultragenyx got a much-needed cash infusion and TCGX started a China-focused fund."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/10/09/up-and-down-ladder-latest-comings-and-goings-jobs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-09T13:59:35.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "How these census changes could threaten public health",
-    "link": "https://www.statnews.com/2026/10/09/health-news-census-changes-threaten-public-data-collection/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-09T13:23:29.000Z",
-    "summary": "The Trump administration wants to make three big changes to the U.S. Census, including eliminating questions about race, ethnicity, and sexual orientation and excluding anyone who is not a citizen…"
   }
 ]
