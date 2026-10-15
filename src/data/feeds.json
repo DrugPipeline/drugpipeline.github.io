@@ -1,5 +1,37 @@
 [
   {
+    "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
+    "link": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-15T10:30:00.000Z",
+    "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface."
+  },
+  {
+    "title": "Forty percent of high school students report binge eating in new CDC survey",
+    "link": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-15T08:30:00.000Z",
+    "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people."
+  },
+  {
+    "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
+    "link": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-15T08:30:00.000Z",
+    "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat."
+  },
+  {
+    "title": "Opinion: My daughter’s death changed how I understood the nursing shortage",
+    "link": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-15T08:30:00.000Z",
+    "summary": "Health systems invest in training, but lose early-career nurses within a few years."
+  },
+  {
     "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
     "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
     "source": "BioPharma Dive",
@@ -160,14 +192,6 @@
     "summary": "“We need more rigorous, large-scale research into the gut-brain axis across the life course,” write Holly Baines and George Vradenburg."
   },
   {
-    "title": "FDA new drug approvals in Q3 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00164-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-14T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Decreasing process variability in fluid management systems",
     "link": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
     "source": "BioPharma Dive",
@@ -216,14 +240,6 @@
     "summary": "An early data check showed the shot didn’t delay tumor progression in a form of head and neck cancer, though BioNTech is holding out hope it might eventually extend survival."
   },
   {
-    "title": "STAT+: Animosity in North Carolina, and MA shooting stars",
-    "link": "https://www.statnews.com/2026/10/13/animosity-in-north-carolina-and-ma-shooting-stars-health-care-inc/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-13T16:07:06.000Z",
-    "summary": "In this edition of Health Care Inc., we examine the controversy around the health plan covering North Carolina's public workers and retirees, and more."
-  },
-  {
     "title": "Roche extends China deal streak with $1B pact for RNAi obesity drug",
     "link": "https://www.biopharmadive.com/news/roche-rona-china-deal-rnai-obesity-drug-alk7/832845/",
     "source": "BioPharma Dive",
@@ -232,43 +248,11 @@
     "summary": "An alliance with Rona Therapeutics adds to a particularly active stretch for Roche and makes the company the latest to bet on medicines that can lower levels of “visceral” fat."
   },
   {
-    "title": "STAT+: Doctors are giving generously to doctors running for office",
-    "link": "https://www.statnews.com/2026/10/13/health-policy-news-doctor-donations-maha-midterms/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-13T15:43:56.000Z",
-    "summary": "Doctors have a lot on the line in the next couple years, and they are donating big to doctors running for political office."
-  },
-  {
-    "title": "STAT+: FTC demands Martin Shkreli divest his pharma stocks",
-    "link": "https://www.statnews.com/2026/10/13/martin-shkreli-pharma-bro-ftc-contempt-stock-trades/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-13T14:31:08.000Z",
-    "summary": "The FTC asked a federal court to hold Martin Shkreli in contempt for violating a court order banning him from working in the pharmaceutical industry"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about concerns over a rare disease drug, pharma payments to docs, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/13/neurocrine-rare-disease-drug-concerns-pharma-payments-to-doctors/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-13T13:29:22.000Z",
-    "summary": "Patient advocates and some experts are expressing growing alarm over the perceived risks of a Neurocrine Biosciences rare disease drug"
-  },
-  {
     "title": "First Tracks climbs on ‘impressive’ celiac study data",
     "link": "https://www.biopharmadive.com/news/first-tracks-celiac-study-results-cd122/832726/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-12T21:26:00.000Z",
     "summary": "Initial study findings strengthened some analysts’ belief that First Tracks’ drug, one of a few in development aimed at the protein CD122, might have “pipeline-in-a-product” potential."
-  },
-  {
-    "title": "Filling the massive AI drug discovery data gap",
-    "link": "https://www.nature.com/articles/d41573-026-00137-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-12T00:00:00.000Z",
-    "summary": ""
   }
 ]
