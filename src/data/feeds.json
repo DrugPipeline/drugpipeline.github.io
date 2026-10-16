@@ -1,5 +1,53 @@
 [
   {
+    "title": "Hospitals’ next lucrative bet — longevity clinics",
+    "link": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-16T15:34:31.000Z",
+    "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-16T14:00:13.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about an HHS peptide push, Trump’s pharma stock holdings, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-16T13:49:21.000Z",
+    "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides"
+  },
+  {
+    "title": "STAT+: RevMed’s pancreatic cancer drug nears European approval",
+    "link": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-16T13:38:22.000Z",
+    "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer."
+  },
+  {
+    "title": "This week in charts: Moderna’s massive stock run",
+    "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-16T13:15:00.000Z",
+    "summary": "The latest installment in BioPharma Dive’s data visualization-focused series includes a look at Moderna’s meteoric rise in 2026 and a sudden deal surge from Roche."
+  },
+  {
+    "title": "What to read before you go see that new documentary on Elizabeth Holmes",
+    "link": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-16T12:34:03.000Z",
+    "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…"
+  },
+  {
     "title": "Next-gen RNAi drugmaker City prices $200M IPO",
     "link": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
     "source": "BioPharma Dive",
@@ -8,7 +56,7 @@
     "summary": "The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver."
   },
   {
-    "title": "Biogen-backed Estuary nabs $93M for liver disease gene therapy",
+    "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
     "link": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
     "source": "BioPharma Dive",
     "category": "industry",
@@ -46,6 +94,14 @@
     "category": "industry",
     "date": "2026-10-16T08:30:00.000Z",
     "summary": "Patients can understand that medication is necessary and still struggle with what taking it means."
+  },
+  {
+    "title": "Translating base editors: a decade of progress from the bench to the clinic",
+    "link": "https://www.nature.com/articles/s41573-026-01548-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-16T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
@@ -152,30 +208,6 @@
     "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface."
   },
   {
-    "title": "Forty percent of high school students report binge eating in new CDC survey",
-    "link": "https://www.statnews.com/2026/10/15/teenage-binge-eating-cdc-survey-finds-alarming-rate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-15T08:30:00.000Z",
-    "summary": "About 40% of high school students reported binge-eating in the past month in a new CDC survey, highlighting how widespread this form of disordered eating is among young people."
-  },
-  {
-    "title": "Opinion: MyChart said I could opt out of sharing my health data. Figuring out how was maddening",
-    "link": "https://www.statnews.com/2026/10/15/health-data-privacy-medical-record-opt-out-barriers-investigated/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-15T08:30:00.000Z",
-    "summary": "Want to opt out of sharing your personal health data? You may need a notary, writes Alex Rosenblat."
-  },
-  {
-    "title": "Opinion: My daughter’s death changed how I understood the nursing shortage",
-    "link": "https://www.statnews.com/2026/10/15/nursing-shortage-workforce-direct-support-home-care-workers-group-home/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-15T08:30:00.000Z",
-    "summary": "Health systems invest in training, but lose early-career nurses within a few years."
-  },
-  {
     "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
     "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
     "source": "BioPharma Dive",
@@ -184,20 +216,12 @@
     "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to “disrupt legacy drug discovery paradigms.”"
   },
   {
-    "title": "Compass Pathways CEO: Psychedelics company will ‘go slow before we go fast’",
-    "link": "https://www.statnews.com/2026/10/14/compass-pathways-psychedelics-stat-summit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-15T00:01:24.000Z",
-    "summary": "The CEO of Compass Pathways said the company, whose psychedelic therapy is set for regulatory review this year, is prepared to “go slow before we go fast.”"
-  },
-  {
-    "title": "Former FDA officials blast DOGE as ‘one of the biggest disasters in American history’",
-    "link": "https://www.statnews.com/2026/10/14/former-fda-commissioners-say-recruit-defend-support-agency-workforce/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-14T23:23:20.000Z",
-    "summary": "Three former FDA chiefs criticized the DOGE cuts to the agency, saying they robbed the FDA of institutional knowledge that will take years to restore."
+    "title": "One year of Commissioner’s National Priority Vouchers",
+    "link": "https://www.nature.com/articles/d41573-026-00165-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-15T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
@@ -248,11 +272,19 @@
     "summary": "A 6% sell-off in J&J shares was viewed by one analyst as emblematic of broader market volatility. Elsewhere, Gilead is collaborating with Vir and a biotech’s bid for a product expansion fell short."
   },
   {
-    "title": "Decreasing process variability in fluid management systems",
-    "link": "https://www.biopharmadive.com/spons/decreasing-process-variability-in-fluid-management-systems/832888/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-13T21:00:00.000Z",
-    "summary": "Discover why flow paths, tubing and connectors may limit your bioprocess performance"
+    "title": "FDA new drug approvals in Q3 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00164-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-14T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Filling the massive AI drug discovery data gap",
+    "link": "https://www.nature.com/articles/d41573-026-00137-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-12T00:00:00.000Z",
+    "summary": ""
   }
 ]
