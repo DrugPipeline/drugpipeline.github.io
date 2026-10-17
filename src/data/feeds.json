@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
+    "link": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-17T02:38:35.000Z",
+    "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab."
+  },
+  {
     "title": "Iambic CEO on taking an AI drug company public",
     "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
     "source": "BioPharma Dive",
@@ -104,14 +112,6 @@
     "summary": "Patients can understand that medication is necessary and still struggle with what taking it means."
   },
   {
-    "title": "Translating base editors: a decade of progress from the bench to the clinic",
-    "link": "https://www.nature.com/articles/s41573-026-01548-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-16T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Trump administration advances plan for peptide drugs favored by RFK Jr.",
     "link": "https://www.statnews.com/2026/10/15/trump-administration-advances-plan-peptides-rfk-jr/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,28 +208,12 @@
     "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to…"
   },
   {
-    "title": "STAT+: On Wall Street, there’s trouble stirring for biotech",
-    "link": "https://www.statnews.com/2026/10/15/wall-street-biotech-trouble-stirring/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-15T10:30:00.000Z",
-    "summary": "On Wall Street, the real trouble for biotech, and the reason for investor angst, lies below the surface."
-  },
-  {
     "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
     "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-15T00:08:00.000Z",
     "summary": "Part of a wave of young biotechs employing AI to accelerate research, the company claimed in regulatory filings that its approach has the potential to “disrupt legacy drug discovery paradigms.”"
-  },
-  {
-    "title": "One year of Commissioner’s National Priority Vouchers",
-    "link": "https://www.nature.com/articles/d41573-026-00165-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-15T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "Experimental Arrowhead RNAi drug hints at Alzheimer’s benefit",
@@ -270,21 +254,5 @@
     "category": "industry",
     "date": "2026-10-14T14:45:52.000Z",
     "summary": "Prosecutors say the company filled unnecessary prescriptions that fueled the opioid epidemic. A spokesperson for CVS said the company admitted to no wrongdoing and “strongly disagreed” with the…"
-  },
-  {
-    "title": "FDA new drug approvals in Q3 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00164-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-14T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Filling the massive AI drug discovery data gap",
-    "link": "https://www.nature.com/articles/d41573-026-00137-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-12T00:00:00.000Z",
-    "summary": ""
   }
 ]
