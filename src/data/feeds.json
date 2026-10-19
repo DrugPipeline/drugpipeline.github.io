@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’",
+    "link": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-19T00:54:03.000Z",
+    "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT."
+  },
+  {
     "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
     "link": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,14 +216,6 @@
     "summary": "In this edition of STAT's Health Tech newsletter: The groups vying to shape regulations that'd govern state AI sandboxes, and more."
   },
   {
-    "title": "Kenya reports second Ebola case",
-    "link": "https://www.statnews.com/2026/10/15/health-news-kenya-reports-second-ebola-case/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-15T11:55:17.000Z",
-    "summary": "Kenya reports a second Ebola case. Meanwhile, the situation in Congo is still quite dire. Authorities have confirmed more than 4,000 deaths and 9,000 cases as officials have struggled to…"
-  },
-  {
     "title": "Iambic, an AI drug discovery specialist, banks $150M in an IPO",
     "link": "https://www.biopharmadive.com/news/iambic-ipo-price-ai-drug-discovery/832771/",
     "source": "BioPharma Dive",
@@ -277,14 +277,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-10-14T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Filling the massive AI drug discovery data gap",
-    "link": "https://www.nature.com/articles/d41573-026-00137-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-12T00:00:00.000Z",
     "summary": ""
   }
 ]
