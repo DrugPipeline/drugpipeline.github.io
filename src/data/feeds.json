@@ -1,5 +1,77 @@
 [
   {
+    "title": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-10-20T15:57:36.000Z",
+    "summary": "Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal hormone therapy…"
+  },
+  {
+    "title": "Most new drugs are still too costly at launch, ICER says",
+    "link": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-20T15:55:00.000Z",
+    "summary": "A new analysis from the non-profit group found that net launch prices for new medicines spiked significantly between 2022 and 2025, and the majority were well above its cost-effectiveness guidelines."
+  },
+  {
+    "title": "Why I wish you didn’t want to see Nathan Fielder’s Elizabeth Holmes documentary",
+    "link": "https://www.statnews.com/2026/10/20/elizabeth-holmes-superpower-authenticity-vs-truth-matt-herper-take/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T15:41:10.000Z",
+    "summary": "A reporter who interviewed Elizabeth Holmes on why society confuses authenticity, honesty, and truth, and how she takes advantage."
+  },
+  {
+    "title": "STAT+: OpenEvidence’s JAMA paper leaves open questions",
+    "link": "https://www.statnews.com/2026/10/20/openevidence-jama-paper-leaves-open-questions-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T14:40:13.000Z",
+    "summary": "In this edition of STAT Health Tech: A new paper in JAMA offers a glimpse into clinicians's use of OpenEvidence, and a look at Isomorphic Labs."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about drug launch prices, an AstraZeneca AI deal, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/20/drug-launch-prices-rose-astrazeneca-ai-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T14:02:16.000Z",
+    "summary": "The median net price for newly launched medicines, when adjusted for inflation and manufacturer discounts, rose by 35% from 2022 to 2025."
+  },
+  {
+    "title": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-10-20T13:03:14.000Z",
+    "summary": "The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside their prescription…"
+  },
+  {
+    "title": "How voters feel about trans rights and abortion access will soon be put to the test",
+    "link": "https://www.statnews.com/2026/10/20/health-news-how-voters-feel-about-trans-rights-abortion-access-2026-midterms/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T12:55:52.000Z",
+    "summary": "How do voters feel about trans students participating in school sports teams? Or abortion access? The U.S. is about to find out."
+  },
+  {
+    "title": "STAT+: Dana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital",
+    "link": "https://www.statnews.com/2026/10/20/dana-farber-beth-israel-new-cancer-hospital-construction/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T12:37:18.000Z",
+    "summary": "Dana-Farber Cancer Institute and Beth Israel Lahey Health are starting work on a $1.68 billion cancer hospital in Boston, marking a new phase in their competition with Mass General Brigham."
+  },
+  {
+    "title": "Hype vs. reality: What pharma’s hottest R&D bets have actually proved",
+    "link": "https://www.biopharmadive.com/news/pharma-rd-bets-clinical-proof-gsk-summit/833332/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-20T12:00:00.000Z",
+    "summary": "New types of bispecifics, antibody-drug conjugates and cell therapies haven’t yet proven themselves in the clinic. Pharmaceutical companies are betting billions anyway."
+  },
+  {
     "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
     "link": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,22 +248,6 @@
     "summary": "A STAT investigation found that several nonprofits are raking in massive sums by acting as arbitrators in a program that helps protect patients from surprise medical bills."
   },
   {
-    "title": "STAT+: Cambridge scientist David Sabatini speaks out after courtroom victory: ‘The hardest years of my life’",
-    "link": "https://www.statnews.com/2026/10/18/david-sabatini-speaks-out-after-courtroom-win-metoo-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-19T00:54:03.000Z",
-    "summary": "\"The hardest years of my life,\" is how Cambridge scientist David Sabatini describes the time since his downfall from MIT."
-  },
-  {
-    "title": "STAT+: Jury rules in favor of ousted Cambridge scientist David Sabatini, with $6 million in damages to be awarded",
-    "link": "https://www.statnews.com/2026/10/16/david-sabatini-wins-sexual-misconduct-lawsuit-metoo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-17T02:38:35.000Z",
-    "summary": "A jury awarded $6 million in damages to scientist David Sabatini, whose career imploded after he was accused by a much younger colleague of inappropriate sexual conduct in his lab."
-  },
-  {
     "title": "Iambic CEO on taking an AI drug company public",
     "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
     "source": "BioPharma Dive",
@@ -200,52 +256,12 @@
     "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI’s role in drug development evolving."
   },
   {
-    "title": "Hospitals’ next lucrative bet — longevity clinics",
-    "link": "https://www.statnews.com/2026/10/16/readout-loud-podcast-hospitals-longevity-clinics-northwestern/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-16T15:34:31.000Z",
-    "summary": "On this week's “The Readout LOUD,” STAT's biotech podcast, we discuss the booming industry of longevity health."
-  },
-  {
-    "title": "STAT+: Up and down the ladder: The latest comings and goings",
-    "link": "https://www.statnews.com/pharmalot/2026/10/16/up-down-ladder-jobs-pharma-biotech-gilead-bausch-sanofi/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-16T14:00:13.000Z",
-    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about an HHS peptide push, Trump’s pharma stock holdings, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/16/hhs-peptide-push-trump-pharma-stock-holdings/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-16T13:49:21.000Z",
-    "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides"
-  },
-  {
     "title": "This week in charts: Moderna’s massive stock run",
     "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-16T13:15:00.000Z",
     "summary": "The latest installment in BioPharma Dive’s data visualization-focused series includes a look at Moderna’s meteoric rise in 2026 and a sudden deal surge from Roche."
-  },
-  {
-    "title": "Next-gen RNAi drugmaker City prices $200M IPO",
-    "link": "https://www.biopharmadive.com/news/city-therapeutics-ipo-price-rnai-drugs/832945/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-16T10:33:00.000Z",
-    "summary": "The offering will support a trio of medicines in or nearing clinical testing, as well as earlier research into RNAi treatments that get into tissues outside the liver."
-  },
-  {
-    "title": "Biogen-backed Estuary nabs $93M for kidney disease gene therapy",
-    "link": "https://www.biopharmadive.com/news/estuary-kidney-disease-gene-therapy-launch-emerged-biogen-biotech-startup/833114/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-16T10:30:00.000Z",
-    "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\""
   },
   {
     "title": "Translating base editors: a decade of progress from the bench to the clinic",
