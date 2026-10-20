@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: Launch prices for new medicines dipped slightly last year but remain high, analysis finds",
+    "link": "https://www.statnews.com/pharmalot/2026/10/20/launch-price-of-new-medicines-drop-very-slightly-2025/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T10:30:00.000Z",
+    "summary": "The median net price for 202 newly launched medicines rose by 35%, to $257,000 last year from $173,000 in 2022."
+  },
+  {
+    "title": "STAT+: The key health care ballot measures we’re watching in the midterms",
+    "link": "https://www.statnews.com/2026/10/20/what-health-policy-battles-reveal-about-america-midterms-2026/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T08:30:00.000Z",
+    "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters."
+  },
+  {
+    "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
+    "link": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T08:30:00.000Z",
+    "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman."
+  },
+  {
     "title": "Trump orders creation of NIH division, task force on women’s health",
     "link": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
     "source": "STAT News",
@@ -200,28 +224,12 @@
     "summary": "The Trump administration is proceeding with a plan to allow compounding pharmacies to produce certain peptides"
   },
   {
-    "title": "STAT+: RevMed’s pancreatic cancer drug nears European approval",
-    "link": "https://www.statnews.com/2026/10/16/biotech-news-revmed-pancreatic-cancer-drug-nears-european-approval/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-16T13:38:22.000Z",
-    "summary": "Following a green light from the FDA, European regulators have now recommended the approval of Revolution Medicines' Rasonque for pancreatic cancer."
-  },
-  {
     "title": "This week in charts: Moderna’s massive stock run",
     "link": "https://www.biopharmadive.com/news/biotech-charts-moderna-stock-xbi-roche-china/832886/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-16T13:15:00.000Z",
     "summary": "The latest installment in BioPharma Dive’s data visualization-focused series includes a look at Moderna’s meteoric rise in 2026 and a sudden deal surge from Roche."
-  },
-  {
-    "title": "What to read before you go see that new documentary on Elizabeth Holmes",
-    "link": "https://www.statnews.com/2026/10/16/health-news-what-to-read-before-elizabeth-holmes-you-can-see-everything/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-16T12:34:03.000Z",
-    "summary": "Ahead of \"You Can See Everything\" hitting theaters, let's rewind the last decade and review some of the most significant news tied to Elizabeth Holmes, who was convicted in 2022…"
   },
   {
     "title": "Next-gen RNAi drugmaker City prices $200M IPO",
@@ -240,12 +248,20 @@
     "summary": "The Series A round, which was led by RA Capital, will help fund the development of two genetic medicines designed to treat an inherited kidney disorder known as \"ADPKD.\""
   },
   {
-    "title": "STAT+: Coerced sex or a jealous ex? Jury weighs dueling accounts of star scientist David Sabatini’s downfall",
-    "link": "https://www.statnews.com/2026/10/16/david-sabatini-civil-trial-highlights-permissive-sexual-norms-whitehead-metoo/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-16T08:30:00.000Z",
-    "summary": "Was molecular biologist David Sabatini a manipulative mentor who coerced a younger colleague into sex? Or was he the victim of a spurned former lover?"
+    "title": "Translating base editors: a decade of progress from the bench to the clinic",
+    "link": "https://www.nature.com/articles/s41573-026-01548-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-16T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "One year of Commissioner’s National Priority Vouchers",
+    "link": "https://www.nature.com/articles/d41573-026-00165-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-15T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
@@ -262,5 +278,13 @@
     "category": "regulatory",
     "date": "2026-10-14T15:14:51.000Z",
     "summary": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer"
+  },
+  {
+    "title": "FDA new drug approvals in Q3 2026",
+    "link": "https://www.nature.com/articles/d41573-026-00164-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-14T00:00:00.000Z",
+    "summary": ""
   }
 ]
