@@ -1,5 +1,61 @@
 [
   {
+    "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
+    "link": "https://www.biopharmadive.com/news/gsk-ionis-fda-approve-hibsago-chronic-hepatitis-b-bepirovirsen/833541/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-21T16:03:00.000Z",
+    "summary": "Hibsago is viewed as a potential “functional cure” for chronic infections and an important part of the British drugmaker’s goal of reaching £40 billion in annual revenue by 2031."
+  },
+  {
+    "title": "Roivant, continuing ascent, claims another victory for rare disease drug",
+    "link": "https://www.biopharmadive.com/news/roivant-brepocitinib-uveitis-study-results/833569/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-21T15:31:00.000Z",
+    "summary": "Shortly after winning a clearance in the skin disease dermatomyositis, brepocitinib posted results suggesting it might also be a “best-in-disease” medicine for an inflammatory eye condition, one…"
+  },
+  {
+    "title": "STAT+: GSK picks up hep B drug approval",
+    "link": "https://www.statnews.com/2026/10/21/biotech-news-gsk-picks-up-hep-b-drug-approval/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-21T14:24:45.000Z",
+    "summary": "GSK has won FDA approval for its hepatitis B drug, which extended functional cures to far more patients than previous methods."
+  },
+  {
+    "title": "Arcus kidney cancer data impresses analysts; TriGemX inks a SPAC deal",
+    "link": "https://www.biopharmadive.com/news/arcus-casdatifan-trigemx-lilly-metis-astrazeneca/833430/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-21T14:23:00.000Z",
+    "summary": "New follow-up results suggest Arcus’ drug might be superior to a marketed Merck medicine. Elsewhere, Eli Lilly and AstraZeneca forged new partnerships."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Mark Cuban eyeing rare disease drugs, a ketamine gold rush, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/21/mark-cuban-eyes-rare-disease-drugs-ketamine-gold-rush/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-21T13:26:27.000Z",
+    "summary": "Mark Cuban has a new vision for his company Cost Plus Drugs: shake up the business of custom-made rare disease medicines"
+  },
+  {
+    "title": "STAT+: Roivant says closely watched immune drug succeeded in new eye disease",
+    "link": "https://www.statnews.com/2026/10/21/roivant-immune-drug-lisraya-noninfectious-uveitis-trial-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-21T12:05:54.000Z",
+    "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis."
+  },
+  {
+    "title": "Nigeria identifies travel-related Ebola case",
+    "link": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-21T11:54:47.000Z",
+    "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health…"
+  },
+  {
     "title": "A counterintuitive way to build trust in measles vaccines and public health",
     "link": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
     "source": "STAT News",
@@ -176,30 +232,6 @@
     "summary": "State fights over issues like transgender rights and Medicaid offer clues to where Americans stand on contentious health matters."
   },
   {
-    "title": "Opinion: Resident physicians may lose some of their most important work hour protections",
-    "link": "https://www.statnews.com/2026/10/20/acgme-resident-physicians-work-hour-rules-time-off-between-shifts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-20T08:30:00.000Z",
-    "summary": "“It is important to create barriers between high intensity shifts with physical, intellectual, and emotional burden to avoid burnout” in residents, writes Arifeen Rahman."
-  },
-  {
-    "title": "Trump orders creation of NIH division, task force on women’s health",
-    "link": "https://www.statnews.com/2026/10/19/executive-order-melania-trump-nih-division-on-womens-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-19T17:42:45.000Z",
-    "summary": "Melania Trump said a new research and policy initiative will set “a new standard for women’s health.”"
-  },
-  {
-    "title": "Opinion: I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying",
-    "link": "https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-19T17:27:04.000Z",
-    "summary": "A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes."
-  },
-  {
     "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
     "link": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
     "source": "BioPharma Dive",
@@ -214,14 +246,6 @@
     "category": "regulatory",
     "date": "2026-10-19T16:19:38.000Z",
     "summary": "The U.S. Food and Drug Administration today granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly) that may allow some patients with locally advanced rectal…"
-  },
-  {
-    "title": "STAT+: The umpires getting rich off surprise medical bills, and MLB job lock",
-    "link": "https://www.statnews.com/2026/10/19/no-surprises-act-arbitrators-getting-rich-jake-bauers-health-insurance/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-19T15:43:35.000Z",
-    "summary": "We dig into trust, prices, and a bit of baseball in this week's Health Care Inc. newsletter."
   },
   {
     "title": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
@@ -248,30 +272,6 @@
     "summary": "Saudi Arabia’s biotech strategy now has named partners, sites and capital behind it."
   },
   {
-    "title": "Extractables in single-use systems used in ADC manufacturing",
-    "link": "https://www.biopharmadive.com/spons/extractables-in-single-use-systems-used-in-adc-manufacturing/833218/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-19T09:00:00.000Z",
-    "summary": "Explore extractables data supporting single-use systems in ADC manufacturing."
-  },
-  {
-    "title": "How early should you engage a CDMO?",
-    "link": "https://www.biopharmadive.com/spons/how-early-should-you-engage-a-cdmo/832693/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-19T09:00:00.000Z",
-    "summary": "Discover which CMC activities can move forward early, and which decisions need to remain flexible."
-  },
-  {
-    "title": "Iambic CEO on taking an AI drug company public",
-    "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-16T16:10:00.000Z",
-    "summary": "Fresh off a $150 million IPO, Tom Miller spoke to BioPharma Dive about the roadshow process and how he sees AI’s role in drug development evolving."
-  },
-  {
     "title": "Translating base editors: a decade of progress from the bench to the clinic",
     "link": "https://www.nature.com/articles/s41573-026-01548-7",
     "source": "Nature Reviews Drug Discovery",
@@ -286,21 +286,5 @@
     "category": "research",
     "date": "2026-10-15T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-10-14T15:50:52.000Z",
-    "summary": "The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine the development of…"
-  },
-  {
-    "title": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-10-14T15:14:51.000Z",
-    "summary": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer"
   }
 ]
