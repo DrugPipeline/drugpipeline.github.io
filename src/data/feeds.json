@@ -1,11 +1,27 @@
 [
   {
+    "title": "STAT+: He’s slashing quality at nursing homes. This state is letting it happen",
+    "link": "https://www.statnews.com/2026/10/20/nursing-home-chains-slash-quality-massachusetts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-20T21:22:26.000Z",
+    "summary": "The Boston Globe Spotlight Team found Eli Mirlis made grim cuts to resident care while steering millions of dollars from his nursing homes’ revenue into a constellation of real estate…"
+  },
+  {
     "title": "STAT+: State regulators move to seize licenses from nursing home chain that was focus of Boston Globe investigation",
     "link": "https://www.statnews.com/2026/10/20/massachusetts-regulators-move-to-seize-regal-care-nursing-home-licenses-boston-globe-investigation/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-10-20T20:14:29.000Z",
     "summary": "A Boston Globe investigation found that RegalCare acquired nursing homes across Massachusetts, then gutted the quality of care."
+  },
+  {
+    "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-10-20T19:40:38.000Z",
+    "summary": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis."
   },
   {
     "title": "STAT+: A bipartisan group of lawmakers urges the FDA to close a peptide loophole",
@@ -248,14 +264,6 @@
     "summary": "Internal emails obtained by STAT show that the American Association of Immunologists is sharply divided over California's Proposition 38, even though it would provide $8.4 billion in taxpayer dollars…"
   },
   {
-    "title": "STAT+: Does Isomorphic Labs have what it takes to revolutionize drugmaking?",
-    "link": "https://www.statnews.com/2026/10/19/can-isomorphic-labs-revolutionize-drugmaking/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-19T08:30:00.000Z",
-    "summary": "Isomorphic Labs wants to turn its technology into an engine for new medicines. The question now is whether — and how — it can deliver on that promise."
-  },
-  {
     "title": "Iambic CEO on taking an AI drug company public",
     "link": "https://www.biopharmadive.com/news/Iambic-ipo-tom-miller-ai-drug-development-discovery/833238/",
     "source": "BioPharma Dive",
@@ -294,13 +302,5 @@
     "category": "regulatory",
     "date": "2026-10-14T15:14:51.000Z",
     "summary": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer"
-  },
-  {
-    "title": "FDA new drug approvals in Q3 2026",
-    "link": "https://www.nature.com/articles/d41573-026-00164-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-10-14T00:00:00.000Z",
-    "summary": ""
   }
 ]
