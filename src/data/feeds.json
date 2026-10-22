@@ -1,5 +1,53 @@
 [
   {
+    "title": "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+    "link": "https://www.biopharmadive.com/news/moderna-merck-esmo-intismeran-melanoma-vaccine-results/833765/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-22T19:27:00.000Z",
+    "summary": "A combination of the shot and the immunotherapy Keytruda cut the risk of relapse or death by 42% in a landmark melanoma study that met Wall Street expectations but triggered a “sell-the-news…"
+  },
+  {
+    "title": "STAT+: Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+    "link": "https://www.statnews.com/2026/10/22/esmo-moderna-merck-cancer-vaccine-intismeran-data-released/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-22T19:03:31.000Z",
+    "summary": "A Moderna and Merck personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to standard treatment."
+  },
+  {
+    "title": "STAT+: AbbVie skin disorder drug succeeds in late-stage trial, but results miss market expectations",
+    "link": "https://www.statnews.com/2026/10/22/abbvie-lutikizumab-hidradenitis-suppurativa-drug-phase-3-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-22T18:22:27.000Z",
+    "summary": "AbbVie's lutikizumab, an experimental therapy for a chronic skin condition, succeeded in a late-stage trial but missed market expectations."
+  },
+  {
+    "title": "STAT+: Nutrition experts press White House to release ultra-processed food definition",
+    "link": "https://www.statnews.com/2026/10/22/ultra-processed-food-definition-maha-white-house/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-22T18:04:47.000Z",
+    "summary": "MAHA allies and nutrition experts want the Trump administration to act on ultra-processed foods before the elections."
+  },
+  {
+    "title": "Top MAHA adviser Calley Means resigns from White House days ahead of midterms",
+    "link": "https://www.statnews.com/2026/10/22/calley-means-resigns-white-house-adviser-maha-movement/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-22T17:52:09.000Z",
+    "summary": "The surprising departure of Calley Means comes just before an election that may serve as a referendum on the MAHA movement."
+  },
+  {
+    "title": "FDA Launches New Program to Advance Neuroscience Medical Product Development",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-10-22T16:58:19.000Z",
+    "summary": "FDA announces the launch of the Neuroscience Advancement and Innovation Nexus (NAIN), a new agency program aligned with the Trump Administration’s efforts to accelerate medical innovation and deliver…"
+  },
+  {
     "title": "Biohaven’s previously rejected rare disease drug to get fresh FDA review",
     "link": "https://www.biopharmadive.com/news/biohaven-troriluzole-vyglxia-sca-fda-accept-application/833703/",
     "source": "BioPharma Dive",
@@ -176,38 +224,6 @@
     "summary": "An immune drug from Roivant could be headed to a new market, after the company reported positive trials in the eye disease non-infectious uveitis."
   },
   {
-    "title": "Nigeria identifies travel-related Ebola case",
-    "link": "https://www.statnews.com/2026/10/21/health-news-nigeria-travel-related-ebola-case-outbreak/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-21T11:54:47.000Z",
-    "summary": "Nigeria has confirmed an imported Ebola case tied to the ongoing outbreak centered in the Democratic Republic of the Congo, becoming the fifth country to identify a related infection, health…"
-  },
-  {
-    "title": "A counterintuitive way to build trust in measles vaccines and public health",
-    "link": "https://www.statnews.com/2026/10/21/measles-vaccination-uptake-experts-suggest-messaging-change/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-21T08:30:00.000Z",
-    "summary": "Some experts say public health messaging would be more credible if it focused less on measles deaths and acknowledged that most children survive."
-  },
-  {
-    "title": "STAT+: Mark Cuban wants to crack open the market for rare disease treatments",
-    "link": "https://www.statnews.com/2026/10/21/mark-cuban-cost-plus-drugs-rare-disease-medicines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-21T08:30:00.000Z",
-    "summary": "Mark Cuban's Cost Plus Drugs says it can reduce manufacturing costs for custom rare disease drugs and n-of-1 gene therapies."
-  },
-  {
-    "title": "Opinion: Replication is necessary even if scientists do everything right",
-    "link": "https://www.statnews.com/2026/10/21/nih-replication-process-type-1-error-bhattacharya/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-21T08:30:00.000Z",
-    "summary": "“Committing a Type 1 error does not reflect poorly on the quality of the science done,” writes Mark Louie F. Ramos"
-  },
-  {
     "title": "FDA approves hepatitis B antisense drug",
     "link": "https://www.nature.com/articles/d41573-026-00166-7",
     "source": "Nature Reviews Drug Discovery",
@@ -262,14 +278,6 @@
     "category": "industry",
     "date": "2026-10-20T12:00:00.000Z",
     "summary": "New types of bispecifics, antibody-drug conjugates and cell therapies haven’t yet proven themselves in the clinic. Pharmaceutical companies are betting billions anyway."
-  },
-  {
-    "title": "Disc’s once-spurned rare disease drug to get a second chance at approval",
-    "link": "https://www.biopharmadive.com/news/Disc-bitopertin-apollo-erythropoietic-protoporphyria-study-results/833327/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-19T16:27:00.000Z",
-    "summary": "Months after the FDA rejected its treatment for a rare light-sensitivity disease, the biotech claimed success in a Phase 3 trial and now plans to re-engage regulators."
   },
   {
     "title": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
