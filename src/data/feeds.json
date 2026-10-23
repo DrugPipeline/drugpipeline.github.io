@@ -1,5 +1,77 @@
 [
   {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/10/23/up-and-down-ladder-pharma-jobs-callio/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-23T15:59:07.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "Remembering STAT’s Helen Branswell",
+    "link": "https://www.statnews.com/2026/10/23/readout-loud-podcast-remembering-helen-branswell-infectious-disease/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-23T15:48:21.000Z",
+    "summary": "This week on the “The Readout LOUD” podcast, we remember our beloved colleague Helen Branswell, who died last week. We speak with colleagues, family, and public health leaders about her…"
+  },
+  {
+    "title": "This week in charts: a big year for RNAi developers",
+    "link": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-23T15:33:00.000Z",
+    "summary": "The latest installment in BioPharma Dive’s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it."
+  },
+  {
+    "title": "STAT+: Tango builds on Revolution Medicines’ pancreatic cancer success",
+    "link": "https://www.statnews.com/2026/10/23/tango-pancreatic-cancer-star-moderna-readout-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-23T15:24:28.000Z",
+    "summary": "As the ESMO conference kicks off, Tango's pancreatic cancer combination shows striking promise and detailed data on Moderna and Merck's cancer vaccine is released early."
+  },
+  {
+    "title": "Anxiety builds over Medicaid work requirements",
+    "link": "https://www.statnews.com/2026/10/23/medicaid-work-requirements-anxiety-morning-rounds-health-news/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-23T14:47:21.000Z",
+    "summary": "As a Boston judge heard a challenge to Medicaid work requirements, state Medicaid directors gathered in Maryland to figure out how to implement those sweeping changes."
+  },
+  {
+    "title": "STAT+: Treasury proposes major restrictions to U.S. investment in Chinese biotech sector",
+    "link": "https://www.statnews.com/2026/10/23/new-china-biotech-limits-coins-act-proposal-us-pharma-reaction/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-23T14:03:06.000Z",
+    "summary": "A new Treasury Department proposal would restrict U.S. investments in Chinese biotechs, but still allows licensing deals."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a cancer vaccine, an experimental pancreatic cancer drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/23/moderna-merck-cancer-vaccine-experimental-pancreatic-cancer-drug-esmo/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-23T13:45:14.000Z",
+    "summary": "A personalized mRNA cancer vaccine reduced the risk of disease recurrence in patients with melanoma by 42% compared to a standard treatment"
+  },
+  {
+    "title": "STAT+: AI drug firm Pathos raises $237 million, pushing valuation to $3 billion",
+    "link": "https://www.statnews.com/2026/10/23/pathos-ai-bristol-myers-squibb-tempus-deal/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-23T13:00:00.000Z",
+    "summary": "AI drug firm Pathos raises $237 million, a deal that brings together a big Tempus dataset, AI analysis from Pathos, and drug development from BMS."
+  },
+  {
+    "title": "Star adds $200M after spinout successes",
+    "link": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-23T11:00:00.000Z",
+    "summary": "Following exits for its subsidiaries Electra Therapeutics and Vega Therapeutics, Star is now mining for a new drug prospect."
+  },
+  {
     "title": "STAT+: Tango reports 82% tumor response rate in trial of combo therapy for advanced pancreatic cancer",
     "link": "https://www.statnews.com/2026/10/23/esmo-2026-trial-results-tango-therapeutics-vopimetostat-revolution-medicines-rasonque/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,14 +208,6 @@
     "summary": "U.S. regulators have accepted a new submission for Vyglxia, offering the chance at a turnaround for another rare disease medicine spurned by previous FDA leadership."
   },
   {
-    "title": "STAT+: Will the Treasury restrict U.S. investment in the Chinese biotech sector?",
-    "link": "https://www.statnews.com/2026/10/22/biotech-news-treasury-restrictions-for-us-investment-in-chinese-biotech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-22T16:17:03.000Z",
-    "summary": "Rumors are swirling that the Treasury Department this week is going to propose a rule that restricts U.S. investment in the Chinese biotech sector."
-  },
-  {
     "title": "GLP-1 compounder issues recall for copycat Zepbound",
     "link": "https://www.biopharmadive.com/news/glp1-obesity-drug-recall-apothecary-tirzepatide-zepbound/833712/",
     "source": "BioPharma Dive",
@@ -158,54 +222,6 @@
     "category": "industry",
     "date": "2026-10-22T15:20:26.000Z",
     "summary": "Lower-than-expected sales of Xolair stood out as the Swiss drugmaker readies for an onslaught of generic competition for top products."
-  },
-  {
-    "title": "STAT+: Crackdowns loom, from China to New York",
-    "link": "https://www.statnews.com/2026/10/22/china-biotech-coins-act-rule-health-insurance-costs-rise/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-22T15:06:28.000Z",
-    "summary": "Speaking on the economy, the vice president told a crowd in Ohio that, “You don’t turn the Titanic around overnight.” Send news tips and bad metaphors to John.Wilkerson@statnews.com or…"
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a U.S. rule on Chinese deals, Belgium refusing Mounjaro coverage, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/22/chinese-biotech-deals-scrutiny-belgium-refuses-mounjaro-coverage/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-22T13:42:46.000Z",
-    "summary": "U.S. is poised to issue a proposed rule that would subject outbound licensing deals with Chinese biotech companies to additional scrutiny"
-  },
-  {
-    "title": "STAT+: What to expect from the Moderna-Merck cancer vaccine data reveal",
-    "link": "https://www.statnews.com/2026/10/22/esmo-2026-what-to-know-ahead-of-moderna-merck-cancer-vaccine-data-reveal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-22T13:35:20.000Z",
-    "summary": "The Moderna-Merck cancer vaccine data reveal is days away. Here's what to expect."
-  },
-  {
-    "title": "STAT+: FDA finalizes its guidance on apps related to drugs, pharma rejoices",
-    "link": "https://www.statnews.com/2026/10/22/fda-pdurs-guidance-dtx-telehealth-glp1-addiction-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-22T13:17:29.000Z",
-    "summary": "In this edition of STAT Health Tech: FDA's guidance on prescription drug use-related software, and telehealth pushing GLP-1s for addiction."
-  },
-  {
-    "title": "Health insurance premiums jump 9%, and more Americans don’t have access to coverage",
-    "link": "https://www.statnews.com/2026/10/22/health-news-insurance-premiums-jump-more-americans-lose-coverage/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-22T12:22:12.000Z",
-    "summary": "Working-age U.S. adults without health insurance rose in 2026. Half of all uninsured people did not seek needed care because of cost concerns, according to a new survey."
-  },
-  {
-    "title": "STAT+: Workers are paying 9% more for family health coverage this year, a higher jump than in the recent past",
-    "link": "https://www.statnews.com/2026/10/22/kff-2026-benefits-survey-9-percent-premium-increase/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-22T09:00:00.000Z",
-    "summary": "A KFF survey finds that rising healthcare costs are squeezing both employers and workers."
   },
   {
     "title": "GSK, Ionis win US approval for first-of-its-kind hepatitis B drug",
@@ -248,28 +264,12 @@
     "summary": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis."
   },
   {
-    "title": "Rapport’s epilepsy drug finds surprising success in bipolar trial",
-    "link": "https://www.biopharmadive.com/news/rapport-bipolar-mania-clinical-trial-rap-219-results/833454/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-20T16:27:00.000Z",
-    "summary": "Despite what some analysts described as low expectations, RAP-219 narrowly hit the main goal of a mid-stage study, results that could help it tap a billion-dollar-plus market opportunity."
-  },
-  {
     "title": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-10-20T15:57:36.000Z",
     "summary": "Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal hormone therapy…"
-  },
-  {
-    "title": "Most new drugs are still too costly at launch, ICER says",
-    "link": "https://www.biopharmadive.com/news/icer-new-drug-launch-prices-report-2022-2025/833468/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-20T15:55:00.000Z",
-    "summary": "A new analysis from the non-profit group found that net launch prices for new medicines spiked significantly between 2022 and 2025, and the majority were well above its cost-effectiveness guidelines."
   },
   {
     "title": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
