@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
+    "link": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-27T20:53:00.000Z",
+    "summary": "The buyout hands Ferring rights to a technology capable of simplifying the lengthy and burdensome process of in vitro fertilization."
+  },
+  {
+    "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
+    "link": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-27T18:45:34.000Z",
+    "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers."
+  },
+  {
+    "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
+    "link": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-27T18:05:13.000Z",
+    "summary": "Recent deaths are setbacks in drug companies’ interest in applying cancer therapy strategies to autoimmune diseases."
+  },
+  {
     "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
     "link": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
     "source": "STAT News",
@@ -192,20 +216,12 @@
     "summary": "Bristol Myers Squibb reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial"
   },
   {
-    "title": "A virus that afflicts cows makes the jump to a human",
-    "link": "https://www.statnews.com/2026/10/26/health-news-virus-afflicting-cows-makes-the-jump-to-humans/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T13:26:15.000Z",
-    "summary": "For the first time, a human has been infected with the Shamonda virus, according to French officials. The World Health Organization says broader transmission is unlikely."
-  },
-  {
-    "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
-    "link": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
-    "source": "STAT News",
+    "title": "The molecule was fine. The moment wasn’t.",
+    "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
+    "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-26T09:00:00.000Z",
-    "summary": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health."
+    "summary": "Some overlooked medicines aren’t failures. They just arrived before the market was ready."
   },
   {
     "title": "Novel protein and peptide therapeutics",
@@ -216,12 +232,60 @@
     "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more."
   },
   {
-    "title": "The molecule was fine. The moment wasn’t.",
-    "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-26T09:00:00.000Z",
-    "summary": "Some overlooked medicines aren’t failures. They just arrived before the market was ready."
+    "title": "Restoring antibiotic efficacy",
+    "link": "https://www.nature.com/articles/d41573-026-00171-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Nanotherapy targets senescent cells",
+    "link": "https://www.nature.com/articles/d41573-026-00167-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "In vivo engineered CAR NK cells",
+    "link": "https://www.nature.com/articles/d41573-026-00172-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Antagonizing adenosine receptors alleviates cardiac fibrosis",
+    "link": "https://www.nature.com/articles/d41573-026-00168-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "IL-21 mimic synergizes with KRAS inhibitors",
+    "link": "https://www.nature.com/articles/d41573-026-00170-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "LNPs deliver large RNA cargos",
+    "link": "https://www.nature.com/articles/d41573-026-00169-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Bridging the capacity gap in advanced therapies",
+    "link": "https://www.nature.com/articles/d41573-026-00159-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "This week in charts: a big year for RNAi developers",
@@ -232,27 +296,11 @@
     "summary": "The latest installment in BioPharma Dive’s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it."
   },
   {
-    "title": "Star adds $200M after spinout successes",
-    "link": "https://www.biopharmadive.com/news/star-therapeutics-financing-vega-electra/833733/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-23T11:00:00.000Z",
-    "summary": "Following exits for its subsidiaries Electra Therapeutics and Vega Therapeutics, Star is now mining for a new drug prospect."
-  },
-  {
     "title": "FDA Launches New Program to Advance Neuroscience Medical Product Development",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-10-22T16:58:19.000Z",
     "summary": "FDA announces the launch of the Neuroscience Advancement and Innovation Nexus (NAIN), a new agency program aligned with the Trump Administration’s efforts to accelerate medical innovation and deliver…"
-  },
-  {
-    "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-10-20T19:40:38.000Z",
-    "summary": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis."
   }
 ]
