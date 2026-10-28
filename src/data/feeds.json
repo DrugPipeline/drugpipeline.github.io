@@ -1,5 +1,77 @@
 [
   {
+    "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
+    "link": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T20:51:12.000Z",
+    "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money."
+  },
+  {
+    "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
+    "link": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T16:35:03.000Z",
+    "summary": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds."
+  },
+  {
+    "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
+    "link": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-28T15:53:00.000Z",
+    "summary": "The highest dose of retatrutide beat Ozempic on measures of blood sugar and weight loss, but was also associated with higher side effect rates and treatment discontinuations."
+  },
+  {
+    "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
+    "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-28T15:15:00.000Z",
+    "summary": "The plan advances recent agency moves to accelerate “personalized” treatments by offering an approval framework for therapies that can benefit different subsets of patients with the same disease."
+  },
+  {
+    "title": "Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’",
+    "link": "https://www.statnews.com/2026/10/28/abdul-el-sayed-profile-midterm-policy-issues-health-care/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T15:14:49.000Z",
+    "summary": "Abdul El-Sayed has made headlines for his progressive politics and stance on Israel. But some supporters consider his public health background critical."
+  },
+  {
+    "title": "STAT+: Why every health care AI company must face Epic",
+    "link": "https://www.statnews.com/2026/10/28/health-care-ai-innovation-challenge-epic-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T14:52:17.000Z",
+    "summary": "In this edition of AI Prognosis: A new investigation into how Epic's market dominance is impacting health tech innovation and AI adoption."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/28/battles-over-340b-lilly-reports-weight-loss-drug-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T13:44:59.000Z",
+    "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program"
+  },
+  {
+    "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
+    "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T13:42:44.000Z",
+    "summary": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study."
+  },
+  {
+    "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
+    "link": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-28T13:27:00.000Z",
+    "summary": "Lilly intends to merge its U.S. and international divisions when a top executive retires. Elsewhere, Astellas closed in on what it believes to be a “best-in-class” cancer immunotherapy prospect."
+  },
+  {
     "title": "What has actually caused the decline in drug overdose deaths?",
     "link": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
     "source": "STAT News",
@@ -8,7 +80,7 @@
     "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop."
   },
   {
-    "title": "STAT+: Lilly says ‘triple-G’ drug beats Novo’s Ozempic in diabetes study",
+    "title": "STAT+: Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
     "link": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -136,60 +208,12 @@
     "summary": "“In 2026, the unprecedented pediatric patient crowding of 2022 has become a normal Tuesday,” write Jonathan Kohler and Mary King."
   },
   {
-    "title": "Opinion: Cancer vaccines are finally here. How do we get them to patients?",
-    "link": "https://www.statnews.com/2026/10/27/cancer-vaccines-intismeran-autogene-esmo-results-delivery-access/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-27T08:30:00.000Z",
-    "summary": "“If we want cancer vaccines to reach patients faster than BRCA testing did, there are several challenges to address now,” write Karen E. Knudsen and Othman Laraki."
-  },
-  {
-    "title": "STAT+: Pennsylvania Dutch country, tired of waiting for biopharma, builds drug company of its own",
-    "link": "https://www.statnews.com/2026/10/27/gene-therapy-cow-rare-disease-amish-mennonite-patients-waiting/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-27T08:30:00.000Z",
-    "summary": "A small community tests if it can solve a crisis no one else could, for the simple reason that they have no other choice."
-  },
-  {
-    "title": "STAT+: Roche gets a lung cancer win with its KRAS drug divarasib",
-    "link": "https://www.statnews.com/2026/10/26/roche-kras-drug-divarasib-lung-cancer-treatment-win/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T23:17:13.000Z",
-    "summary": "One of the more impressive data sets at this year’s ESMO came from a Roche study of its drug divarasib, which treats lung cancer."
-  },
-  {
-    "title": "STAT+: Nonprofit Bon Secours Mercy Health strikes $5.7 billion deal for surgery center chain",
-    "link": "https://www.statnews.com/2026/10/26/bon-secours-mercy-health-surgery-partners-deal-ambulatory-surgery-centers-bain-capital/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T21:54:24.000Z",
-    "summary": "The deal would make the Catholic system one of the largest operators of outpatient surgery centers."
-  },
-  {
-    "title": "STAT+: HHS relaxes security, transparency rules for health record software used by hospitals",
-    "link": "https://www.statnews.com/2026/10/26/health-data-interoperability-hti5-relaxes-privacy-security-requirements/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T21:16:11.000Z",
-    "summary": "The Trump administration removed several security, privacy and transparency requirements for vendors of EHR software."
-  },
-  {
     "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
     "link": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-26T19:17:00.000Z",
     "summary": "Armed with a $300 million financing and two GLP-1 and amylin-targeting medicines, Corxel is set to become the latest weight loss-focused company to join the public markets."
-  },
-  {
-    "title": "STAT+: House lawmaker probes PBMs for ‘punitive’ audits of independent pharmacies",
-    "link": "https://www.statnews.com/pharmalot/2026/10/26/lawmaker-probes-pbms-for-punitive-audits-independent-pharmacies/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T16:26:50.000Z",
-    "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits."
   },
   {
     "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
@@ -214,22 +238,6 @@
     "category": "industry",
     "date": "2026-10-26T13:59:35.000Z",
     "summary": "A patient who received Bristol Myers’ zola-cel died 44 days later. Elsewhere, Gilead paid nearly $1.3 billion for a potential threat to J&J’s newly approved psoriasis pill."
-  },
-  {
-    "title": "The molecule was fine. The moment wasn’t.",
-    "link": "https://www.biopharmadive.com/spons/the-molecule-was-fine-the-moment-wasnt/833616/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-26T09:00:00.000Z",
-    "summary": "Some overlooked medicines aren’t failures. They just arrived before the market was ready."
-  },
-  {
-    "title": "Novel protein and peptide therapeutics",
-    "link": "https://www.biopharmadive.com/spons/novel-protein-and-peptide-therapeutics/833429/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-26T09:00:00.000Z",
-    "summary": "Explore manufacturing challenges and solutions for ADCs, bispecifics, peptides and more."
   },
   {
     "title": "Restoring antibiotic efficacy",
@@ -286,14 +294,6 @@
     "category": "research",
     "date": "2026-10-26T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "This week in charts: a big year for RNAi developers",
-    "link": "https://www.biopharmadive.com/news/charts-rna-interference-rnai-drug-venture-ipos/833784/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-23T15:33:00.000Z",
-    "summary": "The latest installment in BioPharma Dive’s data visualization series features a look at the emerging popularity of RNAi developers, and the funding that came with it."
   },
   {
     "title": "FDA Launches New Program to Advance Neuroscience Medical Product Development",
