@@ -1,5 +1,53 @@
 [
   {
+    "title": "What has actually caused the decline in drug overdose deaths?",
+    "link": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T12:01:13.000Z",
+    "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop."
+  },
+  {
+    "title": "STAT+: Lilly says ‘triple-G’ drug beats Novo’s Ozempic in diabetes study",
+    "link": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T10:45:00.000Z",
+    "summary": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers."
+  },
+  {
+    "title": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
+    "link": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T08:30:00.000Z",
+    "summary": "“It is dizzying to have a family clamoring for the MMR vaccine in one room while the room next door adamantly opposes vaccination,” writes a pediatrician."
+  },
+  {
+    "title": "Have you been impacted by Epic’s actions?",
+    "link": "https://www.statnews.com/2026/10/28/epic-systems-electronic-health-records-reader-callout/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T08:30:00.000Z",
+    "summary": "STAT is looking to learn, from people with direct knowledge, how Epic's actions impact hospitals' technology choices. Share your story with us."
+  },
+  {
+    "title": "Opinion: Freezing my eggs showed me just how anti-feminist the fertility industry can be",
+    "link": "https://www.statnews.com/2026/10/28/fertility-industry-private-equity-egg-freezing-ethics-costs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T08:30:00.000Z",
+    "summary": "“A few years ago, I froze my eggs — and the experience was anything but empowering,” writes physician Pooja Yerramilli."
+  },
+  {
+    "title": "STAT+: As Epic’s dominance grows, its iron grip is choking innovation in health technology",
+    "link": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-28T08:30:00.000Z",
+    "summary": "A STAT investigation found that Epic selectively withholds access to patient data, disadvantaging rival software developers and stymying innovation."
+  },
+  {
     "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
     "link": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
     "source": "BioPharma Dive",
@@ -144,14 +192,6 @@
     "summary": "A House lawmaker is investigating whether the three largest PMS targeted independent pharmacies withretaliatory audits."
   },
   {
-    "title": "STAT+: GSK sees its return to cancer start to pay off",
-    "link": "https://www.statnews.com/2026/10/26/gsk-cancer-esmo-adcs-jemperli/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T16:20:05.000Z",
-    "summary": "A decade ago, GSK was out of oncology. It could soon pick up approval for its sixth cancer drug."
-  },
-  {
     "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
     "link": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
     "source": "BioPharma Dive",
@@ -168,52 +208,12 @@
     "summary": "At one of the year’s premiere meetings for cancer research, melanoma vaccine data hailed by scientists sparked a share sell-off on Wall Street, while a lung drug received a standing ovation."
   },
   {
-    "title": "STAT+: Merck ADC drug cut risk of death by one-third in advanced endometrial cancer",
-    "link": "https://www.statnews.com/2026/10/26/merck-kelun-sac-tmt-endometrial-cancer-study-esmo-2026/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T15:30:00.000Z",
-    "summary": "A Phase 3 trial of a targeted drug developed by Merck and China’s Kelun-Biotech cut by one-third the risk of death in patients with advanced endometrial cancer."
-  },
-  {
-    "title": "STAT+: Rising premiums, a sad Medicaid gathering, and a new fraud crackdown",
-    "link": "https://www.statnews.com/2026/10/26/health-insurance-costs-medicaid-challenges-cms-fraud-crackdown-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T14:38:28.000Z",
-    "summary": "The cost of health insurance is surging, and CMS presses ahead with a new fraud crackdown."
-  },
-  {
     "title": "Another autoimmune CAR-T death; Treasury zeroes in on China deals",
     "link": "https://www.biopharmadive.com/news/autoimmune-bristol-death-treasury-china-gilead-pepstar-zymeworks/833901/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-26T13:59:35.000Z",
     "summary": "A patient who received Bristol Myers’ zola-cel died 44 days later. Elsewhere, Gilead paid nearly $1.3 billion for a potential threat to J&J’s newly approved psoriasis pill."
-  },
-  {
-    "title": "STAT+: Incyte pancreatic cancer medicine induces lasting tumor responses, company says at ESMO",
-    "link": "https://www.statnews.com/2026/10/26/incyte-esmo-pancreatic-cancer-incb161734-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T13:57:14.000Z",
-    "summary": "A targeted drug from Incyte, when used in combination with chemotherapy, induced lasting tumor responses in certain patients with pancreatic cancer."
-  },
-  {
-    "title": "STAT+: Five biotech updates to read after ESMO this weekend",
-    "link": "https://www.statnews.com/2026/10/26/biotech-news-moderna-ceo-on-whats-next-after-intismeran-success/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T13:38:56.000Z",
-    "summary": "Moderna and Merck are racing to submit their personalized cancer vaccine for FDA approval, expected in 2027, according to Moderna CEO Stéphane Bancel."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Roche lung cancer drug, a Bristol CAR-T trial death, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/26/roche-lung-cancer-drug-patient-death-in-bristol-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-26T13:37:51.000Z",
-    "summary": "Bristol Myers Squibb reported that one patient died after receiving its investigational CAR-T therapy in an early autoimmune trial"
   },
   {
     "title": "The molecule was fine. The moment wasn’t.",
