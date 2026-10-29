@@ -1,5 +1,101 @@
 [
   {
+    "title": "Labor Department finalizes sweeping PBM disclosure rule",
+    "link": "https://www.biopharmadive.com/news/pbm-transparency-final-rule-labor-department-employer/873254/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-29T20:30:00.000Z",
+    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients. Employers cheered the rule, while PBMs slammed it…"
+  },
+  {
+    "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
+    "link": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T18:57:37.000Z",
+    "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues."
+  },
+  {
+    "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
+    "link": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T16:44:05.000Z",
+    "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private."
+  },
+  {
+    "title": "STAT+: The EPIC investigation, and a Teladoc surprise",
+    "link": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T16:15:20.000Z",
+    "summary": "In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI."
+  },
+  {
+    "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
+    "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-29T16:06:00.000Z",
+    "summary": "The drugmaker’s market value swelled by more than $7 billion on findings suggesting a recently-acquired medicine could become a new treatment standard for a form of head and neck cancer."
+  },
+  {
+    "title": "HHS to allow compounders to make 6 unapproved peptides",
+    "link": "https://www.biopharmadive.com/news/hhs-peptides-rfk-fda-compounders/873141/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-29T14:52:00.000Z",
+    "summary": "RFK Jr. has given notice that the agency won’t take enforcement action on six peptides that controversially won a contested recommendation from outside advisers to the FDA in July."
+  },
+  {
+    "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
+    "link": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T14:45:48.000Z",
+    "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement."
+  },
+  {
+    "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
+    "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T14:18:27.000Z",
+    "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides."
+  },
+  {
+    "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
+    "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T13:43:44.000Z",
+    "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists."
+  },
+  {
+    "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
+    "link": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T13:38:36.000Z",
+    "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:"
+  },
+  {
+    "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
+    "link": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T13:25:01.000Z",
+    "summary": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-29T12:52:11.000Z",
+    "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products"
+  },
+  {
     "title": "Flagship blends three biotech startups to form Etcelera",
     "link": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
     "source": "BioPharma Dive",
@@ -120,84 +216,12 @@
     "summary": "Lilly intends to merge its U.S. and international divisions when a top executive retires. Elsewhere, Astellas closed in on what it believes to be a “best-in-class” cancer immunotherapy prospect."
   },
   {
-    "title": "What has actually caused the decline in drug overdose deaths?",
-    "link": "https://www.statnews.com/2026/10/28/health-news-why-are-overdose-deaths-declining/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T12:01:13.000Z",
-    "summary": "After years of steep increases, especially amid the pandemic, U.S. overdose deaths decreased 27% in 2024, and preliminary data from 2025 show another meaningful drop."
-  },
-  {
-    "title": "STAT+: Lilly says ‘triple-G’ drug beat Novo’s Ozempic in diabetes study",
-    "link": "https://www.statnews.com/2026/10/28/retatrutide-vs-ozempic-lilly-diabetes-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T10:45:00.000Z",
-    "summary": "Data add to expectations that the drug will be one of Lilly’s greatest growth drivers."
-  },
-  {
-    "title": "Opinion: How pediatricians like me are helping families stay calm and informed about measles",
-    "link": "https://www.statnews.com/2026/10/28/measles-parents-panic-pennsylvania-vaccines-education/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T08:30:00.000Z",
-    "summary": "“It is dizzying to have a family clamoring for the MMR vaccine in one room while the room next door adamantly opposes vaccination,” writes a pediatrician."
-  },
-  {
-    "title": "Have you been impacted by Epic’s actions?",
-    "link": "https://www.statnews.com/2026/10/28/epic-systems-electronic-health-records-reader-callout/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T08:30:00.000Z",
-    "summary": "STAT is looking to learn, from people with direct knowledge, how Epic's actions impact hospitals' technology choices. Share your story with us."
-  },
-  {
-    "title": "Opinion: Freezing my eggs showed me just how anti-feminist the fertility industry can be",
-    "link": "https://www.statnews.com/2026/10/28/fertility-industry-private-equity-egg-freezing-ethics-costs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T08:30:00.000Z",
-    "summary": "“A few years ago, I froze my eggs — and the experience was anything but empowering,” writes physician Pooja Yerramilli."
-  },
-  {
-    "title": "STAT+: As Epic’s dominance grows, its iron grip is choking innovation in health technology",
-    "link": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T08:30:00.000Z",
-    "summary": "A STAT investigation found that Epic selectively withholds access to patient data, disadvantaging rival software developers and stymying innovation."
-  },
-  {
     "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
     "link": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-27T20:53:00.000Z",
     "summary": "The buyout hands Ferring rights to a technology capable of simplifying the lengthy and burdensome process of in vitro fertilization."
-  },
-  {
-    "title": "STAT+: Missouri AG warns Lilly to stop requiring data from hospitals seeking 340B drug discounts",
-    "link": "https://www.statnews.com/pharmalot/2026/10/27/missouri-ag-warns-lilly-340b-drug-pricing-data/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-27T18:45:34.000Z",
-    "summary": "Missouri AG told Lilly to stop forcing hospitals to provide claims data to receive discounted medicines under 340B, a sign more states are pushing back against drugmakers."
-  },
-  {
-    "title": "STAT+: After two deaths in autoimmune cell therapy trial, Artiva is shutting down",
-    "link": "https://www.statnews.com/2026/10/27/autoimmune-cell-therapy-trial-artiva-therapeutics-shutting-down/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-27T18:05:13.000Z",
-    "summary": "Recent deaths are setbacks in drug companies’ interest in applying cancer therapy strategies to autoimmune diseases."
-  },
-  {
-    "title": "STAT+: FDA offers new details on quicker approval pathway for personalized gene therapies",
-    "link": "https://www.statnews.com/2026/10/27/fda-personalized-gene-therapy-guidance-individualized-feature-space/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-27T16:17:33.000Z",
-    "summary": "Rare disease advocates applauded the FDA's move to speed access to treatments."
   },
   {
     "title": "Court rejects Novo bid to block Lilly obesity drug ads",
@@ -214,30 +238,6 @@
     "category": "industry",
     "date": "2026-10-27T15:44:00.000Z",
     "summary": "The disclosure makes Artiva the third company to recently report fatal events in an autoimmune cell therapy trial, following announcements from Novartis and Bristol Myers Squibb."
-  },
-  {
-    "title": "Corxel, an obesity drugmaker, to go public via SPAC deal",
-    "link": "https://www.biopharmadive.com/news/corxel-pharmaceuticals-spac-public-obesity-drugs/872772/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-26T19:17:00.000Z",
-    "summary": "Armed with a $300 million financing and two GLP-1 and amylin-targeting medicines, Corxel is set to become the latest weight loss-focused company to join the public markets."
-  },
-  {
-    "title": "BioNTech, DualityBio say ADC had ‘modest’ benefit in breast cancer study",
-    "link": "https://www.biopharmadive.com/news/biontech-dualitybio-modest-results-adc-breast-cancer/839574/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-26T16:06:00.000Z",
-    "summary": "The companies said the findings suggest the treatment has a “limited” impact in HER2-low breast cancer, an area where AstraZeneca and Daiichi Sankyo’s Enhertu has already set a high bar."
-  },
-  {
-    "title": "ESMO ‘26: A cancer vaccine debate, Roche’s KRAS progress and Amgen’s ‘unprecedented’ data",
-    "link": "https://www.biopharmadive.com/news/esmo-2026-intismeran-melanoma-imdelltra-divarasib-kras-g12c/833921/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-26T15:58:00.000Z",
-    "summary": "At one of the year’s premiere meetings for cancer research, melanoma vaccine data hailed by scientists sparked a share sell-off on Wall Street, while a lung drug received a standing ovation."
   },
   {
     "title": "Restoring antibiotic efficacy",
@@ -294,13 +294,5 @@
     "category": "research",
     "date": "2026-10-26T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Launches New Program to Advance Neuroscience Medical Product Development",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-10-22T16:58:19.000Z",
-    "summary": "FDA announces the launch of the Neuroscience Advancement and Innovation Nexus (NAIN), a new agency program aligned with the Trump Administration’s efforts to accelerate medical innovation and deliver…"
   }
 ]
