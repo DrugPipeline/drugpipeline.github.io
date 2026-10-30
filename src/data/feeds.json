@@ -1,6 +1,54 @@
 [
   {
-    "title": "Aspen raises a $140M IPO in pursuit of a cell therapy for Parkinson’s",
+    "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
+    "link": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-30T11:50:00.000Z",
+    "summary": "Lilly’s better-than-expected results allayed concerns — for now — over GLP-1 pricing pressure. Elsewhere, Novartis withstood a tumultuous quarter and GSK battled investor angst."
+  },
+  {
+    "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
+    "link": "https://www.statnews.com/2026/10/30/maha-measles-letter-1834-pseudoscience-women/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T08:30:00.000Z",
+    "summary": "An 1834 letter about a measles outbreak sheds light on today’s anti-vaccine movement, writes a medical historian."
+  },
+  {
+    "title": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in clinical settings",
+    "link": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T08:30:00.000Z",
+    "summary": "Officials are moving behind the scenes to head off a conflict brewing between states and the federal government over regulating AI."
+  },
+  {
+    "title": "The health care issues STAT reporters are watching in the midterms",
+    "link": "https://www.statnews.com/2026/10/30/health-care-policy-midterm-elections-status-report-alex-hogan/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T08:30:00.000Z",
+    "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview."
+  },
+  {
+    "title": "Opinion: How Congress can fix expert advisory committees",
+    "link": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T08:30:00.000Z",
+    "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim."
+  },
+  {
+    "title": "STAT+: How a simple UTI turns into a $1,756 bill",
+    "link": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T08:30:00.000Z",
+    "summary": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars."
+  },
+  {
+    "title": "Aspen raises a $141M IPO in pursuit of a cell therapy for Parkinson’s",
     "link": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
     "source": "BioPharma Dive",
     "category": "industry",
@@ -160,14 +208,6 @@
     "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money."
   },
   {
-    "title": "STAT+: HHS moves to allow compounding of some unapproved peptides",
-    "link": "https://www.statnews.com/2026/10/28/hhs-enforcement-discretion-policy-allows-peptide-compounding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T16:35:03.000Z",
-    "summary": "Kennedy and his MAHA movement have embraced peptides, though there's little evidence for many of the wellness compounds."
-  },
-  {
     "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
     "link": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
     "source": "BioPharma Dive",
@@ -184,38 +224,6 @@
     "summary": "The plan builds on recent FDA moves to speed \"personalized\" treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease."
   },
   {
-    "title": "STAT+: Senate candidate El-Sayed wants to ‘grill’ RFK Jr., calls him the ‘most incompetent HHS secretary ever’",
-    "link": "https://www.statnews.com/2026/10/28/abdul-el-sayed-profile-midterm-policy-issues-health-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T15:14:49.000Z",
-    "summary": "Abdul El-Sayed has made headlines for his progressive politics and stance on Israel. But some supporters consider his public health background critical."
-  },
-  {
-    "title": "STAT+: Why every health care AI company must face Epic",
-    "link": "https://www.statnews.com/2026/10/28/health-care-ai-innovation-challenge-epic-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T14:52:17.000Z",
-    "summary": "In this edition of AI Prognosis: A new investigation into how Epic's market dominance is impacting health tech innovation and AI adoption."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about 340B battles, new results for a Lilly weight loss drug, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/28/battles-over-340b-lilly-reports-weight-loss-drug-results/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T13:44:59.000Z",
-    "summary": "Missouri attorney general warned Eli Lilly to discontinue requiring hospitals to provide claims data to receive discounted medicines under 340B program"
-  },
-  {
-    "title": "STAT+: Lilly’s triple-G drug beats Ozempic in head-to-head study",
-    "link": "https://www.statnews.com/2026/10/28/biotech-news-lillys-triple-g-drug-beats-ozempic-in-head-to-head-study/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T13:42:44.000Z",
-    "summary": "Eli Lilly announced that its investigational drug retatrutide was more effective at lowering blood sugar and cutting weight than Novo Nordisk’s Ozempic in a large diabetes study."
-  },
-  {
     "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
     "link": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
     "source": "BioPharma Dive",
@@ -230,14 +238,6 @@
     "category": "industry",
     "date": "2026-10-27T20:53:00.000Z",
     "summary": "The buyout hands Ferring rights to a technology capable of simplifying the lengthy and burdensome process of in vitro fertilization."
-  },
-  {
-    "title": "Court rejects Novo bid to block Lilly obesity drug ads",
-    "link": "https://www.biopharmadive.com/news/novo-lilly-lawsuit-ruling-false-advertising-wegovy-zepbound/872856/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-27T16:03:00.000Z",
-    "summary": "Novo failed to prove that Lilly’s campaign — which featured claims of obesity drug superiority — meaningfully harmed the Danish company’s sales, a federal judge ruled."
   },
   {
     "title": "Restoring antibiotic efficacy",
