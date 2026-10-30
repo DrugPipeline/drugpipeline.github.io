@@ -1,11 +1,75 @@
 [
   {
+    "title": "FDA Approves First Plasmid DNA-based Immunotherapy for Adults with Recurrent Respiratory Papillomatosis",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-plasmid-dna-based-immunotherapy-adults-recurrent-respiratory-papillomatosis",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-10-30T20:32:08.000Z",
+    "summary": "The U.S. Food and Drug Administration today granted accelerated approval for Voceryq (doruxapapogene ralaplasmid and lalikinogene sifuplasmid-gxfd) for treatment of adults with recurrent respiratory…"
+  },
+  {
+    "title": "This week in charts: ESMO’s winners and losers",
+    "link": "https://www.biopharmadive.com/news/biotech-charts-esmo-2026-winners-losers/873281/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-30T16:00:00.000Z",
+    "summary": "The latest installment in BioPharma Dive’s visualization-focused series looks at Wall Street’s response to a trio of closely watched presentations at a top meeting for cancer drugs."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/10/30/up-and-down-the-ladder-jobs-pharma-biotech-lilly/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T14:45:50.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "How Election Day can affect your heart",
+    "link": "https://www.statnews.com/2026/10/30/election-stress-heart-attack-risk/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T14:07:14.000Z",
+    "summary": "Political campaigns can do more than raise your blood pressure. Studies link election stress to irregular heartbeats and an increase in heart attacks."
+  },
+  {
+    "title": "Assessing Merck and Moderna’s mRNA cancer vaccine",
+    "link": "https://www.statnews.com/2026/10/30/readout-loud-podcast-oncology-cancer-vaccine-moderna-merck-amgen-roche/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T13:33:55.000Z",
+    "summary": "On this week's “The Readout LOUD,” we discuss the latest cancer data presented at the annual meeting of the European Society for Medical Oncology."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about AstraZeneca cost-cutting, Sun Pharma facility problems, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/10/30/astrazeneca-cost-cutting-sun-pharma-facility-problems/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T13:22:49.000Z",
+    "summary": "AstraZeneca has launched a three-year cost-cutting program that aims to slice off $1.5 billion a year, with the savings reinvested in R&D."
+  },
+  {
+    "title": "The persisting paradox of men’s health",
+    "link": "https://www.statnews.com/2026/10/30/health-news-the-paradox-of-men-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-10-30T13:12:49.000Z",
+    "summary": "A new series in The Lancet argues for the need to investigate a paradox of men’s health: why men experience worse health outcomes than women, even though they hold undeniable…"
+  },
+  {
     "title": "Earnings roundup: Lilly’s unwavering momentum, Novartis’ rebound and GSK’s waiting game",
     "link": "https://www.biopharmadive.com/news/biopharma-earnings-q3-2026-lilly-novartis-gsk/873167/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-30T11:50:00.000Z",
     "summary": "Lilly’s better-than-expected results allayed concerns — for now — over GLP-1 pricing pressure. Elsewhere, Novartis withstood a tumultuous quarter and GSK battled investor angst."
+  },
+  {
+    "title": "With Setara, the team behind Actio opens its second act",
+    "link": "https://www.biopharmadive.com/news/setara-actio-charcot-marie-tooth-ion-channel-drugs/873227/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-10-30T10:30:00.000Z",
+    "summary": "The fledgling startup has $90 million to develop a pipeline of drugs, led by a Charcot-Marie-Tooth disease medicine, that Actio was working on when Jazz Pharmaeuticals bought its lead epilepsy…"
   },
   {
     "title": "Opinion: What a mother’s 1834 letter about measles tells us about MAHA",
@@ -168,46 +232,6 @@
     "summary": "A new atlas of colorectal tumors sheds light on why cancers in young people are more dangerous."
   },
   {
-    "title": "Opinion: STAT+: Is AI more a partner, competitor, or crutch for biomedical scientists?",
-    "link": "https://www.statnews.com/2026/10/29/ai-science-biology-dependence-ethics-research/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T08:30:00.000Z",
-    "summary": "Biologist Paul Knoepfler asks: Could overdependence on AI make us less capable as researchers?"
-  },
-  {
-    "title": "STAT+: Biopharma industry at odds over impact of Treasury’s new China rule",
-    "link": "https://www.statnews.com/2026/10/29/biotech-licensing-deals-treasury-rules-stir-debate/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T08:30:00.000Z",
-    "summary": "An exemption for a common kind of biopharma deal is at the heart of disagreements over the proposal."
-  },
-  {
-    "title": "Politicians have failed to tackle health care affordability. It’s now voters’ rallying cry",
-    "link": "https://www.statnews.com/2026/10/29/health-care-costs-midterms-issue-out-of-pocket-series-part-6/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T08:30:00.000Z",
-    "summary": "As costs surge, voters are embracing more radical solutions to the crisis."
-  },
-  {
-    "title": "Opinion: Health care needs buyers willing to say no",
-    "link": "https://www.statnews.com/2026/10/29/health-care-premiums-open-enrollment-employer-costs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T08:30:00.000Z",
-    "summary": "\"The industry’s major players have little appetite for change,\" writes Anthony T. Lo Sasso."
-  },
-  {
-    "title": "STAT+: Lawmaker wants government watchdog to probe TrumpRx over claims about drug savings",
-    "link": "https://www.statnews.com/pharmalot/2026/10/28/lawmaker-wants-gao-probe-trumprx-drug-pricing/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-28T20:51:12.000Z",
-    "summary": "A House lawmaker asked the Government Accountability Office to review whether the TrumpRx platform has saved Americans any money."
-  },
-  {
     "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
     "link": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
     "source": "BioPharma Dive",
@@ -222,22 +246,6 @@
     "category": "industry",
     "date": "2026-10-28T15:15:00.000Z",
     "summary": "The plan builds on recent FDA moves to speed \"personalized\" treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease."
-  },
-  {
-    "title": "Lilly shuffles business structure; Novartis writes off part of Avidity deal",
-    "link": "https://www.biopharmadive.com/news/lilly-global-markets-novartis-avidity-astellas-talzenna-prana/872857/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-28T13:27:00.000Z",
-    "summary": "Lilly intends to merge its U.S. and international divisions when a top executive retires. Elsewhere, Astellas closed in on what it believes to be a “best-in-class” cancer immunotherapy prospect."
-  },
-  {
-    "title": "Ferring to acquire next-gen IVF startup Gameto for up to $1.4B",
-    "link": "https://www.biopharmadive.com/news/ferring-gameto-acquire-ivf-fertilo-womens-health/872904/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-27T20:53:00.000Z",
-    "summary": "The buyout hands Ferring rights to a technology capable of simplifying the lengthy and burdensome process of in vitro fertilization."
   },
   {
     "title": "Restoring antibiotic efficacy",
