@@ -1,5 +1,93 @@
 [
   {
+    "title": "Keytruda biosimilars are coming — but they face an uphill battle",
+    "link": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-02T14:34:00.000Z",
+    "summary": "A patent cliff is fast approaching for Merck’s flagship blockbuster, but the deck might be stacked against its biosimilars gaining widespread traction."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about payments to Russian middlemen, a possible Dupixent rival, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/02/drugmaker-payments-to-russian-middlemen-possible-dupixent-rival/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T14:22:08.000Z",
+    "summary": "Four big drugmakers allegedly paid tens of millions of dollars to middlemen to supply lifesaving drugs to Russian government entities"
+  },
+  {
+    "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
+    "link": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-02T14:00:00.000Z",
+    "summary": "AstraZeneca will “redeploy resources” through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter."
+  },
+  {
+    "title": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-11-02T13:56:06.000Z",
+    "summary": "The U.S. Food and Drug Administration today issued final guidance for manufacturers of cellular and gene therapy (CGT) products to implement a comprehensive, science- and risk-based plan for making…"
+  },
+  {
+    "title": "A STAT reporter on covering MRT as an experimental fertility treatment",
+    "link": "https://www.statnews.com/2026/11/02/health-news-stat-reporter-qa-on-mit-as-experimental-fertility-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T13:08:42.000Z",
+    "summary": "Inside the global fertility industry using women as \"guinea pigs\":"
+  },
+  {
+    "title": "Breaking the silos: What effective scenario modeling looks like in 2026 and beyond",
+    "link": "https://www.biopharmadive.com/spons/breaking-the-silos-what-effective-scenario-modeling-looks-like-in-2026-and/872840/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-02T10:00:00.000Z",
+    "summary": "Explore how integrated scenario modeling helps pharma leaders navigate pricing uncertainty and the complexity of global launches."
+  },
+  {
+    "title": "Are you pursuing MRT as a treatment for infertility? Tell us about your experience",
+    "link": "https://www.statnews.com/2026/11/02/mrt-fertility-treatment-advanced-maternal-age-three-parent-ivf-reader-callout/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T09:30:00.000Z",
+    "summary": "Are you pursuing MRT as a treatment for infertility? STAT wants to hear from you"
+  },
+  {
+    "title": "STAT+: Coming readout of Kymera eczema trial is a high-stakes moment in a bid to rival Dupixent",
+    "link": "https://www.statnews.com/2026/11/02/kymera-therapeutics-trial-results-eczema-dupixent-rival/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T09:30:00.000Z",
+    "summary": "Investors and doctors are intensely awaiting mid-stage results of an experimental Kymera therapy positioned to rival Dupixent."
+  },
+  {
+    "title": "Opinion: Cancer patients are often pressured to end a pregnancy early. They shouldn’t be",
+    "link": "https://www.statnews.com/2026/11/02/pregnant-cancer-patients-abortion-early-labor-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T09:30:00.000Z",
+    "summary": "Women can be safely treated for many cancers during pregnancy, a maternal fetal medicine specialist writes."
+  },
+  {
+    "title": "Opinion: The economics of the U.S. health care system are broken",
+    "link": "https://www.statnews.com/2026/11/02/american-health-care-costs-broken-economics-solutions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T09:30:00.000Z",
+    "summary": "“The economics of the U.S. health care system are broken,” writes Paul Markovich, president and CEO of Ascendiun."
+  },
+  {
+    "title": "Women travel thousands of miles for a reproductive moonshot. Scientists say they’ve been misled",
+    "link": "https://www.statnews.com/2026/11/02/three-parent-ivf-fertility-tourism-investigation-mrt-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T09:30:00.000Z",
+    "summary": "Pioneering IVF technique to reduce the risk of children inheriting mitochondrial diseases is being marketed as a fertility procedure for older women, despite little evidence it works."
+  },
+  {
     "title": "STAT+: The 4 biggest ways the midterms could change health policy, according to policymakers, lobbyists, and experts",
     "link": "https://www.statnews.com/2026/10/31/midterm-election-tipping-point-healthcare-policy/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,14 +240,6 @@
     "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private."
   },
   {
-    "title": "STAT+: The EPIC investigation, and a Teladoc surprise",
-    "link": "https://www.statnews.com/2026/10/29/epic-investigation-teladoc-surprise-ai-payment-model-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T16:15:20.000Z",
-    "summary": "In this edition of STAT Health Tech: An Epic investigation, a Teladoc surprise, and figuring out how to pay for AI."
-  },
-  {
     "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
     "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
     "source": "BioPharma Dive",
@@ -174,77 +254,5 @@
     "category": "industry",
     "date": "2026-10-29T14:52:00.000Z",
     "summary": "RFK Jr. has given notice that the agency won’t take enforcement action on six peptides that controversially won a contested recommendation from outside advisers to the FDA in July."
-  },
-  {
-    "title": "STAT+: Kennedy’s closing arguments for the 2026 midterms: Fraud, vaccines, and MAHA",
-    "link": "https://www.statnews.com/2026/10/29/rfk-jr-midterm-health-care-policy-maha-fraud-vaccines/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T14:45:48.000Z",
-    "summary": "RFK Jr. is making his pitch ahead of a midterm election that could shape the fate of his MAHA movement."
-  },
-  {
-    "title": "STAT+: El-Sayed claps back at RFK Jr., and FDA’s ‘enforcement discretion’ on peptides",
-    "link": "https://www.statnews.com/2026/10/29/el-sayed-claps-back-at-rfk-jr-fda-peptide-policy-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T14:18:27.000Z",
-    "summary": "Abdul El-Sayed, the Democratic Senate candidate in Michigan, pushes back against the RFK Jr.'s claims, and the new FDA policy around peptides."
-  },
-  {
-    "title": "STAT+: HHS green lights six peptides, despite concerns from FDA scientists",
-    "link": "https://www.statnews.com/2026/10/29/biotech-news-hhs-green-lights-six-peptides-for-now/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T13:43:44.000Z",
-    "summary": "Great news for peptide fans: The Trump administration is giving the peptide craze a regulatory boost, despite objections from FDA career scientists."
-  },
-  {
-    "title": "Martin Kulldorff critiques scientific gatekeepers at NIH lecture",
-    "link": "https://www.statnews.com/2026/10/29/health-news-martin-kulldorff-critiques-scientific-gatekeepers-at-nih-lecture/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T13:38:36.000Z",
-    "summary": "Martin Kulldorff, the biostatistician who advocated against Covid lockdowns, insisted that the rise in measles cases is caused by a widely disputed claim about said lockdowns:"
-  },
-  {
-    "title": "STAT+: Vertex kidney disease drug scrutinized for infection risk",
-    "link": "https://www.statnews.com/2026/10/29/biotech-news-vertex-kidney-disease-drug-scrutinized-for-infection-risk/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T13:25:01.000Z",
-    "summary": "Ahead of its FDA approval decision on Nov 30, Vertex's kidney disease drug is being heavily scrutinized for infection risk."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a new policy for compounding peptides, a PBM disclosure rule, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/10/29/peptides-policy-released-by-hhs-pbm-disclosure-requirements/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T12:52:11.000Z",
-    "summary": "HHS released a policy that will temporarily allow compounding pharmacies to manufacture some peptide products"
-  },
-  {
-    "title": "Flagship blends three biotech startups to form Etcelera",
-    "link": "https://www.biopharmadive.com/news/flagship-etcelera-etiome-empress-cellarity-launch/872947/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-29T10:30:00.000Z",
-    "summary": "Etiome, Cellarity and Empress Therapeutics are being combined into one new AI-aided drugmaker claiming to possess the ability to better predict the way new medicines will fare in humans."
-  },
-  {
-    "title": "Lilly’s ‘triple-G’ drug tops Novo’s Ozempic in diabetes trial",
-    "link": "https://www.biopharmadive.com/news/retatrutide-ozempic-diabetes-trial-results-lilly-novo/873016/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-28T15:53:00.000Z",
-    "summary": "The highest dose of retatrutide beat Ozempic on measures of blood sugar and weight loss, but was also associated with higher side effect rates and treatment discontinuations."
-  },
-  {
-    "title": "FDA unveils guidance for ‘plug and play’ gene therapies",
-    "link": "https://www.biopharmadive.com/news/fda-personalized-gene-therapy-rare-disease-guidance/873004/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-28T15:15:00.000Z",
-    "summary": "The plan builds on recent FDA moves to speed \"personalized\" treatments by offering an approval framework for therapies benefiting different subsets of patients with the same disease."
   }
 ]
