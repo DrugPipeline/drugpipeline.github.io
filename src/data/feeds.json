@@ -1,5 +1,45 @@
 [
   {
+    "title": "Washington state resident dies from bird flu following exposure to infected cattle",
+    "link": "https://www.statnews.com/2026/11/02/bird-flu-washington-state-resident-dies-infected-cattle-exposure/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T20:44:40.000Z",
+    "summary": "A person in Washington state has died from complications of the bird flu, the first such U.S. death in a year."
+  },
+  {
+    "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
+    "link": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-02T17:07:00.000Z",
+    "summary": "The parent of cell therapy maker Gamida Cell will be the lead bidder in a court-supervised auction of Karyopharm, which recently cut a forbearance deal to push off debt payments."
+  },
+  {
+    "title": "STAT+: The health care affordability midterms, and billing urgent care as ER",
+    "link": "https://www.statnews.com/2026/11/02/health-care-affordability-midterms-hybrid-er-urgent-care-clinics-health-care-inc/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T17:05:28.000Z",
+    "summary": "Health care affordability is a major issue for voters, and a new kind of medical clinic sticks some patients with big bills."
+  },
+  {
+    "title": "STAT+: Psilocybin’s lasting benefits prove elusive in mice",
+    "link": "https://www.statnews.com/2026/11/02/biotech-news-psilocybin-lasting-benefits-prove-elusive-in-mice/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T16:47:33.000Z",
+    "summary": "Five Bay Area labs teamed up to compare lasting effects of psilocybin on anxiety and depression-like behavior in mice, with limited results:"
+  },
+  {
+    "title": "STAT+: FDA OKs generic HIV prevention shot, widening access for lower-income countries",
+    "link": "https://www.statnews.com/pharmalot/2026/11/02/lenacapavir-generic-version-approved-fda-hiv-prevention-dr-reddys/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-02T16:13:46.000Z",
+    "summary": "The FDA has approved a generic HIV prevention shot, a key step in widening access for dozens of lower-income countries."
+  },
+  {
     "title": "Keytruda biosimilars are coming — but they face an uphill battle",
     "link": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/",
     "source": "BioPharma Dive",
@@ -192,22 +232,6 @@
     "summary": "In this week's \"STATus Report,\" STAT reporters break down how the midterms could shape federal health and science policy, and an El-Sayed interview."
   },
   {
-    "title": "Opinion: How Congress can fix expert advisory committees",
-    "link": "https://www.statnews.com/2026/10/30/scientific-expert-advisory-committees-fda-hhs-congress/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-30T08:30:00.000Z",
-    "summary": "“This evisceration of scientific advice is untenable,” write C. Joseph Ross Daval and Aaron S. Kesselheim."
-  },
-  {
-    "title": "STAT+: How a simple UTI turns into a $1,756 bill",
-    "link": "https://www.statnews.com/2026/10/30/hybrid-er-urgent-care-clinics-hidden-billing-complaints-intuitive-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-30T08:30:00.000Z",
-    "summary": "They visited for what they thought were obvious urgent care issues — coughs, congestion, flu — and were shocked to get bills for ER care instead, totaling thousands of dollars."
-  },
-  {
     "title": "Aspen raises a $141M IPO in pursuit of a cell therapy for Parkinson’s",
     "link": "https://www.biopharmadive.com/news/aspen-neuroscience-parkinsons-ipo-pricing/873050/",
     "source": "BioPharma Dive",
@@ -224,35 +248,11 @@
     "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with self-funded employer clients. Employers cheered the rule, while PBMs slammed it…"
   },
   {
-    "title": "STAT+: Federal judge rejects new Medicaid ‘frailty’ definition for work requirements",
-    "link": "https://www.statnews.com/2026/10/29/medicaid-work-requirements-judge-blocks-new-limits-medical-frailty/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T18:57:37.000Z",
-    "summary": "A judge ruled that federal regulators exceeded their authority in narrowing the exceptions to Medicaid work requirements for people with medical issues."
-  },
-  {
-    "title": "STAT+: New federal rule will require prescription drug middlemen to share secret payments data",
-    "link": "https://www.statnews.com/2026/10/29/prescription-drug-price-reform-pbm-disclosure-rules-face-challenge/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-10-29T16:44:05.000Z",
-    "summary": "A Trump administration rule will force pharmacy benefit managers to disclose fees and compensation details currently kept private."
-  },
-  {
     "title": "Genmab soars to record highs after cancer drug succeeds in key trial",
     "link": "https://www.biopharmadive.com/news/genmab-stock-soars-positive-head-neck-cancer-antibody-phase-3/873164/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-10-29T16:06:00.000Z",
     "summary": "The drugmaker’s market value swelled by more than $7 billion on findings suggesting a recently-acquired medicine could become a new treatment standard for a form of head and neck cancer."
-  },
-  {
-    "title": "HHS to allow compounders to make 6 unapproved peptides",
-    "link": "https://www.biopharmadive.com/news/hhs-peptides-rfk-fda-compounders/873141/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-10-29T14:52:00.000Z",
-    "summary": "RFK Jr. has given notice that the agency won’t take enforcement action on six peptides that controversially won a contested recommendation from outside advisers to the FDA in July."
   }
 ]
