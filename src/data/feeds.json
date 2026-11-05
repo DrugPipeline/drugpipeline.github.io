@@ -1,27 +1,211 @@
 [
   {
+    "title": "STAT+: Pharma’s trade group spent heavily on search ads to sway public opinion",
+    "link": "https://www.statnews.com/pharmalot/2026/11/05/phrma-blamed-pbms-high-drug-prices-search-ads/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T21:36:52.000Z",
+    "summary": "PhRMA spent an estimated $59 million on search advertising over a recent seven-year period to influence how Americans view prescription drug costs."
+  },
+  {
+    "title": "Medicare will cut billions from 340B, expand site-neutral payments in 2027",
+    "link": "https://www.biopharmadive.com/news/medicare-will-cut-billions-from-340b-expand-site-neutral-payments-in-2027/873909/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-05T21:06:00.000Z",
+    "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule."
+  },
+  {
+    "title": "Ballot measures affirm divisions over abortion and transgender issues",
+    "link": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T20:49:33.000Z",
+    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care."
+  },
+  {
+    "title": "Child dies of measles in Wisconsin’s first such death since 1990",
+    "link": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T20:31:24.000Z",
+    "summary": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years."
+  },
+  {
+    "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
+    "link": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T18:53:34.000Z",
+    "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma."
+  },
+  {
+    "title": "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community",
+    "link": "https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T18:19:08.000Z",
+    "summary": "The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community."
+  },
+  {
+    "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
+    "link": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T18:09:39.000Z",
+    "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”"
+  },
+  {
+    "title": "Opinion: MAHA 1.0 is dead. MAHA 2.0 is born",
+    "link": "https://www.statnews.com/2026/11/05/end-of-maha-2026-midterms-losses-democrats-aoc-cory-booker/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T18:00:23.000Z",
+    "summary": "MAHA 1.0 is dead. MAHA 2.0 is born, write “Why Should I Trust You?” hosts Brinda Adhikari and Tom W. Johnson"
+  },
+  {
+    "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
+    "link": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-05T17:09:00.000Z",
+    "summary": "J&J and AbbVie are among the companies advancing “trispecific” antibodies that could become another step forward in treatment for multiple myeloma."
+  },
+  {
+    "title": "STAT+: A possible comeback for a failed sickle cell gene therapy",
+    "link": "https://www.statnews.com/2026/11/05/biotech-news-a-possible-comeback-for-failed-sickle-cell-gene-therapy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T16:22:53.000Z",
+    "summary": "Three years ago, a trial for a sickle cell gene-editing therapy a decade in the making ended abruptly after the first patient suffered a serious adverse event. Now, the therapy…"
+  },
+  {
+    "title": "Revolution’s Rasonque off to best cancer drug launch ‘in history’",
+    "link": "https://www.biopharmadive.com/news/revolution-rasonque-sales-3q-2026-pancreatic-cancer/873839/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-05T16:21:00.000Z",
+    "summary": "Wall Street analysts are already resetting projections for Rasonque — but company executives cautioned that it’s too early to draw conclusions about the pancreatic cancer drug’s launch trajectory."
+  },
+  {
+    "title": "STAT+: Winners, losers, and MAHA",
+    "link": "https://www.statnews.com/2026/11/05/midterm-election-health-care-takeaways-maha-rfk-medicare-for-all/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T15:41:24.000Z",
+    "summary": "Democratic doctors won big, MAHA faces an uncertain future, and what the election could mean for Medicare for All."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about India’s new manufacturing rules, clinical trials in China, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/05/india-new-manufacturing-rules-china-clinical-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T14:49:16.000Z",
+    "summary": "India proposed rules requiring regulators to immediately suspend manufacturing licenses for drugs that fail quality standards in government testing"
+  },
+  {
+    "title": "STAT+: Beyond statins, one drug lowered heart attack risk by 20%",
+    "link": "https://www.statnews.com/2026/11/05/repatha-vs-zetia-cholesterol-study-heart-attack-risk/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T14:00:00.000Z",
+    "summary": "A new study could help doctors figure out what medicine to prescribe for cholesterol when statins don't cut it: It's “answering a really challenging clinical question.\""
+  },
+  {
+    "title": "STAT+: Medicare delays controversial remote patient monitoring rule to 2029",
+    "link": "https://www.statnews.com/2026/11/05/health-tech-news-medicare-delays-controversial-rpm-rule-update/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T13:04:15.000Z",
+    "summary": "Despite widespread opposition, Medicare will finalize a controversial proposal that will prevent providers, such as hospitals, from using third parties to deliver remote patient monitoring services."
+  },
+  {
+    "title": "Single-payer health care system proponents were thrown a big bone this election",
+    "link": "https://www.statnews.com/2026/11/05/morning-rounds-single-payer-health-care-system-after-midterms/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T12:58:19.000Z",
+    "summary": "Sen. Bernie Sanders is likely to lead the Senate’s health committee next year, which could grant him a chance to fundamentally alter how the FDA interacts with the companies it…"
+  },
+  {
+    "title": "T-Therapeutics reloads with a $133M megaround for bispecifics",
+    "link": "https://www.biopharmadive.com/news/t-therapeutics-series-b-tces-bispecifics-cancer-autoimmune/873786/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-05T12:52:00.000Z",
+    "summary": "The startup is built around technology it claims can help get after known, but undruggable cancer targets and design particularly selective autoimmune disease treatments."
+  },
+  {
+    "title": "STAT+: Revolution Medicines’ pancreatic cancer drug has stunning commercial debut",
+    "link": "https://www.statnews.com/2026/11/05/rasonque-revolution-medicines-pancreatic-cancer-commercial-launch/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T12:33:01.000Z",
+    "summary": "Rasonque, Revolution Medicines' new pancreatic cancer drug, is off to one of the best oncology drug launches in history."
+  },
+  {
+    "title": "STAT+: A closer look at ProMis Neurosciences and its Alzheimer’s drug",
+    "link": "https://www.statnews.com/2026/11/05/promis-neurosciences-alzheimers-disease-acumen-vertex-kidney-drug/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T11:30:00.000Z",
+    "summary": "Shares of ProMis Neurosciences, developer of a treatment for Alzheimer’s disease, sold off sharply last week. A closer look at the reason why — and whether it holds up."
+  },
+  {
+    "title": "STAT+: What the midterms could mean for the future of health AI",
+    "link": "https://www.statnews.com/2026/11/05/midterms-shape-future-ai-in-health-care-fda/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T09:30:00.000Z",
+    "summary": "The midterms highlighted the negative sentiment around AI across the U.S. How will those attitudes trickle down to legislating AI use in health care?"
+  },
+  {
+    "title": "STAT+: As more doctors consult chatbots, health systems can block them — or buy in",
+    "link": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T09:30:00.000Z",
+    "summary": "As hundreds of thousands of doctors consult AI chatbots to make care decisions, health systems see new risks to patients' health data."
+  },
+  {
+    "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
+    "link": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T09:30:00.000Z",
+    "summary": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future."
+  },
+  {
+    "title": "Opinion: I’m a neurosurgeon. I’ve learned pain and suffering are very different things",
+    "link": "https://www.statnews.com/2026/11/05/neurosurgeon-difference-between-pain-suffering-assisted-dying/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-05T09:30:00.000Z",
+    "summary": "“The cruelest response to suffering is to attempt to explain it away,” writes neurosurgeon Stephen Doran."
+  },
+  {
+    "title": "Alethio raises $90M to target rare blood cancers",
+    "link": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-05T08:00:00.000Z",
+    "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms."
+  },
+  {
+    "title": "Degraders take on GPCRs",
+    "link": "https://www.nature.com/articles/d41573-026-00177-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-05T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
     "link": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-11-04T21:17:19.000Z",
     "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms."
-  },
-  {
-    "title": "STAT+: Mass. marijuana consumers, workers high on victory after repeal of recreational weed sales fails in a rout",
-    "link": "https://www.statnews.com/2026/11/04/massachusetts-marijuana-question-8-results-recreational-cannabis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T19:40:32.000Z",
-    "summary": "Massachusetts voters decisively shot down a ballot initiative that would have dismantled the state’s recreational cannabis industry."
-  },
-  {
-    "title": "STAT+: Democratic doctors and scientists ride the blue wave",
-    "link": "https://www.statnews.com/2026/11/04/midterms-democrat-winners-doctors-scientists-medical-professionals/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T18:46:45.000Z",
-    "summary": "The clinicians and researchers who will take office are ready to tackle the U.S. health care system."
   },
   {
     "title": "Sanofi stops development of Nurix-partnered immune drug",
@@ -32,36 +216,12 @@
     "summary": "The decision sparked a sell-off in Nurix shares as well as analyst debate about the prospects of drugs designed to degrade a tough-to-reach protein called STAT6."
   },
   {
-    "title": "STAT+: Where does MAHA go from here? 3 possible futures",
-    "link": "https://www.statnews.com/2026/11/04/maha-movement-future-after-midterm-losses/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T17:09:44.000Z",
-    "summary": "Republican losses leave Robert F. Kennedy Jr.’s MAHA movement with three possible futures."
-  },
-  {
-    "title": "STAT+: CVS Health to split, reversing years of deal-making to combine pharmacies and insurance",
-    "link": "https://www.statnews.com/2026/11/04/cvs-splits-pharmacy-from-insurance/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T16:30:06.000Z",
-    "summary": "CVS Health’s decision to split comes amid federal and state scrutiny over vertical integration."
-  },
-  {
     "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
     "link": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-04T16:13:00.000Z",
     "summary": "The drug’s third-quarter sales numbers came in well above consensus estimates, widening Novo’s early edge over Eli Lilly in the latest battleground for weight loss medicines."
-  },
-  {
-    "title": "STAT+: A looming deadline to fund the government will shape Congress’ unusual lame duck session",
-    "link": "https://www.statnews.com/2026/11/04/lame-duck-session-congress-health-policy-aca-subsidies-medicaid-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T15:55:54.000Z",
-    "summary": "Before Democrats take control, Congress must fund expiring health care programs and confirm HHS nominees."
   },
   {
     "title": "CVS to split into two companies in stunning strategic about-face",
@@ -80,78 +240,6 @@
     "summary": "Historical data suggests the sector outperforms after midterm elections. And Democrats, newly in control of Congress, have “bigger fish to fry” than drug pricing, analysts said."
   },
   {
-    "title": "STAT+: Five midterm winners and losers: MAHA mowed down, Dem docs scrub in, ‘Medicare for All’ returns",
-    "link": "https://www.statnews.com/2026/11/04/midterm-health-policy-winners-losers-medicare-for-all-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T15:15:21.000Z",
-    "summary": "Democratic doctors were among the winners in the midterm elections, while the MAHA movement and President Trump's health agenda were losers."
-  },
-  {
-    "title": "STAT+: Ultragenyx cuts staff after another study fails",
-    "link": "https://www.statnews.com/2026/11/04/biotech-news-ultragenyx-cuts-staff-after-another-study-fails/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T14:46:46.000Z",
-    "summary": "Ultragenyx announced that it's laying off about 20% of its staff as it ends development of two rare disease drugs."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about CVS plans to split up, FDA inspections in India and China and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/04/cvs-plans-to-split-up-fda-inspections-in-india-and-china/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T14:20:46.000Z",
-    "summary": "The Trump administration will survey key components of pharmaceutical production in order to identify domestic supply chain vulnerabilities."
-  },
-  {
-    "title": "STAT+: Sens. Wyden and Sanders, backers of ‘Medicare for All,’ set to take charge of key committees",
-    "link": "https://www.statnews.com/2026/11/04/democratic-wins-medicare-for-all-momentum/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T13:38:17.000Z",
-    "summary": "The Democratic flip of the Senate is expected to put two Democrats who support Medicare for All in charge of key committees."
-  },
-  {
-    "title": "STAT+: The biotech startups skipping AI for drug discovery",
-    "link": "https://www.statnews.com/2026/11/04/the-biotech-startups-skipping-ai-for-drug-discovery-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T13:01:33.000Z",
-    "summary": "In this edition of AI Prognosis: These biotech startups don't think drug discovery is where AI can make the biggest difference."
-  },
-  {
-    "title": "STAT+: Former Madrigal Pharmaceuticals executive alleges coverup of safety issues tied to its drug",
-    "link": "https://www.statnews.com/2026/11/04/former-madrigal-pharmaceuticals-executive-rezdiffra-lawsuit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T12:30:43.000Z",
-    "summary": "A top former executive at Madrigal Pharmaceuticals has filed a lawsuit in federal court alleging a coverup of drug safety issues."
-  },
-  {
-    "title": "Top health takeaways from the midterm elections",
-    "link": "https://www.statnews.com/2026/11/04/health-news-midterm-elections-2026-democrats-control-congress/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T12:15:08.000Z",
-    "summary": "Democrats gained control of both chambers of Congress, and doctors and scientists won key seats. Here are the top health takeaways from the midterms."
-  },
-  {
-    "title": "Opinion: I moved to Europe for free health care. I miss my patient portal",
-    "link": "https://www.statnews.com/2026/11/04/moving-to-europe-free-health-care-differences/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T09:30:00.000Z",
-    "summary": "“To be honest, in Malta, I pay for medical care all the time. I just pay differently,” writes Mariska Breland."
-  },
-  {
-    "title": "STAT+: Democrats win power to push back on Trump’s health care moves",
-    "link": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T04:38:26.000Z",
-    "summary": "Democrats win Senate control, and with it the power to push back on Trump’s health care moves."
-  },
-  {
     "title": "Linking kinase inhibitors for greater selectivity",
     "link": "https://www.nature.com/articles/d41573-026-00176-5",
     "source": "Nature Reviews Drug Discovery",
@@ -168,22 +256,6 @@
     "summary": ""
   },
   {
-    "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
-    "link": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-03T20:53:20.000Z",
-    "summary": "Servier reports a surprise setback for a drug being tested for a form of muscular dystrophy that lacks treatment."
-  },
-  {
-    "title": "STAT+: Amid Mass General Brigham layoffs, CEO pens vague letter, stirring staff anxiety",
-    "link": "https://www.statnews.com/2026/11/03/mass-general-brigham-layoffs-ceo-letter-staff-anxiety/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-03T20:33:22.000Z",
-    "summary": "A cryptic email sent to Mass General Brigham employees by the health system's CEO is stirring staff anxiety less than two weeks after a round of layoffs."
-  },
-  {
     "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
     "link": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
     "source": "BioPharma Dive",
@@ -192,76 +264,12 @@
     "summary": "On a conference call, executives expressed conviction in the coming launch of an IgA nephropathy medicine viewed by Wall Street investors as important to Vertex’s future."
   },
   {
-    "title": "STAT+: Who will get the first psychedelic approved?",
-    "link": "https://www.statnews.com/2026/11/03/biotech-news-who-will-get-the-first-psychedelic-approved/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-03T15:36:21.000Z",
-    "summary": "The biotech Compass Pathways has been seen as one of the frontrunners in the race to get the first psychedelic drug approved. But it could be a tight race, with a non-profit…"
-  },
-  {
-    "title": "STAT+: What do the midterms mean for health care?",
-    "link": "https://www.statnews.com/2026/11/03/midterm-election-health-care-issues-dc-diagnosis-newsletter/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-03T15:29:07.000Z",
-    "summary": "STAT unpacks what the midterms mean for health policy, MAHA, and health insurance."
-  },
-  {
-    "title": "STAT+: FDA, CMS look to collaborate with states on health AI",
-    "link": "https://www.statnews.com/2026/11/03/fda-cms-collaborate-with-states-on-ai-heath-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-03T14:51:12.000Z",
-    "summary": "In this edition of STAT Health Tech: Federal officials look to work with states on regulating AI, protecting doctors from AI liability, and more."
-  },
-  {
-    "title": "Medicare Part D premiums are spiking 50% on average next year, KFF finds",
-    "link": "https://www.biopharmadive.com/news/medicare-part-d-premiums-skyrocket-2027-kff/873552/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-03T13:46:00.000Z",
-    "summary": "The health policy think tank urged seniors to shop carefully for prescription drug coverage during Medicare open enrollment, given skyrocketing premiums and wide variance in costs between plans."
-  },
-  {
-    "title": "UniQure gets an FDA decision date; Teva scraps brain drug study",
-    "link": "https://www.biopharmadive.com/news/uniqure-fda-bright-minds-specific-teva-cinrock/873455/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-03T13:41:00.000Z",
-    "summary": "The FDA appears likely to hold an advisory committee for UniQure’s closely watched Huntington’s disease gene therapy. Elsewhere, a biotech’s share price was cut in half following a regulatory setback."
-  },
-  {
     "title": "FDA approves plasmid DNA-based immunotherapy for rare viral disease",
     "link": "https://www.nature.com/articles/d41573-026-00175-6",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-11-03T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Karyopharm, deep in debt, to sell itself in bankruptcy",
-    "link": "https://www.biopharmadive.com/news/karyopharm-bankruptcy-chapter-11-auction-ayrmid-gamida-cell/873415/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-02T17:07:00.000Z",
-    "summary": "The parent of cell therapy maker Gamida Cell will be the lead bidder in a court-supervised auction of Karyopharm, which recently cut a forbearance deal to push off debt payments."
-  },
-  {
-    "title": "Keytruda biosimilars are coming — but they face an uphill battle",
-    "link": "https://www.biopharmadive.com/news/keytruda-biosimilars-fda-pbm-market-share-drug/873424/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-02T14:34:00.000Z",
-    "summary": "A patent cliff is fast approaching for Merck’s flagship blockbuster, but the deck might be stacked against its biosimilars gaining widespread traction."
-  },
-  {
-    "title": "Earnings roundup: AstraZeneca’s cost cuts, Alnylam’s slump and Regeneron’s resilience",
-    "link": "https://www.biopharmadive.com/news/astrazeneca-alnylam-regeneron-3q26-earnings-analysis/873410/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-02T14:00:00.000Z",
-    "summary": "AstraZeneca will “redeploy resources” through a new restructuring program. Meanwhile, Alnylam shares sold off on fears surrounding a top drug and investors rewarded Regeneron for a record quarter."
   },
   {
     "title": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
