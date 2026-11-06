@@ -1,5 +1,45 @@
 [
   {
+    "title": "This week in charts: 3 drug launches Wall Street is watching",
+    "link": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-06T12:00:00.000Z",
+    "summary": "The latest installment in BioPharma Dive’s visualization-focused series features a look at investors’ response to a trio of medicines highlighted in quarterly earnings this week."
+  },
+  {
+    "title": "STAT+: After Medicare punts RPM overhaul to 2029, advocates see window to fight back",
+    "link": "https://www.statnews.com/2026/11/06/new-medicare-overhaul-of-remote-patient-monitoring-hospital-pushback/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-06T09:30:00.000Z",
+    "summary": "Medicare pushed forward a controversial plan to ban hospitals from using third parties to deliver remote patient monitoring services, despite overwhelming opposition."
+  },
+  {
+    "title": "Opinion: AI depends on medical records that don’t always tell the full truth about women",
+    "link": "https://www.statnews.com/2026/11/06/women-medical-records-artificial-intelligence-diagnosis-mental-health-pain/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-06T09:30:00.000Z",
+    "summary": "“For AI to achieve its full potential in women’s health, medical records need to tell the complete story,” experts write."
+  },
+  {
+    "title": "Most people haven’t heard of kratom. What is it, and who’s using it?",
+    "link": "https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-06T09:30:00.000Z",
+    "summary": "Few Americans are familiar with kratom, despite public health messaging and rising use. So what is it, and who's using it?"
+  },
+  {
+    "title": "Opinion: STAT+: What it’s like to live with cognitively unimpaired Alzheimer’s disease",
+    "link": "https://www.statnews.com/2026/11/06/pre-clinical-alzheimers-disease-biomarkers-tests-mental-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-06T09:30:00.000Z",
+    "summary": "People with cognitively unimpaired Alzheimer’s “may be asymptomatic, but they do have a disease experience,” writes Jason Karlawish."
+  },
+  {
     "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
     "source": "FDA Press Releases",
@@ -168,30 +208,6 @@
     "summary": "The midterms highlighted the negative sentiment around AI across the U.S. How will those attitudes trickle down to legislating AI use in health care?"
   },
   {
-    "title": "STAT+: As more doctors consult chatbots, health systems can block them — or buy in",
-    "link": "https://www.statnews.com/2026/11/05/doctors-use-ai-chatbots-hipaa-compliance-questions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-05T09:30:00.000Z",
-    "summary": "As hundreds of thousands of doctors consult AI chatbots to make care decisions, health systems see new risks to patients' health data."
-  },
-  {
-    "title": "STAT+: In China, a flood of controversial clinical trials slows to a trickle",
-    "link": "https://www.statnews.com/2026/11/05/china-biotech-restrictions-impact-rare-disease-investigator-initiated-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-05T09:30:00.000Z",
-    "summary": "Following patient deaths, China restricts investigator-initiated biotech trials, leaving rare disease families and US investors facing an uncertain future."
-  },
-  {
-    "title": "Opinion: I’m a neurosurgeon. I’ve learned pain and suffering are very different things",
-    "link": "https://www.statnews.com/2026/11/05/neurosurgeon-difference-between-pain-suffering-assisted-dying/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-05T09:30:00.000Z",
-    "summary": "“The cruelest response to suffering is to attempt to explain it away,” writes neurosurgeon Stephen Doran."
-  },
-  {
     "title": "Alethio raises $90M to target rare blood cancers",
     "link": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
     "source": "BioPharma Dive",
@@ -206,14 +222,6 @@
     "category": "research",
     "date": "2026-11-05T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "STAT+: Pharma critic Bernie Sanders is set to hold major sway over FDA funding bill",
-    "link": "https://www.statnews.com/2026/11/04/bernie-sanders-senate-help-key-role-pdufa-reauthorization/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-04T21:17:19.000Z",
-    "summary": "Sanders could use his role in crafting the FDA funding bill to push for reforms."
   },
   {
     "title": "Sanofi stops development of Nurix-partnered immune drug",
@@ -262,14 +270,6 @@
     "category": "research",
     "date": "2026-11-04T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Vertex, ahead of FDA decision, calms fears surrounding kidney drug",
-    "link": "https://www.biopharmadive.com/news/vertex-earnings-q3-2026-povetacicept-iga-nephropathy-kidney/873600/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-03T17:32:00.000Z",
-    "summary": "On a conference call, executives expressed conviction in the coming launch of an IgA nephropathy medicine viewed by Wall Street investors as important to Vertex’s future."
   },
   {
     "title": "FDA approves plasmid DNA-based immunotherapy for rare viral disease",
