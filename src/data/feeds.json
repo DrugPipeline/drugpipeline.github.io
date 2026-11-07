@@ -1,5 +1,29 @@
 [
   {
+    "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
+    "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-07T16:57:13.000Z",
+    "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited."
+  },
+  {
+    "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
+    "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-07T14:50:00.000Z",
+    "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke."
+  },
+  {
+    "title": "STAT+: Despite Novo drug’s failure, cardiologists say they will still pursue anti-inflammatories",
+    "link": "https://www.statnews.com/2026/11/07/aha-2026-conference-novo-nordisk-zeus-trial-ziltivekimab-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-07T14:35:00.000Z",
+    "summary": "“These results, the fact that they're negative, does not invalidate that inflammation plays a very important role in cardiovascular disease.\""
+  },
+  {
     "title": "STAT+: States sue Trump administration again to delay Medicaid work requirements",
     "link": "https://www.statnews.com/2026/11/06/states-sue-trump-delay-medicaid-work-requirements/?utm_campaign=rss",
     "source": "STAT News",
@@ -136,6 +160,22 @@
     "summary": "People with cognitively unimpaired Alzheimer’s “may be asymptomatic, but they do have a disease experience,” writes Jason Karlawish."
   },
   {
+    "title": "Regulatory lessons from FDA review of approved AAV gene therapies",
+    "link": "https://www.nature.com/articles/d41573-026-00178-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-06T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Decision quality in biopharma portfolio renewal",
+    "link": "https://www.nature.com/articles/d41573-026-00173-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-06T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
     "source": "FDA Press Releases",
@@ -176,30 +216,6 @@
     "summary": "An infant in southwestern Wisconsin has died after contracting measles, the state’s first death from the disease in 36 years."
   },
   {
-    "title": "STAT+: Novartis cites cases of previously unknown tumors possibly tied to its SMA gene therapy",
-    "link": "https://www.statnews.com/pharmalot/2026/11/05/novartis-sma-zolgensma-tumor-case-reports/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-05T18:53:34.000Z",
-    "summary": "Novartis has acknowledged seven previously unknown instances in which tumors were found in children who were treated with its spinal muscular atrophy therapy, Zolgensma."
-  },
-  {
-    "title": "STAT+: Stunning $6M defamation verdict reverberates at MIT campus, global scientific community",
-    "link": "https://www.statnews.com/2026/11/05/david-sabatini-defamation-verdict-reverberates-mit-scientific-community/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-05T18:19:08.000Z",
-    "summary": "The explosive court battle between a former star scientist at the Massachusetts Institute of Technology and a younger colleague continues to roil the campus community."
-  },
-  {
-    "title": "STAT+: Two No Surprises Act arbitrators lose government contracts to decide payment disputes",
-    "link": "https://www.statnews.com/2026/11/05/no-surprises-act-arbitrators-idr-ipro-network-medical-review-lose-contracts/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-05T18:09:39.000Z",
-    "summary": "The Trump administration is cutting off two groups tasked with arbitrating disputes over surprise medical bills, citing a failure “to meet minimum performance standards.”"
-  },
-  {
     "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
     "link": "https://www.biopharmadive.com/news/ash-2026-trispecific-multiple-myeloma-johnson-johnson-abbvie/873852/",
     "source": "BioPharma Dive",
@@ -232,6 +248,14 @@
     "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms."
   },
   {
+    "title": "Degraders take on GPCRs",
+    "link": "https://www.nature.com/articles/d41573-026-00177-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-05T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Sanofi stops development of Nurix-partnered immune drug",
     "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
     "source": "BioPharma Dive",
@@ -246,6 +270,30 @@
     "category": "industry",
     "date": "2026-11-04T16:13:00.000Z",
     "summary": "The drug’s third-quarter sales numbers came in well above consensus estimates, widening Novo’s early edge over Eli Lilly in the latest battleground for weight loss medicines."
+  },
+  {
+    "title": "Linking kinase inhibitors for greater selectivity",
+    "link": "https://www.nature.com/articles/d41573-026-00176-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Checkpoint inhibitor combinations: the trial-to-approval gap",
+    "link": "https://www.nature.com/articles/d41573-026-00174-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-04T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "FDA approves plasmid DNA-based immunotherapy for rare viral disease",
+    "link": "https://www.nature.com/articles/d41573-026-00175-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-03T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
