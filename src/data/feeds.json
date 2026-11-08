@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+    "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-08T09:30:00.000Z",
+    "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat."
+  },
+  {
     "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
     "link": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,22 +176,6 @@
     "summary": "People with cognitively unimpaired Alzheimer’s “may be asymptomatic, but they do have a disease experience,” writes Jason Karlawish."
   },
   {
-    "title": "Regulatory lessons from FDA review of approved AAV gene therapies",
-    "link": "https://www.nature.com/articles/d41573-026-00178-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Decision quality in biopharma portfolio renewal",
-    "link": "https://www.nature.com/articles/d41573-026-00173-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
     "source": "FDA Press Releases",
@@ -206,14 +198,6 @@
     "category": "industry",
     "date": "2026-11-05T21:06:00.000Z",
     "summary": "Regulators finalized a rule Wednesday that would slash payments for drugs in the controversial 340B program and equalize some payments between care sites. Hospitals railed against the rule."
-  },
-  {
-    "title": "Ballot measures affirm divisions over abortion and transgender issues",
-    "link": "https://www.statnews.com/2026/11/05/state-health-ballot-measures-abortion-marijuana-transgender-issues/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-05T20:49:33.000Z",
-    "summary": "Voters in 2026 midterm elections decided state health policy ballot measures on abortion rights, marijuana laws, science bonds, and transgender youth care."
   },
   {
     "title": "At ASH, drugmakers to showcase early data for three-pronged cancer therapies",
@@ -248,14 +232,6 @@
     "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms."
   },
   {
-    "title": "Degraders take on GPCRs",
-    "link": "https://www.nature.com/articles/d41573-026-00177-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-05T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "Sanofi stops development of Nurix-partnered immune drug",
     "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
     "source": "BioPharma Dive",
@@ -270,30 +246,6 @@
     "category": "industry",
     "date": "2026-11-04T16:13:00.000Z",
     "summary": "The drug’s third-quarter sales numbers came in well above consensus estimates, widening Novo’s early edge over Eli Lilly in the latest battleground for weight loss medicines."
-  },
-  {
-    "title": "Linking kinase inhibitors for greater selectivity",
-    "link": "https://www.nature.com/articles/d41573-026-00176-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Checkpoint inhibitor combinations: the trial-to-approval gap",
-    "link": "https://www.nature.com/articles/d41573-026-00174-7",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-04T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "FDA approves plasmid DNA-based immunotherapy for rare viral disease",
-    "link": "https://www.nature.com/articles/d41573-026-00175-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-03T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
