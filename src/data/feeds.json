@@ -1,5 +1,109 @@
 [
   {
+    "title": "STAT+: Gene therapy’s long-debated cancer risk materializes",
+    "link": "https://www.statnews.com/2026/11/09/biotech-news-gene-therapy-long-debated-cancer-risk-materializes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T14:36:12.000Z",
+    "summary": "For years, gene therapy researchers debated whether the viruses they use to ferry replacement genes into cells could cause tumors. A small number of cases now offer strong evidence that…"
+  },
+  {
+    "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
+    "link": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T14:30:00.000Z",
+    "summary": "Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in two late-stage studies, but it doesn’t appear as effective as Lilly’s injectable drug Zepbound."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Novartis heart drug, BIO fighting a Trump program, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/09/novartis-abandons-heart-drug-bio-fighting-trump-program/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T14:28:42.000Z",
+    "summary": "Novartis is largely abandoning a drug once considered a potential blockbuster after a study found it had little promise for preventing heart attacks and deaths"
+  },
+  {
+    "title": "STAT+: A new rule to prevent the spread of bioweapons",
+    "link": "https://www.statnews.com/2026/11/09/health-news-new-rule-to-prevent-bioweapon-spread/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T12:55:07.000Z",
+    "summary": "AI makes it easier for people to come up with new potential medicines, but may also increase the possibility of bad actors creating new bioweapons. New guidelines from Trump officials…"
+  },
+  {
+    "title": "State incentives for commercial-stage life sciences companies",
+    "link": "https://www.biopharmadive.com/spons/state-incentives-for-commercial-stage-life-sciences-companies/873753/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-09T10:00:00.000Z",
+    "summary": "Factor incentives into expansion plans early to improve site decisions, manage commitments and free capital for what comes next."
+  },
+  {
+    "title": "Translating Phase II success into Phase III readiness takes more than scale",
+    "link": "https://www.biopharmadive.com/spons/translating-phase-ii-success-into-phase-iii-readiness-takes-more-than-scale/833059/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-09T10:00:00.000Z",
+    "summary": "The move from Phase II to Phase III is often treated as a clinical milestone, when it is actually a development-wide transition."
+  },
+  {
+    "title": "Making the ‘impossible’ executable in life sciences construction",
+    "link": "https://www.biopharmadive.com/spons/making-the-impossible-executable-in-life-sciences-construction/873537/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-09T10:00:00.000Z",
+    "summary": "Why early technical expertise matters when complex life sciences projects challenge convention."
+  },
+  {
+    "title": "Opinion: STAT+: CVS’ split doesn’t fix its fundamental problem",
+    "link": "https://www.statnews.com/2026/11/09/cvs-health-split-pbm-conflict-examined-anthony-loiacono-judi-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T09:30:00.000Z",
+    "summary": "CVS’ split into two doesn’t fix its fundamental problem, writes Judi Health CEO A.J. Loiacono."
+  },
+  {
+    "title": "Liver experts finally agree on what acute-on-chronic liver failure is",
+    "link": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T09:30:00.000Z",
+    "summary": "\"Patients are suffering with this condition that everyone has their own way of defining.\""
+  },
+  {
+    "title": "STAT+: Democrats begin asking: How far can we go on health care?",
+    "link": "https://www.statnews.com/2026/11/09/democrat-healthcare-agenda-new-lawmakers-weigh-popular-vs-possible/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T09:30:00.000Z",
+    "summary": "Many in the party are pushing for Democratic lawmakers to go big on health care, but their dreams may crash into reality."
+  },
+  {
+    "title": "AI chatbots aren’t therapists. But can they finally get men to open up?",
+    "link": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-09T09:30:00.000Z",
+    "summary": "AI chatbots are imperfect therapists. But can they finally get men to talk?"
+  },
+  {
+    "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects",
+    "link": "https://www.nature.com/articles/s41573-026-01561-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Conditional biologics in cancer immunotherapy: mechanisms, applications and clinical progress",
+    "link": "https://www.nature.com/articles/s41573-026-01552-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
     "link": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
     "source": "STAT News",
@@ -93,7 +197,7 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-06T16:51:00.000Z",
-    "summary": "The occurrence of cancer in nine recipients — two of which involved evidence that a viral delivery tool integrated into patient DNA — could raise new questions for the gene therapy field."
+    "summary": "The FDA is now investigating the risk of malignancy associated with Zolgensma and is “evaluating whether regulatory action is appropriate.”"
   },
   {
     "title": "STAT+: Up and down the ladder: The latest comings and goings",
@@ -102,38 +206,6 @@
     "category": "industry",
     "date": "2026-11-06T16:43:49.000Z",
     "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
-  },
-  {
-    "title": "STAT+: New tumor cases show common gene therapy tool can come with risk",
-    "link": "https://www.statnews.com/2026/11/06/novartis-zolgensma-gene-therapy-tumor-risk/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T16:14:40.000Z",
-    "summary": "New cases show AAV gene therapies like Zolgensma carry tumor risks, raising key concerns for SMA patients and gene therapy researchers in general."
-  },
-  {
-    "title": "STAT+: Amgen’s Repatha linked to fewer heart attacks",
-    "link": "https://www.statnews.com/2026/11/06/biotech-news-amgen-repatha-linked-to-fewer-heart-attacks/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T15:14:53.000Z",
-    "summary": "Pithy intro text about the biopharma milieu. Novartis cites more tumor reports after Zolgensma Novartis has disclosed seven previously unreported cases of tumors in children who received Zolgensma,…"
-  },
-  {
-    "title": "New evidence for ancient cannabis use",
-    "link": "https://www.statnews.com/2026/11/06/health-news-new-evidence-for-ancient-cannabis-use/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T14:59:42.000Z",
-    "summary": "A new paper, published yesterday in Science, offers compelling evidence of ritual cannabis use in a 2,800-year-old Siberian tomb."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Novartis gene therapy, faster U.K. drug reviews, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/06/novartis-gene-therapy-tumors-found-faster-uk-drug-reviews/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T14:41:03.000Z",
-    "summary": "Novartis acknowledged seven instances of tumors being found in children who were treated with Zolgensma for spinal muscular atrophy"
   },
   {
     "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
@@ -150,38 +222,6 @@
     "category": "industry",
     "date": "2026-11-06T12:00:00.000Z",
     "summary": "The latest installment in BioPharma Dive’s visualization-focused series features a look at investors’ response to a trio of medicines highlighted in quarterly earnings this week."
-  },
-  {
-    "title": "STAT+: After Medicare punts RPM overhaul to 2029, advocates see window to fight back",
-    "link": "https://www.statnews.com/2026/11/06/new-medicare-overhaul-of-remote-patient-monitoring-hospital-pushback/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T09:30:00.000Z",
-    "summary": "Medicare pushed forward a controversial plan to ban hospitals from using third parties to deliver remote patient monitoring services, despite overwhelming opposition."
-  },
-  {
-    "title": "Opinion: AI depends on medical records that don’t always tell the full truth about women",
-    "link": "https://www.statnews.com/2026/11/06/women-medical-records-artificial-intelligence-diagnosis-mental-health-pain/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T09:30:00.000Z",
-    "summary": "“For AI to achieve its full potential in women’s health, medical records need to tell the complete story,” experts write."
-  },
-  {
-    "title": "Most people haven’t heard of kratom. What is it, and who’s using it?",
-    "link": "https://www.statnews.com/2026/11/06/what-is-kratom-addiction-risks-explained-7-oh/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T09:30:00.000Z",
-    "summary": "Few Americans are familiar with kratom, despite public health messaging and rising use. So what is it, and who's using it?"
-  },
-  {
-    "title": "Opinion: STAT+: What it’s like to live with cognitively unimpaired Alzheimer’s disease",
-    "link": "https://www.statnews.com/2026/11/06/pre-clinical-alzheimers-disease-biomarkers-tests-mental-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-06T09:30:00.000Z",
-    "summary": "People with cognitively unimpaired Alzheimer’s “may be asymptomatic, but they do have a disease experience,” writes Jason Karlawish."
   },
   {
     "title": "Regulatory lessons from FDA review of approved AAV gene therapies",
@@ -240,36 +280,12 @@
     "summary": "The startup is built around technology it claims can help get after known, but undruggable cancer targets and design particularly selective autoimmune disease treatments."
   },
   {
-    "title": "Alethio raises $90M to target rare blood cancers",
-    "link": "https://www.biopharmadive.com/news/alethio-therapeutics-myeloproliferative-neoplasms-series-a/873775/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-05T08:00:00.000Z",
-    "summary": "The startup is working on a medicine one of its investors claimed could have a broader reach than other approved drugs for a group of conditions known as myeloproliferative neoplasms."
-  },
-  {
     "title": "Degraders take on GPCRs",
     "link": "https://www.nature.com/articles/d41573-026-00177-4",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-11-05T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "Sanofi stops development of Nurix-partnered immune drug",
-    "link": "https://www.biopharmadive.com/news/sanofi-discontinue-development-nurix-stat6-degrader-eczema/873697/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-04T17:18:00.000Z",
-    "summary": "The decision sparked a sell-off in Nurix shares as well as analyst debate about the prospects of drugs designed to degrade a tough-to-reach protein called STAT6."
-  },
-  {
-    "title": "Novo gets much-needed lift as Wegovy pill tops Wall Street forecasts",
-    "link": "https://www.biopharmadive.com/news/novo-wegovy-pill-sales-3q-2026-earnings-cfo/873693/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-04T16:13:00.000Z",
-    "summary": "The drug’s third-quarter sales numbers came in well above consensus estimates, widening Novo’s early edge over Eli Lilly in the latest battleground for weight loss medicines."
   },
   {
     "title": "Linking kinase inhibitors for greater selectivity",
@@ -294,13 +310,5 @@
     "category": "research",
     "date": "2026-11-03T00:00:00.000Z",
     "summary": ""
-  },
-  {
-    "title": "FDA Provides Clarity to Support Cell and Gene Therapy Development and Quality",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-11-02T13:56:06.000Z",
-    "summary": "The U.S. Food and Drug Administration today issued final guidance for manufacturers of cellular and gene therapy (CGT) products to implement a comprehensive, science- and risk-based plan for making…"
   }
 ]
