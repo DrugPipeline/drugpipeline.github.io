@@ -1,5 +1,85 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about an approval for novel drug for strokes, a warning for GLP-1 drugs, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/10/stroke-drug-sunharbo-eye-warning-glp-drugs-pharmalittle/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T14:25:24.000Z",
+    "summary": "The FDA approved a novel drug to reduce recurrence of stroke, the agency is warning that GLP-1s carry a potential risk for an eye condition, and more pharma news of…"
+  },
+  {
+    "title": "STAT+: Dutch antitrust regulators probe Biogen over test for its MS drug",
+    "link": "https://www.statnews.com/pharmalot/2026/11/10/dutch-antitrust-regulators-probe-biogen-over-multiple-sclerosis-drug-test/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T13:38:35.000Z",
+    "summary": "Dutch anti-trust regulators are investigating allegations that Biogen may have abused its dominant position in the market for MS treatments and associated blood tests."
+  },
+  {
+    "title": "STAT+: Pharma is a ‘mixed bag’ when providing drug access to low- and middle-income countries, analysis finds",
+    "link": "https://www.statnews.com/pharmalot/2026/11/10/access-to-key-drugs-mixed-in-poor-countries-cancer-diabetes/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T13:00:00.000Z",
+    "summary": "Many large pharmaceutical companies are taking steps to improve access to their medicines in low- and middle-income countries, but progress has been mixed."
+  },
+  {
+    "title": "Why this year’s flu season could be hitting teens and young adults hard",
+    "link": "https://www.statnews.com/2026/11/10/health-news-why-flu-season-could-hit-teens-and-young-adults-hard/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T12:49:35.000Z",
+    "summary": "At least 1.7 million cases of flu have been reported so far this year. Here's what experts are expecting for the rest of flu season:"
+  },
+  {
+    "title": "STAT+: PepGen says early trial for muscular dystrophy drug looks promising",
+    "link": "https://www.statnews.com/2026/11/10/muscular-dystrophy-dm1-pepgen-pgn-edodm1-early-results/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T12:05:00.000Z",
+    "summary": "PepGen says its candidate is correcting more of the genetic stutter found in myotonic dystrophy type 1."
+  },
+  {
+    "title": "STAT+: State Democratic wins make Medicaid expansion a possibility for more than a million people",
+    "link": "https://www.statnews.com/2026/11/10/medicaid-expansion-holdout-states-midterm-election-power-shift/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T09:30:00.000Z",
+    "summary": "Texas, Georgia, and Wisconsin may expand their Medicaid programs when Democrats take power."
+  },
+  {
+    "title": "Opinion: AI’s health advice can be accurate and still make us sicker",
+    "link": "https://www.statnews.com/2026/11/10/ai-health-advice-accuracy-messaging-risk-behavioral-benchmarking/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T09:30:00.000Z",
+    "summary": "“Even a factually accurate health message can change behavior in ways that make people less healthy,” researchers write."
+  },
+  {
+    "title": "Opinion: STAT+: BIO CEO: American biotech needs a coordinated plan to beat China — now",
+    "link": "https://www.statnews.com/2026/11/10/china-biotech-bio-plan-space-race/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-10T09:30:00.000Z",
+    "summary": "BIO CEO: “Today’s biotech race is our generation’s Space Race.”"
+  },
+  {
+    "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
+    "link": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-10T07:00:00.000Z",
+    "summary": "Oyster says a tweak it's made to traditional protein degrading technology can help break down tau, which has long been a focus of Alzheimer’s drug research."
+  },
+  {
+    "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
+    "link": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-10T05:01:00.000Z",
+    "summary": "A seven-part proposal from the prominent lobbyist lays out a series of initiatives to accelerate drug development in the U.S. and counter China’s fast rise."
+  },
+  {
     "title": "STAT+: Ionis Pharmaceuticals shares plummet after slow rollout of biotech’s triglyceride-lowering drug",
     "link": "https://www.statnews.com/2026/11/09/ionis-pharmaceuticals-shares-plummet-after-tryngolza-slow-rollout/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,30 +240,6 @@
     "summary": "CVS’ split into two doesn’t fix its fundamental problem, writes Judi Health CEO A.J. Loiacono."
   },
   {
-    "title": "Liver experts finally agree on what acute-on-chronic liver failure is",
-    "link": "https://www.statnews.com/2026/11/09/acute-on-chronic-liver-failure-new-definition/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T09:30:00.000Z",
-    "summary": "\"Patients are suffering with this condition that everyone has their own way of defining.\""
-  },
-  {
-    "title": "STAT+: Democrats begin asking: How far can we go on health care?",
-    "link": "https://www.statnews.com/2026/11/09/democrat-healthcare-agenda-new-lawmakers-weigh-popular-vs-possible/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T09:30:00.000Z",
-    "summary": "Many in the party are pushing for Democratic lawmakers to go big on health care, but their dreams may crash into reality."
-  },
-  {
-    "title": "AI chatbots aren’t therapists. But can they finally get men to open up?",
-    "link": "https://www.statnews.com/2026/11/09/ai-chatbots-can-overcome-mental-health-barriers-in-men/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T09:30:00.000Z",
-    "summary": "AI chatbots are imperfect therapists. But can they finally get men to talk?"
-  },
-  {
     "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects",
     "link": "https://www.nature.com/articles/s41573-026-01561-w",
     "source": "Nature Reviews Drug Discovery",
@@ -200,68 +256,12 @@
     "summary": ""
   },
   {
-    "title": "Survival after sudden cardiac arrest didn’t improve despite training bystanders, emergency responders",
-    "link": "https://www.statnews.com/2026/11/08/sudden-cardiac-arrest-survival-cpr-defibrillation-training/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-08T22:15:00.000Z",
-    "summary": "A new study found survival after sudden cardiac arrest didn’t improve with advance training of responders — but researchers aren't ready to shut the door on the possibility."
-  },
-  {
-    "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
-    "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-08T09:30:00.000Z",
-    "summary": "Once again, a hot new technology that was supposed to speed up drug research has fallen flat."
-  },
-  {
-    "title": "Lowering blood pressure after stroke or with diabetes poses challenges, in research and practice",
-    "link": "https://www.statnews.com/2026/11/07/new-studies-on-blood-pressure-management-aha-conference-news/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-07T21:39:02.000Z",
-    "summary": "High blood pressure is known as the silent killer. Researchers are finding new ways to fight back."
-  },
-  {
-    "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-    "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-07T16:57:13.000Z",
-    "summary": "The model is a test of Trump's most-favored nation approach to drug pricing, though its impact is likely to be limited."
-  },
-  {
-    "title": "STAT+: Failure of Novartis Lp(a) drug raises questions about cardiovascular strategy",
-    "link": "https://www.statnews.com/2026/11/07/aha-conference-news-novartis-lp-a-pelacarsen-heart-disease-trial-mystery/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-07T14:50:00.000Z",
-    "summary": "Medical mystery at the AHA conference: A Novartis drug lowered a risk marker for cardiovascular disease but did not lower chance of heart attack or stroke."
-  },
-  {
     "title": "Novartis reveals cancer cases possibly linked to gene therapy Zolgensma",
     "link": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-06T16:51:00.000Z",
     "summary": "The FDA is now investigating the risk of malignancy associated with Zolgensma and is “evaluating whether regulatory action is appropriate.”"
-  },
-  {
-    "title": "Lilly, Hims reach GLP-1 deal; Alnylam sales chief to step down",
-    "link": "https://www.biopharmadive.com/news/lilly-hims-alnylam-boehringer-ultragenyx-sevasemten-ani-egetis/873843/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-06T13:13:00.000Z",
-    "summary": "The deal is part of a course change for Hims, which had previously sold knockoff GLP-1 drugs. Elsewhere, a medicine Servier recently acquired failed a key trial and Ultragenyx announced staff cuts."
-  },
-  {
-    "title": "This week in charts: 3 drug launches Wall Street is watching",
-    "link": "https://www.biopharmadive.com/news/biotech-charts-drug-launches-sales-wegovy-rezdiffra-auvelity/873549/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-06T12:00:00.000Z",
-    "summary": "The latest installment in BioPharma Dive’s visualization-focused series features a look at investors’ response to a trio of medicines highlighted in quarterly earnings this week."
   },
   {
     "title": "Regulatory lessons from FDA review of approved AAV gene therapies",
