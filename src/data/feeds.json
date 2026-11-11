@@ -1,5 +1,45 @@
 [
   {
+    "title": "The U.S. may soon lose measles elimination status",
+    "link": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-11T12:56:13.000Z",
+    "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:"
+  },
+  {
+    "title": "STAT+: MDCalc launches a ‘rumble strip’ for doctors using generative AI tools",
+    "link": "https://www.statnews.com/2026/11/11/mdcalc-launches-crosscover-rumble-strip-for-clinical-ai-chatbots/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-11T09:30:00.000Z",
+    "summary": "MDCalc, a medical reference tool site, is launching CrossCover, a tool meant to help clinicians trust the answers of medical AI chatbots."
+  },
+  {
+    "title": "STAT+: Doctors on Kennedy’s influential preventive care panel have major conflicts of interest, filings reveal",
+    "link": "https://www.statnews.com/2026/11/11/kennedy-hhs-preventive-care-panel-conflict-interest-waivers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-11T09:30:00.000Z",
+    "summary": "Federal health officials granted blanket ethics waivers to USPSTF panel members, some of whom own pharma stocks and private medical practices."
+  },
+  {
+    "title": "A new tactic in the war over out-of-network bills: Health care providers are suing employers",
+    "link": "https://www.statnews.com/2026/11/11/no-surprises-act-phi-health-air-ambulance-sues-employers/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-11T09:30:00.000Z",
+    "summary": "Providers increasingly are suing employers, claiming they are responsible for out-of-network medical bills that insurers haven’t fully paid or have delayed paying."
+  },
+  {
+    "title": "Opinion: Low-income parents can’t afford to take chances with nutritious food their picky eaters might reject",
+    "link": "https://www.statnews.com/2026/11/11/picky-eating-kids-low-income-families-snap-wic/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-11T09:30:00.000Z",
+    "summary": "“Children's food refusals come at a cost — one that few cash-strapped families can afford,” experts write."
+  },
+  {
     "title": "STAT+: Democrats take new step toward investigating Trump’s drug pricing deals",
     "link": "https://www.statnews.com/2026/11/10/democrats-investigate-most-favored-nation-deals-letters-drugmakers/?utm_campaign=rss",
     "source": "STAT News",
@@ -160,14 +200,6 @@
     "summary": "Sunharbo’s U.S. approval is the first for a “Factor XIa” inhibitor, an anticipated class of medicines seen as a possible step forward in stroke prevention."
   },
   {
-    "title": "STAT+: FDA approves novel Bayer drug to reduce recurrence of stroke",
-    "link": "https://www.statnews.com/2026/11/09/cardiovascular-stroke-recurrence-bayer-drug-fda-approval/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T22:28:43.000Z",
-    "summary": "Bayer's drug is the first in a novel class of medications designed to prevent blood clots without increasing risk of bleeding."
-  },
-  {
     "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
     "source": "FDA Press Releases",
@@ -176,44 +208,12 @@
     "summary": "FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adults following a…"
   },
   {
-    "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
-    "link": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T20:51:50.000Z",
-    "summary": "The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S."
-  },
-  {
-    "title": "STAT+: Bill Ackman’s bold plan to transform brain research",
-    "link": "https://www.statnews.com/2026/11/09/bill-ackman-launches-new-brain-research-institute/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T19:21:55.000Z",
-    "summary": "Billionaire Bill Ackman as a bold plan to transform brain research, spurred by a tragic backstory."
-  },
-  {
-    "title": "STAT+: Hospitals win the midterms, and Chopping Very Strategically",
-    "link": "https://www.statnews.com/2026/11/09/midterm-elections-good-news-for-hospitals-cvs-breakup-explained/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T17:54:13.000Z",
-    "summary": "We explain the CVS breakup, and why Democrats' election victories are good news for hospitals."
-  },
-  {
     "title": "Vir hepatitis D drug succeeds in first pivotal study",
     "link": "https://www.biopharmadive.com/news/vir-chronic-hepatitis-d-drug-results-elebsiran-tobevibart/874089/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-09T17:09:00.000Z",
     "summary": "A program that’s survived Vir’s pivot away from infectious disease research hit all of its study objectives and appeared more potent than a rival drug also in late-stage development."
-  },
-  {
-    "title": "STAT+: Heart association meeting’s readout is trending ‘neutral’",
-    "link": "https://www.statnews.com/2026/11/09/aha-2026-news-neutral-clinical-trials-lessons-learned/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-09T16:53:21.000Z",
-    "summary": "The theme of the American Heart Association meetings was \"neutral\" results. Yet no one wants to stop pursuing inflammation or Lp(a) lowering."
   },
   {
     "title": "Argenx to buy peptide platform in potentially billion-dollar deal",
@@ -248,51 +248,11 @@
     "summary": "Why early technical expertise matters when complex life sciences projects challenge convention."
   },
   {
-    "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects",
-    "link": "https://www.nature.com/articles/s41573-026-01561-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Conditional biologics in cancer immunotherapy: mechanisms, applications and clinical progress",
-    "link": "https://www.nature.com/articles/s41573-026-01552-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Regulatory lessons from FDA review of approved AAV gene therapies",
-    "link": "https://www.nature.com/articles/d41573-026-00178-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Decision quality in biopharma portfolio renewal",
-    "link": "https://www.nature.com/articles/d41573-026-00173-8",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-06T00:00:00.000Z",
-    "summary": ""
-  },
-  {
     "title": "FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-11-05T22:30:38.000Z",
     "summary": "The U.S. Food and Drug Administration today granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for the treatment of adults with recurrent or metastatic head and…"
-  },
-  {
-    "title": "Degraders take on GPCRs",
-    "link": "https://www.nature.com/articles/d41573-026-00177-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-05T00:00:00.000Z",
-    "summary": ""
   }
 ]
