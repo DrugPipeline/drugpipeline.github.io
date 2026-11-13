@@ -1,5 +1,61 @@
 [
   {
+    "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
+    "link": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T14:00:00.000Z",
+    "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed."
+  },
+  {
+    "title": "The future of heart drug research in the wake of study setbacks",
+    "link": "https://www.statnews.com/2026/11/13/cardiovascular-disease-heart-drug-failures-readout-loud-podcast/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T13:34:45.000Z",
+    "summary": "What does the failure of two closely watched heart disease medicines mean for the future of drug research in the field? Find out on this week's episode of \"The Readout…"
+  },
+  {
+    "title": "Senator-elect Abdul El-Sayed on restoring trust in science, the state of public health, and RFK Jr.",
+    "link": "https://www.statnews.com/2026/11/13/senator-abdul-el-sayed-interview-public-health-rfk-jr-trust-in-science/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T09:30:00.000Z",
+    "summary": "Senator-elect Abdul El-Sayed talks to STAT about restoring trust in science, the state of public health, and RFK Jr."
+  },
+  {
+    "title": "STAT+: Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say",
+    "link": "https://www.statnews.com/2026/11/13/oura-acquisition-counsel-health-eli-lilly/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T09:30:00.000Z",
+    "summary": "With a new deal announced this week, the relationship between Eli Lilly and a telehealth company that markets GLP-1s is expected to grow more complicated."
+  },
+  {
+    "title": "5 takeaways from STAT’s investigation of the sprawling ‘three-parent IVF’ industry",
+    "link": "https://www.statnews.com/2026/11/13/fertility-tourism-5-takeaways-mrt-investigation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T09:30:00.000Z",
+    "summary": "A STAT investigation of the fertility tourism industry found that clinics are offering an unproven IVF procedure to older women. Here are 5 takeaways from the investigation."
+  },
+  {
+    "title": "Opinion: STAT+: ‘What will I do with the time I have left?’: What it’s like to find out you might develop Alzheimer’s",
+    "link": "https://www.statnews.com/2026/11/13/alzheimers-disease-biomarker-tests-psychological-legal-challenges/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T09:30:00.000Z",
+    "summary": "“What people fear isn’t the end of life, the demise of the animated body, but the demise of the mind,” writes Jason Karlawish."
+  },
+  {
+    "title": "STAT+: Across the U.S., homegrown experiments aim to save kids from their phones",
+    "link": "https://www.statnews.com/2026/11/13/phone-addiction-young-people-fight-back-attention-activism/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T09:30:00.000Z",
+    "summary": "As researchers struggle to understand phone addiction, young people are finding ways to reclaim their attention and push back against Big Tech."
+  },
+  {
     "title": "Windward prices $175M IPO to advance China-licensed lung drugs",
     "link": "https://www.biopharmadive.com/news/windward-ipo-pricing-immune-drugs-china-deals-tezspire/874533/",
     "source": "BioPharma Dive",
@@ -136,22 +192,6 @@
     "summary": "A study of nearly 100,000 diverse Americans identified thousands of new variants in genes that influence our responses to prescription drugs"
   },
   {
-    "title": "STAT+: Most-favored nations policy makes drugmakers rethink launches abroad",
-    "link": "https://www.statnews.com/2026/11/11/biotech-news-mfn-makes-drugmakers-rethink-launches-abroad/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T19:44:07.000Z",
-    "summary": "Drug companies seem to be looking for workarounds to protect their U.S. sales against Trump's \"most-favored nations\" policy:"
-  },
-  {
-    "title": "Opinion: What MAHA’s support for Russell Brand tells us about the movement",
-    "link": "https://www.statnews.com/2026/11/11/maha-russell-brand-conviction-violence-rfk-jr/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T17:47:53.000Z",
-    "summary": "“The alliance between MAHA and Russell Brand is not an aberration,” writes Gavin Yamey."
-  },
-  {
     "title": "Drug price hikes in Germany could push US costs higher, study says",
     "link": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
     "source": "BioPharma Dive",
@@ -160,68 +200,12 @@
     "summary": "The report comes amid escalating tensions between the U.S. and Germany over drug prices, with several large pharmaceutical companies responding by scaling back investments in the country."
   },
   {
-    "title": "STAT+: BMI alternative would flip obesity diagnosis for millions, study finds",
-    "link": "https://www.statnews.com/2026/11/11/obesity-diagnosis-bmi-lancet-commission-proposal-impact/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T16:00:00.000Z",
-    "summary": "A newly proposed way of identifying obesity could flip the diagnoses of millions of people. Proponents argue it could lead to more precise care."
-  },
-  {
-    "title": "STAT+: Why this former ER doc thinks giving AI less information is sometimes better",
-    "link": "https://www.statnews.com/2026/11/11/mdcalc-cofounder-graham-walker-on-crosscover-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T15:20:23.000Z",
-    "summary": "In this edition of AI Prognosis: A conversation with Graham Walker, co-founder of MDCalc, about the company's new AI tool."
-  },
-  {
-    "title": "STAT+: Cassidy sets key vote on Overton, even as he remains undecided on nominee to lead FDA",
-    "link": "https://www.statnews.com/2026/11/11/fda-commissioner-nominee-heidi-overton-senate-committee-vote/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T15:07:28.000Z",
-    "summary": "Cassidy said he and other GOP lawmakers are undecided on Heidi Overton to lead the FDA."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about Dems eyeing Trump MFN deals, fewer drug launches in Europe, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/11/dems-eye-trump-mfn-deals-fewer-drug-launches-in-europe/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T14:34:28.000Z",
-    "summary": "Incoming Democratic chairs of key congressional committees have taken a new step toward investigating most-favored nation drug pricing agreements"
-  },
-  {
     "title": "AstraZeneca buys vaccine startup; FDA issues GLP-1 safety warning",
     "link": "https://www.biopharmadive.com/news/glp1-naion-compass-zura-abeona/874076/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-11T13:42:00.000Z",
     "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech’s shares collapsed."
-  },
-  {
-    "title": "The U.S. may soon lose measles elimination status",
-    "link": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T12:56:13.000Z",
-    "summary": "A regional WHO body will hold a four-day meeting determining whether the U.S. has maintained measles elimination. All signs point to no:"
-  },
-  {
-    "title": "First factor XIa inhibitor nabs FDA approval for stroke prevention",
-    "link": "https://www.nature.com/articles/d41573-026-00180-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The expansion of kinase drug discovery: new targets, platforms and indications",
-    "link": "https://www.nature.com/articles/s41573-026-01551-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-11T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "PepGen soars on promising early data for muscular dystrophy drug",
@@ -262,21 +246,5 @@
     "category": "regulatory",
     "date": "2026-11-09T22:15:46.000Z",
     "summary": "FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adults following a…"
-  },
-  {
-    "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects",
-    "link": "https://www.nature.com/articles/s41573-026-01561-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Conditional biologics in cancer immunotherapy: mechanisms, applications and clinical progress",
-    "link": "https://www.nature.com/articles/s41573-026-01552-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-09T00:00:00.000Z",
-    "summary": ""
   }
 ]
