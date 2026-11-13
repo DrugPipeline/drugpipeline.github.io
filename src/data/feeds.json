@@ -1,11 +1,99 @@
 [
   {
+    "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
+    "link": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T22:21:56.000Z",
+    "summary": "Enforcement of the Trump administration's stringent new Medicaid work requirements have been delayed for six months, until July 1, 2027."
+  },
+  {
+    "title": "STAT+: Democrats coalesce around ‘Medicare for More,’ ‘Medikids’ proposals",
+    "link": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T21:46:05.000Z",
+    "summary": "Democrats are coalescing around a plan to offer Medicare to more Americans, if not all of them."
+  },
+  {
+    "title": "New addiction society guidance on medetomidine’s brutal withdrawal",
+    "link": "https://www.statnews.com/2026/11/13/medetomidine-withdrawal-asam-new-treatment-guidance/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T20:45:42.000Z",
+    "summary": "The American Society of Addiction Medicine has released the first national guidance for recognizing and treating patients who have taken medetomidine."
+  },
+  {
+    "title": "STAT+: Doctors have questions about the Watchman. Boston Scientific has a sales pitch.",
+    "link": "https://www.statnews.com/2026/11/13/investigation-boston-scientific-watchman-cardiac-implant-marketing-science/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T17:55:00.000Z",
+    "summary": "The Boston Globe investigates if Boston Scientific's marketing of its cardiac implant, Watchman, outpaced the science."
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/11/13/up-down-ladder-jobs-pharma-biotech-2/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T15:48:14.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
+    "title": "STAT+: HHS plans funding for research into ibogaine for PTSD",
+    "link": "https://www.statnews.com/2026/11/13/biotech-news-hhs-funding-for-research-into-ibogaine-for-ptsd/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T15:25:46.000Z",
+    "summary": "The Trump administration will funnel up to $4.9 million into supporting research into ibogaine, a psychedelic that’s drawn interest as a potential treatment for PTSD and addiction."
+  },
+  {
+    "title": "Opinion: New organ donation rules are unfair to families",
+    "link": "https://www.statnews.com/2026/11/13/organ-donation-policy-life-sustaining-treatment-brain-death/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T14:59:54.000Z",
+    "summary": "New organ donation rules may “blur the line between the physicians fighting to save a patient's life and the teams responsible for organ procurement.”"
+  },
+  {
+    "title": "Brain implant startup pauses trials",
+    "link": "https://www.statnews.com/2026/11/13/health-news-brain-implant-startup-pauses-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T14:40:32.000Z",
+    "summary": "Synchron has paused clinical trials of its second-generation brain-computer interface. Leaders say the pause is not safety related."
+  },
+  {
+    "title": "Novo submits sickle cell drug; Flagship, Gates Foundation deepen ties",
+    "link": "https://www.biopharmadive.com/news/novo-etavopivat-flagship-gates-ascidian-immuneering-neurosterix/874120/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-13T14:36:00.000Z",
+    "summary": "Novo views the medicine, acquired in a billion-dollar deal, as a future blockbuster. Meanwhile, a pair of startups forged an RNA editing pact and Astellas lined up two new trials in pancreatic cancer."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Lilly conflict questions, a DEA OK for a narcolepsy pill, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/13/lilly-conflict-questions-dea-okays-takeda-narcolepsy-pill/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-13T14:33:16.000Z",
+    "summary": "A deal for smart-ring maker Oura to acquire a telehealth company is raising conflict-of-interest questions for Eli Lilly"
+  },
+  {
     "title": "STAT+: Senators introduce bill to curb conflicts of interest on preventive care panel",
     "link": "https://www.statnews.com/2026/11/13/uspstf-preventive-care-panel-senators-target-conflicts-of-interest/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
     "date": "2026-11-13T14:00:00.000Z",
     "summary": "Some of the panel's members could benefit financially from the decisions they make, STAT's reporting showed."
+  },
+  {
+    "title": "This week in charts: Brain drugs are back on venture capitalists’ minds",
+    "link": "https://www.biopharmadive.com/news/charts-venture-neuroscience-oyster-vectory-acr-cell-therapy/874570/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-13T14:00:00.000Z",
+    "summary": "Five neurology-focused startups have together raised around $450 million in the last few weeks. Elsewhere, investors had a muted response to the latest cell therapy research."
   },
   {
     "title": "The future of heart drug research in the wake of study setbacks",
@@ -48,7 +136,7 @@
     "summary": "“What people fear isn’t the end of life, the demise of the animated body, but the demise of the mind,” writes Jason Karlawish."
   },
   {
-    "title": "STAT+: Across the U.S., homegrown experiments aim to save kids from their phones",
+    "title": "Across the U.S., homegrown experiments aim to save kids from their phones",
     "link": "https://www.statnews.com/2026/11/13/phone-addiction-young-people-fight-back-attention-activism/?utm_campaign=rss",
     "source": "STAT News",
     "category": "industry",
@@ -61,7 +149,39 @@
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-13T01:22:00.000Z",
-    "summary": "The Swiss biotech has two prospects it sees as having the potential to outcompete AstraZeneca and Amgen's blockbuster asthma treatment Tezspire."
+    "summary": "The Swiss biotech, which pocketed another $50 million through a concurrent private share sale to Sanofi, is developing a potential competitor to the blockbuster asthma treatment Tezspire."
+  },
+  {
+    "title": "How can gene therapy platforms be scaled up to treat thousands of rare diseases?",
+    "link": "https://www.nature.com/articles/d41573-026-00179-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-13T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Cancer vaccine development gets complicated",
+    "link": "https://www.nature.com/articles/d41573-026-00181-8",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-13T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "From hope to adoption: an industry perspective on the maturation of new approach methodologies",
+    "link": "https://www.nature.com/articles/s41573-026-01583-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-13T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Immunogenicity risk assessment of novel modalities using new approach methodologies",
+    "link": "https://www.nature.com/articles/s41573-026-01562-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-13T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "Blackstone bets $1.5B on Pfizer’s obesity drug",
@@ -120,78 +240,6 @@
     "summary": "The agency is still recovering from a mass staff exodus last year that left it shorthanded. Here’s what it means for the industry."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about FDA shelving fast-track review, a Canadian importer arrested, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/12/fda-fast-track-review-shelved-canadian-importer-arrested/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T14:14:55.000Z",
-    "summary": "The FDA has shelved the fast-track drug review initiative launched in June 2025 by former Commissioner Marty Makary"
-  },
-  {
-    "title": "Experts update prostate cancer screening guidelines for men",
-    "link": "https://www.statnews.com/2026/11/12/health-news-experts-update-prostate-cancer-screening-guidelines-for-men/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T12:32:57.000Z",
-    "summary": "Are you an American man between 50 and 69? You might want to get checked for prostate cancer, ACS says in reversal of previous guidelines."
-  },
-  {
-    "title": "American Cancer Society revises guidelines, urges routine PSA screening for prostate cancer",
-    "link": "https://www.statnews.com/2026/11/12/prostate-cancer-screening-guidelines-updated-acs/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T12:00:00.000Z",
-    "summary": "The American Cancer Society recommended routine PSA screening for prostate cancer, changing guidelines in place since 2010."
-  },
-  {
-    "title": "STAT+: Alnylam, once in the hunt to be a $100 billion biotech, needs to solve its heart drug problem",
-    "link": "https://www.statnews.com/2026/11/12/alnylam-amvuttra-heart-drug-growth/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T11:30:00.000Z",
-    "summary": "Alnylam is heavily dependent on its heart drug Amvuttra for growth — and sales have been slowing."
-  },
-  {
-    "title": "STAT+: What to know about Biogen’s big lupus study readout",
-    "link": "https://www.statnews.com/2026/11/12/biogen-lupus-litifilimab-what-to-know/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T11:30:00.000Z",
-    "summary": "Biogen is expected to soon release the results of pivotal clinical trials of an experimental therapy for lupus."
-  },
-  {
-    "title": "Opinion: 3 things new governors must do to lead on health",
-    "link": "https://www.statnews.com/2026/11/12/new-governors-2027-health-priorities-agenda/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T09:30:00.000Z",
-    "summary": "“On day one, governors should know kindergarten vaccination rates by county,” write Mandy Cohen and Ellen Montz."
-  },
-  {
-    "title": "Opinion: I research MAHA and Black Americans. The relationship is complicated — and fascinating",
-    "link": "https://www.statnews.com/2026/11/12/maha-black-american-activists-voters-health-care-midterms/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T09:30:00.000Z",
-    "summary": "“Even as Kennedy and MAHA have cribbed from the Black activist playbook, they’ve actively undermined” Black Americans, writes Jerel Ezell."
-  },
-  {
-    "title": "Newly elected doctors and scientists hope to restore trust in science. It won’t be easy",
-    "link": "https://www.statnews.com/2026/11/12/trust-in-science-physician-lawmakers-rebuild-belief/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T09:30:00.000Z",
-    "summary": "Scores of doctors and scientists were elected last week. Will trust in science follow?"
-  },
-  {
-    "title": "All of Us study finds thousands of new genetic variants affecting drug responses",
-    "link": "https://www.statnews.com/2026/11/11/all-of-us-study-finds-gene-variants-drug-responses/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-11T21:37:27.000Z",
-    "summary": "A study of nearly 100,000 diverse Americans identified thousands of new variants in genes that influence our responses to prescription drugs"
-  },
-  {
     "title": "Drug price hikes in Germany could push US costs higher, study says",
     "link": "https://www.biopharmadive.com/news/germany-us-drug-price-study-healthcare-costs/874360/",
     "source": "BioPharma Dive",
@@ -206,6 +254,22 @@
     "category": "industry",
     "date": "2026-11-11T13:42:00.000Z",
     "summary": "The deal gives AstraZeneca a simpler way to make conjugate vaccines. Elsewhere, a psychedelic depression drug was submitted to the FDA and an autoimmune disease-focused biotech’s shares collapsed."
+  },
+  {
+    "title": "First factor XIa inhibitor nabs FDA approval for stroke prevention",
+    "link": "https://www.nature.com/articles/d41573-026-00180-9",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-11T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "The expansion of kinase drug discovery: new targets, platforms and indications",
+    "link": "https://www.nature.com/articles/s41573-026-01551-y",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-11T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "PepGen soars on promising early data for muscular dystrophy drug",
@@ -224,27 +288,27 @@
     "summary": "The result represents a scientific milestone and positions Beam to submit a first-of-its-kind FDA application as soon as the end of the year."
   },
   {
-    "title": "London biotech Oyster harvests $60M for tau-targeting brain drugs",
-    "link": "https://www.biopharmadive.com/news/oyster-venture-financing-tau-targeted-protein-degraders/874160/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-10T07:00:00.000Z",
-    "summary": "Oyster says a tweak it's made to traditional protein degrading technology can help break down tau, which has long been a focus of Alzheimer’s drug research."
-  },
-  {
-    "title": "BIO unveils plan for US to remain biotech’s ‘global leader’",
-    "link": "https://www.biopharmadive.com/news/bio-bioadvance-proposal-us-trial-competition-china/874162/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-10T05:01:00.000Z",
-    "summary": "A seven-part proposal from the prominent lobbyist lays out a series of initiatives to accelerate drug development in the U.S. and counter China’s fast rise."
-  },
-  {
     "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-11-09T22:15:46.000Z",
     "summary": "FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adults following a…"
+  },
+  {
+    "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects",
+    "link": "https://www.nature.com/articles/s41573-026-01561-w",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Conditional biologics in cancer immunotherapy: mechanisms, applications and clinical progress",
+    "link": "https://www.nature.com/articles/s41573-026-01552-x",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-09T00:00:00.000Z",
+    "summary": ""
   }
 ]
