@@ -1,5 +1,13 @@
 [
   {
+    "title": "STAT+: Apple and OpenEvidence launch experimental health chat app",
+    "link": "https://www.statnews.com/2026/11/15/apple-openevidence-launch-health-chat-app-experiment-ai/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-16T01:25:43.000Z",
+    "summary": "Apple and OpenEvidence are launching a study based around an experimental AI-powered health chat app, hinting at possible new directions for both companies."
+  },
+  {
     "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
     "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
     "source": "STAT News",
@@ -224,14 +232,6 @@
     "summary": "A massive scientific collaboration has produced the most detailed map yet of the basal ganglia, a key brain region involved in an array of psychiatric and neurologic disorders."
   },
   {
-    "title": "STAT+: Will Heidi Overton get to run the FDA?",
-    "link": "https://www.statnews.com/2026/11/12/will-heidi-overton-be-confirmed-fda-commissioner-dc-diagnosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-12T15:38:37.000Z",
-    "summary": "Does Heidi Overton have the votes ? And how will Dems take on RFK Jr.?"
-  },
-  {
     "title": "The FDA has over 1k open jobs — and the staffing shortage is hitting pharma",
     "link": "https://www.biopharmadive.com/news/fda-staffing-shortages-drug-reviews-pharma/874480/",
     "source": "BioPharma Dive",
@@ -294,21 +294,5 @@
     "category": "regulatory",
     "date": "2026-11-09T22:15:46.000Z",
     "summary": "FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adults following a…"
-  },
-  {
-    "title": "Histone lysine demethylases in the third decade: biology and therapeutic prospects",
-    "link": "https://www.nature.com/articles/s41573-026-01561-w",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-09T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Conditional biologics in cancer immunotherapy: mechanisms, applications and clinical progress",
-    "link": "https://www.nature.com/articles/s41573-026-01552-x",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-09T00:00:00.000Z",
-    "summary": ""
   }
 ]
