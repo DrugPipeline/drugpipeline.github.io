@@ -1,5 +1,69 @@
 [
   {
+    "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
+    "link": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-17T19:44:14.000Z",
+    "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records."
+  },
+  {
+    "title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-shown-help-patients-infantile-onset-niemann-pick-disease-type-c-live-longer",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-11-17T19:15:22.000Z",
+    "summary": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer."
+  },
+  {
+    "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
+    "link": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-17T18:14:50.000Z",
+    "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping."
+  },
+  {
+    "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
+    "link": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-17T17:49:24.000Z",
+    "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH."
+  },
+  {
+    "title": "Roche breast cancer pill cleared by FDA",
+    "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-17T17:18:00.000Z",
+    "summary": "Wilserdly’s U.S. approval is seen by analysts as a “key first step” in an important launch for Roche, which has claimed the drug could become its top-selling product."
+  },
+  {
+    "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
+    "link": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-17T17:05:10.000Z",
+    "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:"
+  },
+  {
+    "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
+    "link": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-17T16:07:21.000Z",
+    "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing."
+  },
+  {
+    "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
+    "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-17T15:51:00.000Z",
+    "summary": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year."
+  },
+  {
     "title": "STAT+: ‘Medicare for More’ gains traction",
     "link": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,76 +216,12 @@
     "summary": "The deal hands J&J a treatment that could complement its existing eye care franchise, but would vie for share of a crowded and competitive market."
   },
   {
-    "title": "STAT+: Biotech’s rebound isn’t lifting all boats equally",
-    "link": "https://www.statnews.com/2026/11/16/biotech-news-rebound-isnt-lifting-all-boats-equally/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-16T16:56:33.000Z",
-    "summary": "Biotech is having a good year, though you wouldn't necessarily know it from how investors are treating positive clinical data."
-  },
-  {
-    "title": "STAT+: Suing Joe the Plumber and Microsoft, and diminishing raises",
-    "link": "https://www.statnews.com/2026/11/16/providers-sue-employers-to-collect-payment-health-insurance-costs-climb/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-16T16:52:09.000Z",
-    "summary": "Health care providers turn to the courts to get paid, and how insurance costs are eating your paycheck."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about GLP-1 use, Covid-19 vaccine investment returns, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/16/glp1-use-covid-19-vaccines-return-on-investment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-16T14:17:01.000Z",
-    "summary": "During July and August 2025, approximately 1 in 10 U.S. adults reported taking a GLP-1 medication during the previous year"
-  },
-  {
-    "title": "Democrats settle on a message: ‘Medicare for More’",
-    "link": "https://www.statnews.com/2026/11/16/health-news-democrats-settle-on-medicare-for-more-message/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-16T13:37:10.000Z",
-    "summary": "It doesn’t have quite the same ring to it as “Medicare for All.” But House Dems have coalesced around a policy priority to expand health care access:"
-  },
-  {
-    "title": "STAT+: Helus’ psychedelic drug improved depression in study but faces safety questions",
-    "link": "https://www.statnews.com/2026/11/16/helus-psychedelics-depression-phase-3-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-16T13:07:47.000Z",
-    "summary": "A psychedelic drug from Helus Pharma improved depression in a study, but is facing safety questions with a number of serious adverse events reported."
-  },
-  {
     "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
     "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-16T12:44:00.000Z",
     "summary": "Lilly’s 15th announced acquisition this year — by far the most in the biopharmaceutical sector — centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms."
-  },
-  {
-    "title": "Big-name investors pour $100M into DNA therapeutics developer Seawolf",
-    "link": "https://www.biopharmadive.com/news/seawolf-therapeutics-dna-versant-startup-financing/874465/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T10:00:00.000Z",
-    "summary": "The startup, which also just disclosed an up to $1.2 billion partnership with Sanofi, is backed by Versant, MPM BioImpact, Eli Lilly and Novartis’ venture arm."
-  },
-  {
-    "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
-    "link": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T10:00:00.000Z",
-    "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging."
-  },
-  {
-    "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-    "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T10:00:00.000Z",
-    "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever."
   },
   {
     "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
@@ -232,12 +232,20 @@
     "summary": "Faster drug discovery depends on more than the model. What drug developers need to know about AI."
   },
   {
-    "title": "One of Europe’s leading VCs banks a €725M ‘crossover’ fund",
-    "link": "https://www.biopharmadive.com/news/sofinnova-crossover-fund-ii-european-investment/874656/",
+    "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
+    "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
     "source": "BioPharma Dive",
     "category": "industry",
-    "date": "2026-11-16T07:00:00.000Z",
-    "summary": "Sofinnova Partners, which has backed the likes of successful drugmakers such as Abivax, Argenx and Verona Pharma, will use the cash to support a new group of later-stage biotechs."
+    "date": "2026-11-16T10:00:00.000Z",
+    "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever."
+  },
+  {
+    "title": "Completing the circle: the next evolution in sustainable pharmaceutical blister packaging",
+    "link": "https://www.biopharmadive.com/spons/completing-the-circle-the-next-evolution-in-sustainable-pharmaceutical-bli/874350/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-16T10:00:00.000Z",
+    "summary": "Discover how innovative PET and PP lidding are advancing sustainable pharmaceutical blister packaging."
   },
   {
     "title": "How can gene therapy platforms be scaled up to treat thousands of rare diseases?",
@@ -269,22 +277,6 @@
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-11-13T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "First factor XIa inhibitor nabs FDA approval for stroke prevention",
-    "link": "https://www.nature.com/articles/d41573-026-00180-9",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-11T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "The expansion of kinase drug discovery: new targets, platforms and indications",
-    "link": "https://www.nature.com/articles/s41573-026-01551-y",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-11T00:00:00.000Z",
     "summary": ""
   }
 ]
