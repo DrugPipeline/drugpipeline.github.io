@@ -1,5 +1,85 @@
 [
   {
+    "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
+    "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-18T23:07:55.000Z",
+    "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH."
+  },
+  {
+    "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
+    "link": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-18T21:21:26.000Z",
+    "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use."
+  },
+  {
+    "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
+    "link": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-18T20:29:14.000Z",
+    "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year."
+  },
+  {
+    "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
+    "link": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-18T19:33:57.000Z",
+    "summary": "STAT tackles the most important questions about the FDA's uncertain future."
+  },
+  {
+    "title": "STAT+: The emerging winners and losers in the AI scribe market",
+    "link": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-18T19:25:59.000Z",
+    "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more"
+  },
+  {
+    "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-11-18T19:13:26.000Z",
+    "summary": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg…"
+  },
+  {
+    "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
+    "link": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-18T18:51:00.000Z",
+    "summary": "Proponents of compounding argue it increases access, lowers prices and helps patients who may need individualized versions of a drug. But there are serious concerns, experts said at the HLTH…"
+  },
+  {
+    "title": "White House pulls nomination for FDA nominee Overton",
+    "link": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-18T17:00:00.000Z",
+    "summary": "The sudden end of Heidi Overton’s candidacy likely ensures a Democrat-controlled Congress will choose the FDA’s next leader — but shouldn’t disrupt the agency, analysts say."
+  },
+  {
+    "title": "Pfizer leaps into ‘in vivo’ CAR-T with latest China deal",
+    "link": "https://www.biopharmadive.com/news/pfizer-starna-in-vivo-cell-therapy-autoimmune-disease-deal/875018/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-18T15:55:00.000Z",
+    "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body."
+  },
+  {
+    "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
+    "link": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-18T15:36:19.000Z",
+    "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton."
+  },
+  {
     "title": "STAT+: FDA discloses reasons for rejecting Summit drug",
     "link": "https://www.statnews.com/2026/11/18/biotech-news-fda-discloses-reasons-for-rejecting-summit-drug/?utm_campaign=rss",
     "source": "STAT News",
@@ -152,60 +232,12 @@
     "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product"
   },
   {
-    "title": "NIH’s infectious disease unit has a new head at last",
-    "link": "https://www.statnews.com/2026/11/17/health-news-nih-infectious-disease-unit-has-a-new-head-at-last/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T13:27:01.000Z",
-    "summary": "The NIH has been without a permanent director since 2025. Now officials announce that acting director John Powers III will take the helm."
-  },
-  {
-    "title": "STAT+: With $173 million, new startup takes aim at sickle cell",
-    "link": "https://www.statnews.com/2026/11/17/new-startup-developing-novel-sickle-cell-anemia-infusion-no-gene-therapy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T12:00:00.000Z",
-    "summary": "Researchers are seeking a sickle cell treatment as effective as gene therapy, without the drawbacks. This entrepreneur thinks he might have one."
-  },
-  {
-    "title": "STAT+: Sellas’ experimental blood cancer immunotherapy reduced risk of death in clinical trial",
-    "link": "https://www.statnews.com/2026/11/17/sellas-blood-cancer-immunotherapy-succeeds-clinical-trial/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T12:00:00.000Z",
-    "summary": "Sellas' experimental blood cancer immunotherapy reduced the risk of death in clinical trial."
-  },
-  {
     "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
     "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-17T12:00:00.000Z",
     "summary": "Armed with $173 million in venture funding, the startup is developing what it’s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta…"
-  },
-  {
-    "title": "STAT+: After death in gene therapy trial for a brain disease, progress is reported",
-    "link": "https://www.statnews.com/2026/11/17/capsida-gene-therapy-trial-death-follow-up-investigation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T09:30:00.000Z",
-    "summary": "An unexpected patient death rattled researchers who sought to pierce the blood-brain barrier. Now some think they have a better way of mitigating risks."
-  },
-  {
-    "title": "Flavored nicotine tablets, the tobacco industry’s latest product, worry public health advocates",
-    "link": "https://www.statnews.com/2026/11/17/zyn-melts-tobacco-firms-test-market-nicotine-pouch-alternatives/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T09:30:00.000Z",
-    "summary": "The latest product from the tobacco industry is a flavorful nicotine tablet that melts in your mouth, allowing users to get a buzz as discreetly as popping a mint"
-  },
-  {
-    "title": "Opinion: The problem with ‘zero tolerance for bad behavior’ signs at hospitals",
-    "link": "https://www.statnews.com/2026/11/17/hospital-signs-violence-health-care-workers-research-stigma/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T09:30:00.000Z",
-    "summary": "“Hospitals do not have to choose between protecting hospital staff and preserving patient/family trust in the institution.”"
   },
   {
     "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
@@ -230,30 +262,6 @@
     "category": "industry",
     "date": "2026-11-16T16:57:00.000Z",
     "summary": "The deal hands J&J a treatment that could complement its existing eye care franchise, but would vie for share of a crowded and competitive market."
-  },
-  {
-    "title": "Lilly adds to buyout streak with $1.5B purchase of startup Calytrix",
-    "link": "https://www.biopharmadive.com/news/lilly-calytrix-bio-acquire-deal-myelofibrosis-essential-thrombocythemiaenial-/874719/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T12:44:00.000Z",
-    "summary": "Lilly’s 15th announced acquisition this year — by far the most in the biopharmaceutical sector — centers around a precision therapy for rare blood disorders known as myeloproliferative neoplasms."
-  },
-  {
-    "title": "The infrastructure decisions that will enable tomorrow’s biggest breakthroughs",
-    "link": "https://www.biopharmadive.com/spons/the-infrastructure-decisions-that-will-enable-tomorrows-biggest-breakthrou/874507/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T10:00:00.000Z",
-    "summary": "Faster drug discovery depends on more than the model. What drug developers need to know about AI."
-  },
-  {
-    "title": "Your AI pilots aren’t stalling because of the AI – they’re stalling because of your environment",
-    "link": "https://www.biopharmadive.com/spons/your-ai-pilots-arent-stalling-because-of-the-ai-theyre-stalling-because/874345/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T10:00:00.000Z",
-    "summary": "As clinical AI adoption accelerates, trust, traceability and readiness matter more than ever."
   },
   {
     "title": "How can gene therapy platforms be scaled up to treat thousands of rare diseases?",
