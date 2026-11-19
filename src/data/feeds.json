@@ -1,5 +1,117 @@
 [
   {
+    "title": "Sanofi gains FDA clearance for Gaucher disease pill",
+    "link": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-19T17:17:00.000Z",
+    "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent’s looming patent expiration."
+  },
+  {
+    "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
+    "link": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T17:04:46.000Z",
+    "summary": "Lawmakers leading the congressional BIOTech Caucus say Washington needs to act in the sector — and fast:"
+  },
+  {
+    "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
+    "link": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T16:59:47.000Z",
+    "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157."
+  },
+  {
+    "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+    "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-19T16:42:00.000Z",
+    "summary": "A commission called on U.S. lawmakers to act quickly to prevent an “overdependence” on China that could leave American patients “vulnerable to supply chain weaponization.”"
+  },
+  {
+    "title": "STAT+: MAHA PAC’s steakhouse spend",
+    "link": "https://www.statnews.com/2026/11/19/maha-pac-midterm-election-spending-fda-questions-after-heidi-overton/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T16:30:07.000Z",
+    "summary": "MAHA PAC's curious spending decisions, and a close look at what's next for the FDA."
+  },
+  {
+    "title": "National Academies report calls for faster decisions on publication retractions and corrections",
+    "link": "https://www.statnews.com/2026/11/19/national-academies-report-proposes-faster-research-retractions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T16:00:00.000Z",
+    "summary": "The National Academies urged the scientific community to respond more aggressively to claims of errors or manipulated data in published research"
+  },
+  {
+    "title": "With FDA nod, Regeneron brings an RNAi drug to autoimmune disease",
+    "link": "https://www.biopharmadive.com/news/regeneron-fda-approve-cemdisiran-livsayis-myasthenia-gravis-alnylam/875160/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-19T15:10:00.000Z",
+    "summary": "The product of a collaboration with Alnylam, Livsayis is now Regeneron’s first marketed RNAi drug and will compete against established medicines from AstraZeneca and Argenx."
+  },
+  {
+    "title": "STAT+: Epic defends competitive practices; promises AI access to records",
+    "link": "https://www.statnews.com/2026/11/19/epic-defends-competitive-practices-promises-ai-access-health-tech/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T14:21:08.000Z",
+    "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news."
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T13:36:33.000Z",
+    "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology"
+  },
+  {
+    "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
+    "link": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T12:59:54.000Z",
+    "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said."
+  },
+  {
+    "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
+    "link": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T11:45:00.000Z",
+    "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology."
+  },
+  {
+    "title": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
+    "link": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T11:30:00.000Z",
+    "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?"
+  },
+  {
+    "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
+    "link": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T09:30:00.000Z",
+    "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally."
+  },
+  {
+    "title": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
+    "link": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-19T09:30:00.000Z",
+    "summary": "STAT columnist Vishal Khetpal examines the STREAM trial and its findings about discontinuing use of statins."
+  },
+  {
     "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
     "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
     "source": "STAT News",
@@ -112,52 +224,12 @@
     "summary": "\"I am asking whether every part of [the medical school] infrastructure needs to be bundled into the same four-year institution,” writes M.D./Ph.D. student Alex Serafini."
   },
   {
-    "title": "STAT+: Scientists heralded a blue wave. But will they miss Susan Collins?",
-    "link": "https://www.statnews.com/2026/11/18/susan-collins-election-loss-impact-science-funding/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T09:30:00.000Z",
-    "summary": "Some science advocates worry that Maine GOP Sen. Susan Collins’ defeat could hamper their ability to push back on Trump administration research policies."
-  },
-  {
-    "title": "Opinion: Maybe in-person four-year institutions aren’t the right approach to medical education",
-    "link": "https://www.statnews.com/2026/11/18/core-to-clinic-medical-education-radical-proposal/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T09:30:00.000Z",
-    "summary": "“Why do we have hundreds of institutions independently building parallel versions of the same pre-clerkship curriculum?”"
-  },
-  {
-    "title": "Opinion: STAT+: RFK Jr. has got to go",
-    "link": "https://www.statnews.com/2026/11/18/kennedy-impeachment-paul-knoepfler-says-time-is-now/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T09:30:00.000Z",
-    "summary": "With Democrats riding a blue wave after the midterms, it’s time to impeach health secretary Robert F. Kennedy Jr., writes Paul Knoepfler."
-  },
-  {
-    "title": "STAT+: White House pulls nomination of Heidi Overton to lead FDA",
-    "link": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-withdrawn/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T00:44:05.000Z",
-    "summary": "BREAKING: The White House is pulling its nominee to be commissioner of the FDA, Heidi Overton."
-  },
-  {
     "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
     "source": "FDA Press Releases",
     "category": "regulatory",
     "date": "2026-11-17T20:32:16.000Z",
     "summary": "FDA today announced the Global Reliance Disclosure Program (GRDP), a landmark initiative that will fundamentally transform how the FDA's regulatory drug and biologic approval decisions are leveraged…"
-  },
-  {
-    "title": "STAT+: Updated health data privacy rule sets standards for sharing records with apps",
-    "link": "https://www.statnews.com/2026/11/17/hipaa-privacy-rule-update-aims-to-improve-patient-access-to-records/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T19:44:14.000Z",
-    "summary": "Federal health department has updated the HIPAA privacy rule with a focus on supporting patients’ access to their own medical records."
   },
   {
     "title": "FDA Approves First Drug Shown to Help Patients with Infantile-Onset Niemann-Pick Disease Type C Live Longer",
@@ -168,44 +240,12 @@
     "summary": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer."
   },
   {
-    "title": "STAT+: GOP, MAHA leaders clash over FDA nominee’s record on vapes",
-    "link": "https://www.statnews.com/2026/11/17/heidi-overton-fda-commissioner-nomination-vote-vaping-controversy/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T18:14:50.000Z",
-    "summary": "Heidi Overton is facing an uphill climb to become the next FDA commissioner. The latest challenge is her work on vaping."
-  },
-  {
-    "title": "STAT+: What to know about the new AI roadmap from CMS, and news from HLTH",
-    "link": "https://www.statnews.com/2026/11/17/cms-ai-roadmap-and-news-from-hlth-health-tech/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T17:49:24.000Z",
-    "summary": "In this edition of STAT Health Tech: What you need to know about CMS' recently released AI roadmap, and highlights from HLTH."
-  },
-  {
     "title": "Roche breast cancer pill cleared by FDA",
     "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-17T17:18:00.000Z",
     "summary": "Wilserdly’s U.S. approval is seen by analysts as a “key first step” in an important launch for Roche, which has claimed the drug could become its top-selling product."
-  },
-  {
-    "title": "STAT+: Flagship opens biotech-creation outpost in the U.K.",
-    "link": "https://www.statnews.com/2026/11/17/biotech-news-flagship-opens-biotech-creation-uk-outpost/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T17:05:10.000Z",
-    "summary": "Flagship is putting up 100 million pounds to start “AI-native platform companies\" focused on human and planetary health in the U.K.:"
-  },
-  {
-    "title": "U.S. loses measles elimination status, marking embarrassing stain on its public health record",
-    "link": "https://www.statnews.com/2026/11/17/us-loses-measles-elimination-status-public-health-victory-lost/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T16:07:21.000Z",
-    "summary": "Measles is no longer considered eliminated in the U.S., a finding that was expected but that marks an embarrassing backslide in the country’s basic public health standing."
   },
   {
     "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
@@ -216,52 +256,12 @@
     "summary": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year."
   },
   {
-    "title": "STAT+: ‘Medicare for More’ gains traction",
-    "link": "https://www.statnews.com/2026/11/17/democrats-new-health-policy-medicare-for-more-stephen-miller-embraces-maha/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T15:27:50.000Z",
-    "summary": "Democrats coalesce around a new health care policy, and Trump's new chief of staff embraces MAHA."
-  },
-  {
-    "title": "STAT+: Pharmalittle: We’re reading about a Roche breast cancer pill, obesity drugs in children, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/17/roche-breast-cancer-pill-obesity-drugs-in-children/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-17T14:25:41.000Z",
-    "summary": "The FDA approved a breast cancer drug from Roche, teeing up the launch of what the company has said could become its top-selling product"
-  },
-  {
     "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
     "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-17T12:00:00.000Z",
     "summary": "Armed with $173 million in venture funding, the startup is developing what it’s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta…"
-  },
-  {
-    "title": "Summit shares fall as FDA rejects closely watched PD-1/VEGF drug",
-    "link": "https://www.biopharmadive.com/news/summit-akeso-fda-ivonescimab-reject-egfr-lung-cancer/874745/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T17:14:00.000Z",
-    "summary": "The FDA refused to overlook ivonescimab’s failure to initially extend survival in a form of lung cancer, setting back Summit’s first chance to win a U.S. approval."
-  },
-  {
-    "title": "CG Oncology drug delivers ‘exceptional’ results in key bladder cancer trial",
-    "link": "https://www.biopharmadive.com/news/cg-oncology-cretostimogene-adjuvant-bladder-cancer-results-pivot/874740/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T17:00:00.000Z",
-    "summary": "CG’s therapy cretostimogene cut the risk of recurrence by 68% when administered after surgery, far surpassing Wall Street’s expectations and lifting company shares."
-  },
-  {
-    "title": "J&J bets $2.2B on Ollin’s vision loss drug",
-    "link": "https://www.biopharmadive.com/news/Johnson-johnson-ollin-acquire-ophthalmology-vegf-ang2-drugs/874728/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-16T16:57:00.000Z",
-    "summary": "The deal hands J&J a treatment that could complement its existing eye care franchise, but would vie for share of a crowded and competitive market."
   },
   {
     "title": "How can gene therapy platforms be scaled up to treat thousands of rare diseases?",
