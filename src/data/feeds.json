@@ -1,5 +1,85 @@
 [
   {
+    "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T14:16:35.000Z",
+    "summary": "Sanofi weighs an Insmed takeover, the FDA slams J&J over misleading bladder cancer drug claims, and more pharma news:"
+  },
+  {
+    "title": "STAT+: Early results for Alterome’s KRAS drug for pancreas, lung and colon cancer arrive",
+    "link": "https://www.statnews.com/2026/11/20/biotech-news-early-results-for-alterome-kras-drug-arrive/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T14:01:41.000Z",
+    "summary": "Alterome presented preliminary Phase 1 results of its drug “selectively” targeting a range of KRAS mutations — drivers of cancers in the pancreas, lung and colon:"
+  },
+  {
+    "title": "Researchers explore possibility of a CTE blood test",
+    "link": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T13:53:10.000Z",
+    "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found."
+  },
+  {
+    "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
+    "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-20T13:03:00.000Z",
+    "summary": "Wall Street analysts rushed to Celldex’s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva’s research chief accepted a new job."
+  },
+  {
+    "title": "This week in charts: Biotech investors’ China bets are already paying off",
+    "link": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-20T12:00:00.000Z",
+    "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024."
+  },
+  {
+    "title": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
+    "link": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T09:30:00.000Z",
+    "summary": "Ian Burkhart, founder of a coalition of brain implant trial participants, says device developers should give patients more agency in research."
+  },
+  {
+    "title": "FDA’s search for a new leader, and China’s largest drugmakers",
+    "link": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T09:30:00.000Z",
+    "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection."
+  },
+  {
+    "title": "Opinion: More doctors should prescribe exercise after a concussion",
+    "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T09:30:00.000Z",
+    "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both."
+  },
+  {
+    "title": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
+    "link": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T09:30:00.000Z",
+    "summary": "The systems built to grow global surgery are not required to measure the number of women surgeons."
+  },
+  {
+    "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
+    "link": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T07:23:34.000Z",
+    "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake."
+  },
+  {
     "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
     "link": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
     "source": "STAT News",
@@ -48,7 +128,7 @@
     "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157."
   },
   {
-    "title": "China could ‘corner’ biopharmaceutical sector with new plan, US panel warns",
+    "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
     "link": "https://www.biopharmadive.com/news/us-china-biotech-report-commission-supply-chain-2026/875170/",
     "source": "BioPharma Dive",
     "category": "industry",
@@ -120,62 +200,6 @@
     "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?"
   },
   {
-    "title": "STAT+: Before midterm losses, MAHA spent on itself instead of candidates",
-    "link": "https://www.statnews.com/2026/11/19/maha-pac-how-it-spent-money-insiders-candidates-nonprofit/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T09:30:00.000Z",
-    "summary": "MAHA PAC spent more at a D.C. steakhouse than it did on the House race of a key ally."
-  },
-  {
-    "title": "Opinion: STAT+: I’m a cardiologist. I’m a little puzzled about the blockbuster new study on deprescribing statins",
-    "link": "https://www.statnews.com/2026/11/19/deprescribing-statins-study-stream-trial-aha-questions/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T09:30:00.000Z",
-    "summary": "STAT columnist Vishal Khetpal examines the STREAM trial and its findings about discontinuing use of statins."
-  },
-  {
-    "title": "STAT+: Epic Systems defends competitive practices, promises to let AI access its records",
-    "link": "https://www.statnews.com/2026/11/18/epic-defends-competitive-practices-promises-ai-access-to-records/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T23:07:55.000Z",
-    "summary": "Executives from Epic, the largest electronics health records vendor, defended its competitive practices during a panel discussion at HLTH."
-  },
-  {
-    "title": "STAT+: Influential preventive services panel to meet for first time in more than a year",
-    "link": "https://www.statnews.com/2026/11/18/uspstf-task-force-after-rfk-jr-shakeup-to-meet/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T21:21:26.000Z",
-    "summary": "A task force, meeting after a long delay, will discuss coverage of treatments for cervical cancer, perinatal depression, and alcohol use."
-  },
-  {
-    "title": "STAT+: NIH to move last group of its research chimps to a sanctuary",
-    "link": "https://www.statnews.com/pharmalot/2026/11/18/nih-to-move-last-group-of-research-chimps-to-sanctuary/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T20:29:14.000Z",
-    "summary": "The last chimpanzees owned by the U.S. government and still living in a laboratory will be moved to a sanctuary next year."
-  },
-  {
-    "title": "STAT+: 7 burning questions about the FDA’s post-Overton future",
-    "link": "https://www.statnews.com/2026/11/18/fda-after-heidi-overton-burning-questions-agency-future/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T19:33:57.000Z",
-    "summary": "STAT tackles the most important questions about the FDA's uncertain future."
-  },
-  {
-    "title": "STAT+: The emerging winners and losers in the AI scribe market",
-    "link": "https://www.statnews.com/2026/11/18/ai-scribe-market-emerging-winners-losers-ai-prognosis/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T19:25:59.000Z",
-    "summary": "In this edition of AI Prognosis: A closer look at how the AI scribe market is shaking out, news from the HLTH conference, and more"
-  },
-  {
     "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
     "source": "FDA Press Releases",
@@ -208,14 +232,6 @@
     "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body."
   },
   {
-    "title": "STAT+: Cassidy rejects Trump’s pick to lead NSF, saying he failed to ‘stand up for science’",
-    "link": "https://www.statnews.com/2026/11/18/bill-cassidy-rejects-jim-oneill-lead-national-science-foundation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-18T15:36:19.000Z",
-    "summary": "Bill Cassidy's rejection of Jim O'Neill comes shortly after the White House pulled FDA commissioner nominee Heidi Overton."
-  },
-  {
     "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
     "link": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
     "source": "BioPharma Dive",
@@ -246,21 +262,5 @@
     "category": "industry",
     "date": "2026-11-17T17:18:00.000Z",
     "summary": "Wilserdly’s U.S. approval is seen by analysts as a “key first step” in an important launch for Roche, which has claimed the drug could become its top-selling product."
-  },
-  {
-    "title": "AI drugmaker Isomorphic restocks with $5B fundraise",
-    "link": "https://www.biopharmadive.com/news/isomorphic-labs-ai-drug-discovery-financing/874863/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-17T15:51:00.000Z",
-    "summary": "Even as the larger AI industry faces turmoil, investors have given Isomorphic the two largest cash infusions in the biotech sector this year."
-  },
-  {
-    "title": "Marrow sets out to challenge genetic medicines for severe blood diseases",
-    "link": "https://www.biopharmadive.com/news/marrow-therapeutics-sickle-cell-beta-thalassemia-drug/874789/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-17T12:00:00.000Z",
-    "summary": "Armed with $173 million in venture funding, the startup is developing what it’s positioning as a more accessible alternative to gene therapy and gene editing treatments for sickle cell and beta…"
   }
 ]
