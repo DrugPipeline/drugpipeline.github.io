@@ -1,5 +1,53 @@
 [
   {
+    "title": "ICE detention of Princeton scientist rattles academia",
+    "link": "https://www.statnews.com/2026/11/20/princeton-researcher-eva-yi-xie-ice-detention-rattles-interational-scholars/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T21:19:27.000Z",
+    "summary": "A graduate student who is a scientific researcher at Princeton was detained by ICE while traveling home after presenting at a neuroscience conference."
+  },
+  {
+    "title": "STAT+: Is MAHA’s think tank in the tank? Tax filings show low reserves",
+    "link": "https://www.statnews.com/2026/11/20/maha-institute-tax-filings-rfk-jr-health-agenda-spending/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T20:26:10.000Z",
+    "summary": "Tax filings show the MAHA Institute spent more than $1 million in 2025, ending its first year with just $171,000 as events and overhead drained its cash."
+  },
+  {
+    "title": "Will the first approved psychedelic become a blockbuster?",
+    "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-20T19:53:09.000Z",
+    "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner."
+  },
+  {
+    "title": "STAT+: Medicare pilot will test ‘food is medicine’ and other lifestyle programs to counter chronic diseases",
+    "link": "https://www.statnews.com/2026/11/20/kennedy-food-is-medicine-maha-elevate-pilot/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T19:04:04.000Z",
+    "summary": "Medicare does not cover many of the lifestyle interventions that could keep people from getting sick in the first place."
+  },
+  {
+    "title": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug",
+    "link": "https://www.biopharmadive.com/news/erasca-kras-pancreatic-cancer-drug-results-revolution-rasonque/875314/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-20T17:18:00.000Z",
+    "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca — which is nearing the start of a Phase 3 trial — may…"
+  },
+  {
+    "title": "STAT+: Up and down the ladder: The latest comings and goings",
+    "link": "https://www.statnews.com/pharmalot/2026/11/20/up-and-down-the-ladder-latest-comings-and-goings-jobs-2/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-20T15:52:19.000Z",
+    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry."
+  },
+  {
     "title": "STAT+: Pharmalittle: We’re reading about Sanofi eyeing Insmed, AI speeding drug development, and more",
     "link": "https://www.statnews.com/pharmalot/2026/11/20/sanofi-eyeing-insmed-ai-speeding-drug-development/?utm_campaign=rss",
     "source": "STAT News",
@@ -168,38 +216,6 @@
     "summary": "In this edition of STAT Health Tech: EHR giant, Epic defends its competitive tactics, new data on AI and health care costs, and HLTH news."
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about a Merck AI deal, China and the pharma supply chain, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/19/merck-isomorphic-ai-deal-china-pharmaceutical-supply-chain/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T13:36:33.000Z",
-    "summary": "Merck is entering a research collaboration with Isomorphic Labs, the AI drug designer built on a Nobel-winning technology"
-  },
-  {
-    "title": "Sanders’ ‘Medicare for All’ plan accrues more liberal and moderate support in Congress",
-    "link": "https://www.statnews.com/2026/11/19/health-news-sanders-medicare-for-all-plan-accrues-more-support-in-congress/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T12:59:54.000Z",
-    "summary": "Sen. Bernie Sanders pushed back on assumptions that Trump would veto an expanded Medicare plan. “I am not absolutely certain that Trump would not sign it,” he said."
-  },
-  {
-    "title": "STAT+: Merck, Isomorphic Labs partner to develop oncology drug candidates",
-    "link": "https://www.statnews.com/2026/11/19/merck-isomorphic-labs-partner-to-develop-oncology-drug-candidates/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T11:45:00.000Z",
-    "summary": "Merck and Isomorphic Labs said they are entering into a research collaboration to discover small molecule candidates in oncology."
-  },
-  {
-    "title": "STAT+: In cancer drug development, the spotlight shifts onto Erasca’s KRAS-targeted treatment",
-    "link": "https://www.statnews.com/2026/11/19/erasca-kras-targeted-treatment-new-data-pancreatic-cancer/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T11:30:00.000Z",
-    "summary": "Did the biotech company Erasca find a more potent, better-tolerated pan-RAS cancer drug than Revolution Medicines?"
-  },
-  {
     "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
     "source": "FDA Press Releases",
@@ -232,14 +248,6 @@
     "summary": "The potentially $2.6 billion collaboration puts Pfizer into a competitive race to treat autoimmune conditions by reprogramming cells inside the body."
   },
   {
-    "title": "FDA publishes rejection letter for Summit drug; Nuvalent buyout pays more dividends for GSK",
-    "link": "https://www.biopharmadive.com/news/summit-crl-sellas-data-nelkarmi-lilly-astrazeneca-biogen/874825/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-18T14:21:00.000Z",
-    "summary": "The FDA had several issues with ivonescimab, according to the letter. Elsewhere, Sellas shares rocketed on results for a leukemia vaccine and Biogen and Lilly struck up new R&D pacts."
-  },
-  {
     "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-launches-global-reliance-disclosure-program-expand-patient-access-medicines-worldwide",
     "source": "FDA Press Releases",
@@ -254,13 +262,5 @@
     "category": "regulatory",
     "date": "2026-11-17T19:15:22.000Z",
     "summary": "FDA approved Lembaz (adrabetadex) injection, the first treatment shown to help people with a severe form of Niemann-Pick disease type C (NPC) live longer."
-  },
-  {
-    "title": "Roche breast cancer pill cleared by FDA",
-    "link": "https://www.biopharmadive.com/news/roche-fda-approve-wilserdly-giredestrant-breast-cancer/874884/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-17T17:18:00.000Z",
-    "summary": "Wilserdly’s U.S. approval is seen by analysts as a “key first step” in an important launch for Roche, which has claimed the drug could become its top-selling product."
   }
 ]
