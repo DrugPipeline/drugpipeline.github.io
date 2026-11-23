@@ -1,5 +1,165 @@
 [
   {
+    "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
+    "link": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T21:23:42.000Z",
+    "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year."
+  },
+  {
+    "title": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-11-23T18:25:08.000Z",
+    "summary": "The U.S. Food and Drug Administration today approved the first medicine for treating limb-girdle muscular dystrophy type 2I/R9 (LGMD2I/R9), a rare inherited muscle disease, for adults and pediatric…"
+  },
+  {
+    "title": "Lilly buys Huntington’s drug developer LoQus23 in potentially $725M deal",
+    "link": "https://www.biopharmadive.com/news/lilly-loqus-huntingtons-drug-acquisition-deal/875448/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-23T16:17:09.000Z",
+    "summary": "The acquisition hands Lilly what could become a first-of-its-kind treatment designed to inhibit a protein, “MSH3,” that can exacerbate the genetic abnormalities underlying diseases like Huntington's."
+  },
+  {
+    "title": "FDA Approves First New Hormone Therapy for Early-Stage Breast Cancer in More Than 20 Years",
+    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-new-hormone-therapy-early-stage-breast-cancer-more-20-years",
+    "source": "FDA Press Releases",
+    "category": "regulatory",
+    "date": "2026-11-23T15:55:37.000Z",
+    "summary": "The FDA today approved Wilserdly (giredestrant), used alone after surgery in adults with estrogen receptor–positive, HER2-negative breast cancer — the most common subtype of the disease."
+  },
+  {
+    "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
+    "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T14:43:21.000Z",
+    "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:"
+  },
+  {
+    "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T14:38:08.000Z",
+    "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics"
+  },
+  {
+    "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
+    "link": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T13:04:19.000Z",
+    "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:"
+  },
+  {
+    "title": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest",
+    "link": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T12:01:00.000Z",
+    "summary": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?"
+  },
+  {
+    "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
+    "link": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T12:00:00.000Z",
+    "summary": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin."
+  },
+  {
+    "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
+    "link": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-23T10:00:00.000Z",
+    "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune."
+  },
+  {
+    "title": "STAT+: New biotech aims to develop next generation CAR-T for multiple myeloma",
+    "link": "https://www.statnews.com/2026/11/23/caronilex-dual-targeting-car-t-overcomes-myeloma-resistance/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T09:30:00.000Z",
+    "summary": "Relapse in multiple myeloma is common. A new type of CAR-T aims to avoid that by adding a target to evade the tumor."
+  },
+  {
+    "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
+    "link": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T09:30:00.000Z",
+    "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler."
+  },
+  {
+    "title": "STAT+: A string of wins with cancer drugs sets Genmab up for its next chapter",
+    "link": "https://www.statnews.com/2026/11/23/genmab-cancer-drugs-oncology-clinical-trials/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T09:30:00.000Z",
+    "summary": "The Danish biotech Genmab in on a roll with cancer drugs, with success in three late-stage clinical trials over the course of a month."
+  },
+  {
+    "title": "Opinion: A Chinese research entity FOIA’d my scientific work. I had to give it to them",
+    "link": "https://www.statnews.com/2026/11/23/foia-scientific-research-china-legal-loophole/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T09:30:00.000Z",
+    "summary": "A $25 fee and simple online FOIA request gave a Chinese “consultant” access to this writer’s scientific research."
+  },
+  {
+    "title": "As diabetes association’s turmoil continues, what does it mean for patients?",
+    "link": "https://www.statnews.com/2026/11/23/ada-convention-fallout-will-turmoil-impact-patients-research/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-23T09:30:00.000Z",
+    "summary": "The American Diabetes Association has made concrete differences in patient care in the past. Its disarray has experts worried about the future."
+  },
+  {
+    "title": "Gene writing in vivo",
+    "link": "https://www.nature.com/articles/d41573-026-00183-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "METTL1 inhibition impairs tumour growth",
+    "link": "https://www.nature.com/articles/d41573-026-00186-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Muscle myosin inhibitor rescues ischaemia",
+    "link": "https://www.nature.com/articles/d41573-026-00184-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "TREM2 agonist to treat Alzheimer disease",
+    "link": "https://www.nature.com/articles/d41573-026-00185-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Formalizing combination therapy for resistant bacterial infections",
+    "link": "https://www.nature.com/articles/s41573-026-01575-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "FDA again turns back Capricor Duchenne cell therapy",
     "link": "https://www.biopharmadive.com/news/capricor-fda-duchenne-cell-therapy-deramiocel/875384/",
     "source": "BioPharma Dive",
@@ -96,14 +256,6 @@
     "summary": "Alterome presented preliminary Phase 1 results of its drug “selectively” targeting a range of KRAS mutations — drivers of cancers in the pancreas, lung and colon:"
   },
   {
-    "title": "Researchers explore possibility of a CTE blood test",
-    "link": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-20T13:53:10.000Z",
-    "summary": "21 football players donated blood while they were alive and then gave their brains to CTE research after death. Here's what scientists found."
-  },
-  {
     "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
     "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
     "source": "BioPharma Dive",
@@ -120,92 +272,12 @@
     "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024."
   },
   {
-    "title": "Patients have little say in how brain implant trials are done. Ian Burkhart wants to change that",
-    "link": "https://www.statnews.com/2026/11/20/ian-burkhart-how-brain-implant-trials-can-serve-patients-better/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-20T09:30:00.000Z",
-    "summary": "Ian Burkhart, founder of a coalition of brain implant trial participants, says device developers should give patients more agency in research."
-  },
-  {
-    "title": "FDA’s search for a new leader, and China’s largest drugmakers",
-    "link": "https://www.statnews.com/2026/11/20/new-fda-commissioner-summit-lung-cancer-drug-readout-loud-podcast/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-20T09:30:00.000Z",
-    "summary": "This week on \"The Readout LOUD\" podcast: the FDA is again searching for a new leader and a closely tracked lung cancer drug suffers an agency rejection."
-  },
-  {
-    "title": "Opinion: More doctors should prescribe exercise after a concussion",
-    "link": "https://www.statnews.com/2026/11/20/concussion-exercise-dark-room-leddy-robert-perske-cardiology/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-20T09:30:00.000Z",
-    "summary": "Nearly everyone caring for me had been trying to keep me safe. My ski instructor expected something hard of me. I needed both."
-  },
-  {
-    "title": "Opinion: More surgeons in Africa isn’t enough when only 10% are women",
-    "link": "https://www.statnews.com/2026/11/20/women-surgeon-shortage-global-cosecsa-lancet-commission-mukagaju-africa-making-of-a-surgeon/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-20T09:30:00.000Z",
-    "summary": "The systems built to grow global surgery are not required to measure the number of women surgeons."
-  },
-  {
-    "title": "STAT+: UnitedHealth sues to reverse downgraded Medicare Advantage quality scores",
-    "link": "https://www.statnews.com/2026/11/20/unitedhealth-cms-medicare-advantage-lawsuit-star-rating/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-20T07:23:34.000Z",
-    "summary": "UnitedHealth Group joined the ranks of insurers that have sued the federal government over lowered Medicare Advantage ratings, with billions at stake."
-  },
-  {
-    "title": "STAT+: Big drugmakers tell House committee they will halt clinical trials at some hospitals in China",
-    "link": "https://www.statnews.com/pharmalot/2026/11/19/china-pharma-biotech-clinical-trials-security-risk-patents-drug-development/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-20T00:00:00.000Z",
-    "summary": "Big drugmakers tell U.S. House committee they will halt clinical trials at some hospitals in China."
-  },
-  {
-    "title": "Opinion: The U.S. lost measles elimination status. The next Congress should help restore it",
-    "link": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T22:55:19.000Z",
-    "summary": "Infectious disease physician and STAT “ID Consult” columnist Krutika Kuppalli offers Congress a must-do list on measles."
-  },
-  {
-    "title": "Study raises doubts about combining vaccine, monoclonal antibody to protect against malaria",
-    "link": "https://www.statnews.com/2026/11/19/malaria-monoclonal-antibody-l9ls-vaccine-r21-infant-study-mali/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T22:20:00.000Z",
-    "summary": "A monoclonal antibody holds promise in preventing malaria, but researchers found it interfered with a new vaccine when used in babies."
-  },
-  {
     "title": "Sanofi gains FDA clearance for Gaucher disease pill",
     "link": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-19T17:17:00.000Z",
     "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent’s looming patent expiration."
-  },
-  {
-    "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
-    "link": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T17:04:46.000Z",
-    "summary": "Lawmakers leading the congressional BIOTech Caucus say Washington needs to act in the sector — and fast:"
-  },
-  {
-    "title": "STAT+: Peptide market poised to explode with new Hims and Noom launches",
-    "link": "https://www.statnews.com/2026/11/19/hims-noom-enter-peptide-market-mainstream-products-health-risks/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-19T16:59:47.000Z",
-    "summary": "Two telehealth giants rolled out peptide programs this week after HHS made it easier for compounding pharmacies to offer drugs like BPC-157."
   },
   {
     "title": "China could ‘corner’ biopharma sector with new plan, US panel warns",
@@ -230,22 +302,6 @@
     "category": "regulatory",
     "date": "2026-11-18T19:13:26.000Z",
     "summary": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg…"
-  },
-  {
-    "title": "‘Selling and marketing snake oil’: The debate over compounded GLP-1s",
-    "link": "https://www.biopharmadive.com/news/compounded-glp-1s-telehealth-debate-snake-oil-fda/875065/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-18T18:51:00.000Z",
-    "summary": "Proponents of compounding argue it increases access, lowers prices and helps patients who may need individualized versions of a drug. But there are serious concerns, experts said at the HLTH…"
-  },
-  {
-    "title": "White House pulls nomination for FDA nominee Overton",
-    "link": "https://www.biopharmadive.com/news/white-house-withdraw-heidi-overton-fda-commissioner-nomination/874961/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-18T17:00:00.000Z",
-    "summary": "The sudden end of Heidi Overton’s candidacy likely ensures a Democrat-controlled Congress will choose the FDA’s next leader — but shouldn’t disrupt the agency, analysts say."
   },
   {
     "title": "FDA Launches the Global Reliance Disclosure Program to Expand Patient Access to Medicines Worldwide",
