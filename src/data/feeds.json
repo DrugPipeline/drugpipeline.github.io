@@ -1,5 +1,61 @@
 [
   {
+    "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
+    "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-25T20:44:15.000Z",
+    "summary": "Cogent Biosciences won FDA clearance for its stomach cancer treatment, in combination with a much older drug from Pfizer called Sutent."
+  },
+  {
+    "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
+    "link": "https://www.biopharmadive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875717/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-25T16:26:00.000Z",
+    "summary": "Drugs nearing or past patent expiration are facing steep cuts as the Inflation Reduction Act expands the number of medicines subject to cost controls."
+  },
+  {
+    "title": "Amgen takes next step toward biosimilar Opdivo; Bristol Myers taps a new finance head",
+    "link": "https://www.biopharmadive.com/news/arcus-quemliclustat-belite-amgen-opdivo-biosimilar/875512/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-25T16:24:00.000Z",
+    "summary": "It’s the second big change to Bristol Myers’ executive ranks this month. Elsewhere, Cogent secured a cancer drug approval while Arcus Biosciences and Belite Bio hit setbacks."
+  },
+  {
+    "title": "STAT+: We’re reading about BioNTech founders’ oncology startup, a long-acting GSK drug, and more",
+    "link": "https://www.statnews.com/pharmalot/2026/11/25/biontech-founders-oncology-startup-gsk-egpa-drug-exdensur/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-25T13:55:58.000Z",
+    "summary": "The cofounders of BioNTech are in talks to raise about $1 billion for a new oncology company"
+  },
+  {
+    "title": "RFK Jr. weighs in on plan to detonate toxic material in Iowa",
+    "link": "https://www.statnews.com/2026/11/25/health-news-rfk-jr-weighs-in-on-plan-to-detonate-toxic-material-in-iowa/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-25T13:03:56.000Z",
+    "summary": "This morning, the Army plans to detonate a cache of “dangerously degraded” toxic material in Iowa, with experts warning of dangerous health consequences:"
+  },
+  {
+    "title": "Opinion: Washington and Beijing are building walls around biotechnology. That’s the wrong approach",
+    "link": "https://www.statnews.com/2026/11/25/us-china-biotech-race-policy-data/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-25T09:30:00.000Z",
+    "summary": "“Data show that the U.S.-China contest in biotechnology is not one race but several,” writes Michael S. Kinch."
+  },
+  {
+    "title": "Despite stalling in court, Trump restrictions on foreign students have had a chilling effect on enrollment",
+    "link": "https://www.statnews.com/2026/11/25/foreign-students-us-biomedical-science-enrollment-drop-trump/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-25T09:30:00.000Z",
+    "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce."
+  },
+  {
     "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
     "link": "https://www.statnews.com/2026/11/24/rfk-jr-calendar-hhs-records-rollout/?utm_campaign=rss",
     "source": "STAT News",
@@ -14,6 +70,14 @@
     "category": "industry",
     "date": "2026-11-24T16:36:00.000Z",
     "summary": "Wall Street analysts say a price of nearly $1 million a year should drive blockbuster sales for a medicine that helped patients walk and breathe better."
+  },
+  {
+    "title": "FDA clears Roche’s oral SERD as treatment in early-stage breast cancer",
+    "link": "https://www.biopharmadive.com/news/fda-roche-wilserdly-breast-cancer-approval-early-stage/875563/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-24T15:36:00.000Z",
+    "summary": "The latest approval represents a large market opportunity for a drug Roche has touted to become a top-selling, multibillion-dollar product."
   },
   {
     "title": "STAT+: Pharmalittle: We’re reading about Sanofi buying Insmed, Roche touting its breast cancer pill, and more",
@@ -46,6 +110,14 @@
     "category": "industry",
     "date": "2026-11-24T14:15:03.000Z",
     "summary": "In June 2026, 4.9M menopause hormone therapy medications were dispensed to cisgender women in the U.S. between the ages of 40 and 74."
+  },
+  {
+    "title": "Sanofi, with $41B Insmed buy, inks year’s biggest biopharma acquisition",
+    "link": "https://www.biopharmadive.com/news/sanofi-insmed-acquisition-deal-immunology-rare-disease/875627/",
+    "source": "BioPharma Dive",
+    "category": "industry",
+    "date": "2026-11-24T13:50:59.000Z",
+    "summary": "Pointing to Insmed’s pipeline and two commercial drugs, Sanofi said the deal will be “transformative” as well as complementary to its immunology and rare disease products."
   },
   {
     "title": "STAT+: In a rare move, the FDA cites two drugmakers for failing to report clinical trial results to a database",
@@ -160,92 +232,12 @@
     "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics"
   },
   {
-    "title": "At first preventive services panel meeting in more than a year, votes are cast in private",
-    "link": "https://www.statnews.com/2026/11/23/health-news-preventive-services-panel-votes-cast-in-private/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T13:04:19.000Z",
-    "summary": "In its first meeting since 2025, an influential panel of doctors evaluating preventive medical care grappled with the ways RFK Jr. has upended science and medicine:"
-  },
-  {
-    "title": "STAT+: Invivyd reports positive results in Sisyphean Covid antibody quest",
-    "link": "https://www.statnews.com/2026/11/23/invivyd-covid-monoclonal-antibody-declaration-trial-vyd2311/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T12:01:00.000Z",
-    "summary": "The biotech Invivyd reported that its monoclonal antibody strongly protected people from Covid. Is there a market for it?"
-  },
-  {
-    "title": "STAT+: Kymera Therapeutics reports mid-stage eczema trial success for would-be Dupixent rival",
-    "link": "https://www.statnews.com/2026/11/23/kymera-therapeutics-eczema-trial-success-potential-dupixent-rival/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T12:00:00.000Z",
-    "summary": "Kymera Therapeutics announced on Monday that its experimental therapy effectively and safely treated eczema patients’ itchy, inflamed skin."
-  },
-  {
     "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
     "link": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-23T10:00:00.000Z",
     "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune."
-  },
-  {
-    "title": "Opinion: If the AI bubble bursts, it could create a serious problem for health care",
-    "link": "https://www.statnews.com/2026/11/23/ai-bubble-medical-artificial-intelligence-health/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T09:30:00.000Z",
-    "summary": "“A health AI company's market value and the medical value of its technology are two different things,” writes David Adler."
-  },
-  {
-    "title": "Opinion: A Chinese research entity FOIA’d my scientific work. I had to give it to them",
-    "link": "https://www.statnews.com/2026/11/23/foia-scientific-research-china-legal-loophole/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T09:30:00.000Z",
-    "summary": "A $25 fee and simple online FOIA request gave a Chinese “consultant” access to this writer’s scientific research."
-  },
-  {
-    "title": "Gene writing in vivo",
-    "link": "https://www.nature.com/articles/d41573-026-00183-6",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-23T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "METTL1 inhibition impairs tumour growth",
-    "link": "https://www.nature.com/articles/d41573-026-00186-3",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-23T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Muscle myosin inhibitor rescues ischaemia",
-    "link": "https://www.nature.com/articles/d41573-026-00184-5",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-23T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "TREM2 agonist to treat Alzheimer disease",
-    "link": "https://www.nature.com/articles/d41573-026-00185-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-23T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Formalizing combination therapy for resistant bacterial infections",
-    "link": "https://www.nature.com/articles/s41573-026-01575-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-23T00:00:00.000Z",
-    "summary": ""
   },
   {
     "title": "FDA again turns back Capricor Duchenne cell therapy",
@@ -262,45 +254,5 @@
     "category": "industry",
     "date": "2026-11-20T19:53:09.000Z",
     "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner."
-  },
-  {
-    "title": "Erasca data add to pressure facing Revolution’s breakthrough cancer drug",
-    "link": "https://www.biopharmadive.com/news/erasca-kras-pancreatic-cancer-drug-results-revolution-rasonque/875314/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-20T17:18:00.000Z",
-    "summary": "Rasonque is already off to one of the best oncology launches in history. But certain limitations leave an opportunity that companies like Erasca — which is nearing the start of a Phase 3 trial — may…"
-  },
-  {
-    "title": "Celldex drug stumbles in eczema; Epigenetic editing startup cuts staff",
-    "link": "https://www.biopharmadive.com/news/celldex-eczema-nchroma-layoffs-isomorphic-merck-teva-vitrivax/875241/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-20T13:03:00.000Z",
-    "summary": "Wall Street analysts rushed to Celldex’s defense following the setback. Elsewhere, Isomorphic Labs cut a cancer-focused deal with Merck and Teva’s research chief accepted a new job."
-  },
-  {
-    "title": "This week in charts: Biotech investors’ China bets are already paying off",
-    "link": "https://www.biopharmadive.com/news/biotech-china-deals-venture-returns-summit-stock/874912/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-20T12:00:00.000Z",
-    "summary": "This year, companies built around medicines from China have sped toward acquisitions or IPOs. Meanwhile, Summit is no longer the Wall Street darling it was in 2024."
-  },
-  {
-    "title": "Sanofi gains FDA clearance for Gaucher disease pill",
-    "link": "https://www.biopharmadive.com/news/sanofi-fda-infilbray-venglustat-approve-gaucher/875167/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-19T17:17:00.000Z",
-    "summary": "The approval culminates a winding development journey for Infilbray, and provides Sanofi with a new source of income ahead of Dupixent’s looming patent expiration."
-  },
-  {
-    "title": "FDA Approves First Drug to Treat Neurological Symptoms of Type 3 Gaucher Disease",
-    "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-neurological-symptoms-type-3-gaucher-disease",
-    "source": "FDA Press Releases",
-    "category": "regulatory",
-    "date": "2026-11-18T19:13:26.000Z",
-    "summary": "FDA today approved Infilbray (venglustat) tablets, the first treatment for the neurological symptoms of Type 3 Gaucher disease (GD3) in adults and pediatric patients weighing at least 15 kg…"
   }
 ]
