@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
+    "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-25T21:28:53.000Z",
+    "summary": "Cuts to Medicare physician payment rates for certain same-day services could impact some specialists more than others."
+  },
+  {
     "title": "STAT+: FDA approves Cogent’s drug for rare stomach cancer",
     "link": "https://www.statnews.com/2026/11/25/biotech-news-fda-approves-cogents-drug-for-rare-stomach-cancer/?utm_campaign=rss",
     "source": "STAT News",
@@ -54,6 +62,30 @@
     "category": "industry",
     "date": "2026-11-25T09:30:00.000Z",
     "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce."
+  },
+  {
+    "title": "Sanofi to buy Insmed and its respiratory drugs for $41 billion",
+    "link": "https://www.nature.com/articles/d41573-026-00189-0",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-25T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Base editing permanently lowers lipid levels",
+    "link": "https://www.nature.com/articles/d41573-026-00187-2",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-25T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "First-in-class RIPTAC tears into phase III trial",
+    "link": "https://www.nature.com/articles/d41573-026-00188-1",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-25T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "STAT+: RFK Jr. spills his calendar into public, but leaves much to the imagination",
@@ -224,20 +256,52 @@
     "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:"
   },
   {
-    "title": "STAT+: Pharmalittle: We’re reading about Capricor’s Duchenne drug, Lilly’s 15th acquisition of 2026, and more",
-    "link": "https://www.statnews.com/pharmalot/2026/11/23/fda-rejects-capricor-duchenne-drug-lilly-acquires-loqus23-therapeutics/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T14:38:08.000Z",
-    "summary": "The FDA again rejected a hotly debated experimental Duchenne muscular dystrophy drug from Capricor Therapeutics"
-  },
-  {
     "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
     "link": "https://www.biopharmadive.com/spons/why-todays-leading-drug-developers-are-fine-tuning-open-models-on-their-ow/875153/",
     "source": "BioPharma Dive",
     "category": "industry",
     "date": "2026-11-23T10:00:00.000Z",
     "summary": "Open or proprietary AI models? What drug developers should weigh before they fine-tune."
+  },
+  {
+    "title": "Gene writing in vivo",
+    "link": "https://www.nature.com/articles/d41573-026-00183-6",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "METTL1 inhibition impairs tumour growth",
+    "link": "https://www.nature.com/articles/d41573-026-00186-3",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Muscle myosin inhibitor rescues ischaemia",
+    "link": "https://www.nature.com/articles/d41573-026-00184-5",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "TREM2 agonist to treat Alzheimer disease",
+    "link": "https://www.nature.com/articles/d41573-026-00185-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "title": "Formalizing combination therapy for resistant bacterial infections",
+    "link": "https://www.nature.com/articles/s41573-026-01575-4",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-23T00:00:00.000Z",
+    "summary": ""
   },
   {
     "title": "FDA again turns back Capricor Duchenne cell therapy",
