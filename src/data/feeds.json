@@ -1,5 +1,29 @@
 [
   {
+    "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
+    "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-26T19:00:00.000Z",
+    "summary": "Researchers engineered a protein system capable of restoring normal chromosome connections in aging mouse eggs, raising hopes of one day improving IVF outcomes"
+  },
+  {
+    "title": "STAT+: The grueling struggle to find a primary care doctor in the ‘medical capital’ of America",
+    "link": "https://www.statnews.com/2026/11/26/primary-care-appointment-times-doctor-shortage/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-26T12:00:00.000Z",
+    "summary": "Boston is supposed to be the medical capital of America. Yet many don’t have primary care access, hurting their ability to get treatments, screenings, and medical advice."
+  },
+  {
+    "title": "Unleashing an E3 ligase to degrade multiple targets",
+    "link": "https://www.nature.com/articles/d41573-026-00190-7",
+    "source": "Nature Reviews Drug Discovery",
+    "category": "research",
+    "date": "2026-11-26T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "title": "Why Medicare’s 2027 physician pay changes worry some specialists",
     "link": "https://www.statnews.com/2026/11/25/medicare-physician-fee-schedule-change-worry-some-specialists/?utm_campaign=rss",
     "source": "STAT News",
@@ -208,14 +232,6 @@
     "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations."
   },
   {
-    "title": "STAT+: Limb-girdle muscular dystrophy gets its first FDA-approved drug, from BridgeBio",
-    "link": "https://www.statnews.com/2026/11/23/fda-approves-bridgebio-lgmd-drug-welgemda/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T21:23:42.000Z",
-    "summary": "A type of muscular dystrophy that was long ignored has its first drug — and it could earn BridgeBio a billion dollars a year."
-  },
-  {
     "title": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
     "source": "FDA Press Releases",
@@ -246,14 +262,6 @@
     "category": "industry",
     "date": "2026-11-23T14:53:55.000Z",
     "summary": "The protein degrader drug showed \"biologic-like efficacy,\" according to Wall Street analysts who argued it could challenge Sanofi and Regeneron’s market leader Dupixent."
-  },
-  {
-    "title": "STAT+: A big win for a potential competitor for Dupixent eczema treatment",
-    "link": "https://www.statnews.com/2026/11/23/biotech-news-a-big-win-for-potential-dupixent-competitor-eczema-treatment/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-23T14:43:21.000Z",
-    "summary": "Kymera Therapeutics has a shot at giving eczema patients Dupixent-like relief in a pill, a new 244-patient Phase 2 trial finds:"
   },
   {
     "title": "Why today’s leading drug developers are fine-tuning open models on their own data",
@@ -290,14 +298,6 @@
   {
     "title": "TREM2 agonist to treat Alzheimer disease",
     "link": "https://www.nature.com/articles/d41573-026-00185-4",
-    "source": "Nature Reviews Drug Discovery",
-    "category": "research",
-    "date": "2026-11-23T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "title": "Formalizing combination therapy for resistant bacterial infections",
-    "link": "https://www.nature.com/articles/s41573-026-01575-4",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
     "date": "2026-11-23T00:00:00.000Z",
