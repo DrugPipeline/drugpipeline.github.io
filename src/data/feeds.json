@@ -1,5 +1,45 @@
 [
   {
+    "title": "STAT+: FDA extends assessment of experimental Vertex kidney drug",
+    "link": "https://www.statnews.com/2026/11/27/fda-vertex-povetacicept-kidney-capricor-duchenne-readout-newsletter/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-27T16:00:54.000Z",
+    "summary": "The FDA is extending its assessment of Vertex's investigational kidney drug, as the company faces questions about potential safety concerns."
+  },
+  {
+    "title": "The stories we’re grateful for this year",
+    "link": "https://www.statnews.com/2026/11/27/favorite-stat-stories-health-news-morning-rounds/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-27T15:49:05.000Z",
+    "summary": "STAT staffers have put together a list of the stories we’re thankful for this year — check out our favorites."
+  },
+  {
+    "title": "STAT+: Here are some health AI conversation starters for the holidays",
+    "link": "https://www.statnews.com/2026/11/27/health-ai-conversation-starters-for-holidays-ai-prognosis/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-27T14:54:22.000Z",
+    "summary": "In this edition of STAT's AI Prognosis: Health stories that can be conversation starters at family gatherings during for the holidays."
+  },
+  {
+    "title": "Pregnancy is the ‘perfect storm’ for eating disorders, but doctors keep missing them",
+    "link": "https://www.statnews.com/2026/11/27/pregnancy-eating-disorders-expanded-doctor-screening-needed/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-27T09:30:00.000Z",
+    "summary": "Many women struggle with eating disorders before and after childbirth, but they often slip through the cracks of the U.S. health care system."
+  },
+  {
+    "title": "Opinion: Montana’s ‘right to try’ law makes patients responsible for bearing costs — and risks",
+    "link": "https://www.statnews.com/2026/11/27/montana-sb-535-right-to-try-questions-risks-costs-insurance/?utm_campaign=rss",
+    "source": "STAT News",
+    "category": "industry",
+    "date": "2026-11-27T09:30:00.000Z",
+    "summary": "Montana has become the first state to have its own ‘right to try’ law, but important questions remain, researchers write."
+  },
+  {
     "title": "In a fertility advance, engineered molecular glue stabilizes chromosomes in aging eggs",
     "link": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss",
     "source": "STAT News",
@@ -88,7 +128,7 @@
     "summary": "New data show a clear drop in the enrollment of international graduate students, a key piece of the U.S. biomedical workforce."
   },
   {
-    "title": "Sanofi to buy Insmed and its respiratory drugs for $41 billion",
+    "title": "Sanofi to buy Insmed and its respiratory drugs for US$41 billion",
     "link": "https://www.nature.com/articles/d41573-026-00189-0",
     "source": "Nature Reviews Drug Discovery",
     "category": "research",
@@ -192,46 +232,6 @@
     "summary": "“Attending lectures in person has become … the most powerful way I take care of my mental health,” medical student Brian Zhang writes."
   },
   {
-    "title": "Opinion: Genomic testing is too fragmented. Instead, we should test once and evaluate often",
-    "link": "https://www.statnews.com/2026/11/24/genomic-testing-sequenced-once-tested-often/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-24T09:30:00.000Z",
-    "summary": "“It’s time to consolidate testing by sequencing genomes once and reevaluating them when needed,” a genetic counselor writes."
-  },
-  {
-    "title": "STAT+: AI can analyze X-rays and CT scans to draft radiology reports. Will it make care better, safer?",
-    "link": "https://www.statnews.com/2026/11/24/does-radiology-ai-draft-reports-make-care-better-safer-rsna/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-24T09:30:00.000Z",
-    "summary": "As the Radiological Society of North America meets in Chicago, industry insiders are expected to debate if AI draft reporting will improve care."
-  },
-  {
-    "title": "How artificial intelligence is offering new hope for stroke patients in the Last Frontier",
-    "link": "https://www.statnews.com/2026/11/24/alaskan-hospitals-artificial-intelligence-bet-improve-stroke-care/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-24T09:30:00.000Z",
-    "summary": "In Alaska, a small network of hospitals is betting on AI tools to triage stroke patients and get them to the right care, faster."
-  },
-  {
-    "title": "STAT+: Sanofi to buy Insmed for $41B, picking up two lung disease medicines",
-    "link": "https://www.statnews.com/2026/11/24/sanofi-insmed-acquisition-dupixent-rare-disease-inflammation/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-24T07:54:44.000Z",
-    "summary": "Sanofi is buying U.S. biotech Insmed for $41 billion, a megadeal that will give the French pharma company two new approved medicines."
-  },
-  {
-    "title": "STAT+: Medicare estimates $9.2 billion in savings from third round of negotiated drug prices",
-    "link": "https://www.statnews.com/2026/11/23/medicare-drug-price-negotiations-announcement-third-round/?utm_campaign=rss",
-    "source": "STAT News",
-    "category": "industry",
-    "date": "2026-11-24T00:19:48.000Z",
-    "summary": "The Trump administration said that the federal government will save $9.2 billion on drugs purchased through Medicare next year as a result of price negotiations."
-  },
-  {
     "title": "FDA Approves First Treatment for Limb-Girdle Muscular Dystrophy Type 2I/R9",
     "link": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-limb-girdle-muscular-dystrophy-type-2ir9",
     "source": "FDA Press Releases",
@@ -310,13 +310,5 @@
     "category": "industry",
     "date": "2026-11-21T20:46:00.000Z",
     "summary": "In an unusual statement, the FDA accused Capricor of “serious data integrity violations” that compromised its study findings and led to deramiocel’s second rejection since 2025."
-  },
-  {
-    "title": "Will the first approved psychedelic become a blockbuster?",
-    "link": "https://www.biopharmadive.com/news/race-first-psilocybin-blockbuster-compass-usona/875369/",
-    "source": "BioPharma Dive",
-    "category": "industry",
-    "date": "2026-11-20T19:53:09.000Z",
-    "summary": "Compass and Usona are vying for an FDA first, but pricing, payer coverage and patient access could determine the commercial winner."
   }
 ]
